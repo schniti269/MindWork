@@ -1,0 +1,4 @@
+# ## #Typenkonvertierung 
+
+ - Impliziert 
+ - #Explizit 

@@ -1,0 +1,3 @@
+# ## #Konvergenz 
+
+ - #Lim - > x 

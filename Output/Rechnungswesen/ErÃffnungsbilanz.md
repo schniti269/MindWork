@@ -1,0 +1,5 @@
+# ## #Eröffnungsbilanz #
+
+ - #Erfolgskonten #
+ - #Bestandskonten #
+ - #Schlussbilanz 

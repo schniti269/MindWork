@@ -1,0 +1,5 @@
+# ## #Kriterien 
+
+ - #Majorante 
+ - #Minorante 
+ - #Wurzel 

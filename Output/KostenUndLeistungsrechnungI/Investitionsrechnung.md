@@ -1,0 +1,6 @@
+# ## Investitionsrechnung 
+
+ - #Dynamisch #
+ - #Statisch #
+
+ #
