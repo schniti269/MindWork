@@ -46,6 +46,20 @@ def process_pdf(pdf_path, output_folder):
     except Exception as e:
         print(f"Error processing {pdf_path}: {e}")
 
+def add_backlinks(file_list):
+    for idx, file in enumerate(file_list):
+        if idx > 0:
+            with open(file_list[idx - 1], "a", encoding="utf-8") as f:
+                f.write(f"\n\n[Previous: #{os.path.basename(file_list[idx])[:-3]}]({os.path.basename(file_list[idx])})")
+        if idx < len(file_list) - 1:
+            with open(file, "a", encoding="utf-8") as f:
+                f.write(f"\n\n[Next: #{os.path.basename(file_list[idx + 1])[:-3]}]({os.path.basename(file_list[idx + 1])})")
+
+def backlink(output_folder):
+    for root, _, files in os.walk(output_folder):
+        md_files = [os.path.join(root, file) for file in files if file.endswith(".md")]
+        add_backlinks(md_files)
+
 def main(input_folder, output_folder):
     if not os.path.exists(output_folder):
         os.makedirs(output_folder)
@@ -56,6 +70,7 @@ def main(input_folder, output_folder):
         pdf_path = os.path.join(input_folder, pdf_file)
         process_pdf(pdf_path, output_folder)
         print(f"Processed {pdf_file}")
+    backlink(output_folder)
 
 if __name__ == "__main__":
     input_folder = r"C:\Users\ian-s\Repos\MindWork\Scripts"
