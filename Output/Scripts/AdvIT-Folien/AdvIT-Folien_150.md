@@ -5,7 +5,11 @@ Kante: Relation schließt aus (einseitiger Ausschluss)
 ◮Folge:
 
    Tags & Topics:
-   #Bnicht
-   #Relation
-   #Kante
    #Knoten
+   #Bnicht
+   #Kante
+   #Relation
+
+[Previous: #AdvIT-Folien_151](AdvIT-Folien_151.md)
+
+[Next: #AdvIT-Folien_151](AdvIT-Folien_151.md)

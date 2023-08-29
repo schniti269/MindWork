@@ -5,9 +5,13 @@ Semaphore haben keine strukturierenden Eigenschaften
 ⇒mehrere kritische Abschnitte, die logisch einer Datenmeng e zugeordnet
 
    Tags & Topics:
-   #Analysieren
-   #Datenmeng
-   #Aufgabenstellungen
-   #Schwierigkeit
    #Aufgabenstellung
+   #Datenmeng
+   #Analysieren
    #Analysier
+   #Schwierigkeit
+   #Aufgabenstellungen
+
+[Previous: #AdvIT-Folien_277](AdvIT-Folien_277.md)
+
+[Next: #AdvIT-Folien_277](AdvIT-Folien_277.md)

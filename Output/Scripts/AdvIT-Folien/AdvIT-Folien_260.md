@@ -5,7 +5,11 @@ das nachfolgend gezeigte Programm enth ¨alt eine L ¨osung f¨ur die Verwaltung
 der Druckauftr ¨age
 
    Tags & Topics:
-   #Druckauftrag
-   #Programm
    #Druckauftrags
+   #Programm
    #Verwaltung
+   #Druckauftrag
+
+[Previous: #AdvIT-Folien_261](AdvIT-Folien_261.md)
+
+[Next: #AdvIT-Folien_261](AdvIT-Folien_261.md)

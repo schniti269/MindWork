@@ -8,3 +8,7 @@ Sektor
    #Bl¨ocke(Block
    #Sector
    #KopfZylinder
+
+[Previous: #BS-Folien_384](BS-Folien_384.md)
+
+[Next: #BS-Folien_384](BS-Folien_384.md)

@@ -5,9 +5,13 @@ Physikalischer Block:
 ⋄Physikalisch zusammenh ¨angender Speicherbereich.
 
    Tags & Topics:
-   #Bezeichner
-   #Bl¨ocken
    #Speicherbereich
-   #Durchnummerierung
-   #⋄Zuordnung
    #⋄Menge
+   #Durchnummerierung
+   #Bl¨ocken
+   #⋄Zuordnung
+   #Bezeichner
+
+[Previous: #BS-Folien_391](BS-Folien_391.md)
+
+[Next: #BS-Folien_391](BS-Folien_391.md)

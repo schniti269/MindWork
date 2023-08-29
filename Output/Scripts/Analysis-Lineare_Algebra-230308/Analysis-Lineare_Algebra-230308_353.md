@@ -5,7 +5,11 @@ gesetzt, da höhere Ableitungen aufgrund von Messungenauigkeiten nicht mehr sinn
 Beispiel 3.14.Bestimmen Sie die Taylorpolynome von f(x) = exp( x)im Entwicklungspunkt x0= 1
 
    Tags & Topics:
-   #Höhe
    #Taylorpolynom
-   #Grenze
    #Taylorpolynome
+   #Grenze
+   #Höhe
+
+[Previous: #Analysis-Lineare_Algebra-230308_354](Analysis-Lineare_Algebra-230308_354.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_354](Analysis-Lineare_Algebra-230308_354.md)

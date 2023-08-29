@@ -5,6 +5,10 @@
 87 -46 = ?
 
    Tags & Topics:
-   #Zweierkomplement
-   #gestrichenBeispiel
    #Zweierkomplements
+   #gestrichenBeispiel
+   #Zweierkomplement
+
+[Previous: #Einführung-IT-Teil2_61](Einführung-IT-Teil2_61.md)
+
+[Next: #Einführung-IT-Teil2_61](Einführung-IT-Teil2_61.md)

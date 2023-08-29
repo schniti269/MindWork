@@ -9,3 +9,7 @@ Hierarchische Seitentabellen
    #•L¨osungen
    #Mio
    #⋄252Eintr¨age→ca
+
+[Previous: #BS-Folien_324](BS-Folien_324.md)
+
+[Next: #BS-Folien_324](BS-Folien_324.md)

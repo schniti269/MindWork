@@ -5,6 +5,10 @@ Modernization
  –Increase awareness of cybersecurity vulnerabilities and solutions
 
    Tags & Topics:
-   #Modernization
    #scale
    #Scale
+   #Modernization
+
+[Previous: #C-Study22 - Own your transformation_231](C-Study22 - Own your transformation_231.md)
+
+[Next: #C-Study22 - Own your transformation_231](C-Study22 - Own your transformation_231.md)

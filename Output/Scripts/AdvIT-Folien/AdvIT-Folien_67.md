@@ -5,8 +5,12 @@ Threads (Forts.)
 Beispiel: Multi-Threaded Webserver
 
    Tags & Topics:
+   #Nebenl¨auﬁgkeit
+   #Dateispeicherung
    #Tastaturbedienung
    #Multi
-   #Nebenl¨auﬁgkeit
    #Textformatierung
-   #Dateispeicherung
+
+[Previous: #AdvIT-Folien_68](AdvIT-Folien_68.md)
+
+[Next: #AdvIT-Folien_68](AdvIT-Folien_68.md)

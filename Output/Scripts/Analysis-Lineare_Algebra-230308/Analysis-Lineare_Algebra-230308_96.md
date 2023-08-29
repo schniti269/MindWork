@@ -5,7 +5,11 @@ D=p
 22
 
    Tags & Topics:
-   #dieDiskriminante
-   #diediskriminante
-   #22
    #Satz1.6.pq
+   #diediskriminante
+   #dieDiskriminante
+   #22
+
+[Previous: #Analysis-Lineare_Algebra-230308_97](Analysis-Lineare_Algebra-230308_97.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_97](Analysis-Lineare_Algebra-230308_97.md)

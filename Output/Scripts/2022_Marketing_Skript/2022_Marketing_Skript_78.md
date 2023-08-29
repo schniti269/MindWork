@@ -5,5 +5,9 @@ Preisdifferenzierung
 Durchsetzung der Preise
 
    Tags & Topics:
-   #Preisdifferenzierung
    #Preisbestimmung
+   #Preisdifferenzierung
+
+[Previous: #2022_Marketing_Skript_79](2022_Marketing_Skript_79.md)
+
+[Next: #2022_Marketing_Skript_79](2022_Marketing_Skript_79.md)

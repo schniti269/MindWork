@@ -6,3 +6,7 @@ Threadwechsel erzwingen
 
    Tags & Topics:
    #Threadwechsel
+
+[Previous: #AdvIT-Folien_74](AdvIT-Folien_74.md)
+
+[Next: #AdvIT-Folien_74](AdvIT-Folien_74.md)

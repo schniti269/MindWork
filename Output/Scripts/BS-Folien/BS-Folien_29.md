@@ -5,9 +5,13 @@ Einige Betriebssysteme
 BS-Familie: u.a. Win95, WinNT, WinXP, Win7, Win10
 
    Tags & Topics:
-   #Zugriﬀskontrolle
    #Verzeichnisdienst
-   #Dienst
-   #BS–13Einleitung
-   #Win10
    #Dienste
+   #BS–13Einleitung
+   #Zugriﬀskontrolle
+   #Dienst
+   #Win10
+
+[Previous: #BS-Folien_290](BS-Folien_290.md)
+
+[Next: #BS-Folien_290](BS-Folien_290.md)

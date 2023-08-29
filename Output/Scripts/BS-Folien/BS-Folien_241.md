@@ -6,3 +6,7 @@ content = new byte[n];
 
    Tags & Topics:
    #//Konstruktor
+
+[Previous: #BS-Folien_242](BS-Folien_242.md)
+
+[Next: #BS-Folien_242](BS-Folien_242.md)

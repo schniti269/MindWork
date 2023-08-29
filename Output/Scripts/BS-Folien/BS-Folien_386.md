@@ -5,7 +5,11 @@ Solid State Drive (SSD)
 Flash-Speichereinheit
 
    Tags & Topics:
+   #BS–153Dateisystem
+   #Speichereinheit
    #BS–153Dateisysteme
    #Flash
-   #Speichereinheit
-   #BS–153Dateisystem
+
+[Previous: #BS-Folien_387](BS-Folien_387.md)
+
+[Next: #BS-Folien_387](BS-Folien_387.md)

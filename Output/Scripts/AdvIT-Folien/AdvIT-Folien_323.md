@@ -8,3 +8,7 @@ TCP (Forts.)
    #Flusskontrolle
    #103/132Server
    #flusskontrolle
+
+[Previous: #AdvIT-Folien_324](AdvIT-Folien_324.md)
+
+[Next: #AdvIT-Folien_324](AdvIT-Folien_324.md)

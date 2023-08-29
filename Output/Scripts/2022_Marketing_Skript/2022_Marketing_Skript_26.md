@@ -5,15 +5,19 @@
 Informations-suche
 
    Tags & Topics:
-   #Einflussfaktorend
-   #Analyse
-   #Konsumentenverhalt
-   #Marktforschung4.Marketinginstrumente4.1Product4.2Price4.3Promotion4.4Place40www.dhbw.deMarketing
    #Sie
-   #Konsumentenverhaltens2.2Informationsverarbeitung2.3
-   #38www.dhbw.deMarketing
-   #Mix2.Konsumentenverhalten2.1Zentrale
-   #Werbeplakat
-   #Einflussfaktorendes
-   #39www.dhbw.deMarketing
    #KonsumentenverhaltensÜbungsaufgabe
+   #Konsumentenverhalt
+   #39www.dhbw.deMarketing
+   #Einflussfaktorend
+   #Werbeplakat
+   #Analyse
+   #Einflussfaktorendes
+   #Mix2.Konsumentenverhalten2.1Zentrale
+   #Marktforschung4.Marketinginstrumente4.1Product4.2Price4.3Promotion4.4Place40www.dhbw.deMarketing
+   #38www.dhbw.deMarketing
+   #Konsumentenverhaltens2.2Informationsverarbeitung2.3
+
+[Previous: #2022_Marketing_Skript_27](2022_Marketing_Skript_27.md)
+
+[Next: #2022_Marketing_Skript_27](2022_Marketing_Skript_27.md)

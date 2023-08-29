@@ -5,9 +5,13 @@ interne Kommandos (cd, read)
 Editieren der Kommandozeile und fr ¨uherer Kommandos
 
    Tags & Topics:
-   #Editieren
-   #Ausgabeumlenkung
-   #Schleife
-   #Bereitstellen
-   #Kommando
    #bereitstellen
+   #Ausgabeumlenkung
+   #Kommando
+   #Editieren
+   #Bereitstellen
+   #Schleife
+
+[Previous: #AdvIT-Folien_140](AdvIT-Folien_140.md)
+
+[Next: #AdvIT-Folien_140](AdvIT-Folien_140.md)

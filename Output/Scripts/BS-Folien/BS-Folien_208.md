@@ -6,6 +6,10 @@ Bereitstellung eines stark vereinfachten E/A-Modells.
 
    Tags & Topics:
    #Steuerung
+   #A-Modell
    #A-Verarbeitung
    #A-Operatione
-   #A-Modell
+
+[Previous: #BS-Folien_209](BS-Folien_209.md)
+
+[Next: #BS-Folien_209](BS-Folien_209.md)

@@ -1,39 +1,67 @@
-# ## #Kosten #Gruppen 
+### Kosten Gruppen
 
- - Materialkosten 
+- Materialkosten
 
-	 - #Sachkosten 
+	- Sachkosten
 
- - Arbeitskosten 
+- Arbeitskosten
 
-	 - Personal 
+	- Personal
 
-		 - #Einstellen 
-		 - #Löhne / #Gehälter 
+		- Einstellen
+		- Löhne/Gehälter
 
-	 - Sozial #
+	- Sozial
 
-		 - " feel good #" 
+		- "feel good"
 
- - Bezogene #Fremdleistungen 
+- Bezogene Fremdleistungen
 
-	 - #Consulting , #Hausmeister #u. #� #� 
+	- Consulting, Hausmeister u.Ä
 
- - #Fremdrechte 
+- Fremdrechte
 
-	 - #Lizenzen 
+	- Lizenzen
 
- - #Kapitalkosten 
+- Kapitalkosten
 
-	 - #Zinsen 
+	- Zinsen
 
- - Wagniskosten 
+- Wagniskosten
 
-	 - #Kosten die #Enstehen #aber 
- es #kommt #zu #keinem #Verkauf #
+	- Kosten die Enstehen aber 
+es kommt zu keinem Verkauf
 
-		 - #Diebstal #absehbar etc 
+		- Diebstal absehbar etc
 
- - #Steuer und #Fremdleistungen 
+- Steuer und Fremdleistungen
 
-	 - #Umsatzsteuer etc #. 
+	- Umsatzsteuer etc.
+
+   Tags & Topics:
+   #Lizenzen
+   #Gehälter
+   #Fremdleistungen
+   #Kapitalkosten
+   #Lizenz
+   #Arbeitskosten
+   #Löhne
+   #Sachkosten
+   #Gruppen
+   #Wagniskosten
+   #Personal
+   #Hausmeister
+   #Wagniskost
+   #Einstellen
+   #Enstehen
+   #Zins
+   #Steuer
+   #Fremdrecht
+   #Fremdleistung
+   #Zinsen
+   #Materialkoste
+   #Gruppe
+   #Ensteh
+   #Umsatzsteuer
+   #Kapitalkost
+   #Fremdrechte

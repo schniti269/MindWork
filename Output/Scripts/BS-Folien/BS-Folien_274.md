@@ -5,7 +5,11 @@ Annahme: Gesamtgr ¨oße des Speichers ist l·2S.
 ⋄Jede Liste ienth¨alt die freien Bereiche der L ¨angel·2i.
 
    Tags & Topics:
-   #l·2k(k∈IN0,kminimal
-   #Speichers
    #S+1Liste
+   #Speichers
+   #l·2k(k∈IN0,kminimal
    #Speicher
+
+[Previous: #BS-Folien_275](BS-Folien_275.md)
+
+[Next: #BS-Folien_275](BS-Folien_275.md)

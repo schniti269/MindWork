@@ -5,12 +5,16 @@ Journal Dateisysteme................................. .........178
 Fallbeispiele...................................... .............180Wichtiges zur Vorlesung
 
    Tags & Topics:
-   #Dateisysteme
-   #Namensverwaltung
-   #Verwaltung
-   #Schutzaspekt
-   #180Wichtiges
-   #Dateisystem
    #Schutzaspekte
-   #Fallbeispiel
+   #Dateisysteme
    #Fallbeispiele
+   #Verwaltung
+   #Fallbeispiel
+   #Schutzaspekt
+   #Dateisystem
+   #Namensverwaltung
+   #180Wichtiges
+
+[Previous: #BS-Folien_60](BS-Folien_60.md)
+
+[Next: #BS-Folien_60](BS-Folien_60.md)

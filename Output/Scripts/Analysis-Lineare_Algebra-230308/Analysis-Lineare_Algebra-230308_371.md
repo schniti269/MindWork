@@ -6,3 +6,7 @@ und der Gradient von glautet damit
 
    Tags & Topics:
    #Gradient
+
+[Previous: #Analysis-Lineare_Algebra-230308_372](Analysis-Lineare_Algebra-230308_372.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_372](Analysis-Lineare_Algebra-230308_372.md)

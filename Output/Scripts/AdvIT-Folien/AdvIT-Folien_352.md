@@ -5,7 +5,11 @@ Filter-Streams
 class PrintWriter
 
    Tags & Topics:
-   #Routinen
-   #114/132Server
    #Ausgabe-Routin
+   #114/132Server
    #Filter
+   #Routinen
+
+[Previous: #AdvIT-Folien_353](AdvIT-Folien_353.md)
+
+[Next: #AdvIT-Folien_353](AdvIT-Folien_353.md)

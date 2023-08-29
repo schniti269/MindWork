@@ -5,7 +5,11 @@
 wie z.B. die Register vervielfacht.
 
    Tags & Topics:
-   #Code-Bereich
    #Level
-   #hyperthreading
    #First-Level-Cache
+   #hyperthreading
+   #Code-Bereich
+
+[Previous: #BS-Loesungen_30](BS-Loesungen_30.md)
+
+[Next: #BS-Loesungen_30](BS-Loesungen_30.md)

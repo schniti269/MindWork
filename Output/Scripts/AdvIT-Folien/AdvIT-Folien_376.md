@@ -6,9 +6,13 @@ Prof. Dr. Henning Pagnia (DHBW Mannheim) Advanced IT Herbst 2023 123/132Server-P
 
    Tags & Topics:
    #ServerSocket
-   #System.err.println(e
-   #out.println(now.toString
-   #serversocket(port
    #123/132Server
-   #Date
+   #serversocket(port
+   #System.err.println(e
    #main(string
+   #Date
+   #out.println(now.toString
+
+[Previous: #AdvIT-Folien_377](AdvIT-Folien_377.md)
+
+[Next: #AdvIT-Folien_377](AdvIT-Folien_377.md)

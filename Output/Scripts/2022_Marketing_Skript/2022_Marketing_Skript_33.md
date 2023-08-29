@@ -5,31 +5,35 @@
 2.3 KaufentscheidungWiederkehrende Kaufentscheidungen (5/6)A = 0.52 A + 0.25 B + 0.28 C | -0.52 A0.48 A = 0.25 B + 0.28 C | : 0.48A = 0.52 B + 0.58 CSet in B:B = 0.36*(0.52 B + 0.58 C) + 0.66 B + 0.38 CB = 0.1872 B + 0.2088 C + 0.66 B + 0.38 CB = 0.8472 B + 0.5888 C| -0.8472 B0.1528 B = 0.5888 C | : 0.1528B= 0.5888/0.1528 CB = 3.8534 CSet in A:A = 0.52*3.8534 C + 0.58 CA = 2.5838 CA + B + C = 1  à2.5838 C + 3.8534 C + C = 17.4372 C = 1   àC = 0.134453www.dhbw.deMarketing
 
    Tags & Topics:
-   #Gleichungen
-   #-0.52
-   #At=
-   #34%Käufer
-   #Auflös
-   #Auflösen
-   #Markenloyalität
-   #Erstellen
-   #Gleichgewichtszustand
-   #6)A
-   #ct-1im
-   #MatrixA
    #Marktanteile
-   #5/6)A
-   #Anteil
-   #markenloyalität
-   #Gleichungenfür
-   #Gleichung
-   #kaufenDiagonalelement
-   #Vorperiode
-   #17.4372
-   #Käufer
-   #0.134453www.dhbw.deMarketing
-   #Erstelle
-   #Marktanteil
-   #CAußerdem
-   #Ct-1Im
+   #Auflösen
    #100%)Ergebnis
+   #Gleichung
+   #ct-1im
+   #Auflös
+   #At=
+   #0.134453www.dhbw.deMarketing
+   #6)A
+   #Marktanteil
+   #markenloyalität
+   #-0.52
+   #Anteil
+   #Gleichgewichtszustand
+   #34%Käufer
+   #kaufenDiagonalelement
+   #5/6)A
+   #MatrixA
+   #Erstellen
+   #Käufer
+   #Gleichungenfür
+   #Erstelle
+   #Vorperiode
+   #Gleichungen
+   #Markenloyalität
+   #17.4372
+   #Ct-1Im
+   #CAußerdem
+
+[Previous: #2022_Marketing_Skript_34](2022_Marketing_Skript_34.md)
+
+[Next: #2022_Marketing_Skript_34](2022_Marketing_Skript_34.md)

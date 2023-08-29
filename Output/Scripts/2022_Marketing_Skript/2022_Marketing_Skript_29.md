@@ -5,15 +5,19 @@ Kaufentscheidungkann eng oder weit gefasst werden, je nachdem, ob nur das Zustan
 2.3 KaufentscheidungKategorisierung anhand der Art des Involvements§Der Typ der Kaufentscheidung bestimmt das Ausmaß der Informationsverarbeitung.§Wir unterscheiden vier Typenvon Kaufentscheidungen:
 
    Tags & Topics:
-   #Typ
-   #Ausmaß
-   #Zustandekommen
-   #Evalu
-   #SucheKaufKonsum
-   #zustandekommen
-   #Kaufentscheidungkann
-   #Kaufentscheidungsprozess
-   #Kaufentschluss
-   #erkennungevalu
-   #entwicklungBeschwerdeEntsorgung
    #identifikationintention
+   #SucheKaufKonsum
+   #Kaufentscheidungsprozess
+   #Typ
+   #Evalu
+   #Kaufentscheidungkann
+   #erkennungevalu
+   #Zustandekommen
+   #zustandekommen
+   #Kaufentschluss
+   #Ausmaß
+   #entwicklungBeschwerdeEntsorgung
+
+[Previous: #2022_Marketing_Skript_3](2022_Marketing_Skript_3.md)
+
+[Next: #2022_Marketing_Skript_3](2022_Marketing_Skript_3.md)

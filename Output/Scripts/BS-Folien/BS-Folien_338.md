@@ -7,3 +7,7 @@ Not Frequently Used ( NFU)
    Tags & Topics:
    #Zeitstempel
    #•Implementierung
+
+[Previous: #BS-Folien_339](BS-Folien_339.md)
+
+[Next: #BS-Folien_339](BS-Folien_339.md)

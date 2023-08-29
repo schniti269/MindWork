@@ -5,8 +5,12 @@ ronalen Netzen oft auf ein anderes Problem vortrainiertes Netz als Näherungslö
 dann die nächsten Näherungslösungen für die Koeffzienten der Übertragungsfunktionen beispielsweise
 
    Tags & Topics:
-   #Näherungslösung
    #Näherungslösungen
    #Übertragungsfunktion
    #Übertragungsfunktionen
    #Wurzelfunktion
+   #Näherungslösung
+
+[Previous: #Analysis-Lineare_Algebra-230308_638](Analysis-Lineare_Algebra-230308_638.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_638](Analysis-Lineare_Algebra-230308_638.md)

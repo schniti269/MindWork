@@ -5,6 +5,10 @@ Kerninformatik
 Daneben gibt es weitere Teilbereiche, z.B. Wirtschaftsinformatik, Medizinische InformatikPraktische Informatik
 
    Tags & Topics:
-   #Teilbereiche
    #Kerninformatik
    #Grundlage
+   #Teilbereiche
+
+[Previous: #Einführung-IT-Teil1_12](Einführung-IT-Teil1_12.md)
+
+[Next: #Einführung-IT-Teil1_12](Einführung-IT-Teil1_12.md)

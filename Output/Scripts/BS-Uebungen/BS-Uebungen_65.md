@@ -6,3 +6,7 @@ m[i][k] = 0;
 
    Tags & Topics:
    
+
+[Previous: #BS-Uebungen_66](BS-Uebungen_66.md)
+
+[Next: #BS-Uebungen_66](BS-Uebungen_66.md)

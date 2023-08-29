@@ -6,3 +6,7 @@ Institute for Business Value with the National Retail
 
    Tags & Topics:
    #Why
+
+[Previous: #C-Study22 - Own your transformation_275](C-Study22 - Own your transformation_275.md)
+
+[Next: #C-Study22 - Own your transformation_275](C-Study22 - Own your transformation_275.md)

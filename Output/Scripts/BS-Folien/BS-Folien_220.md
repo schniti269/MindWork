@@ -5,8 +5,12 @@ DerdemGer ¨atzugeordneteInterrupt-Handlermussdanndenn ¨achstenAuftragausw ¨ah
 neu starten oder es als freimarkieren.
 
    Tags & Topics:
-   #mitdevStart
    #handlermussdanndenn
-   #InioTransfer
-   #¨atzugeordneteInterrupt-Handlermussdanndenn
    #¨atzugeordneteInterrupt
+   #InioTransfer
+   #mitdevStart
+   #¨atzugeordneteInterrupt-Handlermussdanndenn
+
+[Previous: #BS-Folien_221](BS-Folien_221.md)
+
+[Next: #BS-Folien_221](BS-Folien_221.md)

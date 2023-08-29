@@ -5,12 +5,12 @@ Advanced IT DHBW Mannheim ©Prof. Dr. Henning Pagnia Version 1.2a Herbst 2023 ¨
 Aufgabe 6
 
    Tags & Topics:
-   #Prof.
-   #Datei-Suchpfad
    #Verzeichni
-   #Papierkorb
-   #¨U–6Aufgabe
    #Home
    #Script
+   #Datei-Suchpfad
+   #Prof.
    #verzeichni
+   #¨U–6Aufgabe
    #Suchpfad
+   #Papierkorb

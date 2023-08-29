@@ -5,6 +5,10 @@ monitor  Xyz {
   // Entry-Operationen
 
    Tags & Topics:
-   #Entry-Operatione
    #Entry
    #Notation
+   #Entry-Operatione
+
+[Previous: #AdvIT-Folien_282](AdvIT-Folien_282.md)
+
+[Next: #AdvIT-Folien_282](AdvIT-Folien_282.md)

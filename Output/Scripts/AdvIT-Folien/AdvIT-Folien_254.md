@@ -5,7 +5,11 @@ eigenen Semaphor ⇒privatesSemaphor
 Realisierung im Allgemeinen als Array von Semaphoren
 
    Tags & Topics:
-   #Realisierung
-   #Wartende
    #Aufweckreihenfolg
    #Aufweckreihenfolge
+   #Wartende
+   #Realisierung
+
+[Previous: #AdvIT-Folien_255](AdvIT-Folien_255.md)
+
+[Next: #AdvIT-Folien_255](AdvIT-Folien_255.md)

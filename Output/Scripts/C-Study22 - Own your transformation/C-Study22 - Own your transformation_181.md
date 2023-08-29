@@ -6,3 +6,7 @@ operations with visualization and simulation. Innovators are leading the way.
 
    Tags & Topics:
    #Simulating
+
+[Previous: #C-Study22 - Own your transformation_182](C-Study22 - Own your transformation_182.md)
+
+[Next: #C-Study22 - Own your transformation_182](C-Study22 - Own your transformation_182.md)

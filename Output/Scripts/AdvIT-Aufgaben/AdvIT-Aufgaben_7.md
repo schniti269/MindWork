@@ -5,14 +5,18 @@ Aufgabe 5 (Bearbeitungszeit: max. 15 min)
 (a) Schreiben Sie ein Shell-Script mydel, das eine angegebene Datei l ¨oscht, jedoch zuvor eine Sicherungs-
 
    Tags & Topics:
-   #Bearbeitungszeit
+   #Shell
+   #Script
    #Prof.
+   #Tools
    #verwenden
    #schreiben
-   #Shell-Script
-   #Script
    #Schreiben
+   #Shell-Script
    #Sicherungs-
-   #Shell
    #Verwenden
-   #Tools
+   #Bearbeitungszeit
+
+[Previous: #AdvIT-Aufgaben_8](AdvIT-Aufgaben_8.md)
+
+[Next: #AdvIT-Aufgaben_8](AdvIT-Aufgaben_8.md)

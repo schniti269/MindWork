@@ -6,3 +6,7 @@ cosα=u·v
 
    Tags & Topics:
    #Winkel
+
+[Previous: #Analysis-Lineare_Algebra-230308_513](Analysis-Lineare_Algebra-230308_513.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_513](Analysis-Lineare_Algebra-230308_513.md)

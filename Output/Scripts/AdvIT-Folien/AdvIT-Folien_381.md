@@ -5,8 +5,12 @@ an
      public  DatagramPacket  ( byte[] data, int length)
 
    Tags & Topics:
-   #zielrechner
-   #Nachricht
-   #Datagramm
-   #Zielrechner
    #Erzeugt
+   #Nachricht
+   #zielrechner
+   #Zielrechner
+   #Datagramm
+
+[Previous: #AdvIT-Folien_382](AdvIT-Folien_382.md)
+
+[Next: #AdvIT-Folien_382](AdvIT-Folien_382.md)

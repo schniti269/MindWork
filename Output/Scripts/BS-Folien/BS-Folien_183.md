@@ -5,14 +5,18 @@ Die Hardware muss ein Zeitgeberregister besitzen.
 ⋄Der Registerinhalt wird automatisch in bestimmten Zeitabs t¨anden dekrementiert.
 
    Tags & Topics:
-   #•Ziel
-   #•Verwendung
-   #⋄Lade
-   #Zeitscheibenverfahren
-   #Register
    #Aufteilung
-   #⋄Laden
-   #Zeitgeberregister
-   #Registerinhalt
+   #Zeitscheibenverfahren
    #Registers
+   #Registerinhalt
+   #•Ziel
+   #Register
    #Hardware
+   #⋄Laden
+   #⋄Lade
+   #Zeitgeberregister
+   #•Verwendung
+
+[Previous: #BS-Folien_184](BS-Folien_184.md)
+
+[Next: #BS-Folien_184](BS-Folien_184.md)

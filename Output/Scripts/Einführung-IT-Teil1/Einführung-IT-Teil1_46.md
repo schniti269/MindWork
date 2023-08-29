@@ -6,9 +6,13 @@
 
    Tags & Topics:
    #Mitte
-   #Generation
-   #Wikipedia
-   #Suchmaschine
    #generation
    #•September
+   #Suchmaschine
+   #Wikipedia
+   #Generation
    #•KI
+
+[Previous: #Einführung-IT-Teil1_47](Einführung-IT-Teil1_47.md)
+
+[Next: #Einführung-IT-Teil1_47](Einführung-IT-Teil1_47.md)

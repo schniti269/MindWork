@@ -1,16 +1,23 @@
-# ## #Ide 
+### Ide
 
- - #Uml #Diagramm 
- - #Autocomplete 
- - #Co #pilot 
- - #Fehler 
+- Uml Diagramm 
+- Autocomplete 
+- Co pilot
+- Fehler
 
-	 - Debugging 
-	 - #Unit #testing 
+	- Debugging 
+	- Unit testing 
 
- - #IDES 
+- IDES
 
-	 - #Eclipsed 
-	 - #Intellij 
-	 - #Vs 
-	 - #Vs #code 
+	- Eclipsed 
+	- Intellij
+	- Vs
+	- Vs code
+
+   Tags & Topics:
+   #Debugging
+   #Fehler
+   #Unit
+   #Autocomplete
+   #Autocompleter

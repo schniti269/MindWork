@@ -6,3 +6,7 @@ Bell-La Padula, 1973
 
    Tags & Topics:
    #•Zugriﬀsrechte
+
+[Previous: #BS-Folien_424](BS-Folien_424.md)
+
+[Next: #BS-Folien_424](BS-Folien_424.md)

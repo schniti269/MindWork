@@ -7,3 +7,7 @@ mutex.v(); // Austrittsprotokoll
    Tags & Topics:
    #Aktionen
    #Aktion
+
+[Previous: #BS-Folien_236](BS-Folien_236.md)
+
+[Next: #BS-Folien_236](BS-Folien_236.md)

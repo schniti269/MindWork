@@ -8,3 +8,7 @@ pid = waitpid (pid, &statloc, options)
    #Kind-Prozess
    #kind
    #Kind
+
+[Previous: #BS-Folien_76](BS-Folien_76.md)
+
+[Next: #BS-Folien_76](BS-Folien_76.md)

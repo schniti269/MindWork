@@ -5,14 +5,18 @@ propriet¨ar: MacOS, HP-UX, AIX, ...
 Open-Source: Free-BSD, Linux, Android, ...
 
    Tags & Topics:
-   #Linux
+   #Derivate
+   #Supercomputer
+   #Desktops
+   #Free
+   #Smartphones
+   #Desktop
+   #Cluster
+   #Computer-Cluster
    #source
    #BSD
-   #Supercomputer
-   #Smartphones
-   #Free
-   #Computer-Cluster
-   #Cluster
-   #Desktops
-   #Desktop
-   #Derivate
+   #Linux
+
+[Previous: #AdvIT-Folien_100](AdvIT-Folien_100.md)
+
+[Next: #AdvIT-Folien_100](AdvIT-Folien_100.md)

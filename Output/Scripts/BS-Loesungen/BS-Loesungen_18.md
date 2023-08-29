@@ -6,3 +6,7 @@ Betriebssysteme – L ¨osungsvorschl ¨age Fr¨uhjahr 2023 ©Henning Pagnia/J �
 
    Tags & Topics:
    
+
+[Previous: #BS-Loesungen_19](BS-Loesungen_19.md)
+
+[Next: #BS-Loesungen_19](BS-Loesungen_19.md)

@@ -5,6 +5,10 @@ Befehl h¨angen.
 Die Operation, die den gegenseitigen Ausschluss hergestel lt hat, kann nicht beendet werden!
 
    Tags & Topics:
-   #Handler
    #Interrupt-Handler
    #Befehl
+   #Handler
+
+[Previous: #BS-Folien_152](BS-Folien_152.md)
+
+[Next: #BS-Folien_152](BS-Folien_152.md)

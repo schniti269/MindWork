@@ -7,3 +7,7 @@ generate is learning. Learning how you operate with those
    Tags & Topics:
    #Netherland
    #Netherlands“If
+
+[Previous: #C-Study22 - Own your transformation_233](C-Study22 - Own your transformation_233.md)
+
+[Next: #C-Study22 - Own your transformation_233](C-Study22 - Own your transformation_233.md)

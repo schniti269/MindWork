@@ -6,3 +6,7 @@ Zweierkomplement      -46dez:11010010
 
    Tags & Topics:
    
+
+[Previous: #Einführung-IT-Teil2_62](Einführung-IT-Teil2_62.md)
+
+[Next: #Einführung-IT-Teil2_62](Einführung-IT-Teil2_62.md)

@@ -7,3 +7,7 @@ Basismechanismen zur Realisierung des gegenseitigen Auss chlusses
    Tags & Topics:
    #//Realisierung
    #Scheduling-Strategie
+
+[Previous: #BS-Folien_115](BS-Folien_115.md)
+
+[Next: #BS-Folien_115](BS-Folien_115.md)

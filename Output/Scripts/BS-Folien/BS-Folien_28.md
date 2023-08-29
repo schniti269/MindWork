@@ -6,3 +6,7 @@ erweitern (d.h. am Ende Daten hinzuf ¨ugen)→append
 
    Tags & Topics:
    #Grundlage
+
+[Previous: #BS-Folien_280](BS-Folien_280.md)
+
+[Next: #BS-Folien_280](BS-Folien_280.md)

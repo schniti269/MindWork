@@ -5,6 +5,10 @@ und beein Faktor mit Basis b und Exponent e.
 •Darstellung in Normalform : man schreibt die Mantisse m so, dass genau eine Stelle vor dem Dezimalpunkt eine 
 
    Tags & Topics:
-   #•Darstellung
    #Festkommazahl
+   #•Darstellung
    #•0,000112
+
+[Previous: #Einführung-IT-Teil2_42](Einführung-IT-Teil2_42.md)
+
+[Next: #Einführung-IT-Teil2_42](Einführung-IT-Teil2_42.md)

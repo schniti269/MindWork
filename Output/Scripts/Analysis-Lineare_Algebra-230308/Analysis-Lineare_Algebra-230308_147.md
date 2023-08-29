@@ -5,7 +5,11 @@ Aufgabe 1. Berechnen Sie schriftlich den Wert dieses Terms als Ganzzahl oder gek
 3:5
 
    Tags & Topics:
+   #3:5
+   #Bruch
    #term
    #Term
-   #Bruch
-   #3:5
+
+[Previous: #Analysis-Lineare_Algebra-230308_148](Analysis-Lineare_Algebra-230308_148.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_148](Analysis-Lineare_Algebra-230308_148.md)

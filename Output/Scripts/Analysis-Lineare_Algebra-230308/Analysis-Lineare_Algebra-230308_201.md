@@ -5,6 +5,10 @@ RBv= r|{z}
 |{z}
 
    Tags & Topics:
-   #Renten
    #Rente
+   #Renten
    #Rentenendwertfaktor
+
+[Previous: #Analysis-Lineare_Algebra-230308_202](Analysis-Lineare_Algebra-230308_202.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_202](Analysis-Lineare_Algebra-230308_202.md)

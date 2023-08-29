@@ -6,6 +6,10 @@ Wir rechnen: 87 -87, mit Hilfe der Zweierkomplementmethode:
 
    Tags & Topics:
    #Zweierkomplementmethode
+   #-87dez(Einerkomplement
    #Wir
    #-87dez(Zwei
-   #-87dez(Einerkomplement
+
+[Previous: #Einführung-IT-Teil2_6](Einführung-IT-Teil2_6.md)
+
+[Next: #Einführung-IT-Teil2_6](Einführung-IT-Teil2_6.md)

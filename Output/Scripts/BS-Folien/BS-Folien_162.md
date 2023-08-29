@@ -5,5 +5,9 @@ Analyse der assign-Operation
 •Wirkungsweise von assign:
 
    Tags & Topics:
-   #Prozessverwaltun
    #assign-Operation
+   #Prozessverwaltun
+
+[Previous: #BS-Folien_163](BS-Folien_163.md)
+
+[Next: #BS-Folien_163](BS-Folien_163.md)

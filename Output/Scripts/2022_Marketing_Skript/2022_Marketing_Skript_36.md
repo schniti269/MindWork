@@ -6,3 +6,7 @@ www.dhbw.deMarketing
 
    Tags & Topics:
    #Lösungsvordruck
+
+[Previous: #2022_Marketing_Skript_37](2022_Marketing_Skript_37.md)
+
+[Next: #2022_Marketing_Skript_37](2022_Marketing_Skript_37.md)

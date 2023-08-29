@@ -1,7 +1,10 @@
-# ## Operationen 
+### Operationen
 
- - #CRUD 
+- CRUD
 
-	 - Create 
-	 - Read 
-	 - #Subtopic 3 
+	- Create
+	- Read
+	- Subtopic 3
+
+   Tags & Topics:
+   #Operation

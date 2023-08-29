@@ -5,10 +5,14 @@ Auch:”Die F¨ahigkeit, mehrere Programme gleichzeitig abst ¨urzen zu lassen. 
 ⇒mehrere Programme werden st ¨uckweise abwechselnd ausgef ¨uhrt.
 
    Tags & Topics:
-   #Sharing
-   #Multiplex
-   #•Es
    #Betrieb
    #•Prozessor
-   #Auch:”Die
+   #Sharing
    #Time-Sharing-Betrieb
+   #•Es
+   #Multiplex
+   #Auch:”Die
+
+[Previous: #BS-Folien_410](BS-Folien_410.md)
+
+[Next: #BS-Folien_410](BS-Folien_410.md)

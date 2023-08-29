@@ -1,66 +1,98 @@
-# ## #Oop 
+### Oop
 
- - #Kapselung 
+- Kapselung
 
-	 - #Geregelter #Zugriff 
+	- Geregelter Zugriff 
 
-		 - Get 
-		 - #Set 
+		- Get
+		- Set
 
- - #Polymorphism 
+- Polymorphism 
 
-	 - #Vielgestaltig 
-	 - Methoden gleicher #name 
+	- Vielgestaltig 
+	- Methoden gleicher name
 
- - #Klassen 
+- Klassen
 
-	 - #Assoziationen 
+	- Assoziationen
 
-		 - #Aggregation 
+		- Aggregation
 
-			 - #Anreicherung , #nicht #notwendig 
+			- Anreicherung, nicht notwendig
 
-		 - #Komposition 
+		- Komposition
 
-			 - #Existenzieller #Bestandteil 
-			 - #Aufnahme in #Konstruktor 
+			- Existenzieller Bestandteil
+			- Aufnahme in Konstruktor
 
-		 - #Implementieren durch #Attribut 
+		- Implementieren durch Attribut
 
-	 - #Vereebung 
+	- Vereebung
 
-		 - #Mehrfach 
-		 - #Einfach 
-		 - 
+		- Mehrfach 
+		- Einfach 
+		- 
 
-	 - #Hierarchie 
+	- Hierarchie 
 
-		 - #Upcast 
+		- Upcast
 
-			 - #Ziel #kann #immer gefüllt werden 
+			- Ziel kann immer gefüllt werden
 
-		 - #Downcast 
+		- Downcast
 
-			 - #Ziel #kann #ggf #nicht gefühlt #werden 
+			- Ziel kann ggf nicht gefühlt werden
 
-	 - #Struktur 
+	- Struktur 
 
-		 - #Methoden 
+		- Methoden
 
-			 - #Statisch 
-			 - #Instanz 
-			 - #Abstrahieren 
+			- Statisch
+			- Instanz
+			- Abstrahieren 
 
-				 - #Parameter 
-				 - #Return 
+				- Parameter
+				- Return
 
-		 - #Attribute 
+		- Attribute 
 
-			 - #Statisch 
-			 - #Instanz 
+			- Statisch
+			- Instanz
 
-	 - #Schlüsselwörter 
+	- Schlüsselwörter 
 
-		 - Abstract 
-		 - #Implements 
-		 - #Extends 
+		- Abstract
+		- Implements
+		- Extends
+
+   Tags & Topics:
+   #Methode
+   #Instanz
+   #Implement
+   #Vereebung
+   #Aggregation
+   #Implementieren
+   #Assoziation
+   #Methoden
+   #Anreicherung
+   #gefühlt
+   #oop
+   #Abstrahieren
+   #Upcast
+   #Klasse
+   #Existenzieller
+   #Assoziationen
+   #Abstrahier
+   #Hierarchie
+   #Implements
+   #Kapselung
+   #Komposition
+   #Extend
+   #Struktur
+   #Geregelter
+   #Statisch
+   #Ziel
+   #Klassen
+   #Aufnahme
+   #Implementier
+   #Attribute

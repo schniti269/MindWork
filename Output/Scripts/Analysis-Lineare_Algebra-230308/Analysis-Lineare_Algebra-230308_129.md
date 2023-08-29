@@ -5,6 +5,10 @@ R. Die Nullstellen liegen auf kπfürk∈Z. Die Tangens-Funktion ist auf dem Int
 und darauf definiert man ihre Umkehrfunktion Arcustangens arctan( x). Die Abbildung 1.5.9 zeigt die
 
    Tags & Topics:
+   #∈Z}definiert
    #Tangens-Funktion
    #Tangens
-   #∈Z}definiert
+
+[Previous: #Analysis-Lineare_Algebra-230308_13](Analysis-Lineare_Algebra-230308_13.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_13](Analysis-Lineare_Algebra-230308_13.md)

@@ -6,10 +6,14 @@ Wirtschaftliche, kommerzielle Anwendungen
 
    Tags & Topics:
    #wirtschaftlich
+   #Wirtschaftliche
+   #Programmiersprachen
    #Kernbereiche
    #Algorithm
    #Interpreter
-   #Programmiersprache
    #Algorithmen
-   #Wirtschaftliche
-   #Programmiersprachen
+   #Programmiersprache
+
+[Previous: #Einführung-IT-Teil1_13](Einführung-IT-Teil1_13.md)
+
+[Next: #Einführung-IT-Teil1_13](Einführung-IT-Teil1_13.md)

@@ -5,9 +5,13 @@ Betriebssysteme DHBW Mannheim ©Henning Pagnia Version 4.23 Fr¨uhjahr 2023 BS�
 •Wie kommt man in den SYSTEM-Modus?
 
    Tags & Topics:
-   #⋄R¨ucksprung
    #USER
+   #⋄R¨ucksprung
    #Modus
    #SYSTEM
-   #⋄Unterbrechungssperre
    #Hardware
+   #⋄Unterbrechungssperre
+
+[Previous: #BS-Folien_74](BS-Folien_74.md)
+
+[Next: #BS-Folien_74](BS-Folien_74.md)

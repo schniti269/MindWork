@@ -6,3 +6,7 @@ Beispiel 2: P1 und P2 rufen gleichzeitig q.put(...)auf.
 
    Tags & Topics:
    
+
+[Previous: #BS-Folien_124](BS-Folien_124.md)
+
+[Next: #BS-Folien_124](BS-Folien_124.md)

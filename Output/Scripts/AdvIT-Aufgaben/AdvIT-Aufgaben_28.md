@@ -5,10 +5,14 @@ versteht, bei dem die Zeile linenodurchdataersetzt werden soll.
 Sie diese in eine eigene Klasse aus (z.B. class MyFile )
 
    Tags & Topics:
-   #Zeile
-   #⋄Tipps
-   #b)Erweitern
    #Dateizugriﬀe
-   #Kommando
-   #Methode
    #Methoden
+   #Methode
+   #b)Erweitern
+   #Kommando
+   #⋄Tipps
+   #Zeile
+
+[Previous: #AdvIT-Aufgaben_29](AdvIT-Aufgaben_29.md)
+
+[Next: #AdvIT-Aufgaben_29](AdvIT-Aufgaben_29.md)

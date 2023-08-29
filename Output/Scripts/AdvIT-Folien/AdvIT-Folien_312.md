@@ -5,10 +5,14 @@ spezielle Ger ¨ate (⇒Router) m¨ussen die Pakete weiterleiten
 Welche Route ist im Moment die beste?
 
    Tags & Topics:
-   #Route
    #Adressen
-   #Bezeichner
    #Pakete
-   #⇒ip
-   #Sender
    #⇒IP-Adreß
+   #Sender
+   #Route
+   #⇒ip
+   #Bezeichner
+
+[Previous: #AdvIT-Folien_313](AdvIT-Folien_313.md)
+
+[Next: #AdvIT-Folien_313](AdvIT-Folien_313.md)

@@ -5,24 +5,28 @@ in Anlehnung an Homburg 2016, S. 2Märkte(Markt = engl. „market“ → MARKETi
 Bezugsobjekte des MarketingUnternehmen streben mit ihren Marketingaktivitäten an, Märkte und ihre Akteure zu gestalten bzw.zu beeinflussen. Ziel ist es, das Verhalten der (potenziellen) Kunden und Wettbewerber zum Vorteil des eigenen Unternehmens zu steuern.
 
    Tags & Topics:
-   #Marketing
-   #marketing
-   #Unternehmen
-   #Unternehmens
-   #2Märkte(Markt
-   #Handlungsspielraum
-   #Rahmenbedingungenfür
    #ANGEBOT&NACHFRAGE4www.dhbw.deMarketing
-   #Akteure
-   #Markt
+   #Handlungsspielraum
    #verhalten
+   #2Märkte(Markt
    #MarketingUnternehmen
-   #Bezugsobjekt
-   #Akteur
-   #Kunde
-   #Wettbewerber
-   #Bezugsobjekte
-   #Ziel
+   #Rahmenbedingungenfür
    #Märkte
+   #Ziel
    #Verhalten
+   #Kunde
+   #Marketing
+   #Akteur
+   #Wettbewerber
+   #Markt
+   #marketing
+   #Bezugsobjekte
+   #Unternehmen
+   #Bezugsobjekt
+   #Unternehmens
    #MARKETehen
+   #Akteure
+
+[Previous: #2022_Marketing_Skript_20](2022_Marketing_Skript_20.md)
+
+[Next: #2022_Marketing_Skript_20](2022_Marketing_Skript_20.md)

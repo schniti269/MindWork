@@ -1,8 +1,14 @@
-# ## #Speicherstrukturen 
+### Speicherstrukturen
 
- - #Baum 
- - #Hashmap 
- - #Array 
- - Linked list 
- - #Matrix 
- - #Tuple 
+- Baum
+- Hashmap
+- Array
+- Linked list
+- Matrix
+- Tuple
+
+   Tags & Topics:
+   #speicherstrukturen
+   #Baum
+   #Array
+   #Speicherstrukturen

@@ -6,7 +6,11 @@ Areatangens hyperbolicus.
 
    Tags & Topics:
    #Graphen
-   #Graph
-   #Tangens-Funktion
    #Tangen
+   #Tangens-Funktion
+   #Graph
    #Tangens
+
+[Previous: #Analysis-Lineare_Algebra-230308_146](Analysis-Lineare_Algebra-230308_146.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_146](Analysis-Lineare_Algebra-230308_146.md)

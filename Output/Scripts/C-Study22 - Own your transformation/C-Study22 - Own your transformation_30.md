@@ -4,3 +4,7 @@ efforts to keep products moving.”
 
    Tags & Topics:
    
+
+[Previous: #C-Study22 - Own your transformation_300](C-Study22 - Own your transformation_300.md)
+
+[Next: #C-Study22 - Own your transformation_300](C-Study22 - Own your transformation_300.md)

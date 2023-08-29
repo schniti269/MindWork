@@ -5,5 +5,9 @@ Avail=Avail+assigned(Pi)
 (5)Sicherer Zustand; Ende
 
    Tags & Topics:
-   #Piund
    #Avail+assigned(Pi
+   #Piund
+
+[Previous: #AdvIT-Folien_142](AdvIT-Folien_142.md)
+
+[Next: #AdvIT-Folien_142](AdvIT-Folien_142.md)

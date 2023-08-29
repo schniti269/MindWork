@@ -5,7 +5,11 @@ Warteschlange mit h ¨oherer Priorit ¨at aber kleinerem Wert f ¨urQ.
 Betriebssysteme DHBW Mannheim ©Henning Pagnia Version 4.23 Fr¨uhjahr 2023 BS–83Prozessverwaltung Fallbeispiel: Scheduling in Unix Scheduling
 
    Tags & Topics:
-   #Burst
    #Qmehrmal
-   #Qmehrmals
    #BS–83Prozessverwaltung
+   #Qmehrmals
+   #Burst
+
+[Previous: #BS-Folien_203](BS-Folien_203.md)
+
+[Next: #BS-Folien_203](BS-Folien_203.md)

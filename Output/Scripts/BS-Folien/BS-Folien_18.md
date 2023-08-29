@@ -5,9 +5,13 @@ sondere die Abwicklung von Programmen steuern und ¨uberwachen.
 •“An elephant is a mouse
 
    Tags & Topics:
-   #Betriebsarten
-   #Betriebsart
-   #Grundlage
-   #Rechensystem
    #Abwicklung
+   #Betriebsarten
+   #Grundlage
+   #Betriebsart
+   #Rechensystem
    #•“An
+
+[Previous: #BS-Folien_180](BS-Folien_180.md)
+
+[Next: #BS-Folien_180](BS-Folien_180.md)

@@ -1,31 +1,39 @@
-# ## #traversion ( #Bäume ) 
+### traversion ( Bäume)
 
- - pre #order 
+- pre order
 
-	 - #Wurzel #des #einstiegs ausgeben 
-	 - dann #teilbaum #LINKS 
-	 - dann #Teilbaum #Rechts 
-	 - #wozu 
+	- Wurzel des einstiegs ausgeben
+	- dann teilbaum LINKS
+	- dann Teilbaum Rechts
+	- wozu
 
-		 - #neu #generieren #
+		- neu generieren
 
- - in #order 
+- in order
 
-	 - #links 
-	 - #root 
-	 - #rechts 
-	 - #wozu 
+	- links
+	- root
+	- rechts
+	- wozu
 
-		 - #ausgeben 
+		- ausgeben
 
- - #post #order 
+- post order
 
-	 - #Links 
- rechts 
- #root 
-	 - #wozu 
+	- Links 
+rechts 
+root
+	- wozu
 
-		 - #löschen/ #invertieren #
-		 - #Wenn #zu löschende kinder #hat 
- = > #Invertieren 
- - #> #zu löschende #nun #keine #kinder #mehr 
+		- löschen/ invertieren
+		- Wenn zu löschende kinder hat
+=> Invertieren 
+-> zu löschende nun keine kinder mehr
+
+   Tags & Topics:
+   #löschen/
+   #Invertieren
+   #Wurzel
+   #Teilbaum
+   #Invertier
+   #Bäume

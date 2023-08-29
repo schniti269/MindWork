@@ -5,8 +5,12 @@ Abbildung 1.4.2. Umkehrung der Quadratfunktion
 tion ˜f−1: [0,∞)→[0,∞), x7→√x. Dieses Vorgehen nennt man die Auswahl eines Funktionsasts.
 
    Tags & Topics:
+   #Quadratfunktion
    #Auswahl
    #Vorgehen
    #Funktionsast
    #vorgehen
-   #Quadratfunktion
+
+[Previous: #Analysis-Lineare_Algebra-230308_820](Analysis-Lineare_Algebra-230308_820.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_820](Analysis-Lineare_Algebra-230308_820.md)

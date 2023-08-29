@@ -6,7 +6,11 @@ single 32 bit 8 bit 23 bit 127
 
    Tags & Topics:
    #MBiasB
+   #Mantisse
    #Vorzeichen
    #Mantis
    #Feld
-   #Mantisse
+
+[Previous: #Analysis-Lineare_Algebra-230308_622](Analysis-Lineare_Algebra-230308_622.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_622](Analysis-Lineare_Algebra-230308_622.md)

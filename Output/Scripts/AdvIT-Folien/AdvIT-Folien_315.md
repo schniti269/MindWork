@@ -5,12 +5,16 @@ z.B. 141.72.71.255
 Frage: Welche Angaben sind zum Konﬁgurieren eines Netz-Inte rface notwendig?
 
    Tags & Topics:
-   #Netz
-   #Angaben
    #Netz-Inte
-   #Adresse
-   #Broadcast-Adresse
-   #Broadcast
-   #Netzes
    #Angabe
+   #Broadcast-Adresse
+   #Adresse
    #Inte
+   #Angaben
+   #Netzes
+   #Broadcast
+   #Netz
+
+[Previous: #AdvIT-Folien_316](AdvIT-Folien_316.md)
+
+[Next: #AdvIT-Folien_316](AdvIT-Folien_316.md)

@@ -5,10 +5,14 @@
 •Standard für die Syntax der Extensible Markup Language (XML) wird verabschiedet (1998).
 
    Tags & Topics:
-   #•August
-   #802.11
-   #WINDOWS
-   #Browser
-   #Extensible
    #Vorgänger
    #erstenWireless
+   #Browser
+   #•August
+   #WINDOWS
+   #Extensible
+   #802.11
+
+[Previous: #Einführung-IT-Teil1_46](Einführung-IT-Teil1_46.md)
+
+[Next: #Einführung-IT-Teil1_46](Einführung-IT-Teil1_46.md)

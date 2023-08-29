@@ -5,9 +5,13 @@ private static boolean[] need = { false,false};
 private static volatile int turn; // globale Var.public static void enterMutex ( int myProcessID ) {
 
    Tags & Topics:
-   #Var.public
    #Dekkers
    #Exclusion
+   #BS–53Prozessverwaltung
    #Algorithmus
    #Dekker
-   #BS–53Prozessverwaltung
+   #Var.public
+
+[Previous: #BS-Folien_131](BS-Folien_131.md)
+
+[Next: #BS-Folien_131](BS-Folien_131.md)

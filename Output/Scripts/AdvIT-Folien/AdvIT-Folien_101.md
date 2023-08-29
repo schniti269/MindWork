@@ -5,6 +5,10 @@ dieselben Daten zu
 ausschließlich Leser d ¨urfen i.Allg. nebenl ¨auﬁg arbeiten
 
    Tags & Topics:
-   #Schreiber
-   #Leser-Schreiber-Problem
    #Problem
+   #Leser-Schreiber-Problem
+   #Schreiber
+
+[Previous: #AdvIT-Folien_102](AdvIT-Folien_102.md)
+
+[Next: #AdvIT-Folien_102](AdvIT-Folien_102.md)

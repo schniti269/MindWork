@@ -5,7 +5,11 @@ Byte codierbaren Zahlen gerade mit zweistelligen Hexadezimalzahlen geschrieben w
 h = an16n+ an−116n-1 + ... + a1161+ a0160
 
    Tags & Topics:
+   #Zahldarstellung
+   #Ziffernsystem
    #Binärziffer
    #18dez)Hexadezimalsystem
-   #Ziffernsystem
-   #Zahldarstellung
+
+[Previous: #Einführung-IT-Teil2_17](Einführung-IT-Teil2_17.md)
+
+[Next: #Einführung-IT-Teil2_17](Einführung-IT-Teil2_17.md)

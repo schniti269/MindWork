@@ -5,6 +5,10 @@ Mehrere Prozesse bewerben sich gleichzeitig um einen Pool v on exklusiv benutzba
 Betriebssmitteln.
 
    Tags & Topics:
-   #Betriebssmitteln
-   #BS–97Prozessverwaltung
    #Betriebssmittel
+   #BS–97Prozessverwaltung
+   #Betriebssmitteln
+
+[Previous: #BS-Folien_24](BS-Folien_24.md)
+
+[Next: #BS-Folien_24](BS-Folien_24.md)

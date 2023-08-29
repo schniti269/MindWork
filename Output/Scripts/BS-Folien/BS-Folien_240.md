@@ -7,3 +7,7 @@ verwendet wird. (Die read– und die write–Operationen m ¨ussen in der Unterk
    Tags & Topics:
    #•Beispiel
    #print-Operation
+
+[Previous: #BS-Folien_241](BS-Folien_241.md)
+
+[Next: #BS-Folien_241](BS-Folien_241.md)

@@ -6,5 +6,9 @@ Betriebssysteme DHBW Mannheim ©Henning Pagnia Version 4.23 Fr¨uhjahr 2023 BS�
 
    Tags & Topics:
    #Auftragssteuerung
-   #BS–110Speicherverwaltung
    #•Variabler
+   #BS–110Speicherverwaltung
+
+[Previous: #BS-Folien_267](BS-Folien_267.md)
+
+[Next: #BS-Folien_267](BS-Folien_267.md)

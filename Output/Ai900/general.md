@@ -1,18 +1,24 @@
-# ## general 
+### general
 
- - Imitaing human #capabilities 
+- Imitaing human capabilities
 
-	 - #predictions 
-	 - #Recognition #and #decision making 
-	 - Interpereting 
+	- predictions
+	- Recognition and decision making
+	- Interpereting
 
- - #Refining data 
+- Refining data
 
-	 - making #use of 
-	 - generating #Structure 
-	 - #Why : " too much is nothing " 
+	- making use of
+	- generating Structure
+	- Why: "too much is nothing"
 
- - #Metadata 
+- Metadata
 
-	 - improving on #value 
-	 - adding in #details 
+	- improving on value
+	- adding in details
+
+   Tags & Topics:
+   #Why
+   #structur
+   #structure
+   #Metadata

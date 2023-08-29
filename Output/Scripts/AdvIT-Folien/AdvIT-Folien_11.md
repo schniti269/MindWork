@@ -6,11 +6,15 @@ Shell und Hilfsprogramme
 
    Tags & Topics:
    #Programmierschnittstelle
-   #Konventionen
    #Hilfsprogramm
-   #Konvention
+   #Konventionen
    #Calls
-   #Call
+   #Konzept
+   #Konvention
    #Operating
    #Konzepte
-   #Konzept
+   #Call
+
+[Previous: #AdvIT-Folien_110](AdvIT-Folien_110.md)
+
+[Next: #AdvIT-Folien_110](AdvIT-Folien_110.md)

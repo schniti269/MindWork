@@ -8,3 +8,7 @@ Prof. Dr. Henning Pagnia¨Ubungen zur VorlesungBS(AUF-1) Hardware und Interrupts
    #HARDWARE
    #Rechnerarchitektur
    #Software-Unterbrechung
+
+[Previous: #BS-Loesungen_10](BS-Loesungen_10.md)
+
+[Next: #BS-Loesungen_10](BS-Loesungen_10.md)

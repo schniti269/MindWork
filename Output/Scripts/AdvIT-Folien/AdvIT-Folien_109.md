@@ -7,3 +7,7 @@
    Tags & Topics:
    #2)Speicherplatz
    #Banker
+
+[Previous: #AdvIT-Folien_11](AdvIT-Folien_11.md)
+
+[Next: #AdvIT-Folien_11](AdvIT-Folien_11.md)

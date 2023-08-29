@@ -5,10 +5,14 @@ Bereich erstreckt.
 •Die Anzahl der angeschlossenen Rechner entsprechen dem Maximum von IPv4 oder IPv6 (≈3.4 ×1038 Adressen). WANs erstrecken 
 
    Tags & Topics:
-   #WANs
    #Weitverkehrsnetz
-   #•Ad-hoc-Netze
    #Sensor
+   #Netze
+   #WANs
    #IPv6
    #•Ad
-   #Netze
+   #•Ad-hoc-Netze
+
+[Previous: #Einführung-IT-Teil1_76](Einführung-IT-Teil1_76.md)
+
+[Next: #Einführung-IT-Teil1_76](Einführung-IT-Teil1_76.md)

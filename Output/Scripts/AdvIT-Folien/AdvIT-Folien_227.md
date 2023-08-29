@@ -6,3 +6,7 @@ return byteCount;
 
    Tags & Topics:
    
+
+[Previous: #AdvIT-Folien_228](AdvIT-Folien_228.md)
+
+[Next: #AdvIT-Folien_228](AdvIT-Folien_228.md)

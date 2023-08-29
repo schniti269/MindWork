@@ -7,3 +7,7 @@ bei geschachtelten Monitoraufrufen treten fast immer Verk lemmungen auf!
    Tags & Topics:
    #Vorsicht
    #Verk
+
+[Previous: #AdvIT-Folien_31](AdvIT-Folien_31.md)
+
+[Next: #AdvIT-Folien_31](AdvIT-Folien_31.md)

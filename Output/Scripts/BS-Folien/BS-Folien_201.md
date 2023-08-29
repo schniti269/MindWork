@@ -5,10 +5,14 @@ ein Prozess aus dieser Warteschlange erh ¨alt.
 Feedback-Verfahren:
 
    Tags & Topics:
-   #Feedback-Verfahr
-   #Feedback
-   #RR-Warteschlange
-   #Zeitsch
    #Struktur
+   #Feedback
    #struktur
+   #Zeitsch
    #RR-Warteschlang
+   #RR-Warteschlange
+   #Feedback-Verfahr
+
+[Previous: #BS-Folien_202](BS-Folien_202.md)
+
+[Next: #BS-Folien_202](BS-Folien_202.md)

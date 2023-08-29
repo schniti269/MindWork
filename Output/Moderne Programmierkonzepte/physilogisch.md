@@ -1,33 +1,56 @@
-# ## physilogisch 
+### physilogisch
 
- - Modelle #
+- Modelle
 
-	 - #Informationsverarbeitendes #System 
-	 - #Wahrnehmung 
+	- Informationsverarbeitendes System
+	- Wahrnehmung
 
-		 - #Sinnesreize über #Nerven 
-		 - #Netzwerk #überträgt #sinnesreitze 
+		- Sinnesreize über Nerven
+		- Netzwerk überträgt sinnesreitze
 
-	 - #Rausmussten #
+	- Rausmussten
 
-		 - #automatisierte #handlungen #vom #Unterbewusstsein 
+		- automatisierte handlungen vom Unterbewusstsein
 
-	 - #Gedächnis und #Prozessoren 
+	- Gedächnis und Prozessoren
 
- - #Reizübertragung 
+- Reizübertragung
 
-	 - #Verarbeitung 
-	 - #Gedächnis 
+	- Verarbeitung
+	- Gedächnis
 
- - #Sinne 
+- Sinne
 
-	 - #visuell 
+	- visuell
 
-		 - #Augen 
-		 - #Sichtfelder 
+		- Augen
+		- Sichtfelder
 
-			 - #Pehriphäres #sehen 
+			- Pehriphäres sehen
 
-	 - auditiv 
-	 - haptik #
-	 - weitere #sinne in relevanz #für #EDV 
+	- auditiv
+	- haptik
+	- weitere sinne in relevanz für EDV
+
+   Tags & Topics:
+   #Prozessoren
+   #Sichtfelder
+   #Sinne
+   #sichtfelder
+   #Gedächnis
+   #Rausmussten
+   #Sinnesreiz
+   #Nerven
+   #Sinnesreize
+   #Sinn
+   #Augen
+   #Auge
+   #Modelle
+   #Modell
+   #Prozessor
+   #Wahrnehmung
+   #Netzwerk
+   #Reizübertragung
+   #Verarbeitung
+   #Rausmusste
+   #Nerv

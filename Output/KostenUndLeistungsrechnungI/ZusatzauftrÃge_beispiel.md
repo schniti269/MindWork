@@ -1,22 +1,34 @@
-# ## Zusatzaufträge beispiel 
+### Zusatzaufträge beispiel
 
- - Betriebsergebnis #Beeinflussung ? 
- - #Langfristig gesehen #Fixkosten decken 
- - #Db #zusatz 
- #quantitativ #
+- Betriebsergebnis Beeinflussung?
+- Langfristig gesehen Fixkosten decken
+- Db zusatz
+quantitativ
 
-	 - < 0 
+	- <0
 
-		 - #Ablehnen #
+		- Ablehnen
 
-	 - > 0 
+	- >0
 
-		 - #Annehmen #
+		- Annehmen
 
-	 - = 0 
+	- =0
 
-		 - #Indifferenz 
+		- Indifferenz
 
- - #Qualitativ 
+- Qualitativ
 
-	 - #Marktgewinnung 
+	- Marktgewinnung
+
+   Tags & Topics:
+   #Fixkost
+   #Ablehn
+   #Beeinflussung
+   #Fixkosten
+   #annehmen
+   #Marktgewinnung
+   #Annehmen
+   #Ablehnen
+   #Betriebsergebnis
+   #Indifferenz

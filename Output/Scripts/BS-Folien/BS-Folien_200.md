@@ -5,8 +5,12 @@ Prozesse k ¨onnen in Abh ¨angigkeit ihres Verhaltens zwischen den ready-Wartes
 •Ein Beispiel
 
    Tags & Topics:
-   #Stapelprozesse
-   #Verhaltens
    #verhalten
    #Stapelprozes
+   #Verhaltens
    #feedback
+   #Stapelprozesse
+
+[Previous: #BS-Folien_201](BS-Folien_201.md)
+
+[Next: #BS-Folien_201](BS-Folien_201.md)

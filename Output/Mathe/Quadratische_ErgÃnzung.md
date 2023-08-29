@@ -1,13 +1,19 @@
-# ## Quadratische #Ergänzung 
+### Quadratische Ergänzung
 
- - #Scheitelpunkt #form 
+- Scheitelpunkt form
 
-	 - ( ax+b)**2+c 
+	- (ax+b)**2+c
 
- - #Scheitelpunkt 
+- Scheitelpunkt
 
-	 - bei #ax**2+bx+c 
+	- bei ax**2+bx+c
 
- #S(b/(-2a);c-(b**2/4a ) #) 
+S(b/(-2a);c-(b**2/4a))
 
- - Äquivalenz #und #Thermunformung 
+- Äquivalenz und Thermunformung
+
+   Tags & Topics:
+   #Scheitelpunkt
+   #Ergänzung
+   #Thermunformung
+   #S(b/(-2a);c-(b**2/4a

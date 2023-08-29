@@ -5,8 +5,12 @@ Zur Bestimmung des Kerns ist das homogene LGS mit A·x=0zu lösen. Das kann mit 
 Jordan-Verfahren erfolgen, wobei der rechte Teil nicht aufgeführt werden muss:
 
    Tags & Topics:
-   #Kerns
    #Jordan
    #x7→Aφ·x
    #R3→R2
    #Kern
+   #Kerns
+
+[Previous: #Analysis-Lineare_Algebra-230308_687](Analysis-Lineare_Algebra-230308_687.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_687](Analysis-Lineare_Algebra-230308_687.md)

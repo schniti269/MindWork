@@ -5,5 +5,9 @@ Associate Vice President, Supply Excellence, MSD Pharmaceuticals, Germany43
 The path to data-led 
 
    Tags & Topics:
-   #Germany43
    #President
+   #Germany43
+
+[Previous: #C-Study22 - Own your transformation_213](C-Study22 - Own your transformation_213.md)
+
+[Next: #C-Study22 - Own your transformation_213](C-Study22 - Own your transformation_213.md)

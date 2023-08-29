@@ -5,17 +5,21 @@ Homburg 2016, S. 193f.4.2. PricePreisbestimmung für neue Produkte
 in Anlehnung an Kotler/Keller/Bliemel 2007, S. 595
 
    Tags & Topics:
-   #PricePreisbestimmung
-   #Segment
-   #Keller
-   #Betrag
-   #Markt
-   #Marktanteils
-   #Nachdem
    #Angebot
-   #Zahlungsbereitschaft
-   #Preissetzung
-   #Anwender
-   #Marktes
-   #Prozessor
    #Marktanteil
+   #Anwender
+   #Keller
+   #PricePreisbestimmung
+   #Zahlungsbereitschaft
+   #Prozessor
+   #Marktes
+   #Nachdem
+   #Preissetzung
+   #Segment
+   #Betrag
+   #Marktanteils
+   #Markt
+
+[Previous: #2022_Marketing_Skript_81](2022_Marketing_Skript_81.md)
+
+[Next: #2022_Marketing_Skript_81](2022_Marketing_Skript_81.md)

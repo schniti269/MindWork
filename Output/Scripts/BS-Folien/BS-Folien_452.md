@@ -5,10 +5,14 @@ Abb. 38 Struktur eines InodesBenutzer-Id
 Gruppen-Id
 
    Tags & Topics:
-   #unddreifach
-   #⊲Verwendung
-   #Gruppen
-   #InodesBenutzer-Id
    #BS–182Dateisystem
    #Ein-,Zwei
+   #InodesBenutzer-Id
+   #unddreifach
+   #Gruppen
    #InodesBenutzer
+   #⊲Verwendung
+
+[Previous: #BS-Folien_453](BS-Folien_453.md)
+
+[Next: #BS-Folien_453](BS-Folien_453.md)

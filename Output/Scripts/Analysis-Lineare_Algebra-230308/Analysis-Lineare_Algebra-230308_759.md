@@ -6,3 +6,7 @@ x=1
 
    Tags & Topics:
    #Eigenvektor
+
+[Previous: #Analysis-Lineare_Algebra-230308_76](Analysis-Lineare_Algebra-230308_76.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_76](Analysis-Lineare_Algebra-230308_76.md)

@@ -5,8 +5,12 @@ gespiegelt, die ebenfalls in der Abbildung eingezeichnet ist.
 1.5.1. Polynome.
 
    Tags & Topics:
-   #Standardfunktion
-   #Ast
    #Standardfunktionen
    #Quadratfunktion
    #1.5.1
+   #Standardfunktion
+   #Ast
+
+[Previous: #Analysis-Lineare_Algebra-230308_830](Analysis-Lineare_Algebra-230308_830.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_830](Analysis-Lineare_Algebra-230308_830.md)

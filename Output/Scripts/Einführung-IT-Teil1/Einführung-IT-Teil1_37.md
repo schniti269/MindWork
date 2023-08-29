@@ -5,10 +5,14 @@ entwickelt werden.
 •1960, Firma Digital Equipment (DEC) der erste ersten Minicomputer (PDP 8), der auf einem Schreibtisch 
 
    Tags & Topics:
-   #Minicomputer
-   #•Zeitalter
    #Schaltkreis
-   #Firma
-   #Leistungsfähigkeit
    #Geräte
+   #Leistungsfähigkeit
+   #•Zeitalter
+   #Minicomputer
    #Gerät
+   #Firma
+
+[Previous: #Einführung-IT-Teil1_38](Einführung-IT-Teil1_38.md)
+
+[Next: #Einführung-IT-Teil1_38](Einführung-IT-Teil1_38.md)

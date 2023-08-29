@@ -6,7 +6,11 @@ IBM Academic Initiative
 
    Tags & Topics:
    #Studierenden
-   #Download
    #•für
-   #studierend
    #Zugriff
+   #Download
+   #studierend
+
+[Previous: #Einführung-IT-Teil1_9](Einführung-IT-Teil1_9.md)
+
+[Next: #Einführung-IT-Teil1_9](Einführung-IT-Teil1_9.md)

@@ -6,3 +6,7 @@ Take inspiration from the Innovators
 
    Tags & Topics:
    
+
+[Previous: #C-Study22 - Own your transformation_234](C-Study22 - Own your transformation_234.md)
+
+[Next: #C-Study22 - Own your transformation_234](C-Study22 - Own your transformation_234.md)

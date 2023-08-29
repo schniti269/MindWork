@@ -6,3 +6,7 @@ Technische Informatik
 
    Tags & Topics:
    #Informatik
+
+[Previous: #Einführung-IT-Teil1_11](Einführung-IT-Teil1_11.md)
+
+[Next: #Einführung-IT-Teil1_11](Einführung-IT-Teil1_11.md)

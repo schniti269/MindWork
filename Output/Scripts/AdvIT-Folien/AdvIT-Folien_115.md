@@ -5,8 +5,12 @@ Es gibt eine Folge von P 0, ... , P n−1derart, dass f ¨uri= 0, ... , n-1 gilt
 Pihat ein Betriebsmittel angefordert, das P (i+1)MOD nbelegt hat.
 
    Tags & Topics:
+   #i+1)MOD
+   #warten
    #Situation
    #Deadlock
    #Warten
-   #i+1)MOD
-   #warten
+
+[Previous: #AdvIT-Folien_116](AdvIT-Folien_116.md)
+
+[Next: #AdvIT-Folien_116](AdvIT-Folien_116.md)

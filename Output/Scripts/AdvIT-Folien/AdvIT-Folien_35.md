@@ -5,7 +5,11 @@ Prozesse werden in sehr kurzen Intervallen alternierend aus gef¨uhrt
 (⇒pseudoparallel ) abgearbeitet
 
    Tags & Topics:
+   #Time
+   #Multiplexing
    #Sharing
    #Prozessor
-   #Multiplexing
-   #Time
+
+[Previous: #AdvIT-Folien_350](AdvIT-Folien_350.md)
+
+[Next: #AdvIT-Folien_350](AdvIT-Folien_350.md)

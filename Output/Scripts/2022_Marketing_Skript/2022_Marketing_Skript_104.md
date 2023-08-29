@@ -5,22 +5,26 @@ Quelle: AWA 2016, 2018www.dhbw.deMarketing
 4.3. PromotionÜbungsaufgabe 9: TKP (1/2) Nachdem Sie das Konzept der Werbekampagne erstellt haben, starten Sie mit den Überlegungen bzgl. der Intramedienverteilung für eine Printanzeige in Männerzeitschriften. Ihr Ziel ist es, die Kontaktzahl unter Einbezug der Zielgruppeneignung und der Kontaktqualität zu optimieren. Das Werbebudget ist gegeben und beträgt 1.900.000 €. Sie erhalten von Ihrer Praktikantin diese Daten zu den folgenden fünf Männerzeitschriften: 
 
    Tags & Topics:
-   #Nachdem
-   #TKPs:§TKP1=
-   #Mio
-   #Medium
-   #StreuplanungLösung
-   #Intramedienverteilung
-   #Ausgabe
-   #Maximierung
-   #tenMediums§Kj=
-   #Kontaktqualität
    #Rechenbeispiel
-   #Zielgruppeneignung
+   #tenMediums§Kj=
    #j-tenMediums§Kj=
-   #Zeitung
-   #Zeitungen
-   #Gesucht
+   #Zielgruppeneignung
+   #Medium
    #Ziel
+   #Zeitungen
+   #Kontaktqualität
+   #Zeitung
+   #Mio
+   #Intramedienverteilung
+   #StreuplanungLösung
+   #Nachdem
    #Kontaktzahl
+   #Maximierung
+   #TKPs:§TKP1=
+   #Ausgabe
    #Konzept
+   #Gesucht
+
+[Previous: #2022_Marketing_Skript_105](2022_Marketing_Skript_105.md)
+
+[Next: #2022_Marketing_Skript_105](2022_Marketing_Skript_105.md)

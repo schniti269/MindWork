@@ -5,7 +5,11 @@ Warten mittels wait()
 Aufwecken mittels signal()
 
    Tags & Topics:
-   #warten
-   #Erzeug
    #Erzeugen
+   #warten
    #Warten
+   #Erzeug
+
+[Previous: #AdvIT-Folien_286](AdvIT-Folien_286.md)
+
+[Next: #AdvIT-Folien_286](AdvIT-Folien_286.md)

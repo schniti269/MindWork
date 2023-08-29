@@ -1,11 +1,16 @@
-# ## Non functional #Requirements 
+### Non functional Requirements
 
- - #Architecture 
- - Technical debt 
+- Architecture
+- Technical debt
 
-	 - #TTM #Shorcuts 
-	 - #Workarounds 
-	 - anecdote 
+	- TTM Shorcuts
+	- Workarounds
+	- anecdote
 
-		 - how to measure 
-		 - #WTF/(minute ) 
+		- how to measure
+		- WTF/(minute)
+
+   Tags & Topics:
+   #Technical
+   #Non
+   #WTF/(minute

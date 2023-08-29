@@ -1,57 +1,66 @@
-# ## #Serialisieren #von #objekten #
+### Serialisieren von objekten
 
- - #Problem 
+- Problem
 
-	 - #manche #datenstrukturen sind keine Reihen ( #zb listen ) #sonder #haben #tiefe 
-	 - #aufschreiben #ist #aber #eine #Reihe 
+	- manche datenstrukturen sind keine Reihen ( zb listen) sonder haben tiefe 
+	- aufschreiben ist aber eine Reihe
 
- - Wo 
+- Wo
 
-	 - Bäume 
-	 - #Graphen #
+	- Bäume
+	- Graphen
 
- - Was 
+- Was
 
-	 - #definierte #reihenfolge 
+	- definierte reihenfolge
 
-		 - #man #wies #wie #man es #geschrieben hat #
-		 - #das #ganze wieder einlesen #und #dann objekt erzeugen 
+		- man wies wie man es geschrieben hat
+		- das ganze wieder einlesen und dann objekt erzeugen
 
- - #Beispiel 
+- Beispiel
 
-	 - Personen #objekt 
+	- Personen objekt
 
-		 - name : #klaus #
-		 - alter #: 27 
+		- name: klaus
+		- alter: 27
 
-	 - #csv #variante #
+	- csv variante
 
-		 - #serialize ( ) ; 
+		- serialize();
 
-			 - #person.file= #
- #klaus;27 
- peter;46 
+			- person.file=
+klaus;27
+peter;46
 
-		 - #json 
+		- json
 
-			 - #taggen 
+			- taggen
 
-		 - #xml #
+		- xml
 
-			 - #taggen #
+			- taggen
 
- - #wie #
+- wie 
 
-	 - serializable #interface 
+	- serializable interface
 
-		 - #java #macht #das automatisch 
-		 - #i #d #sollte #man final setzen 
-		 - #ein #stream #der #schreibt 
+		- java macht das automatisch
+		- id sollte man final setzen
+		- ein stream der schreibt 
 
-		 - ein #stream #der die #objekte #seriealisiert und #den #anderen #stram #bekommt 
+		- ein stream der die objekte seriealisiert und den anderen stram bekommt
 
- - #transien modifier 
+- transien modifier
 
-	 - redundatnte daten ausschließen 
-	 - #persistentens #nicht #gefährdet 
+	- redundatnte daten ausschließen
+	- persistentens nicht gefährdet
 
+
+   Tags & Topics:
+   #Personen
+   #Person
+   #Serialisier
+   #Reihe
+   #Graphen
+   #Beispiel
+   #Serialisieren

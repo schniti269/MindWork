@@ -5,6 +5,10 @@ falls ja, wird einer (oder mehrere) der Wartenden ausgew ¨ahlt und auf deren
 privaten Semaphoren jeweils ein release ausgef¨uhrt
 
    Tags & Topics:
-   #Abschnitts
-   #Beendigung
    #Abschnitt
+   #Beendigung
+   #Abschnitts
+
+[Previous: #AdvIT-Folien_259](AdvIT-Folien_259.md)
+
+[Next: #AdvIT-Folien_259](AdvIT-Folien_259.md)

@@ -7,3 +7,7 @@ Abbildung 1.5.12. Tangens hyperbolicus und Umkehrfunktion Areatangens hyperbolic
    Tags & Topics:
    #Tangen
    #Tangens
+
+[Previous: #Analysis-Lineare_Algebra-230308_147](Analysis-Lineare_Algebra-230308_147.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_147](Analysis-Lineare_Algebra-230308_147.md)

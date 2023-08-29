@@ -5,5 +5,9 @@ E/A-Ger¨ate arbeiten oft unabh ¨angig vom Prozessor
 ⇒parallele Abl ¨aufe im System⇒Synchronisation notwendig
 
    Tags & Topics:
-   #ger¨ate
    #A-Ger¨ate
+   #ger¨ate
+
+[Previous: #BS-Folien_5](BS-Folien_5.md)
+
+[Next: #BS-Folien_5](BS-Folien_5.md)

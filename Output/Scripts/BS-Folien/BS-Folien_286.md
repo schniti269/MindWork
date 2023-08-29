@@ -6,7 +6,11 @@ First-Fit/Best-Fit:
 
    Tags & Topics:
    #fit
-   #Best
-   #First-Fit
-   #•Bewertung
    #Fit
+   #•Bewertung
+   #First-Fit
+   #Best
+
+[Previous: #BS-Folien_287](BS-Folien_287.md)
+
+[Next: #BS-Folien_287](BS-Folien_287.md)

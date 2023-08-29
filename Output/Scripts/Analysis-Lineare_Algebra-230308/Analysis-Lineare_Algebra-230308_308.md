@@ -5,6 +5,10 @@ k=12 +k2
 Aufgabe 30. Wenden Sie das Wurzelkriterium auf diese Reihe an:
 
    Tags & Topics:
-   #Untersuchen
    #Wenden
+   #Untersuchen
    #Wend
+
+[Previous: #Analysis-Lineare_Algebra-230308_309](Analysis-Lineare_Algebra-230308_309.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_309](Analysis-Lineare_Algebra-230308_309.md)

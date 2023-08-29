@@ -7,3 +7,7 @@ Klassen von Ressourcen und L ¨osungstrategien
    Tags & Topics:
    #Klasse
    #Klassen
+
+[Previous: #AdvIT-Folien_109](AdvIT-Folien_109.md)
+
+[Next: #AdvIT-Folien_109](AdvIT-Folien_109.md)

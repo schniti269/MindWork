@@ -6,3 +6,7 @@ Die Funktion und die Taylorpolynome sind in Abbildung 3.3.1 abgebildet.46 3. DIF
 
    Tags & Topics:
    
+
+[Previous: #Analysis-Lineare_Algebra-230308_356](Analysis-Lineare_Algebra-230308_356.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_356](Analysis-Lineare_Algebra-230308_356.md)

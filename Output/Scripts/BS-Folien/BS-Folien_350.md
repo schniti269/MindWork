@@ -5,6 +5,10 @@ Je mehr Kacheln desto schneller? Belady’s Anomalie
 •Prozess mit 5 Seiten greift in dieser Folge darauf zu:1⇒2⇒3⇒4⇒1⇒2⇒5⇒1⇒2⇒3⇒4⇒5
 
    Tags & Topics:
-   #BS–139Speicherverwaltung
-   #Endekriterium
    #endekriterium
+   #Endekriterium
+   #BS–139Speicherverwaltung
+
+[Previous: #BS-Folien_351](BS-Folien_351.md)
+
+[Next: #BS-Folien_351](BS-Folien_351.md)

@@ -1,27 +1,40 @@
-# ## #Planen 
+### Planen
 
- - #Methoden 
+- Methoden
 
-	 - #Dynamische 
+	- Dynamische 
 
-		 - #Scrum 
+		- Scrum
 
-			 - #Sprints 
-			 - #Features 
-			 - #Scrum #master 
+			- Sprints
+			- Features 
+			- Scrum master
 
-	 - 
+	- 
 
- - #UML 
- - #Lebenszyklus 
+- UML
+- Lebenszyklus 
 
-	 - #Prototyp 
-	 - #Pilot 
-	 - Final 
+	- Prototyp 
+	- Pilot
+	- Final
 
- - #Team 
- - #Unterknoten 5 
- - #BWL 
+- Team
+- Unterknoten 5
+- BWL
 
-	 - #Marketing 
-	 - #Wirtschaftlichkeit 
+	- Marketing 
+	- Wirtschaftlichkeit
+
+   Tags & Topics:
+   #Methode
+   #Planen
+   #Team
+   #Marketing
+   #Methoden
+   #Dynamische
+   #Lebenszyklus
+   #Scrum
+   #Plan
+   #Final
+   #Wirtschaftlichkeit

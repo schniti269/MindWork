@@ -5,5 +5,9 @@ as an event. Instead, accept ongoing improvement
 as a never-ending goal and process.
 
    Tags & Topics:
-   #Instead
    #Modernize
+   #Instead
+
+[Previous: #C-Study22 - Own your transformation_243](C-Study22 - Own your transformation_243.md)
+
+[Next: #C-Study22 - Own your transformation_243](C-Study22 - Own your transformation_243.md)

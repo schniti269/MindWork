@@ -1,45 +1,58 @@
-# ## #IP #paket #header 
+### IP paket header
 
- - #32 #Bits 
+- 32 Bits
 
-	 - #Version 
+	- Version
 
-		 - #IHL 
+		- IHL
 
-			 - #Type of #Service 
+			- Type of Service
 
-				 - #Totallenght 
+				- Totallenght
 
-	 - #Identification 
+	- Identification
 
-		 - #Fragment #offset #
+		- Fragment offset
 
-	 - #TTL 
+	- TTL
 
-		 - #Protocol 
+		- Protocol
 
-			 - #Headerchecksum 
+			- Headerchecksum
 
-	 - #Source #Adress 
-	 - #Destination #Adress 
-	 - #Options ( 0 #oder #mehr ) 
+	- Source Adress
+	- Destination Adress
+	- Options (0 oder mehr)
 
-		 - #Optionen 
+		- Optionen
 
-			 - #security 
+			- security
 
-				 - #wird #nicht verwendet #
+				- wird nicht verwendet
 
-			 - Strict #source routing #
+			- Strict source routing
 
-				 - testzwecke 
+				- testzwecke
 
-			 - #Loose #source #
+			- Loose source
 
-				 - #Liste #von #Routern die #besucht werden #sollen 
+				- Liste von Routern die besucht werden sollen
 
-			 - #Record #ROUTE 
+			- Record ROUTE
 
-				 - #TraceRT 
+				- TraceRT
 
-			 - #Timestamp 
+			- Timestamp
+
+   Tags & Topics:
+   #Fragment
+   #Optionen
+   #Bits
+   #Liste
+   #Identification
+   #Record
+   #Bit
+   #Version
+   #Totallenght
+   #Option
+   #Headerchecksum

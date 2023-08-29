@@ -6,3 +6,7 @@ Die Umwandlung in eine Dualzahl folgt aus der fortgesetzten Division durch 2:
 
    Tags & Topics:
    #Umwandlung
+
+[Previous: #Einführung-IT-Teil2_33](Einführung-IT-Teil2_33.md)
+
+[Next: #Einführung-IT-Teil2_33](Einführung-IT-Teil2_33.md)

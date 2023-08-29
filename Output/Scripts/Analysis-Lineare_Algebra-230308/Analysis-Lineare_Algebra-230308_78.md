@@ -5,5 +5,9 @@ Definition 1.2.Eine Funktion fistinjektiv, wenn unterschiedliche Elemente aus de
 ge immer unterschiedliche Bilder in der Wertemenge haben, also aus a̸=bimmer auch f(a)̸=f(b)
 
    Tags & Topics:
-   #Bilder
    #Bild
+   #Bilder
+
+[Previous: #Analysis-Lineare_Algebra-230308_780](Analysis-Lineare_Algebra-230308_780.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_780](Analysis-Lineare_Algebra-230308_780.md)

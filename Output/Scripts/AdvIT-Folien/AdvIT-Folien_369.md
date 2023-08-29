@@ -5,13 +5,17 @@ public class EchoClient  {  public static ﬁnal int serverPort  = 7; // echo se
 }  // end EchoClient
 
    Tags & Topics:
-   #InputStreamReader(s.getInputStream
-   #System.err.println(e
    #serverport
-   #System.out.println(networkIn.readLine
-   #networkOut.ﬂush
    #networkOut.println(theLine
    #EchoClient
+   #System.err.println(e
    #s.getInputStream
    #main(string
+   #System.out.println(networkIn.readLine
+   #InputStreamReader(s.getInputStream
+   #networkOut.ﬂush
    #InputStreamReader(System.in
+
+[Previous: #AdvIT-Folien_37](AdvIT-Folien_37.md)
+
+[Next: #AdvIT-Folien_37](AdvIT-Folien_37.md)

@@ -6,3 +6,7 @@ skills and capabilities.6
 
    Tags & Topics:
    
+
+[Previous: #C-Study22 - Own your transformation_41](C-Study22 - Own your transformation_41.md)
+
+[Next: #C-Study22 - Own your transformation_41](C-Study22 - Own your transformation_41.md)

@@ -6,3 +6,7 @@ Betriebssysteme DHBW Mannheim ©Henning Pagnia Version 4.23 Fr¨uhjahr 2023 BS�
 
    Tags & Topics:
    #BS–77Prozessverwaltung
+
+[Previous: #BS-Folien_187](BS-Folien_187.md)
+
+[Next: #BS-Folien_187](BS-Folien_187.md)

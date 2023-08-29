@@ -5,13 +5,17 @@
 Kapitel 2. Elementare Analysis 25
 
    Tags & Topics:
-   #Aufgabe
-   #Abbildung
-   #Standardfunktion
-   #Gleichungen
-   #Äquivalenzumformung
    #Standardfunktionen
+   #Aufgabe
+   #Gleichungen
    #Ungleichungen
-   #Gleichung
+   #Standardfunktion
    #Ungleichung
+   #Gleichung
+   #Äquivalenzumformung
+   #Abbildung
    #abbildungen
+
+[Previous: #Analysis-Lineare_Algebra-230308_30](Analysis-Lineare_Algebra-230308_30.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_30](Analysis-Lineare_Algebra-230308_30.md)

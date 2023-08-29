@@ -5,9 +5,13 @@ Nachteil: niedriger Durchsatz
 ◮Multi-Core Architekturen werden nicht ausgenutzt
 
    Tags & Topics:
+   #Prozesswechsel
    #Architekturen
-   #Multi
-   #Client-Auftr
    #Durchsatz
    #Auftr
-   #Prozesswechsel
+   #Client-Auftr
+   #Multi
+
+[Previous: #AdvIT-Folien_380](AdvIT-Folien_380.md)
+
+[Next: #AdvIT-Folien_380](AdvIT-Folien_380.md)

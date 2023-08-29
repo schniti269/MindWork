@@ -1,3 +1,6 @@
-# ## #skalierungen 
+### skalierungen
 
- - #p(x ) = a*x 
+- p(x) = a*x
+
+   Tags & Topics:
+   

@@ -7,5 +7,9 @@ Die verschiedenen Warteschlangen k ¨onnen durch eine Verkettung der PCBs realis
    Tags & Topics:
    #Abb
    #Warteschlang
-   #•Implementierung
    #Warteschlangen
+   #•Implementierung
+
+[Previous: #BS-Folien_111](BS-Folien_111.md)
+
+[Next: #BS-Folien_111](BS-Folien_111.md)

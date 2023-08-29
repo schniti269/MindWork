@@ -5,6 +5,10 @@ Banker’s Algorithm (Dijkstra, 1965)
 Annahmen
 
    Tags & Topics:
-   #Annahmen
-   #Banker
    #Annahme
+   #Banker
+   #Annahmen
+
+[Previous: #AdvIT-Folien_132](AdvIT-Folien_132.md)
+
+[Next: #AdvIT-Folien_132](AdvIT-Folien_132.md)

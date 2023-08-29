@@ -6,3 +6,7 @@ Hauptspeicher
 
    Tags & Topics:
    
+
+[Previous: #BS-Folien_311](BS-Folien_311.md)
+
+[Next: #BS-Folien_311](BS-Folien_311.md)

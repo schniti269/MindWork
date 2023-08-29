@@ -9,3 +9,7 @@ entziehen.
    #Platten
    #System-Software
    #Kontrolle
+
+[Previous: #BS-Folien_177](BS-Folien_177.md)
+
+[Next: #BS-Folien_177](BS-Folien_177.md)

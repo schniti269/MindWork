@@ -5,11 +5,15 @@ Time-Sharing
 Wann kommt es zu Prozesswechseln?
 
    Tags & Topics:
-   #⇒Multi
+   #Level
+   #Nebenl¨auﬁgkeit
+   #Time
+   #Feedback
    #Sharing
    #Kombination
+   #⇒Multi
    #kombination
-   #Feedback
-   #Time
-   #Nebenl¨auﬁgkeit
-   #Level
+
+[Previous: #AdvIT-Folien_400](AdvIT-Folien_400.md)
+
+[Next: #AdvIT-Folien_400](AdvIT-Folien_400.md)

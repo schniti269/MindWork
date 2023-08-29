@@ -5,7 +5,11 @@ L¨osungsidee
 Das System f ¨uhrt einen Wartegraphen
 
    Tags & Topics:
-   #Programm
-   #L¨osungsidee
    #Deadlock
+   #L¨osungsidee
+   #Programm
    #Wartegraphen
+
+[Previous: #AdvIT-Folien_107](AdvIT-Folien_107.md)
+
+[Next: #AdvIT-Folien_107](AdvIT-Folien_107.md)

@@ -5,7 +5,11 @@ L¨osungsidee
 Nach erfolgreichem Verbindungsaufbau liefert acceptden
 
    Tags & Topics:
-   #Tageszeit
    #Verbindung
+   #Tageszeit
    #Server-Socket
    #Wir
+
+[Previous: #AdvIT-Folien_375](AdvIT-Folien_375.md)
+
+[Next: #AdvIT-Folien_375](AdvIT-Folien_375.md)

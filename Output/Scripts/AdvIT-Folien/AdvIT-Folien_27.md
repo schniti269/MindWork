@@ -6,6 +6,10 @@ df freier Speicherplatz von Datenspeichern
 
    Tags & Topics:
    #Systeminformatio
+   #Systeminformationen
    #Zust
    #Speicherplatz
-   #Systeminformationen
+
+[Previous: #AdvIT-Folien_270](AdvIT-Folien_270.md)
+
+[Next: #AdvIT-Folien_270](AdvIT-Folien_270.md)

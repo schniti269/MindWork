@@ -7,3 +7,7 @@ Bits werden in 8er Blöcken zu Bytes zusammengefasst,
    Tags & Topics:
    #Hexadezimaldarstellung
    #Umrechnung
+
+[Previous: #Einführung-IT-Teil2_24](Einführung-IT-Teil2_24.md)
+
+[Next: #Einführung-IT-Teil2_24](Einführung-IT-Teil2_24.md)

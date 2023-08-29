@@ -6,8 +6,12 @@ auf die Gesellschaft. (Taschenbuch der Informatik, Carl Hanser Verlag, 2004)
 
    Tags & Topics:
    #Datenverarbeitung
+   #Informationsverarbeitung
    #Mittel
    #Informatik
    #Mitteln
    #Taschenbuch
-   #Informationsverarbeitung
+
+[Previous: #Einführung-IT-Teil1_90](Einführung-IT-Teil1_90.md)
+
+[Next: #Einführung-IT-Teil1_90](Einführung-IT-Teil1_90.md)

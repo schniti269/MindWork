@@ -6,3 +6,7 @@ Der Gradient hat einige spannende Eigenschaften: Ist er nicht null, zeigt er in 
 
    Tags & Topics:
    #Gradient
+
+[Previous: #Analysis-Lineare_Algebra-230308_373](Analysis-Lineare_Algebra-230308_373.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_373](Analysis-Lineare_Algebra-230308_373.md)

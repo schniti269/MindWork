@@ -5,9 +5,13 @@ Unterschiedliche Dateiarten
 •Bin¨arprogramme
 
    Tags & Topics:
-   #Makro
-   #Dateiart
-   #Dateiarten
-   #•Bin¨arprogramme
-   #•Objektprogramme
    #Makros
+   #•Bin¨arprogramme
+   #Makro
+   #•Objektprogramme
+   #Dateiarten
+   #Dateiart
+
+[Previous: #BS-Folien_377](BS-Folien_377.md)
+
+[Next: #BS-Folien_377](BS-Folien_377.md)

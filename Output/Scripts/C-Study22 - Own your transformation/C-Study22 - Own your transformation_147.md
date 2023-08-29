@@ -6,3 +6,7 @@ the next two to three years. Many CSCOs are looking
 
    Tags & Topics:
    
+
+[Previous: #C-Study22 - Own your transformation_148](C-Study22 - Own your transformation_148.md)
+
+[Next: #C-Study22 - Own your transformation_148](C-Study22 - Own your transformation_148.md)

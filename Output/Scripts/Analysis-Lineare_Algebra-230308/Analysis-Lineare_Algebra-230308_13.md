@@ -6,3 +6,7 @@ Hier wurde jetzt naiv von Zahlen gesprochen, gemeint sind dabei natürliche Zahl
 
    Tags & Topics:
    #Möchte
+
+[Previous: #Analysis-Lineare_Algebra-230308_130](Analysis-Lineare_Algebra-230308_130.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_130](Analysis-Lineare_Algebra-230308_130.md)

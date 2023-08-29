@@ -6,3 +6,7 @@ free =
 
    Tags & Topics:
    #80−
+
+[Previous: #BS-Uebungen_61](BS-Uebungen_61.md)
+
+[Next: #BS-Uebungen_61](BS-Uebungen_61.md)

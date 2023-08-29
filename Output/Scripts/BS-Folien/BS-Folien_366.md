@@ -5,5 +5,9 @@ Betriebssysteme DHBW Mannheim ©Henning Pagnia Version 4.23 Fr¨uhjahr 2023 BS�
 Abb. 22 Das Working Set ModellProgramm mitLokalit¨ats-
 
    Tags & Topics:
-   #BS–144Speicherverwaltung
    #Kachelanzahl
+   #BS–144Speicherverwaltung
+
+[Previous: #BS-Folien_367](BS-Folien_367.md)
+
+[Next: #BS-Folien_367](BS-Folien_367.md)

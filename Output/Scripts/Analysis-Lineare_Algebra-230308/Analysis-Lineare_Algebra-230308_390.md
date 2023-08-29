@@ -5,8 +5,12 @@ f(x) =cifürx∈(xi−1, xi).
 Für eine positive Treppenfunktion fwie in Abbildung 4.1.1 kann man das geometrische Integral, das
 
    Tags & Topics:
-   #Integral
+   #eineTreppenfunktion
    #4.1.1
    #einetreppenfunktion
+   #Integral
    #Zerlegung
-   #eineTreppenfunktion
+
+[Previous: #Analysis-Lineare_Algebra-230308_391](Analysis-Lineare_Algebra-230308_391.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_391](Analysis-Lineare_Algebra-230308_391.md)

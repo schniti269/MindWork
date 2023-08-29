@@ -6,3 +6,7 @@ sustainability.” Global C-suite Series. 25th Edition.
 
    Tags & Topics:
    #Smarter
+
+[Previous: #C-Study22 - Own your transformation_274](C-Study22 - Own your transformation_274.md)
+
+[Next: #C-Study22 - Own your transformation_274](C-Study22 - Own your transformation_274.md)

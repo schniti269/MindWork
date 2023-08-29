@@ -5,8 +5,12 @@ den Vektor von Qnach Poder jedes Vielfache der beiden verwenden. Daher beschreib
 Darstellungen alle die gleiche Gerade GPQdurch die Punkte PundQ, jedoch mit unterschiedlichem
 
    Tags & Topics:
-   #Darstellung
-   #Darstellungen
    #Vielfache
+   #Darstellungen
    #vielfache
+   #Darstellung
    #PoderQoder
+
+[Previous: #Analysis-Lineare_Algebra-230308_574](Analysis-Lineare_Algebra-230308_574.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_574](Analysis-Lineare_Algebra-230308_574.md)

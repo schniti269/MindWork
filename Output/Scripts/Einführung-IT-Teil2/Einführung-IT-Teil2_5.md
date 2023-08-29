@@ -7,3 +7,7 @@ n-1
    Tags & Topics:
    #Zahlensystem
    #Stellenwertsystem
+
+[Previous: #Einführung-IT-Teil2_50](Einführung-IT-Teil2_50.md)
+
+[Next: #Einführung-IT-Teil2_50](Einführung-IT-Teil2_50.md)

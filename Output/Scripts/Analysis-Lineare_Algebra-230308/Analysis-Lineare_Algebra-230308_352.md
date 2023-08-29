@@ -8,3 +8,7 @@ werden, der bei der Verwendung des Taylorpolynoms auftritt. Soweit eine Funktion
    #Taylorpolynom
    #Rk(x
    #Taylorpolynoms
+
+[Previous: #Analysis-Lineare_Algebra-230308_353](Analysis-Lineare_Algebra-230308_353.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_353](Analysis-Lineare_Algebra-230308_353.md)

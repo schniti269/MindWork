@@ -6,3 +6,7 @@
 
    Tags & Topics:
    
+
+[Previous: #BS-Loesungen_38](BS-Loesungen_38.md)
+
+[Next: #BS-Loesungen_38](BS-Loesungen_38.md)

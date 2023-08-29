@@ -5,16 +5,20 @@ vgl. Homburg 2015, S. 895f.162www.dhbw.deMarketing
 4.4. PlaceDer persönliche Verkauf (2/4) -Gesprächsphasen
 
    Tags & Topics:
-   #Rolle
-   #Verkauf
-   #erwecken§Einteilung
-   #Realisierung
-   #Vertriebsaktivität
    #Kontakt
-   #Gesprächsphas
-   #Gesprächseröffnungs
-   #Vertriebsaktivitäten
-   #4)§Ziel
-   #Sachebenespielt
    #Gesprächsabschlussphase
+   #Gesprächsphas
+   #4)§Ziel
+   #Realisierung
+   #Sachebenespielt
+   #Gesprächseröffnungs
    #Kaufinteresse
+   #Verkauf
+   #Vertriebsaktivität
+   #erwecken§Einteilung
+   #Rolle
+   #Vertriebsaktivitäten
+
+[Previous: #2022_Marketing_Skript_117](2022_Marketing_Skript_117.md)
+
+[Next: #2022_Marketing_Skript_117](2022_Marketing_Skript_117.md)

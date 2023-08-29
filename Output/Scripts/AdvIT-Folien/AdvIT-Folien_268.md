@@ -5,6 +5,10 @@ waiting[threadId]  = true;
 }
 
    Tags & Topics:
-   #waiting[threadId
    #Belegungswunsch
+   #waiting[threadId
    #ﬁles[threadId
+
+[Previous: #AdvIT-Folien_269](AdvIT-Folien_269.md)
+
+[Next: #AdvIT-Folien_269](AdvIT-Folien_269.md)

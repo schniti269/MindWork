@@ -5,8 +5,12 @@ Wissen. Eine Instanz von Information, besteht aus einem oder mehreren Daten, die
 Darstellung von Informationen. Die zur Übermittlung der Informationen zulässigen Zeichen bezeichnet man 
 
    Tags & Topics:
-   #•zeichen
-   #Datenverarbeitung
-   #Bedeutung
-   #•Information
    #•information
+   #•Information
+   #Bedeutung
+   #Datenverarbeitung
+   #•zeichen
+
+[Previous: #Einführung-IT-Teil1_17](Einführung-IT-Teil1_17.md)
+
+[Next: #Einführung-IT-Teil1_17](Einführung-IT-Teil1_17.md)

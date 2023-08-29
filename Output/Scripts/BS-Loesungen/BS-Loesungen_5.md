@@ -5,5 +5,9 @@ Aerh¨alt erneut den Prozessor und f ¨uhrtprinter.p() aus
 Berh¨alt erneut den Prozessor und f ¨uhrtdisk.p() aus
 
    Tags & Topics:
-   #Aerh¨alt
    #Berh¨alt
+   #Aerh¨alt
+
+[Previous: #BS-Loesungen_50](BS-Loesungen_50.md)
+
+[Next: #BS-Loesungen_50](BS-Loesungen_50.md)

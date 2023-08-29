@@ -7,3 +7,7 @@ Aufgabe 1
    Tags & Topics:
    #Prof.
    #Aufgabe
+
+[Previous: #AdvIT-Aufgaben_10](AdvIT-Aufgaben_10.md)
+
+[Next: #AdvIT-Aufgaben_10](AdvIT-Aufgaben_10.md)

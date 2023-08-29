@@ -5,30 +5,34 @@ KeyAccount„MitdemBegriffKeyAccountbezeichnenwirsolcheKunden(inderRegelFirmenku
 4.4. PlaceKey Account -Selektionskriterien
 
    Tags & Topics:
-   #inderRegelFirmenkunden),dieaufgrundihrestatsächlichenoderpotenziellenEinkaufsvolumensfürdasUnternehmenvongroßerBedeutungsind.“vgl
-   #Service
+   #157www.dhbw.deMarketing
    #MitdemBegriffKeyAccountbezeichnenwirsolcheKunden
-   #Entwicklungsprojekte
-   #Managementkonzept
-   #Produktvariant
-   #Vorstand
-   #Aufgaben
-   #Aspekte
-   #Beziehungspfleg
-   #Unternehmens,§ist
-   #Entwicklungsprojekt
-   #Aufgabe
-   #Produktvarianten
-   #Kontakte,§bündelt
    #Leistung
+   #Beziehungspfleg
+   #Jense
+   #Jensen
+   #Beziehungspflege
+   #Aufgabe
+   #vorstand
+   #Produktvarianten
+   #Entwicklungsprojekte
+   #Leistungen
+   #Produktvariant
    #Aspekt
    #Vorstand-zu-Vorstand-Kontakte,§bündelt
-   #Jense
-   #vorstand
-   #Services
-   #Jensen
-   #keyaccount„mitdembegriffkeyaccountbezeichnenwirsolchekunden(inderregelfirmenkunden),dieaufgrundihrestatsächlichenoderpotenzielleneinkaufsvolumensfürdasunternehmenvongroßerbedeutungsind
-   #Beziehungspflege
-   #157www.dhbw.deMarketing
-   #Leistungen
+   #Vorstand
+   #Managementkonzept
+   #Entwicklungsprojekt
+   #Aufgaben
+   #Service
+   #inderRegelFirmenkunden),dieaufgrundihrestatsächlichenoderpotenziellenEinkaufsvolumensfürdasUnternehmenvongroßerBedeutungsind.“vgl
+   #Unternehmens,§ist
    #KAM
+   #Kontakte,§bündelt
+   #Services
+   #Aspekte
+   #keyaccount„mitdembegriffkeyaccountbezeichnenwirsolchekunden(inderregelfirmenkunden),dieaufgrundihrestatsächlichenoderpotenzielleneinkaufsvolumensfürdasunternehmenvongroßerbedeutungsind
+
+[Previous: #2022_Marketing_Skript_114](2022_Marketing_Skript_114.md)
+
+[Next: #2022_Marketing_Skript_114](2022_Marketing_Skript_114.md)

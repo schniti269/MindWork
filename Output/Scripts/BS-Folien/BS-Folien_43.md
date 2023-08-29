@@ -5,8 +5,12 @@ programmgesteuerter Universalrechner!
 Betriebssysteme DHBW Mannheim ©Henning Pagnia Version 4.23 Fr¨uhjahr 2023 BS–19Einleitung Hardware-Grundlagen
 
    Tags & Topics:
-   #Universalrechner
-   #BS–19Einleitung
    #Maschinenarchitektur
-   #⇒DatenUNDProgramm
    #Hardware
+   #⇒DatenUNDProgramm
+   #BS–19Einleitung
+   #Universalrechner
+
+[Previous: #BS-Folien_430](BS-Folien_430.md)
+
+[Next: #BS-Folien_430](BS-Folien_430.md)

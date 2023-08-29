@@ -6,3 +6,7 @@ com/magazine/2021/10/04/the-supply-chain-mystery
 
    Tags & Topics:
    #Yorker
+
+[Previous: #C-Study22 - Own your transformation_288](C-Study22 - Own your transformation_288.md)
+
+[Next: #C-Study22 - Own your transformation_288](C-Study22 - Own your transformation_288.md)

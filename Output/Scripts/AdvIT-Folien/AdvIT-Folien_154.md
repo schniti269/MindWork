@@ -7,3 +7,7 @@ Prof. Dr. Henning Pagnia (DHBW Mannheim) Advanced IT Herbst 2023 52/132Speicherb
    Tags & Topics:
    #Anfang
    #anf(b)≤end(a
+
+[Previous: #AdvIT-Folien_155](AdvIT-Folien_155.md)
+
+[Next: #AdvIT-Folien_155](AdvIT-Folien_155.md)

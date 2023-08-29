@@ -5,6 +5,10 @@ tiﬁziert werden.
 Betriebssysteme DHBW Mannheim ©Henning Pagnia Version 4.23 Fr¨uhjahr 2023 BS–141Speicherverwaltung Prozesse und virtueller Speicher
 
    Tags & Topics:
-   #Suspend
    #warten
+   #Suspend
    #Warten
+
+[Previous: #BS-Folien_359](BS-Folien_359.md)
+
+[Next: #BS-Folien_359](BS-Folien_359.md)

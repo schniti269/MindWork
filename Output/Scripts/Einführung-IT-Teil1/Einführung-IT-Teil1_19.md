@@ -5,12 +5,16 @@ durch ein Modell ersetzt.
 •Das Modell beschreibt mit logischen Begriffen reale oder auch nur gedachte (abstrakte) Objekte 
 
    Tags & Topics:
-   #Dinge
-   #Ablauf
-   #Abläufe
-   #Modellbildung
-   #Ausschnitt
    #Sonderzeichen
-   #Ding
    #Welt
+   #Ausschnitt
+   #Abläufe
+   #Dinge
+   #Ding
    #Aspekt
+   #Modellbildung
+   #Ablauf
+
+[Previous: #Einführung-IT-Teil1_2](Einführung-IT-Teil1_2.md)
+
+[Next: #Einführung-IT-Teil1_2](Einführung-IT-Teil1_2.md)

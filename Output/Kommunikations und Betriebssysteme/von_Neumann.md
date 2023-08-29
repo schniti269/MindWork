@@ -1,147 +1,203 @@
-# ## #von #Neumann #
+### von Neumann
 
- - #Bus #
+- Bus
 
-	 - #Datenbus 
-	 - #Adressbus 
-	 - #Steuerbus 
+	- Datenbus
+	- Adressbus
+	- Steuerbus
 
- - #EA #Geräte 
+- EA Geräte
 
-	 - #Oft unabhängig #von #Prozessor #
-	 - eigene #Controller 
-	 - #Direct Memory #Access 
+	- Oft unabhängig von Prozessor
+	- eigene Controller
+	- Direct Memory Access
 
-		 - #Auslesen #und #eingeben #
-		 - ohne #Mithilfe vom #Prozessor 
+		- Auslesen und eingeben
+		- ohne Mithilfe vom Prozessor
 
- - Speicher 
+- Speicher
 
-	 - #Hauptspeicher 
+	- Hauptspeicher
 
-		 - Byte #orientiert 
-		 - #Wort #orientiert #
-		 - #Kapazität 
+		- Byte orientiert
+		- Wort orientiert
+		- Kapazität
 
-			 - #KiB 
+			- KiB
 
-				 - 2 ^ #10 
+				- 2^10
 
-			 - #KB 
+			- KB
 
-				 - #1000 #Byte 
+				- 1000 Byte
 
-	 - #Cache 
+	- Cache
 
-		 - #Kaskadierend 
+		- Kaskadierend
 
-			 - #L1 
-			 - #L2 
-			 - #L3 #
+			- L1
+			- L2
+			- L3
 
-		 - #Koherenz #
+		- Koherenz
 
-			 - #Write back 
-			 - Write through 
-			 - #Snoopy 
+			- Write back
+			- Write through
+			- Snoopy
 
-	 - #RAM 
+	- RAM
 
- - #Interruption 
+- Interruption
 
-	 - #Ursachen 
+	- Ursachen
 
-		 - #Synchron 
+		- Synchron
 
-			 - #Programmbezogen 
+			- Programmbezogen
 
-				 - #Fehler 
+				- Fehler
 
-		 - #Asynchron 
+		- Asynchron
 
-			 - #Systembezogeb 
+			- Systembezogeb
 
-				 - #Hardware 
+				- Hardware
 
-	 - Wirkung #
+	- Wirkung
 
-		 - #Unterbrechung 
-		 - Welcher #code ? 
+		- Unterbrechung
+		- Welcher code ?
 
-			 - interrupt #Vektor aus #Tabelle 
+			- interrupt Vektor aus Tabelle
 
-		 - #Nach abarbeiten #weitermachen As Usual #
+		- Nach abarbeiten weitermachen As Usual
 
-	 - zulassen #oder unterbinden 
+	- zulassen oder unterbinden
 
-		 - #IRR 
+		- IRR
 
-			 - #Anforderung 
+			- Anforderung
 
-		 - #IER 
+		- IER
 
-			 - #Erlaubnis 
+			- Erlaubnis
 
-		 - #Prioritäten #Konzept 
+		- Prioritäten Konzept
 
- - #Prozessor 
+- Prozessor
 
-	 - #Register 
+	- Register
 
-		 - #Mehrzweckhalle 
-		 - #Gleitpunkt 
-		 - Steuer 
+		- Mehrzweckhalle
+		- Gleitpunkt
+		- Steuer
 
-			 - #Befehlszähler 
-			 - #Befehls #Register 
-			 - Kellerregister 
+			- Befehlszähler
+			- Befehls Register
+			- Kellerregister
 
-		 - #Dopplung #der #Register 
+		- Dopplung der Register
 
-			 - #virtuelle #Prozessorkerne 
-			 - #Wechsel #zwischen #den #Registern 
+			- virtuelle Prozessorkerne
+			- Wechsel zwischen den Registern
 
-	 - Rechenwerk 
-	 - Steuerwerk 
-	 - #Prozessor #Zustand 
+	- Rechenwerk
+	- Steuerwerk
+	- Prozessor Zustand 
 
-		 - #Maschienenzustand 
+		- Maschienenzustand
 
-			 - #An 
-			 - #Aus 
-			 - #Boot #
+			- An 
+			- Aus
+			- Boot
 
-		 - #Funktionszustand 
+		- Funktionszustand
 
-			 - #Gültiger #registersatz #
+			- Gültiger registersatz
 
-		 - #Privilegien 
+		- Privilegien
 
-			 - #Zugriffs schutzkonzept #
+			- Zugriffs schutzkonzept
 
-				 - #Virtuelle #Adressen #
+				- Virtuelle Adressen
 
-			 - #Usermode #
+			- Usermode
 
-				 - #Eingeschränkte #Befehle 
+				- Eingeschränkte Befehle
 
-			 - Privileged 
+			- Privileged
 
-				 - #Alle #Befehle 
+				- Alle Befehle
 
- - #System #Calls 
+- System Calls
 
-	 - #benutzerprogramme #aus #Routinen 
-	 - Fork #
+	- benutzerprogramme aus Routinen
+	- Fork
 
-		 - #Erzeugen eines #Kindprozesses 
+		- Erzeugen eines Kindprozesses
 
-	 - #Wait #Pid 
+	- Wait Pid
 
-		 - #Warten bis #kindprozess #beendet 
+		- Warten bis kindprozess beendet
 
-	 - #Exit #
+	- Exit
 
-		 - #Rausgehen 
+		- Rausgehen
 
-	 - #( #Linux #Kommandos #) 
+	- (Linux Kommandos)
+
+   Tags & Topics:
+   #Exit
+   #Ursachen
+   #Programmbezogen
+   #Erzeugen
+   #Write
+   #Privilegien
+   #Hauptspeicher
+   #Erlaubnis
+   #Befehl
+   #Mehrzweckhalle
+   #Kaskadierend
+   #Warten
+   #Controller
+   #Anforderung
+   #Kellerregister
+   #Wechsel
+   #Funktionszustand
+   #Auslesen
+   #Prozessorkerne
+   #Rausgehen
+   #Gleitpunkt
+   #Wort
+   #Maschienenzustand
+   #Fork
+   #exit
+   #Privileg
+   #Usermode
+   #Privileged
+   #Erzeug
+   #Writ
+   #Adressbus
+   #Boot
+   #Unterbrechung
+   #Ursache
+   #Steuerwerk
+   #warten
+   #Welcher
+   #Speicher
+   #Steuer
+   #Kindprozess
+   #Wirkung
+   #Zugriff
+   #Systembezogeb
+   #Steuerbus
+   #kindprozesse
+   #Zugriffs
+   #Dopplung
+   #Programmbezog
+   #Vektor
+   #Fehler
+   #auslesen
+   #Register
+   #Interruption
+   #Koherenz

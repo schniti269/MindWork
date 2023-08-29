@@ -6,3 +6,7 @@ Prozessverwaltung
 
    Tags & Topics:
    #⋄Dispatcher
+
+[Previous: #BS-Folien_80](BS-Folien_80.md)
+
+[Next: #BS-Folien_80](BS-Folien_80.md)

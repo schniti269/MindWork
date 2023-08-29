@@ -7,3 +7,7 @@ Beispiel : 2789 = 2 x103+ 7 x 102+ 8 x 101+ 9 x 100Dezimalsystem/2
    Tags & Topics:
    #Dezimalbrüch
    #Dezimalbrüche
+
+[Previous: #Einführung-IT-Teil2_11](Einführung-IT-Teil2_11.md)
+
+[Next: #Einführung-IT-Teil2_11](Einführung-IT-Teil2_11.md)

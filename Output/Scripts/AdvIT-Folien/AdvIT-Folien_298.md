@@ -6,3 +6,7 @@ Beispiel: Leser-Schreiber-Problem (mit Leserpriorit ¨at)
 
    Tags & Topics:
    
+
+[Previous: #AdvIT-Folien_299](AdvIT-Folien_299.md)
+
+[Next: #AdvIT-Folien_299](AdvIT-Folien_299.md)

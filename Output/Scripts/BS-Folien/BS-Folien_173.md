@@ -5,10 +5,14 @@ Anwendungsprogramme.
 •Umlaufzeit (Turnaround Time ): Zeit zwischen zwei Aktivierungen desselben Prozesses.
 
    Tags & Topics:
-   #•Durchsatz
-   #•Umlaufzeit
-   #Turnaround
    #Anwendungsprogramme
-   #Gesamtverweildauer
    #•Prozessorauslastung
+   #•Umlaufzeit
    #Auslastung
+   #•Durchsatz
+   #Gesamtverweildauer
+   #Turnaround
+
+[Previous: #BS-Folien_174](BS-Folien_174.md)
+
+[Next: #BS-Folien_174](BS-Folien_174.md)

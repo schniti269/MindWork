@@ -6,3 +6,7 @@ x→x0xn−xn
 
    Tags & Topics:
    
+
+[Previous: #Analysis-Lineare_Algebra-230308_328](Analysis-Lineare_Algebra-230308_328.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_328](Analysis-Lineare_Algebra-230308_328.md)

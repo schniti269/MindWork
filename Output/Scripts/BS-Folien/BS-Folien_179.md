@@ -6,7 +6,11 @@ Sp¨ater liegen dann vorwiegend E/A-intensive Prozesse vor.
 
    Tags & Topics:
    #Festplatte
-   #Systemauslastung
-   #Sp¨ater
-   #A-Auftr
    #→konvoi
+   #A-Auftr
+   #Sp¨ater
+   #Systemauslastung
+
+[Previous: #BS-Folien_18](BS-Folien_18.md)
+
+[Next: #BS-Folien_18](BS-Folien_18.md)

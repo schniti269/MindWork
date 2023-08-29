@@ -5,16 +5,20 @@ Betriebssysteme DHBW Mannheim ©Henning Pagnia Version 4.23 Fr¨uhjahr 2023 BS�
 Bestandteile des Prozessors
 
    Tags & Topics:
-   #Bestandteil
+   #Strategien
    #Koh
    #Throu
-   #Write-Throu
-   #back
    #Cache-Strategien
-   #Strategien
-   #Bestandteile
-   #Write
    #Write-Back
-   #⋄(Festplatte
+   #back
    #Hardware
+   #Write
+   #Write-Throu
+   #Bestandteil
    #Cache-Koh
+   #Bestandteile
+   #⋄(Festplatte
+
+[Previous: #BS-Folien_58](BS-Folien_58.md)
+
+[Next: #BS-Folien_58](BS-Folien_58.md)

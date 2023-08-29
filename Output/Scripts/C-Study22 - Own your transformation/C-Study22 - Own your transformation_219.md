@@ -7,3 +7,7 @@ learnings. There’s a lot of short-term, ad hoc firefighting
    Tags & Topics:
    #actionsdestination
    #actionsDestination
+
+[Previous: #C-Study22 - Own your transformation_22](C-Study22 - Own your transformation_22.md)
+
+[Next: #C-Study22 - Own your transformation_22](C-Study22 - Own your transformation_22.md)

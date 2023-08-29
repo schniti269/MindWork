@@ -7,3 +7,7 @@ Liste aller nicht von Dateien belegten Speicherbereiche de r Platte.
    Tags & Topics:
    #BS–158Dateisystem
    #bs–158dateisysteme
+
+[Previous: #BS-Folien_401](BS-Folien_401.md)
+
+[Next: #BS-Folien_401](BS-Folien_401.md)

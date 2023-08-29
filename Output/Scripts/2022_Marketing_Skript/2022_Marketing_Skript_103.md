@@ -5,31 +5,35 @@ Budgetallokation (Mediaplanung / Streuplanung)Befasst sich mit der Verteilung ei
 Fragestellungen§Verteilung auf verschiedene Kategorien von Kommunikationsmedien (Intermedienverteilung)§Verteilung auf einzelne Kommunikationsmedien (Intramedienverteilung)§Zeitliche Verteilung§Geografische VerteilungKriterien zur Beurteilung von Medien§Verbreitung des Mediums (z.B. Auflage)§Reichweite des Mediums (z.B. Bruttoreichweite)§Kosten des Mediums (z.B. TKP)4.3. PromotionMediaplanung: Budgetallokation
 
    Tags & Topics:
-   #Streuplanung
-   #Fragestellungen§Verteilung
    #Fragestellungen§Wie
+   #Gesamtauf
    #Einsatz
+   #Kommunikationsinstrumente
    #AnsätzeAnalytische
+   #Streuplanung
+   #Medium
+   #Höhe
+   #Absatzmenge
+   #Beziehung
+   #Mediums
    #Intermedienverteilung)§Verteilung
    #Funktionen§Werbeelastizität4.3
-   #Medium
    #Streuplanung)Befasst
-   #kommunikationsinstrument
-   #AnsätzeHeuristische
-   #Beziehung
-   #Gesamtauf
-   #TKP)4.3
-   #Absatzmenge
    #Gesamtauf-wendungenfür
-   #Höhe
-   #Auflage)§Reichweite
-   #Mediaplanung
-   #Gesamtaufwendungen
-   #Mediums
-   #Ansätze§Werbe
-   #Bruttoreichweite)§Kosten
-   #VerteilungKriterien
-   #Kommunikationsinstrumente
    #Response
-   #Geschäftsjahr
+   #kommunikationsinstrument
+   #VerteilungKriterien
+   #Fragestellungen§Verteilung
+   #Gesamtaufwendungen
+   #Ansätze§Werbe
+   #Mediaplanung
    #Gesamtaufwendunge
+   #TKP)4.3
+   #Auflage)§Reichweite
+   #AnsätzeHeuristische
+   #Geschäftsjahr
+   #Bruttoreichweite)§Kosten
+
+[Previous: #2022_Marketing_Skript_104](2022_Marketing_Skript_104.md)
+
+[Next: #2022_Marketing_Skript_104](2022_Marketing_Skript_104.md)

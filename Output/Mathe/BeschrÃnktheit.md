@@ -1,16 +1,19 @@
-# ## #Beschränktheit 
+### Beschränktheit
 
- - in #einem #Bestimmten #Bereich 
+- in einem Bestimmten Bereich
 
 
 
- #LÜCKE 
- - Bei #Bruch 
+LÜCKE
+- Bei Bruch 
 
-	 - #Überm #Bruch 
+	- Überm Bruch
 
-		 - Maximal #und minimal #wert des #Thema 
+		- Maximal und minimal wert des Thema
 
-	 - Unterm #Bruch 
+	- Unterm Bruch
 
-		 - Maximal #und minimal #wert des #therms 
+		- Maximal und minimal wert des therms 
+
+   Tags & Topics:
+   #Thema

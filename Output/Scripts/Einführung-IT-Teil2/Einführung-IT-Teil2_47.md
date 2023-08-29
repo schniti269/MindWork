@@ -5,7 +5,11 @@ Byte 1 Byte 2 Byte 3         Byte 4Binäre Arithmetik
 •Die Rechenregeln für Binärzahlen sind ganz analog zu den Rechenregeln für Dezimalzahlen definiert.
 
    Tags & Topics:
-   #Arithmetik
-   #Vorzeichen
    #Rechenregel
    #3.Schritt
+   #Arithmetik
+   #Vorzeichen
+
+[Previous: #Einführung-IT-Teil2_48](Einführung-IT-Teil2_48.md)
+
+[Next: #Einführung-IT-Teil2_48](Einführung-IT-Teil2_48.md)

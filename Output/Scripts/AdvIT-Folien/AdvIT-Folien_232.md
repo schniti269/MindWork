@@ -5,7 +5,11 @@ Prof. Dr. Henning Pagnia (DHBW Mannheim) Advanced IT Herbst 2023 75/132Speicherb
 Leser-Schreiber-Problem (Forts.)
 
    Tags & Topics:
+   #Problems
+   #Problem
    #Leserpriorit
    #75/132Speicherbasierte
-   #Problem
-   #Problems
+
+[Previous: #AdvIT-Folien_233](AdvIT-Folien_233.md)
+
+[Next: #AdvIT-Folien_233](AdvIT-Folien_233.md)

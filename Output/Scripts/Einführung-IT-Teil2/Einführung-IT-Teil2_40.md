@@ -5,13 +5,17 @@ Führende Nullen werden unterdrückt.
 der Computertechnik seit Zuse üblich sind Gleitkommazahlen in halblogarithmischer Darstellung. 
 
    Tags & Topics:
-   #Nullen
-   #günstiger
-   #Übungsaufgabe
-   #Nulle
-   #•Für
    #Günstiger
+   #Nullen
+   #Übungsaufgabe
+   #Festkommazahlen
    #Festkommazahle
+   #•Für
+   #günstiger
+   #Nulle
    #Gleitkommazahle
    #dezGleitkommazahlen
-   #Festkommazahlen
+
+[Previous: #Einführung-IT-Teil2_41](Einführung-IT-Teil2_41.md)
+
+[Next: #Einführung-IT-Teil2_41](Einführung-IT-Teil2_41.md)

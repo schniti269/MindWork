@@ -5,5 +5,9 @@ zugewiesen und erzielten einen signifikant besseren Lernerfolg, wenn sie durch
 Prompts beim Anfertigen einer Concept Map unterstützt wurden. Gemischte Prompts 
 
    Tags & Topics:
-   #Durchschnittsalter
    #Versuchsgruppe
+   #Durchschnittsalter
+
+[Previous: #4 Forschungsstrategien_7](4 Forschungsstrategien_7.md)
+
+[Next: #4 Forschungsstrategien_7](4 Forschungsstrategien_7.md)

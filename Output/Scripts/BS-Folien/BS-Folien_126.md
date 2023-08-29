@@ -6,6 +6,10 @@ Unterbrechungen k ¨onnen nur im privilegierten Zustand gesperrt werden.⇒Syste
 
    Tags & Topics:
    #werden.⇒System
+   #werden.⇒system
    #Verlust
    #A-Operatione
-   #werden.⇒system
+
+[Previous: #BS-Folien_127](BS-Folien_127.md)
+
+[Next: #BS-Folien_127](BS-Folien_127.md)

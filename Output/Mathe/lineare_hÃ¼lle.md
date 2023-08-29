@@ -1,3 +1,6 @@
-# ## lineare #hülle 
+### lineare hülle
 
- - #alle #erreichbaren punkte #durch #lineares kombinieren #der #vektoren #
+- alle erreichbaren punkte durch lineares kombinieren der vektoren
+
+   Tags & Topics:
+   #hülle

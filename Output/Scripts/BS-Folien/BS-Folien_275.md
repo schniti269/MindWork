@@ -7,3 +7,7 @@ Verarbeiten einer Anforderung der L ¨angel·2i(aufgerundet):
    Tags & Topics:
    #Verarbeite
    #Falls
+
+[Previous: #BS-Folien_276](BS-Folien_276.md)
+
+[Next: #BS-Folien_276](BS-Folien_276.md)

@@ -6,3 +6,7 @@ Prof. Dr. Henning Pagnia
 
    Tags & Topics:
    #Fr¨uhjahr
+
+[Previous: #BS-Folien_10](BS-Folien_10.md)
+
+[Next: #BS-Folien_10](BS-Folien_10.md)

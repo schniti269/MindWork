@@ -5,7 +5,11 @@ Betriebssysteme – L ¨osungsvorschl ¨age Fr¨uhjahr 2023 ©Henning Pagnia/J �
 Visualisierung der Zugriﬀe
 
    Tags & Topics:
-   #Benutzergruppe
    #Dateischutz
-   #DATEISCHUTZ
    #Unix-Dateischutz
+   #DATEISCHUTZ
+   #Benutzergruppe
+
+[Previous: #BS-Loesungen_44](BS-Loesungen_44.md)
+
+[Next: #BS-Loesungen_44](BS-Loesungen_44.md)

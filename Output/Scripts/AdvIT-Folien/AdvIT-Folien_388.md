@@ -6,7 +6,11 @@ UDP-Sockets (Forts.)
 
    Tags & Topics:
    #Position
-   #getbyte
    #127/132Server
-   #position
+   #getbyte
    #getByt
+   #position
+
+[Previous: #AdvIT-Folien_389](AdvIT-Folien_389.md)
+
+[Next: #AdvIT-Folien_389](AdvIT-Folien_389.md)

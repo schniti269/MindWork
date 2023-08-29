@@ -6,3 +6,7 @@ in ten say their value streams will be transformed by
 
    Tags & Topics:
    
+
+[Previous: #C-Study22 - Own your transformation_128](C-Study22 - Own your transformation_128.md)
+
+[Next: #C-Study22 - Own your transformation_128](C-Study22 - Own your transformation_128.md)

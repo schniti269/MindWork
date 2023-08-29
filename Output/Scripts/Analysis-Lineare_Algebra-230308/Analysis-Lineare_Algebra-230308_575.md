@@ -6,3 +6,7 @@
 
    Tags & Topics:
    #λ∈R}={x=
+
+[Previous: #Analysis-Lineare_Algebra-230308_576](Analysis-Lineare_Algebra-230308_576.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_576](Analysis-Lineare_Algebra-230308_576.md)

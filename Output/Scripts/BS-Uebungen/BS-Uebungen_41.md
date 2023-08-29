@@ -6,5 +6,9 @@
 
    Tags & Topics:
    #Best-Fit-Strategie
-   #A37
    #A15
+   #A37
+
+[Previous: #BS-Uebungen_42](BS-Uebungen_42.md)
+
+[Next: #BS-Uebungen_42](BS-Uebungen_42.md)

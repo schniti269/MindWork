@@ -5,15 +5,19 @@ Hinweis:¨UbergebenSieeinefortlaufendeIDandieWorker,sodassjede rWorkerberechnenk
 Ausschnitt des Arrays er bearbeiten muss.
 
    Tags & Topics:
-   #Summenbildung
    #Array
-   #Vorgehen
-   #Threads
    #Ausschnitt
-   #Worker
-   #Thr
-   #Summe
+   #Vorgehen
    #Haupt
+   #Worker
    #Hinweis:¨UbergebenSieeinefortlaufendeIDandieWorker
-   #Arrays
+   #Thr
    #vorgehen
+   #Threads
+   #Summenbildung
+   #Summe
+   #Arrays
+
+[Previous: #AdvIT-Aufgaben_16](AdvIT-Aufgaben_16.md)
+
+[Next: #AdvIT-Aufgaben_16](AdvIT-Aufgaben_16.md)

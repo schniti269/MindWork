@@ -5,8 +5,12 @@ Mathematik: Aufgaben, Hinweise, Lösungen und Lösungswege . Springer Berlin Hei
 [2]Arens, T. ,F. Hettlich ,C. Karpfinger ,U. Kockelkorn ,K. Lichtenegger undH. Stachel :Mathema-
 
    Tags & Topics:
-   #Arbeitsbuch
-   #Mathema-
-   #Hinweis
-   #Hinweise
    #Lösungsweg
+   #Mathema-
+   #Hinweise
+   #Arbeitsbuch
+   #Hinweis
+
+[Previous: #Analysis-Lineare_Algebra-230308_776](Analysis-Lineare_Algebra-230308_776.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_776](Analysis-Lineare_Algebra-230308_776.md)

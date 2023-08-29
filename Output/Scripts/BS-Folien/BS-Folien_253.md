@@ -5,13 +5,17 @@ hohe AdresseProgrammbereich 4Programmbereich 3Programmbereich 2Programmbereich 1
 L¨ange l4L¨ange l3L¨ange l2L¨ange l1
 
    Tags & Topics:
+   #Grundeinheit
+   #l2L¨ange
+   #Bereiches
    #Bereich
    #AdresseProgrammbereich
-   #l2L¨ange
-   #l4L¨ange
+   #Vielfaches
+   #l3L¨ange
    #Adresse
    #vielfache
-   #Bereiches
-   #l3L¨ange
-   #Grundeinheit
-   #Vielfaches
+   #l4L¨ange
+
+[Previous: #BS-Folien_254](BS-Folien_254.md)
+
+[Next: #BS-Folien_254](BS-Folien_254.md)

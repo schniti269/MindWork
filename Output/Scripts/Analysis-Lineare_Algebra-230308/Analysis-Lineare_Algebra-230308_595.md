@@ -5,5 +5,9 @@ Gleichungssystem in Rkals die Suche nach allen Punkten sehen, die auf allen den 
 der Form
 
    Tags & Topics:
-   #eineHyperebene
    #Hyperebenen
+   #eineHyperebene
+
+[Previous: #Analysis-Lineare_Algebra-230308_596](Analysis-Lineare_Algebra-230308_596.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_596](Analysis-Lineare_Algebra-230308_596.md)

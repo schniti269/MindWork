@@ -5,10 +5,14 @@ Dialogbetrieb (→interaktive Anwendungen)
 tion durch eine Benutzereingabe wieder ausf ¨uhrbar sind.
 
    Tags & Topics:
-   #Benutzereingaben
-   #Betriebssystem
+   #Benutzereingabe
    #Betriebsarten
    #Betriebsart
+   #Betriebssystem
    #Reaktion
-   #Benutzereingabe
+   #Benutzereingaben
    #•Unterst¨utzung
+
+[Previous: #BS-Folien_168](BS-Folien_168.md)
+
+[Next: #BS-Folien_168](BS-Folien_168.md)

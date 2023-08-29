@@ -6,3 +6,7 @@ Exkurs: Exception Handling in Java
 
    Tags & Topics:
    #Gegenseitiger
+
+[Previous: #AdvIT-Folien_172](AdvIT-Folien_172.md)
+
+[Next: #AdvIT-Folien_172](AdvIT-Folien_172.md)

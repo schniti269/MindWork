@@ -6,3 +6,7 @@ return y / 2 + 1 / ( 2 * a * y );
 
    Tags & Topics:
    
+
+[Previous: #Analysis-Lineare_Algebra-230308_631](Analysis-Lineare_Algebra-230308_631.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_631](Analysis-Lineare_Algebra-230308_631.md)

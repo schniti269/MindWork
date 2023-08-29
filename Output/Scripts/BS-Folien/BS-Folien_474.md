@@ -6,6 +6,10 @@ Datenstruktur (Datei) zur Verwaltung der Metainformation en pro Partition
 
    Tags & Topics:
    #BS–190Dateisystem
+   #bs–190dateisysteme
    #Metainformation
    #Komprimierung
-   #bs–190dateisysteme
+
+[Previous: #BS-Folien_475](BS-Folien_475.md)
+
+[Next: #BS-Folien_475](BS-Folien_475.md)

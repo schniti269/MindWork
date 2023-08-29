@@ -5,6 +5,10 @@ Prof. Dr. Henning Pagnia (DHBW Mannheim) Advanced IT Herbst 2023 117/132Server-P
 Filter-Streams
 
    Tags & Topics:
-   #Filter
-   #117/132Server
    #Weiterleiten
+   #117/132Server
+   #Filter
+
+[Previous: #AdvIT-Folien_362](AdvIT-Folien_362.md)
+
+[Next: #AdvIT-Folien_362](AdvIT-Folien_362.md)

@@ -1,20 +1,37 @@
-# ## #Syntax 
+### Syntax
 
- - #Bestandteile 
+- Bestandteile
 
-	 - #Anweisungen 
+	- Anweisungen
 
-		 - #Operationen 
+		- Operationen
 
-			 - #Zuweisungen 
-			 - #Rechen 
-			 - #Logisch 
-			 - #Vergleich 
+			- Zuweisungen 
+			- Rechen
+			- Logisch 
+			- Vergleich
 
-	 - #Token 
-	 - Literale 
-	 - #Flags 
-	 - #Acessmodifier 
+	- Token
+	- Literale
+	- Flags
+	- Acessmodifier
 
-		 - Private 
-		 - Public 
+		- Private
+		- Public
+
+   Tags & Topics:
+   #Flag
+   #Operation
+   #Token
+   #Anweisungen
+   #Flags
+   #Zuweisung
+   #Literale
+   #Reche
+   #Bestandteil
+   #Anweisung
+   #Acessmodifier
+   #Zuweisungen
+   #Rechen
+   #Bestandteile
+   #Operationen

@@ -5,5 +5,9 @@ Synchronisationsgraph: Ausschluss
 ✚✙✛✘
 
    Tags & Topics:
-   #50/132Speicherbasierte
    #Darstellung
+   #50/132Speicherbasierte
+
+[Previous: #AdvIT-Folien_15](AdvIT-Folien_15.md)
+
+[Next: #AdvIT-Folien_15](AdvIT-Folien_15.md)

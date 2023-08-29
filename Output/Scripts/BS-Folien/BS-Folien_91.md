@@ -7,3 +7,7 @@ Es gibt viele unterschiedliche Blockiertzust ¨ande (einen pro Ereignis, auf das
    Tags & Topics:
    #Ereignis
    #Blockiertzust
+
+[Previous: #BS-Folien_92](BS-Folien_92.md)
+
+[Next: #BS-Folien_92](BS-Folien_92.md)

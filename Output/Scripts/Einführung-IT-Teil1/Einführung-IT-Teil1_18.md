@@ -5,10 +5,14 @@
 •Numerische Daten: Informationen werden durch Ziffern dargestellt.
 
    Tags & Topics:
-   #Veränderung
-   #Stammdat
-   #Grunddaten
-   #Veränderungen
-   #Stammdaten
-   #Grunddate
    #Betrieb
+   #Stammdaten
+   #Stammdat
+   #Grunddate
+   #Veränderungen
+   #Grunddaten
+   #Veränderung
+
+[Previous: #Einführung-IT-Teil1_19](Einführung-IT-Teil1_19.md)
+
+[Next: #Einführung-IT-Teil1_19](Einführung-IT-Teil1_19.md)

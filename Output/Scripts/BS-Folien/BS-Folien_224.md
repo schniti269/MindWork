@@ -5,7 +5,11 @@ ioWait
 ioItrHandler
 
    Tags & Topics:
+   #A-Schnittstell
    #Asynchrone
    #A-OperationProzessverwaltung
    #OperationProzessverwaltung
-   #A-Schnittstell
+
+[Previous: #BS-Folien_225](BS-Folien_225.md)
+
+[Next: #BS-Folien_225](BS-Folien_225.md)

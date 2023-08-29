@@ -5,8 +5,12 @@ implementiert in C ⇒portierbar
 netzwerkf¨ahig (TCP/IP)
 
    Tags & Topics:
-   #pc
    #Mainframes
-   #Architekturen
-   #PCs
    #Mainframe
+   #PCs
+   #Architekturen
+   #pc
+
+[Previous: #BS-Folien_300](BS-Folien_300.md)
+
+[Next: #BS-Folien_300](BS-Folien_300.md)

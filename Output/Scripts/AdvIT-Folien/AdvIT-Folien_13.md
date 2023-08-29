@@ -5,11 +5,15 @@ Hintergrund, Verkettung ¨uber Pipes
 Abbruch eines Programms mittels Ctrl-C
 
    Tags & Topics:
-   #Verkettung
-   #Programm
-   #Abbruch
    #Funktion
+   #Programm
    #Programms
-   #Hintergrund
-   #Funktionen
    #Ctrl
+   #Abbruch
+   #Funktionen
+   #Verkettung
+   #Hintergrund
+
+[Previous: #AdvIT-Folien_130](AdvIT-Folien_130.md)
+
+[Next: #AdvIT-Folien_130](AdvIT-Folien_130.md)

@@ -6,3 +6,7 @@ Creativity in a crunch
 
    Tags & Topics:
    #automationFigur
+
+[Previous: #C-Study22 - Own your transformation_42](C-Study22 - Own your transformation_42.md)
+
+[Next: #C-Study22 - Own your transformation_42](C-Study22 - Own your transformation_42.md)

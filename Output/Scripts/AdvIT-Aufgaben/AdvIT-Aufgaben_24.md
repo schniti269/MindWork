@@ -5,11 +5,15 @@ Advanced IT DHBW Mannheim ©Prof. Dr. Henning Pagnia Version 1.2a Herbst 2023 ¨
 L¨osungsvorschlag:
 
    Tags & Topics:
-   #Meldung
+   #Absender
    #Client
    #¨u–14aufgabe
+   #Meldungen
    #L¨osungsvorschlag
    #Adresse
-   #Meldungen
+   #Meldung
    #¨U–14Aufgabe
-   #Absender
+
+[Previous: #AdvIT-Aufgaben_25](AdvIT-Aufgaben_25.md)
+
+[Next: #AdvIT-Aufgaben_25](AdvIT-Aufgaben_25.md)

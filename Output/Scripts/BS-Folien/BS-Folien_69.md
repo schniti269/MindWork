@@ -5,11 +5,15 @@ fortgesetzt
 Setzen eines Bits im Unterbrechungs anforderungs register (IRR)
 
    Tags & Topics:
-   #Sprungtabelle
+   #Setze
+   #Calls
    #Programm
    #Verbiet
-   #Calls
-   #Unterbrechung
-   #Setze
-   #Setzen
+   #Sprungtabelle
    #Verbieten
+   #Unterbrechung
+   #Setzen
+
+[Previous: #BS-Folien_7](BS-Folien_7.md)
+
+[Next: #BS-Folien_7](BS-Folien_7.md)

@@ -5,10 +5,14 @@ geschich-teteAuswahl-verfahren
 Klumpen-Auswahl-verfahren
 
    Tags & Topics:
-   #Auswahl-verfahren
-   #Auswahl
-   #Klumpen
-   #teteAuswahl
-   #Konzen-trations-verfahr
    #Konzen
+   #Klumpen
+   #Auswahl
    #Cut-off-Verfahre
+   #Konzen-trations-verfahr
+   #teteAuswahl
+   #Auswahl-verfahren
+
+[Previous: #2022_Marketing_Skript_53](2022_Marketing_Skript_53.md)
+
+[Next: #2022_Marketing_Skript_53](2022_Marketing_Skript_53.md)

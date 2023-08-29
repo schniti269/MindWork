@@ -5,14 +5,18 @@ public abstract void initPcb ( Context c ); // Initialisierung des PCBs
 } // Pcb
 
    Tags & Topics:
-   #Attribute
-   #Attribut
-   #pcb
-   #Initialisierung
-   #Zur¨ucklade
-   #Prozesszust
-   #PCB
-   #Register//
-   #initPcb
    #Zur¨uckladen
+   #PCB
+   #initPcb
+   #Zur¨ucklade
+   #Initialisierung
+   #pcb
+   #Prozesszust
+   #Attribute
+   #Register//
+   #Attribut
    #Context
+
+[Previous: #BS-Folien_104](BS-Folien_104.md)
+
+[Next: #BS-Folien_104](BS-Folien_104.md)

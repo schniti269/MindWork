@@ -5,17 +5,21 @@ dmesg Liste der Betriebssystemmeldungen und -fehlerinformatio nen (nur root)
 Prof. Dr. Henning Pagnia (DHBW Mannheim) Advanced IT Herbst 2023 12/132Unix Arbeiten mit der Shell
 
    Tags & Topics:
-   #Kennung
+   #Arbeit
    #Dateisysteme
    #Betriebssystemmeldung
-   #Speicherplatz
-   #Verzeichnisssen
-   #Mount
    #Betriebssystemmeldungen
-   #Arbeit
-   #12/132Unix
+   #Mount-Punkt
    #Arbeiten
    #Dateisystem
+   #Kennung
+   #Speicherplatz
    #Gruppen
    #Gruppe
-   #Mount-Punkt
+   #12/132Unix
+   #Verzeichnisssen
+   #Mount
+
+[Previous: #AdvIT-Folien_280](AdvIT-Folien_280.md)
+
+[Next: #AdvIT-Folien_280](AdvIT-Folien_280.md)

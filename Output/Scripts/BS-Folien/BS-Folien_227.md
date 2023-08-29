@@ -5,8 +5,12 @@ Semaphor-Deﬁnition
 •Semaphor -Deﬁnition
 
    Tags & Topics:
-   #BS–92Prozessverwaltung
-   #Semaphor-Konzept
    #-deﬁnition
-   #-Deﬁnition
+   #BS–92Prozessverwaltung
    #Betriebss
+   #-Deﬁnition
+   #Semaphor-Konzept
+
+[Previous: #BS-Folien_228](BS-Folien_228.md)
+
+[Next: #BS-Folien_228](BS-Folien_228.md)

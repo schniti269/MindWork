@@ -6,3 +6,7 @@ to drive innovation. Supply chain organizations
 
    Tags & Topics:
    
+
+[Previous: #C-Study22 - Own your transformation_168](C-Study22 - Own your transformation_168.md)
+
+[Next: #C-Study22 - Own your transformation_168](C-Study22 - Own your transformation_168.md)

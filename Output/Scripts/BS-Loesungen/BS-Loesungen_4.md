@@ -5,5 +5,9 @@ Betriebssysteme – L ¨osungsvorschl ¨age Fr¨uhjahr 2023 ©Henning Pagnia/J �
 Ein Prozess Af¨uhrtgetDiskPrinter() aus, und verliert nach disk.p() den Prozessor.
 
    Tags & Topics:
-   #AUS-3
    #PROBLEM
+   #AUS-3
+
+[Previous: #BS-Loesungen_40](BS-Loesungen_40.md)
+
+[Next: #BS-Loesungen_40](BS-Loesungen_40.md)

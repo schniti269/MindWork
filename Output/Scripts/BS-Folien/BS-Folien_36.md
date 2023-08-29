@@ -5,10 +5,14 @@ Echtzeitbetrieb ( Real Time Processing )
 •Anwendung: z.B. Steuerung technischer Prozesse
 
    Tags & Topics:
-   #Echtzeitbetrieb
-   #Steuerung
-   #Auftragsbearbeitung
-   #⇒Benutzer
    #•Worin
-   #Teilaufgabe
+   #⇒Benutzer
    #•Anwendung
+   #Teilaufgabe
+   #Steuerung
+   #Echtzeitbetrieb
+   #Auftragsbearbeitung
+
+[Previous: #BS-Folien_360](BS-Folien_360.md)
+
+[Next: #BS-Folien_360](BS-Folien_360.md)

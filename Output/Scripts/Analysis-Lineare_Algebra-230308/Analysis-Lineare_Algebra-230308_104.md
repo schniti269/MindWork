@@ -6,3 +6,7 @@ Oft wird die Polynomdivision, hier mit Rest, äquivalent als tatsächliche Divis
 
    Tags & Topics:
    
+
+[Previous: #Analysis-Lineare_Algebra-230308_105](Analysis-Lineare_Algebra-230308_105.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_105](Analysis-Lineare_Algebra-230308_105.md)

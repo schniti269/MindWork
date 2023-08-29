@@ -6,3 +6,7 @@ we simply asked them. And we found substantial
 
    Tags & Topics:
    
+
+[Previous: #C-Study22 - Own your transformation_62](C-Study22 - Own your transformation_62.md)
+
+[Next: #C-Study22 - Own your transformation_62](C-Study22 - Own your transformation_62.md)

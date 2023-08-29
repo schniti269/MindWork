@@ -5,10 +5,14 @@ processes = new Pcb[processCount];// Erzeugung eines geeigneten Scheduler-Objekt
 Betriebssysteme DHBW Mannheim ©Henning Pagnia Version 4.23 Fr¨uhjahr 2023 BS–66Prozessverwaltung Implementierung der Prozessverwaltun g Implementierung von Prozessen
 
    Tags & Topics:
-   #Dispatcher-Operation
-   #Prozessverwaltun
    #Scheduler-Objekt
    #Prozesskontrollbloecke
-   #ProcessQueue
+   #Prozessverwaltun
+   #Dispatcher-Operation
    #Objekts//
    #Pcb[processCount];//
+   #ProcessQueue
+
+[Previous: #BS-Folien_159](BS-Folien_159.md)
+
+[Next: #BS-Folien_159](BS-Folien_159.md)

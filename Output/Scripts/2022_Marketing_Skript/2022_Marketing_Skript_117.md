@@ -5,30 +5,34 @@ vgl. Homburg 2015, S. 897ff.3. KernphaseVertriebspartner muss insbesondere auf f
 4.4. PlaceDer persönliche Verkauf (4/4) -Verkaufstaktiken
 
    Tags & Topics:
-   #Atmosphäre
-   #Gesprächspartner
-   #-Verkaufstaktike
-   #Verkauf
-   #Unternehmen
-   #Unternehmens
-   #Kaufverhalten
-   #Kaufverhaltens
-   #Punkte§Atmosphärisch
-   #unausgeschöpfteVerkaufschanc
-   #Beziehung
-   #Rechnungen)§Potenzial
-   #Konkurrenz)2
-   #VorbereitungsphaseVertriebspartner
-   #Gesprächsausklang
-   #Machtposition
-   #Zusammenfassung
    #Regelmäßigkeit
-   #Erwartung)§Situation
+   #unausgeschöpfteVerkaufschanc
+   #Gesprächspartner
+   #Kaufverhalten
+   #Rechnungen)§Potenzial
    #Projekt
+   #Gesprächsausklang
    #Projekte
-   #-Verkaufstaktiken
-   #unausgeschöpfteverkaufschancen
-   #Gestik
+   #Beziehung
+   #Atmosphäre
+   #Verkauf
    #Bild
+   #Erwartung)§Situation
+   #Machtposition
+   #Gestik
    #Kundenbeschwerden)§Kaufhistorie
+   #Punkte§Atmosphärisch
+   #Kaufverhaltens
+   #VorbereitungsphaseVertriebspartner
+   #Zusammenfassung
+   #-Verkaufstaktiken
+   #-Verkaufstaktike
    #Bildes
+   #Unternehmen
+   #Konkurrenz)2
+   #Unternehmens
+   #unausgeschöpfteverkaufschancen
+
+[Previous: #2022_Marketing_Skript_118](2022_Marketing_Skript_118.md)
+
+[Next: #2022_Marketing_Skript_118](2022_Marketing_Skript_118.md)

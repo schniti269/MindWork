@@ -6,3 +6,7 @@ Allgemeine Informationen
 
    Tags & Topics:
    
+
+[Previous: #AdvIT-Folien_10](AdvIT-Folien_10.md)
+
+[Next: #AdvIT-Folien_10](AdvIT-Folien_10.md)

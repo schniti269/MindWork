@@ -5,8 +5,12 @@ Semaphor-Deﬁnition
 eingef¨uhrt von Dijkstra
 
    Tags & Topics:
-   #Semaphor-Konzept
    #Semaphor
    #Abschnitte
    #Konzept
    #Abschnitt
+   #Semaphor-Konzept
+
+[Previous: #AdvIT-Folien_169](AdvIT-Folien_169.md)
+
+[Next: #AdvIT-Folien_169](AdvIT-Folien_169.md)

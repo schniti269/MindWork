@@ -5,15 +5,19 @@ Quellen: https://de.wikipedia.org/wiki/Festplattenlaufwerk,
 https://de.wikipedia.org/wiki/Flash -SpeicherSpeichertechnologie, Elektromagnetische Speicher
 
    Tags & Topics:
-   #Terabyte
-   #Stand
-   #Lesegeschwindigkeiten
-   #Lesegeschwindigkeit
-   #Zugriffszeit
-   #Zugriffszeiten
-   #Quellen
    #Quelle
-   #https://de.wikipedia.org/wiki/Flash
    #Schreib
    #https://de.wikipedia.org/wiki/Festplattenlaufwerk
+   #Zugriffszeiten
+   #Lesegeschwindigkeiten
+   #Terabyte
+   #Lesegeschwindigkeit
+   #Zugriffszeit
+   #Quellen
+   #https://de.wikipedia.org/wiki/Flash
    #-SSD
+   #Stand
+
+[Previous: #Einführung-IT-Teil1_62](Einführung-IT-Teil1_62.md)
+
+[Next: #Einführung-IT-Teil1_62](Einführung-IT-Teil1_62.md)

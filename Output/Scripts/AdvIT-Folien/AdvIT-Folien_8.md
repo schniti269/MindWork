@@ -7,3 +7,7 @@ Prof. Dr. Henning Pagnia (DHBW Mannheim) Advanced IT Herbst 2023 5/132Unix
    Tags & Topics:
    #Rheinwerkverlag
    #5/132unix
+
+[Previous: #AdvIT-Folien_80](AdvIT-Folien_80.md)
+
+[Next: #AdvIT-Folien_80](AdvIT-Folien_80.md)

@@ -5,8 +5,12 @@ Graphische Darstellung (Forts.)
 Synchronisationsgraph: Reihenfolge
 
    Tags & Topics:
+   #Afrei
+   #frage
+   #Baufrufe
    #Darstellung
    #Frage
-   #Afrei
-   #Baufrufe
-   #frage
+
+[Previous: #AdvIT-Folien_152](AdvIT-Folien_152.md)
+
+[Next: #AdvIT-Folien_152](AdvIT-Folien_152.md)

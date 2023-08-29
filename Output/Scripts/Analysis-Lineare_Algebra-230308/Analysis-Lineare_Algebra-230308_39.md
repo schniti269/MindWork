@@ -5,6 +5,10 @@ Kosten und Kosten in Abhängigkeit von nin kürzerer Form rechts dargestellt wir
 gefassten Term lassen sich jetzt auch die monatlichen Fixkosten von55 400 €undvariable Kosten
 
    Tags & Topics:
+   #Fixkost
    #Fixkosten
    #Kostenmodell
-   #Fixkost
+
+[Previous: #Analysis-Lineare_Algebra-230308_390](Analysis-Lineare_Algebra-230308_390.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_390](Analysis-Lineare_Algebra-230308_390.md)

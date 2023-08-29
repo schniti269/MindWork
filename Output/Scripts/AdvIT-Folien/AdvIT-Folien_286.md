@@ -5,5 +5,9 @@ Eine wait-Operation wird ¨ublicherweise innerhalb einer if-Anweisung oder
 while-Schleife verwendet
 
    Tags & Topics:
-   #wait-Operation
    #Semantik
+   #wait-Operation
+
+[Previous: #AdvIT-Folien_287](AdvIT-Folien_287.md)
+
+[Next: #AdvIT-Folien_287](AdvIT-Folien_287.md)

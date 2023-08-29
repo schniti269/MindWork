@@ -5,8 +5,12 @@ men. Zusätzlich haben sie aber auch im Entwicklungspunkt exakt die gleiche Stei
 beiden Eigenschaften, also als Tangente , kann die lineare Funktion die Exponentialfunktion lokal so
 
    Tags & Topics:
-   #3.1.1
-   #Partialsumm
    #Approximation
+   #3.1.1
    #Partialsumme
+   #Partialsumm
    #Steigung
+
+[Previous: #Analysis-Lineare_Algebra-230308_318](Analysis-Lineare_Algebra-230308_318.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_318](Analysis-Lineare_Algebra-230308_318.md)

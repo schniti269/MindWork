@@ -1,15 +1,19 @@
-# ## #längen #und #winkel 
+### längen und winkel
 
- - 2 #Norm 
+- 2 Norm
 
-	 - #quad #wurzel #aus #alle #elemente #^2 
+	- quad wurzel aus alle elemente ^2
 
- - 1 #Norm 
+- 1 Norm 
 
-	 - #1ste #wurzel #aus #alle elemente #^1 
+	- 1ste wurzel aus alle elemente ^1
 
- - #unendlich #norm 
+- unendlich norm 
 
-	 - #max #der #elemente 
+	- max der elemente
 
-		 - #konvergiert auf #maximum in #der #wurzel #
+		- konvergiert auf maximum in der wurzel
+
+   Tags & Topics:
+   #l�ngen
+   #läng

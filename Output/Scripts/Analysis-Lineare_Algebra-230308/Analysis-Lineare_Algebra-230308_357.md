@@ -5,6 +5,10 @@ Abschätzung verwenden: Da alle Ableitungen f(n)(x) = exp( x)lauten, und wir wis
 nentialfunktion streng monoton steigt, ist das Maximum bei 2. Damit gilt hier für ˆx∈[0,2]:
 
    Tags & Topics:
-   #Abschätzung
-   #Hinweis
    #Wir
+   #Hinweis
+   #Abschätzung
+
+[Previous: #Analysis-Lineare_Algebra-230308_358](Analysis-Lineare_Algebra-230308_358.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_358](Analysis-Lineare_Algebra-230308_358.md)

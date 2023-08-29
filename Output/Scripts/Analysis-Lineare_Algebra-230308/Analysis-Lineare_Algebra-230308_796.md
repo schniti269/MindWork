@@ -5,5 +5,9 @@ Gauß-Jordan-Verfahren, 65
 Gaußsche Zahlenebene, 6
 
    Tags & Topics:
-   #Jordan
    #Gauß
+   #Jordan
+
+[Previous: #Analysis-Lineare_Algebra-230308_797](Analysis-Lineare_Algebra-230308_797.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_797](Analysis-Lineare_Algebra-230308_797.md)

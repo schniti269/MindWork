@@ -5,11 +5,15 @@ P-Bit=0⇒Adressumsetzungs-Hardware erzeugt Seitenfehler-Interrupt bei Zugriﬀ.
 ⋄Struktur der Interrupt-Behandlungsoperation: siehe Prg. 18 auf der n ¨achsten Seite
 
    Tags & Topics:
-   #Interrupt-Behandlungsoperation
-   #execute
-   #Bit=0⇒Daten
-   #Seitenfehler-Interrupt
-   #Bit=0⇒Adressumsetzungs
-   #Execute-Bit
    #Behandlungsoperation
+   #Bit=0⇒Daten
+   #execute
+   #Bit=0⇒Adressumsetzungs
+   #Interrupt-Behandlungsoperation
+   #Seitenfehler-Interrupt
    #Hardware
+   #Execute-Bit
+
+[Previous: #BS-Folien_306](BS-Folien_306.md)
+
+[Next: #BS-Folien_306](BS-Folien_306.md)

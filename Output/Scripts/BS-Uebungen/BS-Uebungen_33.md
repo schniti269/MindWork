@@ -6,3 +6,7 @@ free =5.
 
    Tags & Topics:
    
+
+[Previous: #BS-Uebungen_34](BS-Uebungen_34.md)
+
+[Next: #BS-Uebungen_34](BS-Uebungen_34.md)

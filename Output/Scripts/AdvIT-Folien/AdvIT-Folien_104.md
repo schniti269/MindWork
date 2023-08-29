@@ -6,7 +6,11 @@ Prof. Dr. Henning Pagnia (DHBW Mannheim) Advanced IT Herbst 2023 36/132Speicherb
 
    Tags & Topics:
    #Synchronisationsbedingung
+   #Synchronisationsbedingungen
    #⇒Konsistenz
    #Abschnitte
-   #Synchronisationsbedingungen
    #Abschnitt
+
+[Previous: #AdvIT-Folien_105](AdvIT-Folien_105.md)
+
+[Next: #AdvIT-Folien_105](AdvIT-Folien_105.md)

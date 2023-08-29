@@ -5,6 +5,10 @@ Nachteile:
 ◮herabgesetzte Reaktionsf ¨ahigkeit auf externe Unterbrechungen
 
    Tags & Topics:
-   #Nachteil
-   #Prozessor
    #Nachteile
+   #Prozessor
+   #Nachteil
+
+[Previous: #AdvIT-Folien_159](AdvIT-Folien_159.md)
+
+[Next: #AdvIT-Folien_159](AdvIT-Folien_159.md)

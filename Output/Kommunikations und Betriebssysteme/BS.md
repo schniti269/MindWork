@@ -1,578 +1,790 @@
-# ## #BS 
+### BS
 
- - Semaphore #
+- Semaphore
 
-	 - #Semaphor #Konzept 
+	- Semaphor Konzept
 
-		 - #Synchronisierung #
+		- Synchronisierung 
 
-			 - #Innerhalb 
-			 - #Außerhalb 
-			 - #Syncro 
+			- Innerhalb
+			- Außerhalb
+			- Syncro
 
-				 - multithreading 
+				- multithreading
 
-					 - #Race #cnditions #vermeiden 
+					- Race cnditions vermeiden
 
-						 - #Syncro #
+						- Syncro 
 
-							 - #schlecht 
+							- schlecht
 
-								 - Busywaiting #
+								- Busywaiting
 
-							 - #Gut 
+							- Gut
 
-								 - #Dekker 
+								- Dekker
 
-									 - #Atomare #speicheroperationen+ #
+									- Atomare speicheroperationen+
 
-							 - #Besser 
+							- Besser
 
-								 - #Eigener #prozessorbefehl 
+								- Eigener prozessorbefehl
 
-									 - #Spin #lock #warteschliefe 
-									 - Test and set befehl #
+									- Spin lock warteschliefe
+									- Test and set befehl
 
-		 - #Definition 
+		- Definition
 
-			 - #Up and down 
+			- Up and down
 
-				 - #Atomar #durch #mutex 
+				- Atomar durch mutex
 
-			 - #Zähler #
+			- Zähler 
 
-				 - Wie #viele #betriebsmittel #sind #da 
-				 - #Buchführung 
-				 - #Positiv 
+				- Wie viele betriebsmittel sind da
+				- Buchführung 
+				- Positiv
 
-					 - #Anzahhl #der #Verfügbaren #
+					- Anzahhl der Verfügbaren
 
-				 - #Negativ #
+				- Negativ
 
-					 - #Wie #lang ist #die #warteschlange #
+					- Wie lang ist die warteschlange
 
-			 - #Prozesswarteschlange 
+			- Prozesswarteschlange
 
-		 - #Implementierung 
+		- Implementierung
 
-			 - #Konstruktor 
+			- Konstruktor 
 
-				 - FIFO #warteschlange #
-				 - #Counter = #übergabewert #
+				- FIFO warteschlange
+				- Counter = übergabewert
 
-			 - #P #= down #
+			- P = down
 
-				 - #Mutex 
+				- Mutex
 
-					 - #Counter #� � 
-					 - #Counter < #0 
+					- Counter —
+					- Counter< 0
 
-						 - #Block #prozess 
-						 - #Assign 
+						- Block prozess
+						- Assign
 
-			 - #V #= up 
+			- V=up
 
-				 - #Mutex 
+				- Mutex
 
-					 - #Counter++ #
-					 - #Counter #< = 0 #
+					- Counter++
+					- Counter <=0
 
-						 - #Deblock 
+						- Deblock
 
-		 - #Gegenseitiger ausschluss #
+		- Gegenseitiger ausschluss
 
-			 - #Mutex 
+			- Mutex
 
-				 - Mutex.p 
-				 - Mutex.v 
-				 - #kritischer #abschnitt 
+				- Mutex.p
+				- Mutex.v
+				- kritischer abschnitt
 
-					 - #Enter #mutex #
-					 - #Prozess 
-					 - #Exit #mutex #
+					- Enter mutex
+					- Prozess
+					- Exit mutex
 
- - #Prozessverwaltung 
+- Prozessverwaltung
 
-	 - #Interrupts 
+	- Interrupts
 
-		 - #E / #A   #Operationen 
+		- E/A  Operationen
 
-			 - #Rahmen #bedingungen #: 
+			- Rahmen bedingungen:
 
-				 - Geschwindigkeitsunterschiede 
-				 - #Parallelarbeit #von #CPU und #E #/ #A 
+				- Geschwindigkeitsunterschiede
+				- Parallelarbeit von CPU und E/A
 
-			 - #Synchrone #schnittstelle 
+			- Synchrone schnittstelle
 
-				 - #Eigener #System call 
-				 - #E #/ A #Gerät   #arbeitet #für sich parallel 
-				 - #Gerät erzeugt interrupt 
-				 - #E #/ A interrupt #handler 
-				 - #Timer interrupt #handler #
+				- Eigener System call
+				- E/A Gerät  arbeitet für sich parallel
+				- Gerät erzeugt interrupt
+				- E/A interrupt handler
+				- Timer interrupt handler
 
-					 - Resign 
-					 - Assign #
+					- Resign
+					- Assign
 
-				 - #Eigene #Blockiert #warteschlange pro #gerät #
-				 - #Recap #: Prozess bleibt #nicht #i m #kontrollfluss 
+				- Eigene Blockiert warteschlange pro gerät
+				- Recap: Prozess bleibt nicht im kontrollfluss
 
-			 - #Asynchrone #E #/ #A #Schnittstelle #
+			- Asynchrone E/A Schnittstelle
 
-				 - #System calls #
+				- System calls
 
-					 - #Iostart 
+					- Iostart
 
-						 - #Anstoßen #der E #/ #A 
+						- Anstoßen der E/A
 
-					 - #Io wait 
+					- Io wait
 
-						 - #Warten #bis daten #vorliegen 
+						- Warten bis daten vorliegen
 
-				 - #Gerät #schickt #interrupts 
-				 - #E #/ #A interrupt #handler 
+				- Gerät schickt interrupts
+				- E/A interrupt handler
 
-					 - #Notieren 
+					- Notieren 
 
-						 - #Wenn #io wiat #noch nicht #war 
+						- Wenn io wiat noch nicht war
 
-					 - #Blockieren 
+					- Blockieren
 
-						 - #Wenn #io wait #läuft 
+						- Wenn io wait läuft
 
-				 - Wenn noch #nicht #abgearbeitet 
+				- Wenn noch nicht abgearbeitet
 
-					 - #Timer #innterrupt #handler #
+					- Timer innterrupt handler
 
-				 - #Recap #: Prozess #der #wartet #bleibt i m #kontrollfluss 
-				 - #nebenläufige Abläufe #
+				- Recap: Prozess der wartet bleibt im kontrollfluss
+				- nebenläufige Abläufe
 
-	 - #Scheduling 
+	- Scheduling
 
-		 - #Prozessorganisiation 
+		- Prozessorganisiation
 
-			 - #Dialog 
+			- Dialog
 
-				 - #Interaktiv 
-				 - #Ziel ist #interaktives arbeiten 
-				 - bevorzugt #io #
+				- Interaktiv
+				- Ziel ist interaktives arbeiten
+				- bevorzugt io
 
-			 - #Stack 
+			- Stack
 
-				 - in #Batches 
-				 - Ziel #ist #auslastung #
-				 - #Bevorzugt #prozesse #die #Ressourcen brauchen #die #gerade ungenutzt #sind 
+				- in Batches
+				- Ziel ist auslastung
+				- Bevorzugt prozesse die Ressourcen brauchen die gerade ungenutzt sind
 
-			 - Real #time 
+			- Real time
 
-				 - #Ziel #einhaltung #der #Zeitgarantie #
-				 - #Bevorzugt #Prozesse #die #knappe #fristen #haben 
+				- Ziel einhaltung der Zeitgarantie
+				- Bevorzugt Prozesse die knappe fristen haben
 
-		 - #Thread vs #Prozess 
+		- Thread vs Prozess
 
-			 - #Thread #ist #bestandteil #von prozess 
+			- Thread ist bestandteil von prozess
 
-				 - #Thread #hat immer einen #kontrollfluss 
+				- Thread hat immer einen kontrollfluss
 
-		 - #Timeline 
+		- Timeline
 
-			 - #Kurzzeit 
+			- Kurzzeit
 
-				 - Welcher prozess #akut 
-				 - #Aufruf in #kurzen #abständen #
+				- Welcher prozess akut
+				- Aufruf in kurzen abständen
 
-			 - Langzeit 
+			- Langzeit 
 
-				 - #Swapping 
+				- Swapping
 
-					 - #Auftrag #Sofort #zu #prozessoren 
-					 - Überlast #zustand - #> #zurückstellung in #externen #datentrger 
+					- Auftrag Sofort zu prozessoren
+					- Überlast zustand -> zurückstellung in externen datentrger
 
-				 - #Autragsverwaltung 
+				- Autragsverwaltung
 
-					 - #Auftragswarteschlange 
-					 - #Je #nach last 
-					 - #Überlast - #> #verdrängung 
+					- Auftragswarteschlange
+					- Je nach last
+					- Überlast -> verdrängung
 
-						 - #Swapspace #auf #Festplatte #
+						- Swapspace auf Festplatte
 
-		 - #Kriterien #
+		- Kriterien
 
-			 - #Zeit #
+			- Zeit
 
-				 - #Wartezeit #
-				 - #Umlaufzeit #
-				 - #Echtzeit #
-				 - #Antwortzeit 
+				- Wartezeit
+				- Umlaufzeit
+				- Echtzeit
+				- Antwortzeit
 
-			 - #Leistung 
+			- Leistung
 
-				 - #Leistungsfähigkeit 
-				 - #Auslastung 
-				 - #Durchsatz 
+				- Leistungsfähigkeit
+				- Auslastung
+				- Durchsatz
 
-		 - #Klassifikation 
+		- Klassifikation
 
-			 - #kooperativ 
+			- kooperativ
 
-				 - #Keine #gezielte #kontrolle 
-				 - #Nur #durch #interrupts 
+				- Keine gezielte kontrolle
+				- Nur durch interrupts
 
-			 - #Verdrängendes 
+			- Verdrängendes
 
-				 - Prozess wird #verdrängt #
+				- Prozess wird verdrängt
 
-		 - #verfahren 
+		- verfahren
 
-			 - #First come first serve #
+			- First come first serve
 
-				 - #Der #der am #längsten #i m rdy #zustand #ist ist an #der #reihe 
-				 - #Keine #verdrängung 
-				 - #Leere anweisung- #> #NOP #Schleife 
+				- Der der am längsten im rdy zustand ist ist an der reihe
+				- Keine verdrängung
+				- Leere anweisung-> NOP Schleife
 
-			 - Shortest #processing #time 
+			- Shortest processing time
 
-				 - #Der #der am schnellsten #vorbei ist 
-				 - #CPU #Burst 
-				 - Shortest #job first 
-				 - #Duchschnitt #der zeit #des #Prozesses #wird genommen 
+				- Der der am schnellsten vorbei ist
+				- CPU Burst
+				- Shortest job first
+				- Duchschnitt der zeit des Prozesses wird genommen
 
-			 - Shortest remaining #time 
+			- Shortest remaining time
 
-				 - #Verdrängung 
-				 - #Wird #ein #prozess mit kürzerem burst #bereit dann #wird #der #aktuelle #abgelöst 
+				- Verdrängung
+				- Wird ein prozess mit kürzerem burst bereit dann wird der aktuelle abgelöst
 
-			 - #round #robin 
+			- round robin
 
-				 - Time #Sharing 
-				 - #Gleicher #anteil #alle nach #einander 
-				 - #Zeitscheibe 
+				- Time Sharing
+				- Gleicher anteil alle nach einander
+				- Zeitscheibe
 
-					 - #Klein 
+					- Klein
 
-						 - #Kaum fortschritt 
+						- Kaum fortschritt
 
-					 - Groß 
+					- Groß
 
-						 - #Nicht responsive 
+						- Nicht responsive
 
-			 - Highest #priority first 
+			- Highest priority first
 
-				 - #Nicht #verdrängend 
+				- Nicht verdrängend
 
-					 - #Bis selber #freigeben 
+					- Bis selber freigeben
 
-				 - Verdrängend #
+				- Verdrängend
 
-					 - #Sobald #ein #höer #priorisierter #da #ist #wird #der #aktuelle #abgelöst 
+					- Sobald ein höer priorisierter da ist wird der aktuelle abgelöst
 
-				 - #Statisch #
+				- Statisch
 
-					 - #Bei #erzeugung 
-					 - Geschätzer #burst 
-					 - #Geschätzer #io 
-					 - #Geschätzter speicher 
+					- Bei erzeugung
+					- Geschätzer burst
+					- Geschätzer io
+					- Geschätzter speicher
 
-				 - #Dynamisch 
+				- Dynamisch
 
-					 - #Kann bei #laufzeit #geändert werden 
-					 - #Aktuellerburst 
-					 - #Aktueller #io 
-					 - #Aktueller speicher 
+					- Kann bei laufzeit geändert werden
+					- Aktuellerburst
+					- Aktueller io
+					- Aktueller speicher
 
-				 - #Starvaation 
+				- Starvaation
 
-					 - Aging gegenstrategie 
+					- Aging gegenstrategie
 
-			 - #Mehrstufen #verfahren 
+			- Mehrstufen verfahren
 
-				 - #Kombination #aus #mehreren #
+				- Kombination aus mehreren
 
-		 - Die ready #warteschlange 
+		- Die ready warteschlange
 
-			 - #Process #management 
+			- Process management
 
-				 - #Dispatcher #
+				- Dispatcher
 
-					 - Intern verfügbar 
+					- Intern verfügbar
 
-				 - Schnittstellen #operationen 
+				- Schnittstellen operationen
 
-					 - #System #calls 
-					 - Interrupt handler #
-					 - #Timer #Interrupt durch Prozessor #selbst 
+					- System calls
+					- Interrupt handler
+					- Timer Interrupt durch Prozessor selbst
 
-						 - #Register #selbst 
+						- Register selbst
 
-			 - Implementierung 
+			- Implementierung
 
-				 - #Array mit prozessen 
+				- Array mit prozessen
 
-					 - Konstruktor #aufruf #bei start #
+					- Konstruktor aufruf bei start
 
-				 - #Running #
+				- Running
 
-					 - Terminate #macht inactive 
+					- Terminate macht inactive
 
-				 - Ready 
+				- Ready
 
-					 - Assign #macht running #
+					- Assign macht running
 
-				 - Inactive 
+				- Inactive
 
-					 - #initiate #dann #wird ready #
+					- initiate dann wird ready
 
-				 - Scheduler 
+				- Scheduler
 
-					 - #Wählt aus 
+					- Wählt aus
 
-				 - #Store and #load #reg 
+				- Store and load reg
 
-					 - #Store 
+					- Store
 
-						 - Werte #werden #gespeichert #
+						- Werte werden gespeichert
 
-					 - #load 
+					- load
 
-						 - #Werde #werden #geladen 
+						- Werde werden geladen
 
-					 - Das #eigene #Stack #wird operiert 
+					- Das eigene Stack wird operiert
 
-				 - #Test and set befehl 
+				- Test and set befehl
 
-					 - Atomare #operation 
-					 - #Spinlock waiting #
+					- Atomare operation
+					- Spinlock waiting
 
- - #Speicher 
+- Speicher
 
-	 - #Persistent 
+	- Persistent
 
-		 - #I - #Node 
+		- I-Node
 
-			 - Beschreibung #attribute 
-			 - #Zeitstempel 
-			 - #Zugriffsrechte 
+			- Beschreibung attribute
+			- Zeitstempel
+			- Zugriffsrechte
 
-				 - #r 
-				 - #w 
-				 - #x 
+				- r
+				- w
+				- x
 
-			 - #Beschreibung #auf #Referenzen 
+			- Beschreibung auf Referenzen
 
-				 - #referenzen #auf #dierekte #Dateiblöcke #auf #platte #
-				 - #indierekt #
+				- referenzen auf dierekte Dateiblöcke auf platte
+				- indierekt
 
-					 - #Einfach 
+					- Einfach
 
-						 - #block #ist selbst #nur #eine #Index #Tabelle #
+						- block ist selbst nur eine Index Tabelle
 
-					 - zweifach #
+					- zweifach
 
-						 - #index #tabelle 2 #layer 
+						- index tabelle 2 layer
 
-					 - dreifach #
+					- dreifach
 
-						 - #index #tabelle 3 #layer 
+						- index tabelle 3 layer
 
-					 - vorteil #viel größere #Dateien #möglich 
+					- vorteil viel größere Dateien möglich
 
-	 - #nicht persistent 
+	- nicht persistent
 
-		 - Speicher #zuteilung #zu #Programmen 
+		- Speicher zuteilung zu Programmen
 
-			 - #Einteilung in #Bereiche 
+			- Einteilung in Bereiche
 
-				 - Hauptspeicher #Kacheln 
-				 - #Pro #programm in #einem stück #belegen 
-				 - #Arrays 
+				- Hauptspeicher Kacheln
+				- Pro programm in einem stück belegen
+				- Arrays
 
-					 - #Kopf mit information #wie #lang #array #ist 
-					 - #Elemente #hintereinander 
+					- Kopf mit information wie lang array ist
+					- Elemente hintereinander 
 
-				 - #Externe #Fragmanetierung #
+				- Externe Fragmanetierung
 
-					 - #Ablehnen 
-					 - #Defragmentieren #/Basisregister #zum #verschieben 
-					 - #Swapspace #nutzen 
+					- Ablehnen
+					- Defragmentieren /Basisregister zum verschieben
+					- Swapspace nutzen
 
-			 - Overlay #technik 
+			- Overlay technik
 
-				 - #Residenter #Teil 
+				- Residenter Teil
 
-					 - #Bleibende #Teile 
+					- Bleibende Teile
 
-				 - Overlay #bereich #
+				- Overlay bereich
 
-					 - Austauschen 
+					- Austauschen
 
-				 - Benötigt schnellen #Massenspeicher 
-				 - #Verwaltung #
+				- Benötigt schnellen Massenspeicher
+				- Verwaltung
 
-					 - #Core #map - > belegung #
-					 - #Auftragssteuerung #
+					- Core map -> belegung
+					- Auftragssteuerung
 
-				 - #Möglicherweise Interne + #Externe #Fragmentierung 
+				- Möglicherweise Interne + Externe Fragmentierung
 
-			 - Variable #länge 
+			- Variable länge
 
-				 - linked #list an #freihen #bereichen 
-				 - #Verschmelzen #von #frei gewordenen #benachbarten #bereichen 
-				 - #Einsatz i m #Heap 
-				 - #Strategien 
+				- linked list an freihen bereichen
+				- Verschmelzen von frei gewordenen benachbarten bereichen
+				- Einsatz im Heap
+				- Strategien
 
-					 - First fit 
+					- First fit
 
-						 - #Übrigen #bereich #wieder einketten 
-						 - Bessere #Fragmentierung 
+						- Übrigen bereich wieder einketten
+						- Bessere Fragmentierung
 
-					 - Best #fit 
+					- Best fit
 
-						 - #Bereich mit #wenigstem rest 
-						 - Schlechtere #Fragmentierung #
+						- Bereich mit wenigstem rest
+						- Schlechtere Fragmentierung
 
-					 - #Buddy 
+					- Buddy 
 
-						 - #Freier #Speicher ist #gegeben #
-						 - #Vergibt #nur vielfaches #von 2er #potenzen 
-						 - Eigene #Liste #für jede #Größe ( 16,32 .. ) 
-						 - Fragmentierung ist #intern 
-						 - #Wenn zu #groß element aus #enstprechender #Liste wird #halbiert 
-						 - #Man darf #nur mit #buddy #verschmelzen 
-						 - #Buddy #ist die andere #Hälfte #vom #halbieren 
-						 - #Auf #geschwindigkeit #ausgelegt #hat #aber #hohen speicherbedarf #
+						- Freier Speicher ist gegeben
+						- Vergibt nur vielfaches von 2er potenzen
+						- Eigene Liste für jede Größe (16,32..)
+						- Fragmentierung ist intern
+						- Wenn zu groß element aus enstprechender Liste wird halbiert
+						- Man darf nur mit buddy verschmelzen
+						- Buddy ist die andere Hälfte vom halbieren
+						- Auf geschwindigkeit ausgelegt hat aber hohen speicherbedarf
 
-		 - #Subtopic 2 #
+		- Subtopic 2
 
-			 - #Virtueller #Speicher 
+			- Virtueller Speicher
 
-				 - #Speicher #wird durch swap #space ergänzt 
-				 - #Programm #hat eigene tabelle #
-				 - #Nutzbare #adressen eines programms #sind #virtuell 
+				- Speicher wird durch swap space ergänzt
+				- Programm hat eigene tabelle
+				- Nutzbare adressen eines programms sind virtuell
 
-					 - #Umrechnung in echte adressen 
+					- Umrechnung in echte adressen
 
-						 - #Seitentabelle 
+						- Seitentabelle
 
-							 - #Verweis welche seite in #welcher Kachel #
-							 - #Verweis ob i m hauptspeicher #
-							 - #Prozess #liegt in #einer #Reihe #
-							 - #Map auf #hauptspeicher 
-							 - #Seitennummer #P #
-							 - #Wort W 
+							- Verweis welche seite in welcher Kachel
+							- Verweis ob im hauptspeicher
+							- Prozess liegt in einer Reihe
+							- Map auf hauptspeicher
+							- Seitennummer P
+							- Wort W
 
-					 - #MMU 
-					 - #Rechnen 
+					- MMU
+					- Rechnen
 
-						 - #N ## seiten = #virtuelle #speicherröße / seitengröße 
-						 - Speichergröße = #wortgröße #ausgerechnet 
+						- N# seiten = virtuelle speicherröße / seitengröße
+						- Speichergröße = wortgröße ausgerechnet
 
-					 - #Seitentabelleneintrag #
+					- Seitentabelleneintrag
 
-						 - #Kachelnummer 
-						 - #Präsenz #bit 
+						- Kachelnummer
+						- Präsenz bit
 
-							 - #Ist #es i m hauptspeicher #oder #nicht 
-							 - #Seitenfehler interrupt 
- ( #pagefault interrupt #) 
- - > #Festplatte #läd inspeicher 
+							- Ist es im hauptspeicher oder nicht
+							- Seitenfehler interrupt
+(pagefault interrupt)
+-> Festplatte läd inspeicher
 
-								 - #Block #, #assign , #deblock , running #
+								- Block, assign, deblock, running
 
-						 - #Referenz #bit 
+						- Referenz bit
 
-							 - Ist #adresse #genutzt 
+							- Ist adresse genutzt
 
-						 - #C bit 
+						- C bit
 
-							 - Ist etwas geändert #
+							- Ist etwas geändert
 
-						 - #Read 
-						 - #Write 
-						 - #Execute #
-						 - #Hintergrundadresse #
+						- Read
+						- Write
+						- Execute
+						- Hintergrundadresse
 
-					 - #hintergrundspeicher #
+					- hintergrundspeicher
 
-						 - #kacheln #werden #abgelegt 
+						- kacheln werden abgelegt 
 
-					 - #Eigene #Seitentabellen #von prozessen 
+					- Eigene Seitentabellen von prozessen
 
-						 - #prozesse #getrennt 
-						 - Schutz 
+						- prozesse getrennt
+						- Schutz
 
-				 - #Strategien 
+				- Strategien
 
-					 - #Random 
-					 - Least frequently used 
+					- Random
+					- Least frequently used
 
-						 - 
+						- 
 
-					 - #Most frequently used 
-					 - Second chance 
+					- Most frequently used
+					- Second chance
 
-						 - #nicht #wichtig #i m #detail #für #klausur 
+						- nicht wichtig im detail für klausur
 
-					 - #Optimal #
+					- Optimal
 
-				 - #Probleme 
+				- Probleme
 
-					 - #Trashing 
+					- Trashing
 
-						 - #Zu #viele #prozesse #gestartet #
-						 - #Großteil der #zeit ist #nur #ein und #auslagern #
-						 - #Lösungsansatz : 
+						- Zu viele prozesse gestartet
+						- Großteil der zeit ist nur ein und auslagern
+						- Lösungsansatz:
 
-							 - #Ersetzungsstrategie #
+							- Ersetzungsstrategie
 
-								 - #Lokal 
+								- Lokal
 
-									 - #Nur die seiten #die #Fehler verursachen werden #beachtet 
-									 - #Für #den prozess besser 
+									- Nur die seiten die Fehler verursachen werden beachtet
+									- Für den prozess besser
 
-								 - Global 
+								- Global
 
-									 - #Seiten können unabhängig #von #ihrer prozesszugehörigkeit #ausgelagert werden 
-									 - I m #großen und ganzen #besser 
+									- Seiten können unabhängig von ihrer prozesszugehörigkeit ausgelagert werden
+									- Im großen und ganzen besser
 
-							 - #Long wait #neuer #zustand #
-							 - #Prozesse die zu #lange #allein #für #die #festplatte #brauchen , #auslagern #bis zeit und #ressourcen #da #sind 
+							- Long wait neuer zustand
+							- Prozesse die zu lange allein für die festplatte brauchen, auslagern bis zeit und ressourcen da sind
 
-					 - #Residente seiten #
+					- Residente seiten
 
-						 - #Seiten in #EA #Operation #einbezogen #sind 
-						 - Locked down bits #
+						- Seiten in EA Operation einbezogen sind
+						- Locked down bits
 
-							 - #Wenn gesetzt #.- > #kann nicht #ausgelagert werden 
+							- Wenn gesetzt .-> kann nicht ausgelagert werden
 
-			 - #Speicher 
+			- Speicher 
 
-				 - #Arbeitsspeicher 
+				- Arbeitsspeicher
 
-					 - Adressräume 
+					- Adressräume
 
-						 - #Zuteilung 
+						- Zuteilung
 
-							 - Code Daten 
+							- Code Daten
 
-								 - #statische #variablen 
-								 - #Globale #Variablen 
+								- statische variablen
+								- Globale Variablen
 
-							 - #Heap 
+							- Heap
 
-								 - Objekte 
-								 - #datenstrukturen 
+								- Objekte
+								- datenstrukturen
 
-							 - #Stack 
+							- Stack
 
-								 - #Stackframe mit #Rücksprungadressen #
-								 - #Unterprogramme 
-								 - #Deren #Variablen 
+								- Stackframe mit Rücksprungadressen
+								- Unterprogramme
+								- Deren Variablen
 
-						 - #Rechte 
+						- Rechte
 
-							 - #Veränderung Löschung 
-							 - #Zugriffsschutz 
+							- Veränderung Löschung
+							- Zugriffsschutz
 
-					 - #Swapspace 
+					- Swapspace
 
-						 - Paging #file / #auslagerungsdatei 
-						 - #Zeitweise #Teile des #Speichers #Auf #Festplatte
+						- Paging file / auslagerungsdatei
+						- Zeitweise Teile des Speichers Auf Festplatte
+
+				- Datenerhaltung Hauptspeicher
+
+					- Zugriffe
+
+						- Lesen
+						- Schreiben
+
+					- Abstraktion Datei
+
+						- Dateisystem
+
+   Tags & Topics:
+   #seitengröße
+   #Deren
+   #/Basisregister
+   #Prozesswarteschlange
+   #Verdrängung
+   #Recht
+   #Der
+   #Auftragswarteschlange
+   #recap
+   #Umrechnung
+   #Interrupts
+   #Zugriffsrecht
+   #Geschwindigkeitsunterschiede
+   #Referenz
+   #Execute
+   #Index
+   #Blockieren
+   #Durchsatz
+   #übergabewert
+   #Zeitscheibe
+   #Übrig
+   #atomar
+   #zurückstellung
+   #Element
+   #Iostart
+   #exit
+   #Prozessorganisiation
+   #Unterprogramm
+   #Mehrstufen
+   #Veränderung
+   #Operationen
+   #Verschmelzen
+   #Schnittstelle
+   #Abstraktion
+   #Problem
+   #Auslastung
+   #Hälfte
+   #Datenerhaltung
+   #�bergabewert
+   #Seite
+   #Zeitstempel
+   #höer
+   #Konstruktor
+   #wortgröße
+   #Statisch
+   #Rechn
+   #schleife
+   #Aktueller
+   #seitengr���e
+   #Auftrag
+   #ablehnen
+   #Zugriffe
+   #Fehler
+   #Zuteilung
+   #mehrstufen
+   #Massenspeicher
+   #Geschätzer
+   #blockieren
+   #Ersetzungsstrategie
+   #Hintergrundadresse
+   #Abgelöst
+   #Beschreibung
+   #Persistent
+   #Timer
+   #Prozesses
+   #Rechte
+   #Proze�
+   #Starvaation
+   #Auftragssteuerung
+   #Buchführung
+   #Definition
+   #Rechnen
+   #execute
+   #Warten
+   #Parallelarbeit
+   #Zeitgarantie
+   #Burst
+   #leere
+   #Wartezeit
+   #Synchrone
+   #l�nge
+   #seitentabellen
+   #Node
+   #Unterprogramme
+   #speicherröße
+   #Adressräume
+   #Rahmen
+   #verdrängt
+   #Stack
+   #Zähler
+   #Verschmelz
+   #Zugriff
+   #Zeit
+   #Kombination
+   #Ready
+   #Verwaltung
+   #länge
+   #Präsenz
+   #Hintergrundadres
+   #Residenter
+   #Programm
+   #Most
+   #Zugriffsschutz
+   #Atomare
+   #Register
+   #Recap
+   #Schleife
+   #Teile
+   #Arrays
+   #Inactiv
+   #Thread
+   #Timelin
+   #Vergibt
+   #Klassifikation
+   #Gegenseitiger
+   #Notier
+   #Stackframe
+   #Für
+   #Schreiben
+   #Teil
+   #Autragsverwaltung
+   #Terminate
+   #Leere
+   #Running
+   #Leistung
+   #Großteil
+   #geändert
+   #Random
+   #Probleme
+   #Aktuellerburst
+   #Variablen
+   #I-Node
+   #warten
+   #Kriterien
+   #Nicht
+   #Speicher
+   #Lokal
+   #Seitentabelle
+   #Lösungsansatz
+   #abgelöst
+   #Operation
+   #Paging
+   #Liste
+   #Enter
+   #Echtzeit
+   #Array
+   #Verfügbaren
+   #Verdrängendes
+   #Übrigen
+   #Variable
+   #Strategien
+   #Block
+   #Implementierung
+   #kopf
+   #Groß
+   #Prozesse
+   #Seitentabellen
+   #Exit
+   #Kopf
+   #Seiten
+   #schreiben
+   #Residente
+   #Ablehnen
+   #verdr�ngung
+   #Arbeitsspeicher
+   #Prozessverwaltung
+   #Kriterium
+   #Aging
+   #verdrängung
+   #Resident
+   #Austauschen
+   #variablen
+   #Syncro
+   #Aufruf
+   #Zugriffsrechte
+   #Speichers
+   #Duchschnitt
+   #Strategie
+   #Overlay
+   #Counter
+   #ge�ndert
+   #Antwortzeit
+   #Dekker
+   #Langzeit
+   #Leistungsfähigkeit
+   #Bereich
+   #Ressourcen
+   #Timeline
+   #Elemente
+   #Ziel
+   #Dispatcher
+   #Notieren
+   #man
+   #Verweis
+   #Kachelnummer
+   #Ressource
+   #Umlaufzeit
+   #Geschätzter
+   #Mutex

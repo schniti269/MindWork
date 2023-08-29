@@ -6,3 +6,7 @@ Prg. 1 Operationen auf einem Prozesskontrollblockpublic abstract class Pcb {
 
    Tags & Topics:
    #Prg
+
+[Previous: #BS-Folien_103](BS-Folien_103.md)
+
+[Next: #BS-Folien_103](BS-Folien_103.md)

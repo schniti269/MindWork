@@ -8,5 +8,9 @@ Informatik Fachzeitschriften/3
    #•Publikation
    #fürStudenten
    #•Publikationen
-   #•IEEE
    #•ieee
+   #•IEEE
+
+[Previous: #Einführung-IT-Teil1_87](Einführung-IT-Teil1_87.md)
+
+[Next: #Einführung-IT-Teil1_87](Einführung-IT-Teil1_87.md)

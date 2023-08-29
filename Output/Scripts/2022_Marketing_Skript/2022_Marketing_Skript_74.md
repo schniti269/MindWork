@@ -5,22 +5,26 @@ Homburg 2016, S. 186, Esch/Wicke/Rempel 2005, S. 74.1. ProductFunktionen einer M
 4.1. ProductÜbungsaufgabe 4: Markenpositionierung (2/2)
 
    Tags & Topics:
-   #Handels§Identifikation§Qualitätssignal§Erleichterung
-   #Erlebniswert
-   #1/2)Schauen
-   #Markenpositionierung
-   #ProductFunktion
-   #Markenführers
-   #Informationsverarbeitung§Orientierung§Qualitätssicherung§Vermittlung
-   #Absatzrisikos§Imagetransfer§Kundenbindung
-   #Wicke
-   #Markenführer
    #Handel
    #ProductFunktionen
+   #Markenpositionierung
+   #ich?“)2.Markennutzen(„Was
+   #1/2)Schauen
+   #ProductFunktion
+   #Erlebniswert
+   #Werbevideo
+   #Beratungsfunktion
+   #Informationsverarbeitung§Orientierung§Qualitätssicherung§Vermittlung
+   #Wicke
+   #Absatzrisikos§Imagetransfer§Kundenbindung
+   #Handels§Identifikation§Qualitätssignal§Erleichterung
+   #Markenführers
+   #Markenführer
+   #ich?“)2.markennutzen(„was
+   #ProductÜbungsaufgabe
    #handel
    #Esch
-   #Beratungsfunktion
-   #Werbevideo
-   #ich?“)2.markennutzen(„was
-   #ich?“)2.Markennutzen(„Was
-   #ProductÜbungsaufgabe
+
+[Previous: #2022_Marketing_Skript_75](2022_Marketing_Skript_75.md)
+
+[Next: #2022_Marketing_Skript_75](2022_Marketing_Skript_75.md)

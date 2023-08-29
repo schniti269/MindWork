@@ -5,5 +5,9 @@ Kacheln
 Referenz- Seitenfehler K1 K2 K3 am l¨angsten nicht
 
    Tags & Topics:
-   #Seitentauschstrategie
    #Seitentauschstrategien
+   #Seitentauschstrategie
+
+[Previous: #BS-Loesungen_21](BS-Loesungen_21.md)
+
+[Next: #BS-Loesungen_21](BS-Loesungen_21.md)

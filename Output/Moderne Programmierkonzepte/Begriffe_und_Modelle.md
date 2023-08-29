@@ -1,88 +1,126 @@
-# ## #Begriffe #und #Modelle #
+### Begriffe und Modelle
 
- - #Usability und #UX 
+- Usability und UX
 
-	 - #Ziel 
+	- Ziel
 
-		 - Ausmaß #indem #ein #System #genutzt #werden #kann #
-		 - Nutzer #soll #Anwendung zufrieden #verlassen , #soll #wiederkehren #wollen 
+		- Ausmaß indem ein System genutzt werden kann
+		- Nutzer soll Anwendung zufrieden verlassen, soll wiederkehren wollen
 
-	 - #wahrnehmung 
+	- wahrnehmung
 
-		 - #Unterknoten 1 
+		- Unterknoten 1
 
-	 - #Definition 
+	- Definition
 
-		 - #Unterknoten 1 
+		- Unterknoten 1
 
- - #Begriffe 
+- Begriffe
 
-	 - #Personen 
+	- Personen
 
-		 - #Programmierer 
+		- Programmierer
 
-			 - #Softwareentwickler 
+			- Softwareentwickler
 
-		 - #Anwender 
+		- Anwender
 
-			 - #Die #Person , die #ein #Computersystem zur #Erfüllung #ihrer #Aufgaben #einsetzt 
+			- Die Person, die ein Computersystem zur Erfüllung ihrer Aufgaben einsetzt
 
-		 - #Benutzer 
+		- Benutzer
 
-			 - #Jemand #der unmittelbar mit dem #System #Arbeitet 
+			- Jemand der unmittelbar mit dem System Arbeitet
 
-	 - #Hypertext 
+	- Hypertext
 
-		 - #Nichtlineare #Organisation #von #textlicher Information 
-		 - #Verweis #von #einem #zum #nächsen #Textdokument 
-		 - #HTML 1989 
+		- Nichtlineare Organisation von textlicher Information
+		- Verweis von einem zum nächsen Textdokument
+		- HTML 1989
 
-	 - #Hypermedia #
+	- Hypermedia
 
-		 - #Hypertext #+ #media 
+		- Hypertext + media
 
-	 - #Benutzerschnittstelle 
+	- Benutzerschnittstelle
 
-		 - #Benutzer #kann #mit #System #Interagieren 
-		 - #Arbeitsschritte 
+		- Benutzer kann mit System Interagieren
+		- Arbeitsschritte
 
-			 - #Dialogschritte 
-			 - #Interaktionsschritte 
+			- Dialogschritte
+			- Interaktionsschritte
 
- - #Medien 
+- Medien
 
-	 - #Perzeption 
-	 - #Präsentation 
-	 - #Speicherung 
-	 - #übertragung 
-	 - repräsentierung 
+	- Perzeption
+	- Präsentation
+	- Speicherung
+	- übertragung
+	- repräsentierung
 
- - #Modelle 
+- Modelle
 
-	 - #Mentales #Modell 
+	- Mentales Modell
 
-		 - " #nutzer hat #vorstellungen #wie etwas ausschaut #" 
+		- "nutzer hat vorstellungen wie etwas ausschaut"
 
-	 - #ABC #Modell 
+	- ABC Modell
 
-		 - #Computer 
-		 - #Benutzer 
-		 - #Aufgabe ( #zu #erledigen #) 
+		- Computer
+		- Benutzer
+		- Aufgabe ( zu erledigen)
 
-	 - #IFIP #Modell 
+	- IFIP Modell
 
-		 - #Organisation 
+		- Organisation
 
-			 - #Benutzer 
-			 - #Computer 
+			- Benutzer
+			- Computer
 
-				 - #IO 
-				 - #Steurerung 
-				 - #Anwendung 
+				- IO
+				- Steurerung
+				- Anwendung
 
-	 - #Levit #Raute 
+	- Levit Raute
 
-		 - #Organisation 
-		 - #Aufgabe 
-		 - #Benutzer 
-		 - #Computer 
+		- Organisation
+		- Aufgabe
+		- Benutzer
+		- Computer
+
+   Tags & Topics:
+   #Begriff
+   #Ausmaß
+   #arbeitsschritte
+   #Arbeitsschritte
+   #interaktionsschritte
+   #Benutzer
+   #Definition
+   #Organisation
+   #Softwareentwickler
+   #Dialogschritte
+   #Anwender
+   #Aufgaben
+   #Aufgabe
+   #repräsentierung
+   #Computer
+   #Benutzerschnittstelle
+   #Interaktionsschritte
+   #Medien
+   #Computersystem
+   #Personen
+   #Modelle
+   #Modell
+   #Steurerung
+   #benutzerschnittstelle
+   #Programmierer
+   #softwareentwickler
+   #Nutzer
+   #Person
+   #Ziel
+   #Hypertext
+   #Medium
+   #Dialogschritt
+   #Jemand
+   #HTML
+   #Perzeption
+   #Begriffe

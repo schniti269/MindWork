@@ -7,3 +7,7 @@ Einender inqblockierten Prozesse ausw ¨ahlen.
    Tags & Topics:
    #•Blockieren
    #Einender
+
+[Previous: #BS-Folien_94](BS-Folien_94.md)
+
+[Next: #BS-Folien_94](BS-Folien_94.md)

@@ -6,5 +6,9 @@ der zweiten 16−2= 0,00390625 usw.
 
    Tags & Topics:
    #•1/16−2
-   #Zahlenwert
    #16−2
+   #Zahlenwert
+
+[Previous: #Einführung-IT-Teil2_2](Einführung-IT-Teil2_2.md)
+
+[Next: #Einführung-IT-Teil2_2](Einführung-IT-Teil2_2.md)

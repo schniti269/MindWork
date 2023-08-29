@@ -5,5 +5,9 @@ Speicherbasierte Synchronisation
 Prof. Dr. Henning Pagnia (DHBW Mannheim) Advanced IT Herbst 2023 34/132Speicherbasierte Synchronisation Begriﬀe und Basismechanismen
 
    Tags & Topics:
-   #Basismechanisme
    #⇒Anwendungen
+   #Basismechanisme
+
+[Previous: #AdvIT-Folien_99](AdvIT-Folien_99.md)
+
+[Next: #AdvIT-Folien_99](AdvIT-Folien_99.md)

@@ -5,11 +5,15 @@ Kaskadierte Caches
 ⋄Level-3-Cache / Last-Level-Cache, zwischen Prozessor und Speicher
 
    Tags & Topics:
-   #⋄Level-2
+   #Level
+   #BS–24Einleitung
+   #Last-Level-Cach
+   #Hardware
    #⋄Level-3
    #⋄Level-3-Cach
    #⋄Level-1
-   #BS–24Einleitung
-   #Last-Level-Cach
-   #Level
-   #Hardware
+   #⋄Level-2
+
+[Previous: #BS-Folien_56](BS-Folien_56.md)
+
+[Next: #BS-Folien_56](BS-Folien_56.md)

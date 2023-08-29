@@ -5,6 +5,10 @@
 • Magnetbandarchiv bis zu 45,5 TB
 
    Tags & Topics:
-   #Technologie
    #Epoche
    #•Steuereinheit
+   #Technologie
+
+[Previous: #Einführung-IT-Teil1_64](Einführung-IT-Teil1_64.md)
+
+[Next: #Einführung-IT-Teil1_64](Einführung-IT-Teil1_64.md)

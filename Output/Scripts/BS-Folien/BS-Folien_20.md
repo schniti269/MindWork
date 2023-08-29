@@ -5,11 +5,15 @@
 (⇒Multi-Processing )
 
    Tags & Topics:
-   #⇒Multi
    #⇒Multi-Processing
+   #⇒Multi
+   #Job
    #alsProzesse
    #Processing
-   #•Benutzerauftr
-   #Job
    #oderAuftrag(Task
    #biszurBeendigung
+   #•Benutzerauftr
+
+[Previous: #BS-Folien_200](BS-Folien_200.md)
+
+[Next: #BS-Folien_200](BS-Folien_200.md)

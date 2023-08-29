@@ -5,5 +5,9 @@ Betriebssysteme DHBW Mannheim ©Henning Pagnia Version 4.23 Fr¨uhjahr 2023 BS�
 SPEICHERVERWALTUNG
 
    Tags & Topics:
-   #Hauptspeichers
    #Hauptspeicher
+   #Hauptspeichers
+
+[Previous: #BS-Folien_252](BS-Folien_252.md)
+
+[Next: #BS-Folien_252](BS-Folien_252.md)

@@ -8,3 +8,7 @@ darstellen lässt.
    #Längenmaßstäbe
    #•1622
    #Rechenschieber
+
+[Previous: #Einführung-IT-Teil1_23](Einführung-IT-Teil1_23.md)
+
+[Next: #Einführung-IT-Teil1_23](Einführung-IT-Teil1_23.md)

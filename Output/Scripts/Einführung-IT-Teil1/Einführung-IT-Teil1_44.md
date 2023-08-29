@@ -5,11 +5,15 @@
 Hypertext Transfer Protocol szur Übertragung von HTML Seiten (HTTP) erscheint.
 
    Tags & Topics:
-   #Entwurf
-   #•3.
    #Short
-   #-Technologie
-   #Internets
-   #HTML
-   #Vorabversion
    #Internet
+   #•3.
+   #HTML
+   #Internets
+   #-Technologie
+   #Entwurf
+   #Vorabversion
+
+[Previous: #Einführung-IT-Teil1_45](Einführung-IT-Teil1_45.md)
+
+[Next: #Einführung-IT-Teil1_45](Einführung-IT-Teil1_45.md)

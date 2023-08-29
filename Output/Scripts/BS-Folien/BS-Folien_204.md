@@ -7,3 +7,7 @@ und seine User-Mode-Priorit ¨atzur¨uck.
    Tags & Topics:
    #User-Mode-Priorit
    #Mode
+
+[Previous: #BS-Folien_205](BS-Folien_205.md)
+
+[Next: #BS-Folien_205](BS-Folien_205.md)

@@ -5,17 +5,21 @@
 www.dhbw.deMarketing
 
    Tags & Topics:
-   #Preiskorridor
+   #Leser
+   #Abwerbe
+   #Magazine
+   #Stern
+   #Glamour
+   #Abwerben
+   #Begründet
    #Copypreisauf
    #Gewinnung
    #Ausgabe
-   #Stern
-   #Magazins
-   #Verlag
    #Glamour-Magazin
-   #Begründet
-   #Abwerbe
-   #Glamour
-   #Abwerben
-   #Leser
-   #Magazine
+   #Verlag
+   #Preiskorridor
+   #Magazins
+
+[Previous: #2022_Marketing_Skript_83](2022_Marketing_Skript_83.md)
+
+[Next: #2022_Marketing_Skript_83](2022_Marketing_Skript_83.md)

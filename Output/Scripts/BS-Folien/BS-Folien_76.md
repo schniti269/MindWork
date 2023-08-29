@@ -5,6 +5,10 @@ exit (status)
 s = kill (pid, signal)
 
    Tags & Topics:
-   #Programms
    #Programm
+   #Programms
    #⋄Prozess
+
+[Previous: #BS-Folien_77](BS-Folien_77.md)
+
+[Next: #BS-Folien_77](BS-Folien_77.md)

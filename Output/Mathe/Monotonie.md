@@ -1,11 +1,14 @@
-# ## #Monotonie 
+### Monotonie
 
- - #Streng 
+- Streng
 
-	 - #wachsend 
-	 - #fallend 
+	- wachsend
+	- fallend
 
- - #nicht #streng 
+- nicht streng
 
-	 - #wachsend 
-	 - #fallend 
+	- wachsend
+	- fallend
+
+   Tags & Topics:
+   

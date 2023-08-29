@@ -6,3 +6,7 @@ en-us/role/coo-operations-and-supply-chain
 
    Tags & Topics:
    #insight
+
+[Previous: #C-Study22 - Own your transformation_289](C-Study22 - Own your transformation_289.md)
+
+[Next: #C-Study22 - Own your transformation_289](C-Study22 - Own your transformation_289.md)

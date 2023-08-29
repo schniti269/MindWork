@@ -6,6 +6,10 @@ Dateityp:
 
    Tags & Topics:
    #dateityp
-   #⋄Textdatei
    #Dateityp
+   #⋄Textdatei
    #⋄textdatei
+
+[Previous: #BS-Folien_4](BS-Folien_4.md)
+
+[Next: #BS-Folien_4](BS-Folien_4.md)

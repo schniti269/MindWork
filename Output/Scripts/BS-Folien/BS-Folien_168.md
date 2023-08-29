@@ -5,8 +5,12 @@ Echtzeitbetrieb
 ⋄Ziel: Einhaltung von Zeitgarantien
 
    Tags & Topics:
-   #Echtzeitbetrieb
-   #→Batch-Betrieb
    #Betrieb
-   #Hardware
+   #→Batch-Betrieb
    #Auslastung
+   #Hardware
+   #Echtzeitbetrieb
+
+[Previous: #BS-Folien_169](BS-Folien_169.md)
+
+[Next: #BS-Folien_169](BS-Folien_169.md)

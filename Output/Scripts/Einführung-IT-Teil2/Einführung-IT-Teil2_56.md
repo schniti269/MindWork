@@ -5,9 +5,13 @@
 •Zur Darstellung eines negativen Werts geht ein Bit verloren, der Zahlenbereich umfasst nicht 
 
    Tags & Topics:
-   #Wert
    #ErgebnisEinerkomplement
-   #Zahlenbereich
    #Werts
-   #Stellenkomplement
+   #Wert
    #ErgebnisEinerkomplement/
+   #Zahlenbereich
+   #Stellenkomplement
+
+[Previous: #Einführung-IT-Teil2_57](Einführung-IT-Teil2_57.md)
+
+[Next: #Einführung-IT-Teil2_57](Einführung-IT-Teil2_57.md)

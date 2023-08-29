@@ -6,3 +6,7 @@ CSCOs rebalance and regroup in near-acrobatic ways that transform
 
    Tags & Topics:
    
+
+[Previous: #C-Study22 - Own your transformation_270](C-Study22 - Own your transformation_270.md)
+
+[Next: #C-Study22 - Own your transformation_270](C-Study22 - Own your transformation_270.md)

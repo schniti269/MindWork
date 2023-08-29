@@ -5,7 +5,11 @@ imFall e= 0ausx= (−1)v·2−B·0.m m . . . m bin,undrepräsentiertimFall e= 11
 wiex= (−1)v· ∞. Diese wissenschaftliche Darstellung von Zahlen in der Form einer einstelligen Zahl
 
    Tags & Topics:
-   #Gleitkommazahl
    #imfall
-   #bin−B
    #imFall
+   #Gleitkommazahl
+   #bin−B
+
+[Previous: #Analysis-Lineare_Algebra-230308_623](Analysis-Lineare_Algebra-230308_623.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_623](Analysis-Lineare_Algebra-230308_623.md)

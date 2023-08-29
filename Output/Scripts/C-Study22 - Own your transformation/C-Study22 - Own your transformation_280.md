@@ -7,3 +7,7 @@ blogs/1-think-tank/post/33355-four-risks-most-
    Tags & Topics:
    #Cory
    #way
+
+[Previous: #C-Study22 - Own your transformation_281](C-Study22 - Own your transformation_281.md)
+
+[Next: #C-Study22 - Own your transformation_281](C-Study22 - Own your transformation_281.md)

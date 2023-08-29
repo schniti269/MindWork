@@ -5,5 +5,9 @@ Implementierung ¨uber zyklischen Kachelzeiger.
 In der Praxis schlechte Ergebnisse, da das Zugriﬀsverhalte n der Programme nicht ber ¨ucksichtigt wird.
 
    Tags & Topics:
-   #Zugriﬀsverhalte
    #Kachelzeiger
+   #Zugriﬀsverhalte
+
+[Previous: #BS-Folien_338](BS-Folien_338.md)
+
+[Next: #BS-Folien_338](BS-Folien_338.md)

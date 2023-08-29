@@ -5,5 +5,9 @@ Fouriertransformation, 58
 freie Variable, 8
 
    Tags & Topics:
-   #Fouriertransformation
    #Fixkost
+   #Fouriertransformation
+
+[Previous: #Analysis-Lineare_Algebra-230308_796](Analysis-Lineare_Algebra-230308_796.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_796](Analysis-Lineare_Algebra-230308_796.md)

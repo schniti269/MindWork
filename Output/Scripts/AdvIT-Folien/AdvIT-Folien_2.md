@@ -6,5 +6,9 @@ Telefon:0621 / 4105-1131
 
    Tags & Topics:
    #Wichtiges
-   #Wirtschaftsinformatik
    #Wichtig
+   #Wirtschaftsinformatik
+
+[Previous: #AdvIT-Folien_20](AdvIT-Folien_20.md)
+
+[Next: #AdvIT-Folien_20](AdvIT-Folien_20.md)

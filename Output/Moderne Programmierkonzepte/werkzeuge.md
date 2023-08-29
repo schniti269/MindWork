@@ -1,16 +1,19 @@
-# ## #werkzeuge 
+### werkzeuge
 
- - datenaustausch 
+- datenaustausch
 
-	 - clipboard 
-	 - #dynamischen #datenaustausch 
+	- clipboard
+	- dynamischen datenaustausch
 
-		 - #DDE 
-		 - #Benutzer #initiert #datenaustausch 
-		 - #objekteinbettung 
+		- DDE
+		- Benutzer initiert datenaustausch
+		- objekteinbettung
 
-			 - objekt ist #eingebettet in #anwendug eigentlich ab #teil #einer #anderen #anwendung 
+			- objekt ist eingebettet in anwendug eigentlich ab teil einer anderen anwendung
 
-		 - objektverbindung 
+		- objektverbindung
 
-			 - #link #zu #anderer #anwendung #
+			- link zu anderer anwendung
+
+   Tags & Topics:
+   #Benutzer

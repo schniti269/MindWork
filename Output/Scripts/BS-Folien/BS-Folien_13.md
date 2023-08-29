@@ -5,7 +5,11 @@ Maschinensprache
 Mikroprogramm
 
    Tags & Topics:
-   #BrowserTextver
    #Mikroprogramm
    #Player
+   #BrowserTextver
    #arbeitungVideo
+
+[Previous: #BS-Folien_130](BS-Folien_130.md)
+
+[Next: #BS-Folien_130](BS-Folien_130.md)

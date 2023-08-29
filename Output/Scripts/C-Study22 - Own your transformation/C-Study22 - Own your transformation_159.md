@@ -5,5 +5,9 @@ coffee and cocoa supply chain together. Farmers, cooperatives, traders, and reta
 can interact more efficiently, and consumers can gain new insights about the origins  
 
    Tags & Topics:
-   #Farmer
    #farmer
+   #Farmer
+
+[Previous: #C-Study22 - Own your transformation_16](C-Study22 - Own your transformation_16.md)
+
+[Next: #C-Study22 - Own your transformation_16](C-Study22 - Own your transformation_16.md)

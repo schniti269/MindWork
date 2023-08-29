@@ -5,6 +5,10 @@ and everyone in between for a more transparent and sustainable food supply chain
 Information is presented on an interactive map, allowing each product to tell a story  
 
    Tags & Topics:
+   #Information
    #information
    #consumer
-   #Information
+
+[Previous: #C-Study22 - Own your transformation_159](C-Study22 - Own your transformation_159.md)
+
+[Next: #C-Study22 - Own your transformation_159](C-Study22 - Own your transformation_159.md)

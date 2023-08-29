@@ -6,3 +6,7 @@ deblockiert einen bisher blockierten Thread
 
    Tags & Topics:
    #Prozessorkontrolle
+
+[Previous: #AdvIT-Folien_93](AdvIT-Folien_93.md)
+
+[Next: #AdvIT-Folien_93](AdvIT-Folien_93.md)

@@ -5,14 +5,18 @@ Problemformulierung§Fokussierung auf ausgewählte Ziele:-Die Deutsche Bahn möc
 Durchführung intern
 
    Tags & Topics:
-   #Festlegung
-   #Problemformulierung§Fokussierung
-   #Bahnfahrten
-   #befragter
-   #Online-)Kund
-   #Bahnfahrt
    #Untersuchungsdesigns
    #Befragten
+   #Problemformulierung§Fokussierung
+   #Bahnfahrten
    #Grundgesamtheit
-   #Buchungsanzahl
+   #Bahnfahrt
    #Studie
+   #befragter
+   #Buchungsanzahl
+   #Festlegung
+   #Online-)Kund
+
+[Previous: #2022_Marketing_Skript_45](2022_Marketing_Skript_45.md)
+
+[Next: #2022_Marketing_Skript_45](2022_Marketing_Skript_45.md)

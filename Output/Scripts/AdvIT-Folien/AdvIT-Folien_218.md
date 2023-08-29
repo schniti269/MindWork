@@ -5,6 +5,10 @@ printerFree[usePrinterNo]  = true;
 mutex.release();
 
    Tags & Topics:
-   #f.printOnPrinter(usePrinterNo
    #f.printOnPrinter
+   #f.printOnPrinter(usePrinterNo
    #printerfree[useprinterno
+
+[Previous: #AdvIT-Folien_219](AdvIT-Folien_219.md)
+
+[Next: #AdvIT-Folien_219](AdvIT-Folien_219.md)

@@ -6,3 +6,7 @@ sustainability strategy. They may be right: IBV consumer
 
    Tags & Topics:
    
+
+[Previous: #C-Study22 - Own your transformation_198](C-Study22 - Own your transformation_198.md)
+
+[Next: #C-Study22 - Own your transformation_198](C-Study22 - Own your transformation_198.md)

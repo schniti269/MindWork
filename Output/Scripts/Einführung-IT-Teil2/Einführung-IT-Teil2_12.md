@@ -5,5 +5,9 @@ Beispiel:  Die Zahl 257,34 lautet in der oben definierten Darstellung:
 i = an10n +... + a1101 + a0100+ a-110-1 + a-210-2 +... + a-∞10-∞
 
    Tags & Topics:
-   #Vorkommastellen
    #•Unendliche
+   #Vorkommastellen
+
+[Previous: #Einführung-IT-Teil2_13](Einführung-IT-Teil2_13.md)
+
+[Next: #Einführung-IT-Teil2_13](Einführung-IT-Teil2_13.md)

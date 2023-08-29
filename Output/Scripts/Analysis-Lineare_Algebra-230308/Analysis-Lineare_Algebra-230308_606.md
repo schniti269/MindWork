@@ -6,3 +6,7 @@ return y;
 
    Tags & Topics:
    
+
+[Previous: #Analysis-Lineare_Algebra-230308_607](Analysis-Lineare_Algebra-230308_607.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_607](Analysis-Lineare_Algebra-230308_607.md)

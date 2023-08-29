@@ -5,10 +5,14 @@ zu Zeit Spaghetti essen. Jeder Philosoph hat rechts neben se inem Teller nur ein
 Essen zwei Gabeln, also auch die seines linken Nachbarn. Aus diesem Grund k ¨onnen nicht alle Philosophen
 
    Tags & Topics:
-   #Bearbeitungszeit
-   #Philosophenproblem
-   #Gabel
    #Nachbar
+   #Philosophenproblem
    #Philosophen
+   #Gabel
    #Gabeln
    #Philosoph
+   #Bearbeitungszeit
+
+[Previous: #AdvIT-Aufgaben_2](AdvIT-Aufgaben_2.md)
+
+[Next: #AdvIT-Aufgaben_2](AdvIT-Aufgaben_2.md)

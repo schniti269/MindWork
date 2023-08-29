@@ -6,3 +6,7 @@ Tatsächlich ist der Eigenwert 1hier auch der vom Betrag größte Eigenwert und 
 
    Tags & Topics:
    #Wahrscheinlichkeit
+
+[Previous: #Analysis-Lineare_Algebra-230308_762](Analysis-Lineare_Algebra-230308_762.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_762](Analysis-Lineare_Algebra-230308_762.md)

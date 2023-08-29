@@ -5,20 +5,24 @@ MarktorientierteUnternehmens-führung-RelationshipMarketingMarketing-implementie
 1.2. Einführung Marketing-MixDie vier Psdes Marketing-MixProduct:ProduktpolitikPrice: PreispolitikPromotion:KommunikationspolitikPlace:Vertriebspolitik
 
    Tags & Topics:
-   #MarktorientierteUnternehmens
-   #Marktforschung4.Marketinginstrumente4.1Product4.2Price4.3Promotion4.4Place13www.dhbw.deMarketing
-   #Vertriebspolitik
    #preispolitikpromotion
-   #GrundlagenVorlesungsinhalte1.Grundlagen1.1
-   #tionspolitikmarketingmixpreispolitikproduktpolitikkommunika
+   #MarktorientierteUnternehmens
    #Psd
-   #PreispolitikPromotion
-   #KommunikationspolitikPlace
-   #Konsumentenverhaltens2.2Informationsverarbeitung2.3
-   #1.2.
-   #Mix2.Konsumentenverhalten2.1Zentrale
-   #MixProduct
-   #MixDie
-   #tionspolitikmarketingmixpreispolitikproduktpolitik
-   #RelationshipMarketingMarketing
+   #Vertriebspolitik
+   #Marktforschung4.Marketinginstrumente4.1Product4.2Price4.3Promotion4.4Place13www.dhbw.deMarketing
    #1990VerkaufVertriebspolitikVertriebspolitikWerbungVerkaufMarketingmixKommunika-tionspolitikMarketingmixPreispolitikProduktpolitikKommunika-tionspolitikMarketingmixPreispolitikProduktpolitik
+   #GrundlagenVorlesungsinhalte1.Grundlagen1.1
+   #tionspolitikmarketingmixpreispolitikproduktpolitik
+   #MixDie
+   #MixProduct
+   #1.2.
+   #KommunikationspolitikPlace
+   #Mix2.Konsumentenverhalten2.1Zentrale
+   #PreispolitikPromotion
+   #RelationshipMarketingMarketing
+   #tionspolitikmarketingmixpreispolitikproduktpolitikkommunika
+   #Konsumentenverhaltens2.2Informationsverarbeitung2.3
+
+[Previous: #2022_Marketing_Skript_100](2022_Marketing_Skript_100.md)
+
+[Next: #2022_Marketing_Skript_100](2022_Marketing_Skript_100.md)

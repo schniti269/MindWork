@@ -5,6 +5,10 @@ Alternative Implementierungen
 im Benutzeradressraum ( User-Level), Abb. links
 
    Tags & Topics:
+   #Abb.
    #Abb
    #Level
-   #Abb.
+
+[Previous: #AdvIT-Folien_75](AdvIT-Folien_75.md)
+
+[Next: #AdvIT-Folien_75](AdvIT-Folien_75.md)

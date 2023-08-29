@@ -5,5 +5,9 @@ Betriebssysteme – L ¨osungsvorschl ¨age Fr¨uhjahr 2023 ©Henning Pagnia/J �
 Kacheln
 
    Tags & Topics:
-   #Seitentauschstrategie
    #Seitentauschstrategien
+   #Seitentauschstrategie
+
+[Previous: #BS-Loesungen_36](BS-Loesungen_36.md)
+
+[Next: #BS-Loesungen_36](BS-Loesungen_36.md)

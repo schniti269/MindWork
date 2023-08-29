@@ -5,5 +5,9 @@ COO, Philips, Netherlands
 IoT27
 
    Tags & Topics:
-   #Netherlands
    #Netherland
+   #Netherlands
+
+[Previous: #C-Study22 - Own your transformation_119](C-Study22 - Own your transformation_119.md)
+
+[Next: #C-Study22 - Own your transformation_119](C-Study22 - Own your transformation_119.md)

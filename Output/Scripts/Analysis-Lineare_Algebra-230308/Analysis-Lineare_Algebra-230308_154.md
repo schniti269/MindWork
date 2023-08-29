@@ -7,3 +7,7 @@ Aufgabe 7. Bestimmen Sie alle Lösungen x∈Rmit Hilfe von Äquivalenzumformunge
    Tags & Topics:
    #Ergänzung
    #x∈Rmit
+
+[Previous: #Analysis-Lineare_Algebra-230308_155](Analysis-Lineare_Algebra-230308_155.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_155](Analysis-Lineare_Algebra-230308_155.md)

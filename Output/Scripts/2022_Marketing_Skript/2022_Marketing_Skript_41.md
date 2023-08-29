@@ -5,25 +5,29 @@ Validität§Das Messverfahren ist frei von systematischen Fehlern.§Konzeptionel
 1•Problemformulierung2•Festlegung des Untersuchungsdesigns3•Bestimmung des Durchführenden4•Festlegung der Datenerhebungsmethode5•Stichprobenauswahl6•Gestaltung des Erhebungsinstrumentes7•Durchführung der Datenerhebung8•Editierung und Kodierung der Daten9•Datenanalyse und -interpretation10•Präsentation der Ergebnisse3.2. Prozess der Marktforschung10 Schritte der Marktforschung (Beispiel Deutsche Bahn*)
 
    Tags & Topics:
-   #Durchführenden4•Festlegung
-   #Mix2.Konsumentenverhalten2.1Zentrale
-   #GrundlagenGütekriterien
+   #Messergebnis
+   #Messverfahren
+   #Ergebnisse3.2
+   #Daten9•Datenanalyse
+   #Bahn
+   #Schritte
+   #Datenerhebungsmethode5•Stichprobenauswahl6•Gestaltung
    #Marktforschung
+   #Schritt
    #MarktforschungVorlesungsinhalte1.Grundlagen1.1
+   #-interpretation10•Präsentation
    #Erhebungsinstrumentes7•Durchführung
    #Prozess
-   #Messverfahren
-   #Datenerhebung8•Editierung
-   #Konsumentenverhaltens2.2Informationsverarbeitung2.3
-   #Bahn
    #Kodierung
-   #Messergebnis
-   #Schritt
-   #Datenerhebungsmethode5•Stichprobenauswahl6•Gestaltung
-   #Ergebnisse3.2
-   #Sachverhalt
+   #Durchführenden4•Festlegung
    #Richtigkeit
-   #Schritte
    #Untersuchungsdesigns3•Bestimmung
-   #Daten9•Datenanalyse
-   #-interpretation10•Präsentation
+   #Konsumentenverhaltens2.2Informationsverarbeitung2.3
+   #Datenerhebung8•Editierung
+   #Mix2.Konsumentenverhalten2.1Zentrale
+   #GrundlagenGütekriterien
+   #Sachverhalt
+
+[Previous: #2022_Marketing_Skript_42](2022_Marketing_Skript_42.md)
+
+[Next: #2022_Marketing_Skript_42](2022_Marketing_Skript_42.md)

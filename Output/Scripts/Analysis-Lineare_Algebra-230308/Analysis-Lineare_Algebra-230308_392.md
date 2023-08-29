@@ -6,3 +6,7 @@ Abbildung 4.1.1. Eine Treppenfunktion
 
    Tags & Topics:
    
+
+[Previous: #Analysis-Lineare_Algebra-230308_393](Analysis-Lineare_Algebra-230308_393.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_393](Analysis-Lineare_Algebra-230308_393.md)

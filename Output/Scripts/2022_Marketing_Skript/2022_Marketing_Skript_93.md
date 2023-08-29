@@ -5,34 +5,38 @@ PreisdifferenzierungGleiche oder sehr ähnliche Produkte werden verschiedenen Ku
 www.mcdonalds.de4.2. PricePreisdifferenzierung, Praxisbeispiel für Preisbündelung
 
    Tags & Topics:
-   #Rückflug
-   #Hotel
-   #Softdrink
-   #Rabatt
-   #Hin
-   #Ferienhauses
-   #Fast-Food-Restaurant
-   #Segmenten
-   #Rabatt.
-   #Schüler
-   #Preisdifferenzierung-Der
-   #Schülern
-   #Haupt
    #Rabatt-und
-   #Preisdifferenzierung
-   #Preisdifferenzierung(nichtlineare
-   #Portion
-   #Segment
+   #Schüler
+   #Haupt
    #Food
-   #Preisbereitschaften
-   #Museum
-   #Preisbildung
-   #Gewinn
-   #Fast
-   #Aufenthalt
+   #Preisdifferenzierung
+   #Fast-Food-Restaurant
+   #Rabatt.
    #Student
-   #Cheeseburger
-   #Preisdifferenzierung-Eine
-   #Ferienhaus
+   #Softdrink
+   #Fast
    #Schachtel
+   #Preisdifferenzierung-Eine
+   #Preisdifferenzierung(nichtlineare
+   #Hotel
+   #Ferienhauses
+   #Cheeseburger
+   #Gewinn
+   #Segment
+   #Preisbereitschaften
    #Studenten
+   #Rückflug
+   #Preisbildung
+   #Portion
+   #Segmenten
+   #Museum
+   #Rabatt
+   #Preisdifferenzierung-Der
+   #Hin
+   #Ferienhaus
+   #Schülern
+   #Aufenthalt
+
+[Previous: #2022_Marketing_Skript_94](2022_Marketing_Skript_94.md)
+
+[Next: #2022_Marketing_Skript_94](2022_Marketing_Skript_94.md)

@@ -6,3 +6,7 @@ innovation with business partners. 46% are exploring new risk models
 
    Tags & Topics:
    
+
+[Previous: #C-Study22 - Own your transformation_5](C-Study22 - Own your transformation_5.md)
+
+[Next: #C-Study22 - Own your transformation_5](C-Study22 - Own your transformation_5.md)

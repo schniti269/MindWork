@@ -1,20 +1,30 @@
-# ## Outer 
+### Outer
 
- - Left 
+- Left
 
-	 - #Alle wo es #Fremdschlüssel #gibt #wird ausgefüllt 
-	 - #Alles andere #Null 
-	 - #Carl #ist #da #aber kurs #NULL #
+	- Alle wo es Fremdschlüssel gibt wird ausgefüllt
+	- Alles andere Null
+	- Carl ist da aber kurs NULL
 
- - #Right 
+- Right
 
-	 - Selbes #wie LEft nur #reihenfolge #anders #
-	 - #Carl #taucht #nicht auf #weil kein #kurs 
-	 - #Kurse ohne studenten 
+	- Selbes wie LEft nur reihenfolge anders
+	- Carl taucht nicht auf weil kein kurs
+	- Kurse ohne studenten
 
- - Full 
+- Full
 
-	 - #Beides #wird #kombiniert und " quasi " #über #eine #vereinigung #vermengt #
+	- Beides wird kombiniert und "quasi" über eine vereinigung vermengt
 
- - #Vergleich 
+- Vergleich
 
+
+   Tags & Topics:
+   #Left
+   #Kurs
+   #Beides
+   #Kurse
+   #Fremdschlüssel
+   #Vergleich
+   #ausgefüllt
+   #Selbe

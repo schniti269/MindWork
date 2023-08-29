@@ -5,14 +5,18 @@ Einprogrammbetrieb ( Uniprogramming )
 Mehrprogrammbetrieb ( Multiprogramming )
 
    Tags & Topics:
-   #Navigationssystem
    #Mehrprogrammbetrieb
-   #Embedded-System
-   #Receiver
-   #Mobiltelefone
-   #Programm
+   #Navigationssystem
    #Betriebsarten
+   #Programm
    #Betriebsart
-   #Navigationssysteme
-   #•Es
    #Sat
+   #Embedded-System
+   #•Es
+   #Mobiltelefone
+   #Navigationssysteme
+   #Receiver
+
+[Previous: #BS-Folien_400](BS-Folien_400.md)
+
+[Next: #BS-Folien_400](BS-Folien_400.md)

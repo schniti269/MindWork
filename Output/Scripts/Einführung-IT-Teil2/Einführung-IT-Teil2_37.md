@@ -6,3 +6,7 @@ Im Hexadezimalsystem ist die Rechnung viel kürzer in nur einem Schritt durchfü
 
    Tags & Topics:
    
+
+[Previous: #Einführung-IT-Teil2_38](Einführung-IT-Teil2_38.md)
+
+[Next: #Einführung-IT-Teil2_38](Einführung-IT-Teil2_38.md)

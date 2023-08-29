@@ -5,6 +5,10 @@ Betriebssysteme DHBW Mannheim ©Henning Pagnia Version 4.23 Fr¨uhjahr 2023 BS�
 Round Robin (RR)
 
    Tags & Topics:
-   #Restbearbeitungszeit
    #Burst
+   #Restbearbeitungszeit
    #K¨urzerer
+
+[Previous: #BS-Folien_183](BS-Folien_183.md)
+
+[Next: #BS-Folien_183](BS-Folien_183.md)

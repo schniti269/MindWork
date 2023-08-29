@@ -5,15 +5,19 @@ in Anlehnung an Hammann/Erichson200676www.dhbw.deMarketing
 * Die Studie und sämtliche Werte sind frei erfundenGrundgesamtheit(geschichtet)AuswahlStichprobe(geschichtet)Auswahl aus BahnCardKundenAuswahl aus ehemaligen KundenAuswahl aus Kunden ohne BahnCard77www.dhbw.deMarketing
 
    Tags & Topics:
-   #Card
-   #Adressen
-   #Auswahl
-   #Ehemalige
-   #Kunden-Kunden
-   #Buchung
    #AuswahlStichprobe
-   #Adresse
+   #Adressen
+   #Ehemalige
+   #Auswahl
+   #Kunden-Kunden
+   #Card
+   #Buchung
    #Stichprobenauswahl
+   #Adresse
+   #Studie
    #erfundenGrundgesamtheit
    #Mail
-   #Studie
+
+[Previous: #2022_Marketing_Skript_54](2022_Marketing_Skript_54.md)
+
+[Next: #2022_Marketing_Skript_54](2022_Marketing_Skript_54.md)

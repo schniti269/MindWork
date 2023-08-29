@@ -6,3 +6,7 @@ komplett abgearbeitet wird, muss sie genau einmal eingelag ert werden. Daher tre
 
    Tags & Topics:
    #Matrixseite
+
+[Previous: #BS-Loesungen_42](BS-Loesungen_42.md)
+
+[Next: #BS-Loesungen_42](BS-Loesungen_42.md)

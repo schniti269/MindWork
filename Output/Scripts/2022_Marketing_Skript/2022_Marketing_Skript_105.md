@@ -5,21 +5,25 @@ a)Führen Sie eine Intramedienselektion durch und ermitteln Sie alle relevanten 
 In zahlreichen Lehrbüchern wird diese Komponente des Marketingmix auch als Distributionspolitik bezeichnet. vgl. Homburg 2016, S. 256
 
    Tags & Topics:
+   #Restbudget
    #a)Führen
-   #eignungkontaktqualität12.090.00022.200120,50,621.090.00018.100120,40,331.240.00014.70060,70,44880.00010.900240,80,856.700.00050.676260,30,9www.dhbw.demarketing
+   #Ergebnisse
+   #Ergebnis
+   #Marketingmix
    #Zielgruppeneignung
    #MarketinginstrumenteVorlesungsinhalte1.Grundlagen1.1
-   #Restbudget
-   #Anzeigen
-   #Konsumentenverhaltens2.2Informationsverarbeitung2.3
-   #Komponente
-   #Mix2.Konsumentenverhalten2.1Zentrale
-   #Marketingmix
-   #b)Sie
-   #Ergebnisse
-   #JahrZielgruppen
-   #Marktforschung4.Marketinginstrumente4.1Product4.2Price4.3Promotion4.4Place148www.dhbw.deMarketing
-   #Anzeige
    #Intramedienselektion
-   #Ergebnis
+   #Komponente
+   #eignungkontaktqualität12.090.00022.200120,50,621.090.00018.100120,40,331.240.00014.70060,70,44880.00010.900240,80,856.700.00050.676260,30,9www.dhbw.demarketing
+   #Mix2.Konsumentenverhalten2.1Zentrale
    #Kontaktqualität
+   #Marktforschung4.Marketinginstrumente4.1Product4.2Price4.3Promotion4.4Place148www.dhbw.deMarketing
+   #Anzeigen
+   #b)Sie
+   #Anzeige
+   #JahrZielgruppen
+   #Konsumentenverhaltens2.2Informationsverarbeitung2.3
+
+[Previous: #2022_Marketing_Skript_106](2022_Marketing_Skript_106.md)
+
+[Next: #2022_Marketing_Skript_106](2022_Marketing_Skript_106.md)

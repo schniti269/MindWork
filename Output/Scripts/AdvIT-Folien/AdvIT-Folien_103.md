@@ -5,6 +5,10 @@ kritische Abschnitte
 kritische Abschnitte d ¨urfen i.Allg. nicht in beliebiger zeitlicher ¨Uberlappung
 
    Tags & Topics:
-   #Abschnitte
    #Abschnitt
    #¨Uberlappung
+   #Abschnitte
+
+[Previous: #AdvIT-Folien_104](AdvIT-Folien_104.md)
+
+[Next: #AdvIT-Folien_104](AdvIT-Folien_104.md)

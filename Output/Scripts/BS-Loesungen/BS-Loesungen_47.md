@@ -5,5 +5,9 @@ Die Allgemeinheit (=Meier und M ¨uler) erh¨alt dasw-Recht
 In der folgenden Tabelle sind wegen einer besseren ¨Ubersichtlichkeit nur gew¨ahrteRechte eingetragen.
 
    Tags & Topics:
-   #W-Recht
    #gew¨ahrteRechte
+   #W-Recht
+
+[Previous: #BS-Loesungen_48](BS-Loesungen_48.md)
+
+[Next: #BS-Loesungen_48](BS-Loesungen_48.md)

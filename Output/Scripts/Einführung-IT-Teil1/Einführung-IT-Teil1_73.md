@@ -5,12 +5,16 @@ Local Area Network (LAN)
 Megabit/s (Gigabit -Ethernet), Reichweite bis zu 70km
 
    Tags & Topics:
-   #Netzstruktur
-   #Übertragungsraten
-   #Reichweit
-   #Netzwerk
-   #Kupfer
-   #gigabit
-   #Glasfaser
    #Reichweite
+   #gigabit
    #Übertragungsrat
+   #Netzwerk
+   #Glasfaser
+   #Reichweit
+   #Kupfer
+   #Übertragungsraten
+   #Netzstruktur
+
+[Previous: #Einführung-IT-Teil1_74](Einführung-IT-Teil1_74.md)
+
+[Next: #Einführung-IT-Teil1_74](Einführung-IT-Teil1_74.md)

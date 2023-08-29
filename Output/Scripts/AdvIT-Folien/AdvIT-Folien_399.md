@@ -5,6 +5,10 @@ Nachteile
 ◮schlechterer Durchsatz bei stark unterschiedlichen Anfra gelasten der einzelnen
 
    Tags & Topics:
+   #beenden
    #Erzeugung
    #Beenden
-   #beenden
+
+[Previous: #AdvIT-Folien_4](AdvIT-Folien_4.md)
+
+[Next: #AdvIT-Folien_4](AdvIT-Folien_4.md)

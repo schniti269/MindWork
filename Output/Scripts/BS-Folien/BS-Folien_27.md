@@ -6,6 +6,10 @@ l¨oschen→delete
 
    Tags & Topics:
    #•Operation
-   #Bearbeitungsform
    #•Operationen
    #Abstraktion
+   #Bearbeitungsform
+
+[Previous: #BS-Folien_270](BS-Folien_270.md)
+
+[Next: #BS-Folien_270](BS-Folien_270.md)

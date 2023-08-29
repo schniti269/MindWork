@@ -5,8 +5,12 @@ Aufgabe
 Zu entwerfen ist ein JAVA-Programm, das f ¨ur einen anzugebenden Rechner
 
    Tags & Topics:
-   #Programm
+   #Portscanner
    #JAVA-Programm
    #Rechner
-   #Portscanner
+   #Programm
    #110/132Server
+
+[Previous: #AdvIT-Folien_343](AdvIT-Folien_343.md)
+
+[Next: #AdvIT-Folien_343](AdvIT-Folien_343.md)

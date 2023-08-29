@@ -5,11 +5,15 @@ Advanced IT DHBW Mannheim ©Prof. Dr. Henning Pagnia Version 1.2a Herbst 2023 ¨
 Aufgabe 8
 
    Tags & Topics:
+   #awk-Programm
    #Prof.
+   #¨U–8Aufgabe
    #Programm
    #Wortes
-   #¨U–8Aufgabe
-   #Vorkommen
    #aus!Tipp
-   #awk-Programm
+   #Vorkommen
    #Wort
+
+[Previous: #AdvIT-Aufgaben_13](AdvIT-Aufgaben_13.md)
+
+[Next: #AdvIT-Aufgaben_13](AdvIT-Aufgaben_13.md)

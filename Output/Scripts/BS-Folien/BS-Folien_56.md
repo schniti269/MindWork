@@ -5,7 +5,11 @@ Typische Speichergr ¨oßen und -zugriﬀszeiten
 ⋄Hauptspeicher: 1 – 64 GiB, 10 ns
 
    Tags & Topics:
-   #L3-Cache
-   #⋄Hauptspeicher
    #⋄Register
+   #⋄Hauptspeicher
+   #L3-Cache
    #⋄L1
+
+[Previous: #BS-Folien_57](BS-Folien_57.md)
+
+[Next: #BS-Folien_57](BS-Folien_57.md)

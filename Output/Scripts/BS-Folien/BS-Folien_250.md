@@ -5,11 +5,15 @@ mutex.p();
 // Freigeben des Druckers in der Belegungstabelle;
 
    Tags & Topics:
-   #Druckernamen
-   #Druckernamens
-   #Drucker
-   #Freigeben
-   #Feststellen
    #Feststell
+   #Feststellen
+   #Druckernamens
+   #Freigeben
    #Druckers
    #Freigebe
+   #Druckernamen
+   #Drucker
+
+[Previous: #BS-Folien_251](BS-Folien_251.md)
+
+[Next: #BS-Folien_251](BS-Folien_251.md)

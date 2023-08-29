@@ -7,3 +7,7 @@ Der Prozessor verbringt einen Großteil der Zeit mit dem Ein- und Auslagern von 
    Tags & Topics:
    #⇒Antwortzeiten
    #Großteil
+
+[Previous: #BS-Folien_357](BS-Folien_357.md)
+
+[Next: #BS-Folien_357](BS-Folien_357.md)

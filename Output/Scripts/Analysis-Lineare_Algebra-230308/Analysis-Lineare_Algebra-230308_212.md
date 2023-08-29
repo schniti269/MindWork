@@ -7,6 +7,10 @@ Akbeträgt nach der k-ten Periode
    Tags & Topics:
    #Ratentilgung
    #Kredit
-   #Soll
    #Zinslast
+   #Soll
    #Tilgungsbetrag
+
+[Previous: #Analysis-Lineare_Algebra-230308_213](Analysis-Lineare_Algebra-230308_213.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_213](Analysis-Lineare_Algebra-230308_213.md)

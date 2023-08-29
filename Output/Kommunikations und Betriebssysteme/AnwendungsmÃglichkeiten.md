@@ -1,17 +1,26 @@
-# ## Anwendungsmöglichkeiten #
+### Anwendungsmöglichkeiten
 
- - VoIP #
- - #Streaming 
- - #E #Mail #
- - #Mehrfach #Nutzen von #Diensten #
+- VoIP
+- Streaming
+- E Mail
+- Mehrfach Nutzen von Diensten
 
-	 - #Parallel #Berechnen 
+	- Parallel Berechnen
 
-		 - #Compute Cluster #
+		- Compute Cluster 
 
-	 - #Update #Delivery #Optimization 
-	 - #Dateitransfer #
-	 - #Einbettung #ins #Betriebssystem #
+	- Update Delivery Optimization
+	- Dateitransfer
+	- Einbettung ins Betriebssystem 
 
-		 - #Zuordnung #Nachricht #zur #Anwendung #( #Port #nummer ) #
-		 - #Interrupt Konzept #
+		- Zuordnung Nachricht zur Anwendung (Port nummer)
+		- Interrupt Konzept
+
+   Tags & Topics:
+   #voip
+   #Streaming
+   #Berechnen
+   #Berechne
+   #VoIP
+   #Zuordnung
+   #Dateitransfer

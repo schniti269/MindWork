@@ -6,3 +6,7 @@ for i in $( ls ); do
 
    Tags & Topics:
    #for-Schleife
+
+[Previous: #AdvIT-Folien_210](AdvIT-Folien_210.md)
+
+[Next: #AdvIT-Folien_210](AdvIT-Folien_210.md)

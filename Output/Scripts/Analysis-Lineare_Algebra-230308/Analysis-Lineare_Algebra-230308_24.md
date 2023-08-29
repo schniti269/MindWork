@@ -5,7 +5,11 @@ gilt. Damit kann man Wurzeln aus negativen Zahlen als komplexe Zahl unter andere
 C={x+iy|x∈R, y∈R}
 
    Tags & Topics:
-   #Wurzeln
    #C={x+iy|x∈R
    #Wurzel
    #Konstante
+   #Wurzeln
+
+[Previous: #Analysis-Lineare_Algebra-230308_240](Analysis-Lineare_Algebra-230308_240.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_240](Analysis-Lineare_Algebra-230308_240.md)

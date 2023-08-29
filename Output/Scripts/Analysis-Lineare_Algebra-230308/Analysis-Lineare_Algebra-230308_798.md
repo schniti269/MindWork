@@ -5,5 +5,9 @@ Gleitkommaformat, 71
 Gradient, 48
 
    Tags & Topics:
-   #Gradient
    #Gleitkommaformat
+   #Gradient
+
+[Previous: #Analysis-Lineare_Algebra-230308_799](Analysis-Lineare_Algebra-230308_799.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_799](Analysis-Lineare_Algebra-230308_799.md)

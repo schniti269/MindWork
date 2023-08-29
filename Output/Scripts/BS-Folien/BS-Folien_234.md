@@ -6,3 +6,7 @@ static Semaphore mutex = new Semaphore (1);public static void main ( String[] ar
 
    Tags & Topics:
    #-Konzept
+
+[Previous: #BS-Folien_235](BS-Folien_235.md)
+
+[Next: #BS-Folien_235](BS-Folien_235.md)

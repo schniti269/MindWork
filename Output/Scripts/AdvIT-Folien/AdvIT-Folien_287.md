@@ -5,7 +5,11 @@ Wirkungsweise des Aufrufes cond.wait() :
 ◮dabei wird der Monitor entweder freigegeben oder die Monito rkontrolle geht
 
    Tags & Topics:
-   #Aufrufes
-   #Aufruf
    #Wartebedingung
    #Ausdruck
+   #Aufruf
+   #Aufrufes
+
+[Previous: #AdvIT-Folien_288](AdvIT-Folien_288.md)
+
+[Next: #AdvIT-Folien_288](AdvIT-Folien_288.md)

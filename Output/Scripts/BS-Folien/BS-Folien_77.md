@@ -5,5 +5,9 @@ while (1) {
 readcommand (&command, &parameters);
 
    Tags & Topics:
-   #BS–32Einleitung
    #Hardware
+   #BS–32Einleitung
+
+[Previous: #BS-Folien_78](BS-Folien_78.md)
+
+[Next: #BS-Folien_78](BS-Folien_78.md)

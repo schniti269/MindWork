@@ -1,18 +1,24 @@
-# # #Sortierung 
+### Sortierung
 
- - #Bubblesort 
+- Bubblesort
 
-	 - so #lange #aufsteigen #bis #ein #größerer #dort #ist 
-	 - 
-	 - Struktogramm 
+	- so lange aufsteigen bis ein größerer dort ist
+	- 
+	- Struktogramm
 
-		 - #Mit #swap 
+		- Mit swap
 
-	 - #implementierung 
-	 - #O(n**2 ) 
+	- implementierung
+	- O(n**2)
 
- - #selection #sort #
+- selection sort
 
-	 - größtes #element #suchen #und nach hinten #tun #
-	 - 
-	 - Struktogramm 
+	- größtes element suchen und nach hinten tun
+	- 
+	- Struktogramm
+
+   Tags & Topics:
+   #Struktogramm
+   #Bubblesort
+   #Sortierung
+   #O(n**2

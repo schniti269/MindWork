@@ -6,3 +6,7 @@ a21a22··· a2n
 
    Tags & Topics:
    #x∈Rnundb∈Rm
+
+[Previous: #Analysis-Lineare_Algebra-230308_519](Analysis-Lineare_Algebra-230308_519.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_519](Analysis-Lineare_Algebra-230308_519.md)

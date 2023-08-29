@@ -8,3 +8,7 @@ Deﬁnition von Nebenl ¨auﬁgkeit innerhalb eines Prozesses:
    #Execution
    #Faden
    #⇒Prozesse
+
+[Previous: #AdvIT-Folien_5](AdvIT-Folien_5.md)
+
+[Next: #AdvIT-Folien_5](AdvIT-Folien_5.md)

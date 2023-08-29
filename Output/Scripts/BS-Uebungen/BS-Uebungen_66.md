@@ -6,3 +6,7 @@ liegt in der ersten Seite des virtuellen Adressraums.Einem Prozess stehen zur Au
 
    Tags & Topics:
    
+
+[Previous: #BS-Uebungen_67](BS-Uebungen_67.md)
+
+[Next: #BS-Uebungen_67](BS-Uebungen_67.md)

@@ -5,8 +5,12 @@ KerninformatikInformatik als Wissenschaft
 Gesellschaft. Die Wirtschaftsinformatik ist eine Wissenschaft, die sich mit Entwicklung und Anwendung von 
 
    Tags & Topics:
-   #Sprachen
-   #Berechenbarkeit
-   #KerninformatikInformatik
-   #Sprache
    #Automat
+   #Sprachen
+   #KerninformatikInformatik
+   #Berechenbarkeit
+   #Sprache
+
+[Previous: #Einführung-IT-Teil1_15](Einführung-IT-Teil1_15.md)
+
+[Next: #Einführung-IT-Teil1_15](Einführung-IT-Teil1_15.md)

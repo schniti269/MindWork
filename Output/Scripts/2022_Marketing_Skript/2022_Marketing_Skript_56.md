@@ -5,34 +5,38 @@ Ermitt-lung vonHäufig-keitsver-teilungenErmitt-lung vonParame-tern vonHäufig-k
 3.2. Prozess der MarktforschungSchritt 10: Präsentation der ErgebnisseGrundlegende Fragestellung: Wie lassen sich die Ergebnisse sinnvoll präsentieren?►Was sind die zentralen Ergebnisse?►Vor wem werden die Ergebnisse präsentiert?►Welche (betriebswirtschaftlichen) Implikationen haben die Ergebnisse?►Welche Form der Darstellung der Ergebnisse ist adäquat und zielführend?►Wie werden die Folien gestaltet? (Layout, Action Titles, Hierarchischer Aufbau vs. Trichteraufbau usw.)
 
    Tags & Topics:
-   #Fragestellung
-   #parameter•formparameter•konzentration
-   #analyseregression
-   #vonParame
-   #Folie
-   #ergebnisse?
    #Implikationen
-   #teilungtestsbezogenaufvertei
-   #Korrela-tionsana-lyse)•linearesModell•nicht-linearesModellinduktivunivariatbivariatunivariatbivariatDatenanalyseverfahren3.2.
-   #lyse)•linearesmodell•nicht
-   #Ergebnis
-   #Ergebnisse
-   #erfunden81www.dhbw.demarketing
-   #Darstellung
    #erfunden81www.dhbw.deMarketing
-   #Ergebnisse?
-   #Folien
-   #ErgebnisseGrundlegende
-   #Präsentation
-   #vonHäufig
-   #teilungenErmitt
-   #teilung•gewöhnlich•kumuliert(jeweilsabsolutbzw.relativ)kategorien:•lageparameter•streuung
-   #Ver
-   #Datenanalyse
-   #präsentation
-   #Trichteraufbau
-   #Implikation
-   #Aufbau
-   #Ermitt
-   #Korrela
+   #Darstellung
    #Studie
+   #Datenanalyse
+   #teilungtestsbezogenaufvertei
+   #Folie
+   #Implikation
+   #parameter•formparameter•konzentration
+   #Korrela-tionsana-lyse)•linearesModell•nicht-linearesModellinduktivunivariatbivariatunivariatbivariatDatenanalyseverfahren3.2.
+   #Ergebnisse?
+   #analyseregression
+   #lyse)•linearesmodell•nicht
+   #teilung•gewöhnlich•kumuliert(jeweilsabsolutbzw.relativ)kategorien:•lageparameter•streuung
+   #vonParame
+   #erfunden81www.dhbw.demarketing
+   #Korrela
+   #präsentation
+   #Aufbau
+   #Präsentation
+   #Ver
+   #Ergebnisse
+   #Ergebnis
+   #Trichteraufbau
+   #ergebnisse?
+   #Fragestellung
+   #ErgebnisseGrundlegende
+   #Ermitt
+   #vonHäufig
+   #Folien
+   #teilungenErmitt
+
+[Previous: #2022_Marketing_Skript_57](2022_Marketing_Skript_57.md)
+
+[Next: #2022_Marketing_Skript_57](2022_Marketing_Skript_57.md)

@@ -5,9 +5,13 @@ Es verbleiben 22 Bit der virtuellen Adresse zur Adressierun g der Seiten. Damit 
 Bei einer L ¨ange von 6 Byte pro Seitentabelleneintrag belegt eine linea re Seitentabelle demnach 24 MiB.
 
    Tags & Topics:
-   #MiB.
+   #210Worter
    #Platz
+   #Wortl
+   #MiB.
    #210Worte
    #222Seit
-   #210Worter
-   #Wortl
+
+[Previous: #BS-Loesungen_2](BS-Loesungen_2.md)
+
+[Next: #BS-Loesungen_2](BS-Loesungen_2.md)

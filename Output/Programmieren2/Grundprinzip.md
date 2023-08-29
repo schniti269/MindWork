@@ -1,14 +1,22 @@
-# ## #Grundprinzip 
+### Grundprinzip
 
- - #Laufzeitfehler 
+- Laufzeitfehler
 
-	 - #Wird ausgelöst 
+	- Wird ausgelöst 
 
- - #Fehlerbehandlung 
+- Fehlerbehandlung
 
-	 - Direkte #Behandlung 
-	 - #Weitergabe 
- #“hot #Potato“ 
+	- Direkte Behandlung
+	- Weitergabe
+“hot Potato“
 
- - #Weitergabe 
- - #Nichtbezahlung- > #Laufzeitfehler 
+- Weitergabe
+- Nichtbezahlung-> Laufzeitfehler
+
+   Tags & Topics:
+   #Behandlung
+   #Grundprinzip
+   #Fehlerbehandlung
+   #grundprinzip
+   #Laufzeitfehler
+   #Weitergabe

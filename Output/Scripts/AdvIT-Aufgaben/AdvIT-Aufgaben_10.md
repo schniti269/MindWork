@@ -5,7 +5,11 @@ F¨ur alle anderen Namen soll ’5.0’ ausgegeben werden.
 carla1.0uta4.0
 
    Tags & Topics:
-   #Bearbeitungszeit
    #Script
-   #Name
    #F¨ur
+   #Name
+   #Bearbeitungszeit
+
+[Previous: #AdvIT-Aufgaben_11](AdvIT-Aufgaben_11.md)
+
+[Next: #AdvIT-Aufgaben_11](AdvIT-Aufgaben_11.md)

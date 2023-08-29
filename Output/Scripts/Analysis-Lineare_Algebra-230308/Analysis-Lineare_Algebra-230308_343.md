@@ -5,5 +5,9 @@ x→x0f(x) = lim
 x→x0g(x) = 0und für alle x̸=x0gilt
 
    Tags & Topics:
-   #Differenziation
    #l’hospital
+   #Differenziation
+
+[Previous: #Analysis-Lineare_Algebra-230308_344](Analysis-Lineare_Algebra-230308_344.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_344](Analysis-Lineare_Algebra-230308_344.md)

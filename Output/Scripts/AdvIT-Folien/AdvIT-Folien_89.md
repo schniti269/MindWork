@@ -6,3 +6,7 @@ Threads abgebildet werden
 
    Tags & Topics:
    #Level
+
+[Previous: #AdvIT-Folien_9](AdvIT-Folien_9.md)
+
+[Next: #AdvIT-Folien_9](AdvIT-Folien_9.md)

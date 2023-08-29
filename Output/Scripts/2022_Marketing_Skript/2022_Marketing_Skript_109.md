@@ -6,3 +6,7 @@ indirekterAbsatzweg
 
    Tags & Topics:
    #KundendienstAdministrativerInnendienstAkquisitorischerInnendienstAufgabenbezogeneAbgrenzungMedienbezogeneAbgrenzung
+
+[Previous: #2022_Marketing_Skript_11](2022_Marketing_Skript_11.md)
+
+[Next: #2022_Marketing_Skript_11](2022_Marketing_Skript_11.md)

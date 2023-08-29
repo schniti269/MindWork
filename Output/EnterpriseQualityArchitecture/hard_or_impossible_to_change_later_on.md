@@ -1,5 +1,8 @@
-# ## hard or impossible to change #later on 
+### hard or impossible to change later on
 
- - #TCO 
- ( total #cost of ownership= 
- - #Personentage ! = € 
+- TCO
+(total cost of ownership=
+- Personentage != €
+
+   Tags & Topics:
+   

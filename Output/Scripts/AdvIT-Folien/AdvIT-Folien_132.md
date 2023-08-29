@@ -5,8 +5,12 @@
 Maximalanforderung
 
    Tags & Topics:
+   #Betriebsmitteltype
    #Maximalanforderung
    #Exemplare
-   #Betriebsmitteltypen
-   #Betriebsmitteltype
    #Exemplar
+   #Betriebsmitteltypen
+
+[Previous: #AdvIT-Folien_133](AdvIT-Folien_133.md)
+
+[Next: #AdvIT-Folien_133](AdvIT-Folien_133.md)

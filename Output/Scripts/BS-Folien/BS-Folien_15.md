@@ -5,7 +5,11 @@ Hardware-unabh ¨angige Programmierung und Bedienung
 Unterst¨utzung f¨ur m¨oglichst viele verschiedene E/A-Ger ¨ate
 
    Tags & Topics:
-   #Bedienung
    #Dateiverwaltung
+   #Bedienung
    #Unterst¨utzung
    #Hardware
+
+[Previous: #BS-Folien_150](BS-Folien_150.md)
+
+[Next: #BS-Folien_150](BS-Folien_150.md)

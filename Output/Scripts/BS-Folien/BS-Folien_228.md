@@ -6,5 +6,9 @@ Interne Komponenten eines Semaphors sem:
 
    Tags & Topics:
    #Objekt
-   #⋄Wartezustand
    #blocked-Queue
+   #⋄Wartezustand
+
+[Previous: #BS-Folien_229](BS-Folien_229.md)
+
+[Next: #BS-Folien_229](BS-Folien_229.md)

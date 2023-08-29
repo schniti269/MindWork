@@ -7,7 +7,11 @@ oder x=
    Tags & Topics:
    #Rangder
    #Jordan
+   #Verfahrens
    #Gauß
    #x4∈R68
    #Gauß-Jordan-Verfahren
-   #Verfahrens
+
+[Previous: #Analysis-Lineare_Algebra-230308_565](Analysis-Lineare_Algebra-230308_565.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_565](Analysis-Lineare_Algebra-230308_565.md)

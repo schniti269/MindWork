@@ -5,8 +5,12 @@ liegen keine Daten vor, m ¨ussen die Verbraucher warten
 ggf. m¨ussen die Erzeuger warten, wenn die Speicherkapazit ¨at des Puﬀers
 
    Tags & Topics:
-   #Problem
    #Speicherkapazit
-   #Erzeuger
-   #Puﬀer
+   #Problem
    #Verbraucher
+   #Puﬀer
+   #Erzeuger
+
+[Previous: #AdvIT-Folien_101](AdvIT-Folien_101.md)
+
+[Next: #AdvIT-Folien_101](AdvIT-Folien_101.md)

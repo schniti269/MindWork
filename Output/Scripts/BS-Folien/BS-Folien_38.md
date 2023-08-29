@@ -5,12 +5,16 @@ Mehrbenutzerbetrieb ( Multi-User )
 Freie Programmierbarkeit ( User-Programmable )
 
    Tags & Topics:
+   #Einbenutzerbetrieb
    #Festplatte
    #Single
+   #Programmable
+   #Speicher
    #Multi
-   #Mehrbenutzerbetrieb
    #Multi-User
    #User-Programmable
-   #Speicher
-   #Programmable
-   #Einbenutzerbetrieb
+   #Mehrbenutzerbetrieb
+
+[Previous: #BS-Folien_380](BS-Folien_380.md)
+
+[Next: #BS-Folien_380](BS-Folien_380.md)

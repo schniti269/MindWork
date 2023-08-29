@@ -5,8 +5,12 @@ Betriebssysteme DHBW Mannheim ©Henning Pagnia Version 4.23 Fr¨uhjahr 2023 BS�
 M¨ogliche Scheduling-Kriterien
 
    Tags & Topics:
-   #Scheduling-Kriterien
-   #BS–71Prozessverwaltung
-   #zurVerdr¨angungausgew¨ahlt
    #⋄Bei¨Uberlastzust
    #bs–71prozessverwaltung
+   #Scheduling-Kriterien
+   #zurVerdr¨angungausgew¨ahlt
+   #BS–71Prozessverwaltung
+
+[Previous: #BS-Folien_173](BS-Folien_173.md)
+
+[Next: #BS-Folien_173](BS-Folien_173.md)

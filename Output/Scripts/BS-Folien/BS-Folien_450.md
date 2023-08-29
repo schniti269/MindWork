@@ -5,8 +5,12 @@ Beschreibung der Dateiattribute.
 Liste von Verweisen auf die physikalischen Dateibl ¨ocke.
 
    Tags & Topics:
-   #Inode
-   #Dateiattribute
    #•Inhalt
    #•Inode
+   #Inode
    #•inode(index
+   #Dateiattribute
+
+[Previous: #BS-Folien_451](BS-Folien_451.md)
+
+[Next: #BS-Folien_451](BS-Folien_451.md)

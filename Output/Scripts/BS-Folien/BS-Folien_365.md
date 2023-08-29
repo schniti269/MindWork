@@ -6,5 +6,9 @@ Deﬁnition: Lokalit¨at→vgl. Abb. 22 auf der n ¨achsten Seite.
 
    Tags & Topics:
    #Lokalit¨at→vgl
-   #⋄Eigenschaft
    #Working-Set
+   #⋄Eigenschaft
+
+[Previous: #BS-Folien_366](BS-Folien_366.md)
+
+[Next: #BS-Folien_366](BS-Folien_366.md)

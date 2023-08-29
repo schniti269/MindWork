@@ -6,3 +6,7 @@ Fortunately, cybersecurity and cloud-based digital
 
    Tags & Topics:
    
+
+[Previous: #C-Study22 - Own your transformation_205](C-Study22 - Own your transformation_205.md)
+
+[Next: #C-Study22 - Own your transformation_205](C-Study22 - Own your transformation_205.md)

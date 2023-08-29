@@ -6,3 +6,7 @@ and quantum computing, supply chains can more quickly enable integrated, data-
 
    Tags & Topics:
    
+
+[Previous: #C-Study22 - Own your transformation_206](C-Study22 - Own your transformation_206.md)
+
+[Next: #C-Study22 - Own your transformation_206](C-Study22 - Own your transformation_206.md)

@@ -5,11 +5,15 @@ asynchron
 Betriebssysteme DHBW Mannheim ©Henning Pagnia Version 4.23 Fr¨uhjahr 2023 BS–87Prozessverwaltung Synchrone E/A-Schnittstelle Ein-Ausg abeoperationen
 
    Tags & Topics:
-   #A-Schnittstell
-   #Ein-Ausg
-   #Ausg
-   #A-System
-   #Elevator-Strategie
    #Synchrone
    #•Schnittstellenvarianten
+   #Ausg
+   #Ein-Ausg
    #Elevator
+   #A-Schnittstell
+   #A-System
+   #Elevator-Strategie
+
+[Previous: #BS-Folien_214](BS-Folien_214.md)
+
+[Next: #BS-Folien_214](BS-Folien_214.md)

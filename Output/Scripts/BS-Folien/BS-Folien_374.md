@@ -5,15 +5,19 @@ Verwirklichung eines abstrakten Modells :
 ⋄Abbildung des abstrakten Dateimodells auf Datentr ¨ager, z.B. Band, Platte, CD-ROM.
 
    Tags & Topics:
+   #Zugriﬀsmechanismen
    #Dateimodell
-   #Speicherplatz
-   #Bereitstellen
-   #Dateimodells
-   #¨AndernundWiedergewinnen
-   #Zugriﬀsmechanisme
-   #CD-ROM
    #Verwirklichung
-   #⋄Abbildung
+   #Zugriﬀsmechanisme
+   #Speicherplatz
+   #¨AndernundWiedergewinnen
    #Speicherplatzes
    #Bereitstelle
-   #Zugriﬀsmechanismen
+   #Dateimodells
+   #Bereitstellen
+   #CD-ROM
+   #⋄Abbildung
+
+[Previous: #BS-Folien_375](BS-Folien_375.md)
+
+[Next: #BS-Folien_375](BS-Folien_375.md)

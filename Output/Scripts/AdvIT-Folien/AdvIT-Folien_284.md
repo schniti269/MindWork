@@ -5,5 +5,9 @@ bestimmten Zust ¨anden der Monitordaten zu steuern:
 ◮im Monitor auf das Eintreten einer Bedingung warten
 
    Tags & Topics:
-   #Mechanismus
    #condition
+   #Mechanismus
+
+[Previous: #AdvIT-Folien_285](AdvIT-Folien_285.md)
+
+[Next: #AdvIT-Folien_285](AdvIT-Folien_285.md)

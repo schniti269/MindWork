@@ -6,3 +6,7 @@ The CEO Study. https://ibm.co/c-suite-study-ceo
 
    Tags & Topics:
    #54note
+
+[Previous: #C-Study22 - Own your transformation_292](C-Study22 - Own your transformation_292.md)
+
+[Next: #C-Study22 - Own your transformation_292](C-Study22 - Own your transformation_292.md)

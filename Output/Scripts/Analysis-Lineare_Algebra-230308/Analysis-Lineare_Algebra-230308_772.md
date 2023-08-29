@@ -6,3 +6,7 @@ Aufgabe 98. Berechnen Sie die Determinante
 
    Tags & Topics:
    #Determinante
+
+[Previous: #Analysis-Lineare_Algebra-230308_773](Analysis-Lineare_Algebra-230308_773.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_773](Analysis-Lineare_Algebra-230308_773.md)

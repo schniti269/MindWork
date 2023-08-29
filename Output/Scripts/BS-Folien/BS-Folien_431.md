@@ -5,12 +5,16 @@ Dateiverzeicheintrag verweist direkt auf i-node ( Hardlink)
 Abb. 33 Dateisystem als (azyklischer) GraphRoot directory
 
    Tags & Topics:
-   #Pfadnamen
-   #Softlink
    #Pfadnamens
+   #Pfadnamen
    #⋄Resultat
-   #•Link
-   #⋄resultat
-   #Dateiverzeicheintrag
-   #Baum
    #•link
+   #Dateiverzeicheintrag
+   #Softlink
+   #Baum
+   #⋄resultat
+   #•Link
+
+[Previous: #BS-Folien_432](BS-Folien_432.md)
+
+[Next: #BS-Folien_432](BS-Folien_432.md)

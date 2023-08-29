@@ -5,16 +5,20 @@ Read-Bit, Lese-Bit
 Write-Bit, Schreib-Bit
 
    Tags & Topics:
-   #Schreib-Bit
-   #Pr¨asenz-Bit
-   #Dirty-Bit
-   #Lese
-   #Accessed-Bit
    #Modiﬁed-Bit
+   #Schreib
+   #Schreib-Bit
    #Ref
    #change
    #Pr¨asenz
+   #Lese
+   #Accessed-Bit
+   #Dirty
+   #Pr¨asenz-Bit
    #Write
    #Modiﬁed
-   #Schreib
-   #Dirty
+   #Dirty-Bit
+
+[Previous: #BS-Folien_305](BS-Folien_305.md)
+
+[Next: #BS-Folien_305](BS-Folien_305.md)

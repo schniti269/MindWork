@@ -1,22 +1,29 @@
-# ## Innere Klassen #
+### Innere Klassen
 
- - #Klassen #Struktur #
- - Top #level 
+- Klassen Struktur
+- Top level
 
-	 - #Statisch 
-	 - #Sichbarkeit #kann #modifiziert werden 
+	- Statisch
+	- Sichbarkeit kann modifiziert werden
 
- - #element 
+- element
 
-	 - #nicht #statisch #
-	 - nur #i m #Kontext eines #Objekts #der #äußeren 
+	- nicht statisch
+	- nur im Kontext eines Objekts der äußeren
 
- - #lokal 
+- lokal
 
-	 - #nur innerhalb #von #methoden #
+	- nur innerhalb von methoden
 
- - #anonym 
+- anonym
 
-	 - ohne #Bezeichner 
-	 - #referenz 
-	 - # 
+	- ohne Bezeichner
+	- referenz
+	- #
+
+   Tags & Topics:
+   #Statisch
+   #Objekts
+   #Struktur
+   #Objekt
+   #Sichbarkeit

@@ -5,6 +5,10 @@ Aber nur genau einer kann die Monitorkontrolle haben!
 ◮Implementierung mittels einer urgent-Queue
 
    Tags & Topics:
-   #Aufruf
    #Wartender
+   #Aufruf
    #Monitorkontrolle
+
+[Previous: #AdvIT-Folien_291](AdvIT-Folien_291.md)
+
+[Next: #AdvIT-Folien_291](AdvIT-Folien_291.md)

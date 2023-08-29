@@ -1,1 +1,6 @@
-## #Basis #für #Verhandlungen 
+## Basis für Verhandlungen
+
+   Tags & Topics:
+   #Basis
+   #Verhandlung
+   #Verhandlungen

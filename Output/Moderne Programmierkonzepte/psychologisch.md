@@ -1,57 +1,83 @@
-# ## psychologisch #
+### psychologisch
 
- - #Visuelle #wahrnehmung 
+- Visuelle wahrnehmung
 
-	 - #Täuschungen 
-	 - #Bewegungseindruck #
-	 - #Gestaltungs #„gesetze“ 
+	- Täuschungen
+	- Bewegungseindruck
+	- Gestaltungs „gesetze“
 
-		 - #Gestalttheorie 
+		- Gestalttheorie
 
-			 - #Kognition 
-			 - #Anordnung 
-			 - #Form 
-			 - #Farbe 
+			- Kognition
+			- Anordnung
+			- Form
+			- Farbe
 
-		 - Über 100 #Regeln gesamt 
+		- Über 100 Regeln gesamt
 
-			 - Gesetz #der Nähe 
+			- Gesetz der Nähe
 
-				 - #nachbarschaft 
+				- nachbarschaft
 
-					 - #räumlich 
-					 - #Zeitlich 
+					- räumlich 
+					- Zeitlich
 
-				 - #Zusammengehöreig #wahrnehmen 
-				 - #Anwendung 
+				- Zusammengehöreig wahrnehmen
+				- Anwendung
 
-					 - Was #zusammen #gehört #soll #nah #zusammen 
- horizontal #und #vertikal #beachten 
+					- Was zusammen gehört soll nah zusammen
+horizontal und vertikal beachten
 
-			 - #Gleichartigkeit 
+			- Gleichartigkeit
 
-				 - #Arten 
+				- Arten
 
-					 - #Farbe 
-					 - #Helligkeit 
-					 - #Größe 
-					 - #Orientierung 
-					 - Form #
+					- Farbe
+					- Helligkeit
+					- Größe
+					- Orientierung
+					- Form
 
-				 - #Zusammengehörige #wharnehmung 
-				 - Anwendung 
+				- Zusammengehörige wharnehmung
+				- Anwendung
 
-					 - #Schaltflächen #unterschiedlich machen : 
- an #und aus , #ok und abbrechen #etc 
+					- Schaltflächen unterschiedlich machen:
+an und aus, ok und abbrechen etc
 
-		 - #Anwendung 
+		- Anwendung
 
-			 - #Layout #durch #Zusammenhänge 
-			 - #Verbesserung 
-			 - #Erleichterung #der #Vorgänge 
+			- Layout durch Zusammenhänge
+			- Verbesserung
+			- Erleichterung der Vorgänge
 
- - #Gedächnis und #Mentale #Modelle 
+- Gedächnis und Mentale Modelle
 
-	 - #Vexirbild 
+	- Vexirbild
 
-		 - vordergrund wird #eher #wahrgenommen #als hintergrund #
+		- vordergrund wird eher wahrgenommen als hintergrund
+
+   Tags & Topics:
+   #Über
+   #Gestalttheorie
+   #Art
+   #Form
+   #Gedächnis
+   #Arten
+   #täuschungen
+   #Kognition
+   #Helligkeit
+   #Gleichartigkeit
+   #Gesetz
+   #Modelle
+   #Verbesserung
+   #Modell
+   #Nähe
+   #Vexirbild
+   #Anordnung
+   #Zusammengehöreig
+   #Orientierung
+   #Farbe
+   #t�uschungen
+   #gehört
+   #Zeitlich
+   #Vorgänge

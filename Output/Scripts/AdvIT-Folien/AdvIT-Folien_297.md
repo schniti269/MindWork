@@ -5,7 +5,11 @@ L¨osungsidee
 ◮Verwendung des Konzepts des Zugangsmonitors :
 
    Tags & Topics:
-   #Konzepts
    #Zugangsmonitors
+   #Konzepts
    #Zugangsmonitor
    #Konzept
+
+[Previous: #AdvIT-Folien_298](AdvIT-Folien_298.md)
+
+[Next: #AdvIT-Folien_298](AdvIT-Folien_298.md)

@@ -6,3 +6,7 @@ private static ﬁnal int NOID = -1; // undeﬁnierte  Thread-ID
 
    Tags & Topics:
    #Verwaltung
+
+[Previous: #AdvIT-Folien_265](AdvIT-Folien_265.md)
+
+[Next: #AdvIT-Folien_265](AdvIT-Folien_265.md)

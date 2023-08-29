@@ -5,16 +5,20 @@ PreispolitikDie Preispolitik umfasst alle Entscheidungen im Hinblick auf das vom
 Grundlegende Charakteristika preispolitischer Entscheidungen:§Schnelle Umsetzbarkeit§Schwere Revidierbarkeit§Große Wirkungsstärke§Hohe Wirkungsgeschwindigkeit4.2. PriceGrundlagen
 
    Tags & Topics:
+   #Preispolitik
+   #Geldeinheiten
+   #PriceGrundlagen
+   #Grundlegende
+   #Grundlegend
+   #Dienstleistung
    #Entscheidungen
-   #Käufer
    #MarketinginstrumenteVorlesungsinhalte1.Grundlagen1.1
    #Entscheidung
-   #Preispolitik
-   #Grundlegend
-   #Grundlegende
-   #Konsumentenverhaltens2.2Informationsverarbeitung2.3
    #Mix2.Konsumentenverhalten2.1Zentrale
-   #Dienstleistung
-   #Geldeinheiten
+   #Konsumentenverhaltens2.2Informationsverarbeitung2.3
    #Wirkungsstärke§Hohe
-   #PriceGrundlagen
+   #Käufer
+
+[Previous: #2022_Marketing_Skript_76](2022_Marketing_Skript_76.md)
+
+[Next: #2022_Marketing_Skript_76](2022_Marketing_Skript_76.md)

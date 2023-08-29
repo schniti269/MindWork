@@ -1,5 +1,13 @@
-# ## #Eröffnungsbilanz #
+### Eröffnungsbilanz
 
- - #Erfolgskonten #
- - #Bestandskonten #
- - #Schlussbilanz 
+- Erfolgskonten
+- Bestandskonten
+- Schlussbilanz
+
+   Tags & Topics:
+   #Erfolgskont
+   #Bestandskonten
+   #Schlussbilanz
+   #Bestandskont
+   #er�ffnungsbilanz
+   #Erfolgskonten

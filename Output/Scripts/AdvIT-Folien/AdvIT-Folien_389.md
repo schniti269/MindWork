@@ -5,5 +5,9 @@ f¨ur einen Client
   2. DatagramPacket  mit Daten  und
 
    Tags & Topics:
-   #Programmstrukturen
    #Programmstruktur
+   #Programmstrukturen
+
+[Previous: #AdvIT-Folien_39](AdvIT-Folien_39.md)
+
+[Next: #AdvIT-Folien_39](AdvIT-Folien_39.md)

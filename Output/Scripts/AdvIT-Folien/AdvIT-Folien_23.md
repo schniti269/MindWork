@@ -5,13 +5,17 @@ cp Kopieren von Dateien
 ln Anlegen eines Hard-Link
 
    Tags & Topics:
-   #Anleg
-   #Auﬂist
-   #Anlegen
-   #Besitzername
-   #Auﬂisten
    #Hard
+   #Kopieren
+   #Auﬂisten
+   #Auﬂist
+   #Anleg
+   #Besitzername
    #Besitzernam
    #Kopiere
-   #Kopieren
    #Hard-Link
+   #Anlegen
+
+[Previous: #AdvIT-Folien_230](AdvIT-Folien_230.md)
+
+[Next: #AdvIT-Folien_230](AdvIT-Folien_230.md)

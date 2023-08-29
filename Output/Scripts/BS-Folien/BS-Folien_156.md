@@ -7,5 +7,9 @@ Integration als Schnittstellenoperationen der Prozessve rwaltung
    Tags & Topics:
    #Handler
    #Interrupt-Handler
-   #⇒Konsistenz
    #Prozessve
+   #⇒Konsistenz
+
+[Previous: #BS-Folien_157](BS-Folien_157.md)
+
+[Next: #BS-Folien_157](BS-Folien_157.md)

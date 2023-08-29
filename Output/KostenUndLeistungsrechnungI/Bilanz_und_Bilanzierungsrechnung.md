@@ -1,3 +1,7 @@
-# ## Bilanz #und #Bilanzierungsrechnung #
+### Bilanz und Bilanzierungsrechnung
 
- - #Gesetzlich #geregelt #
+- Gesetzlich geregelt
+
+   Tags & Topics:
+   #Bilanz
+   #Bilanzierungsrechnung

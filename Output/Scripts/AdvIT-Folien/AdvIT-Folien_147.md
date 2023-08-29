@@ -5,9 +5,13 @@ wenn sich ein kritischer Abschnitt in Ausf ¨uhrung beﬁndet, darf keiner der
 anderen (ausgeschlossenen) kritischen Abschnitte betret en werden
 
    Tags & Topics:
-   #synchronisationsbedingungen
-   #Gegenseitiger
    #Exclusion
-   #Abschnitte
    #Synchronisationsbedingungen
+   #synchronisationsbedingungen
+   #Abschnitte
    #Abschnitt
+   #Gegenseitiger
+
+[Previous: #AdvIT-Folien_148](AdvIT-Folien_148.md)
+
+[Next: #AdvIT-Folien_148](AdvIT-Folien_148.md)

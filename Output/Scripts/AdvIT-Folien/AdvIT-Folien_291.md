@@ -7,3 +7,7 @@ Monitorkontrolle
    Tags & Topics:
    #Monitoroperation
    #Monitorkontrolle
+
+[Previous: #AdvIT-Folien_292](AdvIT-Folien_292.md)
+
+[Next: #AdvIT-Folien_292](AdvIT-Folien_292.md)

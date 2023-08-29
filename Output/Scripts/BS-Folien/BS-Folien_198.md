@@ -7,3 +7,7 @@ Dort verbleiben sie bis zu ihrer Terminierung.
    Tags & Topics:
    #Auswahlstrategie
    #•Multilevel
+
+[Previous: #BS-Folien_199](BS-Folien_199.md)
+
+[Next: #BS-Folien_199](BS-Folien_199.md)

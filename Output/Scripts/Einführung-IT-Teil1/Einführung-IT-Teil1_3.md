@@ -5,13 +5,17 @@
 −Kaufmännisch oder technischTermine
 
    Tags & Topics:
-   #technischTermine
    #Erwartungen
-   #Erwartung
-   #Informatik
    #Erfahrungen
-   #Schwerpunkt
-   #Schwerpunkte
-   #technischtermine
-   #−Einschätzung
    #Erfahrung
+   #Schwerpunkt
+   #technischTermine
+   #−Einschätzung
+   #Informatik
+   #Schwerpunkte
+   #Erwartung
+   #technischtermine
+
+[Previous: #Einführung-IT-Teil1_30](Einführung-IT-Teil1_30.md)
+
+[Next: #Einführung-IT-Teil1_30](Einführung-IT-Teil1_30.md)

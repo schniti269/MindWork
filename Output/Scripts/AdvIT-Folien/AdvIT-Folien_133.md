@@ -6,6 +6,10 @@ stellen, keine Terminierungsm ¨oglichkeit mehr gibt ⇒Deadlock!
 
    Tags & Topics:
    #Maximalanforderung
+   #Maximalanforderungen
    #Terminierungsm
    #Fall
-   #Maximalanforderungen
+
+[Previous: #AdvIT-Folien_134](AdvIT-Folien_134.md)
+
+[Next: #AdvIT-Folien_134](AdvIT-Folien_134.md)

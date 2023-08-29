@@ -5,8 +5,12 @@ ODER: Zwischen den Warteschlangen wird eine RR-Strategie benutzt, wobei jede War
 ggf. unterschiedliches Zeitquantum zugewiesen bekommt.
 
    Tags & Topics:
+   #Jedeready-Warteschlang
    #Zeitquantum
+   #Jedeready
    #RR-Strategie
    #→Auswahl
-   #Jedeready-Warteschlang
-   #Jedeready
+
+[Previous: #BS-Folien_198](BS-Folien_198.md)
+
+[Next: #BS-Folien_198](BS-Folien_198.md)

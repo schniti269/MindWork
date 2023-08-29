@@ -6,3 +6,7 @@ ledge by emphasizing automation, AI and intelligent workflows, ecosystems,
 
    Tags & Topics:
    #destinychapter
+
+[Previous: #C-Study22 - Own your transformation_86](C-Study22 - Own your transformation_86.md)
+
+[Next: #C-Study22 - Own your transformation_86](C-Study22 - Own your transformation_86.md)

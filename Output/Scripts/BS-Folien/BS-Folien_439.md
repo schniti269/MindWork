@@ -6,3 +6,7 @@ Super Block
 
    Tags & Topics:
    #Partitition
+
+[Previous: #BS-Folien_44](BS-Folien_44.md)
+
+[Next: #BS-Folien_44](BS-Folien_44.md)

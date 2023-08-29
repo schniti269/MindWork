@@ -6,6 +6,10 @@ nebenl¨auﬁge Schreiboperationen k ¨onnen zu inkonsistenten Daten f ¨uhren
 
    Tags & Topics:
    #Lesevorgangs
-   #Lesevorgang
    #⇒Leserprozesse
+   #Lesevorgang
    #Beobachtung
+
+[Previous: #AdvIT-Folien_222](AdvIT-Folien_222.md)
+
+[Next: #AdvIT-Folien_222](AdvIT-Folien_222.md)

@@ -5,10 +5,14 @@ Jahr 2003 nur noch über Parallelisierung möglich: mehrere Rechenkerne (Cores) 
 Größe von 2 bis 4 nmbereits genannt.
 
    Tags & Topics:
-   #Mikroprozessoren
-   #Mikroprozessor
-   #Rechenkern
    #•Steigerung
-   #Verkleinerung
+   #Mikroprozessor
    #Geschwindigkeitszuwachs
+   #Rechenkern
    #Rechenkerne
+   #Verkleinerung
+   #Mikroprozessoren
+
+[Previous: #Einführung-IT-Teil1_8](Einführung-IT-Teil1_8.md)
+
+[Next: #Einführung-IT-Teil1_8](Einführung-IT-Teil1_8.md)

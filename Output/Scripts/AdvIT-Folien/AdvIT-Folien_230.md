@@ -6,3 +6,7 @@ die gerade gezeigte L ¨osung gew ¨ahrleistet nicht die Leserpriorit ¨at!
 
    Tags & Topics:
    #Leserpriorit
+
+[Previous: #AdvIT-Folien_231](AdvIT-Folien_231.md)
+
+[Next: #AdvIT-Folien_231](AdvIT-Folien_231.md)

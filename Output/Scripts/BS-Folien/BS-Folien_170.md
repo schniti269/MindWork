@@ -8,3 +8,7 @@ Swapping (z.B. Unix).
    #Auftr
    #Scheduler
    #→Long-Term-Scheduling
+
+[Previous: #BS-Folien_171](BS-Folien_171.md)
+
+[Next: #BS-Folien_171](BS-Folien_171.md)

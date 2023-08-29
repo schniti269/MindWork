@@ -5,9 +5,13 @@ Mit anderen Worten ist eine injektive Funktion auch in ihren Bildern eindeutig, 
 Funktion kann den vollen Wertebereich ausschöpfen. Eine bijektive Funktion kann man umkehren:
 
    Tags & Topics:
-   #soistdiefunktion
+   #IsteineFunktionsowohlinjektivalsauchsurjektiv
+   #Bildmeng
    #soistdieFunktion
    #Bildmenge
-   #Bildmeng
    #Wertebereich
-   #IsteineFunktionsowohlinjektivalsauchsurjektiv
+   #soistdiefunktion
+
+[Previous: #Analysis-Lineare_Algebra-230308_790](Analysis-Lineare_Algebra-230308_790.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_790](Analysis-Lineare_Algebra-230308_790.md)

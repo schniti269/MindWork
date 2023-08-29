@@ -5,10 +5,14 @@ Klammern des kritischen Abschnitts mittels itrsoff...itrson
 bei Einprozessorsystemen mit Round-Robin Scheduling korr ekt
 
    Tags & Topics:
-   #Klammer
-   #Abschnitts
-   #Klammern
-   #Round
    #⇒Unterbrechungen
+   #Klammern
    #Robin
+   #Round
+   #Abschnitts
    #Abschnitt
+   #Klammer
+
+[Previous: #AdvIT-Folien_158](AdvIT-Folien_158.md)
+
+[Next: #AdvIT-Folien_158](AdvIT-Folien_158.md)

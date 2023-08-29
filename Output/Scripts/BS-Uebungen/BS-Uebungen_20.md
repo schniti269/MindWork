@@ -5,8 +5,12 @@ Anderenfalls geben Sie bitte “nicht erf ¨ullbar”an.
 ¨Ubungsaufgaben Fr¨uhjahr 2023 ©Henning Pagnia ¨U-6Betriebssysteme DHBW Mannheim
 
    Tags & Topics:
-   #Falls
    #Speicherbeleg
    #Speicherbereich
    #Rest
    #Reste
+   #Falls
+
+[Previous: #BS-Uebungen_21](BS-Uebungen_21.md)
+
+[Next: #BS-Uebungen_21](BS-Uebungen_21.md)

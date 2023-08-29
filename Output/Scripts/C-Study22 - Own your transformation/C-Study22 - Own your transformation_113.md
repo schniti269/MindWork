@@ -6,3 +6,7 @@ with implementing intelligent workflows internal to
 
    Tags & Topics:
    
+
+[Previous: #C-Study22 - Own your transformation_114](C-Study22 - Own your transformation_114.md)
+
+[Next: #C-Study22 - Own your transformation_114](C-Study22 - Own your transformation_114.md)

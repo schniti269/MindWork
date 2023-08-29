@@ -6,3 +6,7 @@ Pcb process = s.schedule ();process.state = Pcb.RUNNING;runningProcess.storeRegi
 
    Tags & Topics:
    #READY;readyQueue.put
+
+[Previous: #BS-Folien_162](BS-Folien_162.md)
+
+[Next: #BS-Folien_162](BS-Folien_162.md)

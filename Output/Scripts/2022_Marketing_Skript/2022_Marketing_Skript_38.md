@@ -5,9 +5,13 @@ Kundenzufriedenheit und -loyalität
 Kundenverhalten und -bedürfnisse
 
    Tags & Topics:
-   #Kundenverhalten
-   #3.1.
-   #Erkenntnisobjekt
-   #Marktforschung
    #Kundenverhalt
+   #Erkenntnisobjekt
    #Erkenntnisobjekte
+   #3.1.
+   #Kundenverhalten
+   #Marktforschung
+
+[Previous: #2022_Marketing_Skript_39](2022_Marketing_Skript_39.md)
+
+[Next: #2022_Marketing_Skript_39](2022_Marketing_Skript_39.md)

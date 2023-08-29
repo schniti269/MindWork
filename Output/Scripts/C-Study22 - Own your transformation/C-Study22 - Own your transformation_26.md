@@ -6,3 +6,7 @@ economic and sustainability factors they think will impact their enterprises
 
    Tags & Topics:
    
+
+[Previous: #C-Study22 - Own your transformation_260](C-Study22 - Own your transformation_260.md)
+
+[Next: #C-Study22 - Own your transformation_260](C-Study22 - Own your transformation_260.md)

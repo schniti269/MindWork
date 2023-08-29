@@ -7,3 +7,7 @@ l¨ange 1
    Tags & Topics:
    #Segment
    #segment
+
+[Previous: #BS-Folien_406](BS-Folien_406.md)
+
+[Next: #BS-Folien_406](BS-Folien_406.md)

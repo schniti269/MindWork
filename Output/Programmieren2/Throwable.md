@@ -1,26 +1,36 @@
-# ## Throwable 
- #interface 
+### Throwable
+interface
 
- - #Exeption 
+- Exeption
 
-	 - Unchecked 
+	- Unchecked
 
-		 - #Runtime 
-		 - Automatische #Weitergabe 
-		 - #Kann behandelt werden 
-		 - #Oftmals logische #Fehler 
+		- Runtime
+		- Automatische Weitergabe
+		- Kann behandelt werden 
+		- Oftmals logische Fehler
 
-			 - #Oft of #Bunds 
-			 - #DIV By 0 
+			- Oft of Bunds
+			- DIV By 0
 
-	 - checked 
+	- checked
 
-		 - #Exception 
-		 - #Muss behandelt #werden 
-		 - Explizites #auslösen 
+		- Exception
+		- Muss behandelt werden
+		- Explizites auslösen
 
- - #Error 
+- Error
 
-	 - #Stack 
+	- Stack
 
-		 - #Stack overflow 
+		- Stack overflow
+
+   Tags & Topics:
+   #exeption
+   #Exeption
+   #Error
+   #Stack
+   #Runtime
+   #auslöse
+   #Weitergabe
+   #auslösen

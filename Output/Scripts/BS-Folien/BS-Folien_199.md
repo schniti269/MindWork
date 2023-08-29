@@ -5,9 +5,13 @@ Tab. 1 Multilevel-Scheduling (statisches Mehrstufenverf ahren)Priorit¨atProzess
 3Interaktionsprozesse (RR)
 
    Tags & Topics:
-   #mehrstufenverf
-   #Multilevel
+   #Multilevel-Scheduling
    #•Tab
+   #Multilevel
+   #mehrstufenverf
    #Priorit¨atProzessklasse
    #Anwendungsstruktur
-   #Multilevel-Scheduling
+
+[Previous: #BS-Folien_2](BS-Folien_2.md)
+
+[Next: #BS-Folien_2](BS-Folien_2.md)

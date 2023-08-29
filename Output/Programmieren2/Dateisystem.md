@@ -1,60 +1,74 @@
-# ## #Dateisystem 
+### Dateisystem
 
- - Die #Klasse #File 
+- Die Klasse File
 
-	 - räpräsentiert 
+	- räpräsentiert
 
-		 - #Laufwerke 
-		 - #Verzeichnisse 
-		 - #Dateine 
+		- Laufwerke
+		- Verzeichnisse
+		- Dateine
 
- - #Anzeigen #der #Laufwerke 
+- Anzeigen der Laufwerke
 
-	 - #Java #IO #Paket 
-	 - #ListRoots ( ) ; 
+	- Java IO Paket
+	- ListRoots();
 
-		 - #root . #getpath ( ) 
+		- root. getpath()
 
-			 - wo ist es 
+			- wo ist es
 
-		 - #root.canread 
+		- root.canread
 
-			 - #lesezugriff 
+			- lesezugriff
 
-		 - #root.canwrite 
+		- root.canwrite
 
-			 - #schreibzugriff 
+			- schreibzugriff
 
-		 - #root.exists 
-		 - #root.isfile 
-		 - #root.isdirectory 
-		 - #root.listfiles 
+		- root.exists
+		- root.isfile
+		- root.isdirectory
+		- root.listfiles
 
-			 - file #[ #] 
+			- file[]
 
- - vorgehensweisen 
+- vorgehensweisen
 
-	 - set systempropertieskeys   = systemproperties.keyset 
+	- set systempropertieskeys  = systemproperties.keyset
 
-		 - #informationen #über die #Umgebung in #der #Das #Javaprogramm läuft 
+		- informationen über die Umgebung in der Das Javaprogramm läuft
 
-			 - #zb #Fileseperator 
-			 - #z.b #. #lineseperator 
-			 - #exists 
+			- zb Fileseperator 
+			- z.b. lineseperator
+			- exists
 
-				 - nur #anlegen #wenn #es #das #nicht schon #gibt 
-				 - #löschen #erst #wenn #es etwas #gibt 
+				- nur anlegen wenn es das nicht schon gibt
+				- löschen erst wenn es etwas gibt
 
-			 - Username 
-			 - #path 
-			 - userdirectory = verzeichnis in #dem #das programm #läuft ! #= #HOME #verzeichnis 
-			 - #os #version 
-			 - native #encoding 
-			 - und #viele #mehr 
+			- Username
+			- path
+			- userdirectory = verzeichnis in dem das programm läuft != HOME verzeichnis
+			- os version
+			- native encoding
+			- und viele mehr
 
-	 - umgang #mit #verzeichnissen #und #dateien 
+	- umgang mit verzeichnissen und dateien
 
-		 - #neue Dateien #anlegen 
-		 - löschen 
-		 - umbenennen 
-		 - #Gucken ob #noch #da #
+		- neue Dateien anlegen
+		- löschen
+		- umbenennen
+		- Gucken ob noch da
+
+   Tags & Topics:
+   #Anzeigen
+   #Laufwerk
+   #Umgebung
+   #ListRoots
+   #Gucken
+   #Verzeichnisse
+   #Gucke
+   #ListRoot
+   #Anzeige
+   #Username
+   #Dateine
+   #Laufwerke

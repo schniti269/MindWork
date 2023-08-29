@@ -1,10 +1,14 @@
-# ## basically funktionen 
+### basically funktionen
 
- - #definiert #auf #vektorräumen 
- - #Spiegelungen 
+- definiert auf vektorräumen
+- Spiegelungen
 
-	 - #s((x , y))=(x,-y #) 
- an x achse #
+	- s((x,y))=(x,-y)
+an x achse
 
- - drehungen #
- - #projektionen 
+- drehungen
+- projektionen
+
+   Tags & Topics:
+   #Spiegelung
+   #Spiegelungen

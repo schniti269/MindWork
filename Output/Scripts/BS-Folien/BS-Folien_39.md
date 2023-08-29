@@ -5,8 +5,12 @@ Keine Programmierbarkeit ( Non-Programmable )
 Endanwendersysteme in Banken und Versicherungen
 
    Tags & Topics:
-   #Endanwendersystem
-   #Endanwendersysteme
+   #•Beispiele
    #Non
    #Versicherung
-   #•Beispiele
+   #Endanwendersystem
+   #Endanwendersysteme
+
+[Previous: #BS-Folien_390](BS-Folien_390.md)
+
+[Next: #BS-Folien_390](BS-Folien_390.md)

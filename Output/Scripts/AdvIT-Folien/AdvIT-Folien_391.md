@@ -5,5 +5,9 @@
   5. DatagramPacket  verarbeiten
 
    Tags & Topics:
-   #endlosschleife
    #Endlosschleif
+   #endlosschleife
+
+[Previous: #AdvIT-Folien_392](AdvIT-Folien_392.md)
+
+[Next: #AdvIT-Folien_392](AdvIT-Folien_392.md)

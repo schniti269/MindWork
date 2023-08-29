@@ -1,13 +1,21 @@
-# ## #Exception klassen 
+### Exception klassen
 
- - #Klasse extends #Exception 
- - #Konstruktor ruft #Superkonstruktor auf 
+- Klasse extends Exception
+- Konstruktor ruft Superkonstruktor auf
 
-	 - #InfoString 
+	- InfoString
 
- - #Möglichst #früh #Aufrufen 
- - Throwable 
+- Möglichst früh Aufrufen
+- Throwable
 
-	 - #Fehlertext 
-	 - To #String #Objektinfos 
-	 - #Stracktrace 
+	- Fehlertext
+	- To String Objektinfos
+	- Stracktrace
+
+   Tags & Topics:
+   #Aufruf
+   #Klasse
+   #Superkonstruktor
+   #Throwable
+   #Stracktrace
+   #Aufrufen

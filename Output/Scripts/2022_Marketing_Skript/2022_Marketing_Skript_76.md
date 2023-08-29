@@ -5,8 +5,12 @@ Globalisierung
 Qualitäts-angleichungder Produkte
 
    Tags & Topics:
-   #Produkt
-   #sättigung
-   #Wachstumsmärkt
-   #Wachstumsmärkte
    #Qualitäts
+   #Wachstumsmärkt
+   #sättigung
+   #Wachstumsmärkte
+   #Produkt
+
+[Previous: #2022_Marketing_Skript_77](2022_Marketing_Skript_77.md)
+
+[Next: #2022_Marketing_Skript_77](2022_Marketing_Skript_77.md)

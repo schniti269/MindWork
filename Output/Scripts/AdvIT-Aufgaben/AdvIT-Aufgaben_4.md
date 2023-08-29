@@ -5,8 +5,12 @@ echo>testf; echo >>testf; wc testf
 Advanced IT DHBW Mannheim ©Prof. Dr. Henning Pagnia Version 1.2a Herbst 2023 ¨U–3Aufgabe 3
 
    Tags & Topics:
-   #Prof.
    #welcome
-   #Befehlszeil
    #Welcome
+   #Prof.
    #Befehlszeile
+   #Befehlszeil
+
+[Previous: #AdvIT-Aufgaben_5](AdvIT-Aufgaben_5.md)
+
+[Next: #AdvIT-Aufgaben_5](AdvIT-Aufgaben_5.md)

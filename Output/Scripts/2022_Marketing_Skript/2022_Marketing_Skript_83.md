@@ -5,16 +5,20 @@ Arten der PreisbestimmungKostenorientiertNachfrageorientiertWettbewerbsorientier
 Nachfrager C:Nachfrager B:
 
    Tags & Topics:
-   #Referenzpreise§Auktionen§Preisuntergrenzen§Kosten
-   #Preisbildung§Preiskriege§Preisbestimmung
-   #Preis-Absatz-Funktion§Preisdifferenzierung§Sonderpreisaktionen§Nutzenorientierte
-   #Preisbestim
-   #PriceArt
+   #Referenzpreise§Auktionen§Preisuntergrenzen§Kosten-Plus-Preisbildung§Preiskriege§Preisbestimmung
    #Preisbestimmung
-   #plus
-   #PriceArten
    #PreisbestimmungKostenorientiertNachfrageorientiertWettbewerbsorientiert§Preisbestimmung
    #Preistheorie
-   #Referenzpreise§Auktionen§Preisuntergrenzen§Kosten-Plus-Preisbildung§Preiskriege§Preisbestimmung
-   #preisbestimmung§kundenzufriedenheit
+   #Preisbestim
    #funktion§preisdifferenzierung§sonderpreisaktionen§nutzenorientierte
+   #Preis-Absatz-Funktion§Preisdifferenzierung§Sonderpreisaktionen§Nutzenorientierte
+   #Preisbildung§Preiskriege§Preisbestimmung
+   #PriceArten
+   #preisbestimmung§kundenzufriedenheit
+   #PriceArt
+   #plus
+   #Referenzpreise§Auktionen§Preisuntergrenzen§Kosten
+
+[Previous: #2022_Marketing_Skript_84](2022_Marketing_Skript_84.md)
+
+[Next: #2022_Marketing_Skript_84](2022_Marketing_Skript_84.md)

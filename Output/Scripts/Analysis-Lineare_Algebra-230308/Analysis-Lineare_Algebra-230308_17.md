@@ -6,6 +6,10 @@ Hier werden natürlich alle Zahlen mit Nenner 1mit den entsprechenden ganzen Zah
 
    Tags & Topics:
    #Bruchzahlen
-   #Nenner
-   #n∈No
    #Bruchzahl
+   #n∈No
+   #Nenner
+
+[Previous: #Analysis-Lineare_Algebra-230308_170](Analysis-Lineare_Algebra-230308_170.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_170](Analysis-Lineare_Algebra-230308_170.md)

@@ -6,3 +6,7 @@ p3 x
 
    Tags & Topics:
    
+
+[Previous: #BS-Loesungen_5](BS-Loesungen_5.md)
+
+[Next: #BS-Loesungen_5](BS-Loesungen_5.md)

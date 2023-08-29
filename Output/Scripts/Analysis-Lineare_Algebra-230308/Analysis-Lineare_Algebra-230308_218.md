@@ -5,6 +5,10 @@ Jahr Kredit Zinsen Tilgung Annuität Verbleibender Kredit
 265081.49 2277.85 15440.66 17715.51 49640.83
 
    Tags & Topics:
-   #2277.85
    #Zins
+   #2277.85
    #Zinsen
+
+[Previous: #Analysis-Lineare_Algebra-230308_219](Analysis-Lineare_Algebra-230308_219.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_219](Analysis-Lineare_Algebra-230308_219.md)

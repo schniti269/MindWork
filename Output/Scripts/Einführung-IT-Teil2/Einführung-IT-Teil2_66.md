@@ -5,7 +5,11 @@
 Claude Shannon, Begründer der Informationstheorie, US -amerikanischer Mathematiker und 
 
    Tags & Topics:
+   #-Operation
    #Mathematiker
    #Begründer
    #Binärwörter
-   #-Operation
+
+[Previous: #Einführung-IT-Teil2_67](Einführung-IT-Teil2_67.md)
+
+[Next: #Einführung-IT-Teil2_67](Einführung-IT-Teil2_67.md)

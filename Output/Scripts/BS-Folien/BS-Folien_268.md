@@ -7,3 +7,7 @@ Betriebssysteme DHBW Mannheim ©Henning Pagnia Version 4.23 Fr¨uhjahr 2023 BS�
    Tags & Topics:
    #externeFragmentierung
    #Falls
+
+[Previous: #BS-Folien_269](BS-Folien_269.md)
+
+[Next: #BS-Folien_269](BS-Folien_269.md)

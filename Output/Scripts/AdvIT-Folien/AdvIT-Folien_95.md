@@ -7,3 +7,7 @@ in Java gibt es keine Mehrfachvererbung
    Tags & Topics:
    #-Schnittstelle
    #Mehrfachvererbung
+
+[Previous: #AdvIT-Folien_96](AdvIT-Folien_96.md)
+
+[Next: #AdvIT-Folien_96](AdvIT-Folien_96.md)

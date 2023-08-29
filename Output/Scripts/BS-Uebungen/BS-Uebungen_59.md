@@ -6,3 +6,7 @@
 
    Tags & Topics:
    
+
+[Previous: #BS-Uebungen_6](BS-Uebungen_6.md)
+
+[Next: #BS-Uebungen_6](BS-Uebungen_6.md)

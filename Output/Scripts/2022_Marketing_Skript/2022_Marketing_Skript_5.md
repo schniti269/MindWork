@@ -5,14 +5,18 @@ Kriterien für die Unterscheidung von MärktenNach Richtung der TransaktionBesch
 7www.dhbw.deMarketing
 
    Tags & Topics:
-   #TransaktionBeschaffungs
-   #TransaktionBeschaffungs-und
-   #Markt
-   #business
    #Business-to-Business-Märkt
    #Kriterien
-   #GrundlagenArt
-   #Ländermärkt
-   #Ländermärkte
-   #Kriterium
+   #TransaktionBeschaffungs-und
    #GrundlagenArten
+   #Ländermärkt
+   #TransaktionBeschaffungs
+   #GrundlagenArt
+   #Kriterium
+   #Ländermärkte
+   #business
+   #Markt
+
+[Previous: #2022_Marketing_Skript_50](2022_Marketing_Skript_50.md)
+
+[Next: #2022_Marketing_Skript_50](2022_Marketing_Skript_50.md)

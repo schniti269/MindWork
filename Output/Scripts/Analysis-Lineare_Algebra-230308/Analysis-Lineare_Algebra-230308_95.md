@@ -5,7 +5,11 @@ kannmanaufvieleunterschiedlicheMethodendurchführen,beispielsweisemitquadratisch
 dem Satz von Vieta, der abcund der pq-Formel.
 
    Tags & Topics:
-   #beispielsweisemitquadratischerErgänzung
-   #Satz
    #pq-Formel
+   #Satz
    #Lösen
+   #beispielsweisemitquadratischerErgänzung
+
+[Previous: #Analysis-Lineare_Algebra-230308_96](Analysis-Lineare_Algebra-230308_96.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_96](Analysis-Lineare_Algebra-230308_96.md)

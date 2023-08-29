@@ -1,26 +1,33 @@
-# # #wie #kommt #ein #Aktienkurs #zustande #
+### wie kommt ein Aktienkurs zustande
 
- - #Angebot und #Nachfrage #
+- Angebot und Nachfrage
 
-	 - #nachfrage #anzahl #< = #anzahl #des #angebts 
-	 - es #wird #ein Absatzvolumen maximum verfolgt #
+	- nachfrage anzahl <= anzahl des angebts
+	- es wird ein Absatzvolumen maximum verfolgt
 
- - #Verkaufsorders #
+- Verkaufsorders
 
-	 - #Bestens 
+	- Bestens
 
-		 - #jeder #kurs , #SOFORT 
+		- jeder kurs , SOFORT
 
-	 - limitiert 
+	- limitiert
 
-		 - Erst #bei kurs #X #
+		- Erst bei kurs X
 
- - #kauforders #
+- kauforders
 
-	 - #Billigst #
+	- Billigst
 
-		 - #Sofort #
+		- Sofort
 
-	 - #Limitiert 
+	- Limitiert
 
-		 - Erst wenn #gefallen #zu x 
+		- Erst wenn gefallen zu x
+
+   Tags & Topics:
+   #Aktienkurs
+   #Nachfrage
+   #aktienkur
+   #Absatzvolumen
+   #Verkaufsorders

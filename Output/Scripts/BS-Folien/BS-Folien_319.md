@@ -7,3 +7,7 @@ Pro Adressumsetzung muss zus ¨atzlich einmal auf Seitentabelle zugegriﬀen wer
    Tags & Topics:
    #Eﬃzienz
    #BS–128Speicherverwaltung
+
+[Previous: #BS-Folien_32](BS-Folien_32.md)
+
+[Next: #BS-Folien_32](BS-Folien_32.md)

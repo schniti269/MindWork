@@ -7,3 +7,7 @@ testimony to their forward-thinking mindset. Innovators
    Tags & Topics:
    #valueinnovator
    #valueInnovator
+
+[Previous: #C-Study22 - Own your transformation_18](C-Study22 - Own your transformation_18.md)
+
+[Next: #C-Study22 - Own your transformation_18](C-Study22 - Own your transformation_18.md)

@@ -6,3 +6,7 @@ By helping reduce wasteful cognitive re-processing
 
    Tags & Topics:
    
+
+[Previous: #C-Study22 - Own your transformation_98](C-Study22 - Own your transformation_98.md)
+
+[Next: #C-Study22 - Own your transformation_98](C-Study22 - Own your transformation_98.md)

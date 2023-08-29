@@ -5,7 +5,11 @@ Nachteile
 Prozess- bzw. Threadwechsel erfolgen
 
    Tags & Topics:
+   #Abschnitt
+   #Prozess-
    #Abschnitts
    #Threadwechsel
-   #Prozess-
-   #Abschnitt
+
+[Previous: #AdvIT-Folien_167](AdvIT-Folien_167.md)
+
+[Next: #AdvIT-Folien_167](AdvIT-Folien_167.md)

@@ -5,9 +5,13 @@ genau und verwendet viele mathematische Konzepte.
 Grundsätzlich ist das Newton-Verfahren aus Beispiel 3.9 der erste Ansatz, um nicht-lineare Probleme
 
    Tags & Topics:
-   #Algorithmus
-   #Wals
    #Grag
+   #Newton
+   #Wals
+   #Algorithmus
    #Wal
    #Konzept
-   #Newton
+
+[Previous: #Analysis-Lineare_Algebra-230308_608](Analysis-Lineare_Algebra-230308_608.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_608](Analysis-Lineare_Algebra-230308_608.md)

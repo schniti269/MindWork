@@ -1,4 +1,7 @@
-# ## Important #factors 
+### Important factors
 
- - Understanding #the #Situation 
- - Understanding #core #problems 
+- Understanding the Situation
+- Understanding core problems
+
+   Tags & Topics:
+   

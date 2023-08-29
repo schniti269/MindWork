@@ -1,19 +1,26 @@
-# ## Risiken #
+### Risiken
 
- - #Global 
+- Global
 
-	 - #Kompensation #ist #Unternehmenserfolg 
+	- Kompensation ist Unternehmenserfolg
 
- - Einzel 
+- Einzel
 
-	 - #Versicherbar 
+	- Versicherbar
 
-		 - #Aufwandsgleich 
+		- Aufwandsgleich
 
-			 - #Kompensationn #erfolgt #komplett 
+			- Kompensationn erfolgt komplett
 
-		 - #Nicht #versicherbar 
+		- Nicht versicherbar
 
-			 - #Komensation #nicht #oder nur #anteilig 
+			- Komensation nicht oder nur anteilig
 
-	 - #Nicht #versicherbar #
+	- Nicht versicherbar
+
+   Tags & Topics:
+   #Komensation
+   #Risiko
+   #Nicht
+   #Kompensation
+   #Einzel

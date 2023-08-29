@@ -5,6 +5,10 @@ Eigenwerte sind:
 Satz6.16.Für eine quadratische Matrix A∈Rn×nwird das Polynom
 
    Tags & Topics:
-   #Determinante
    #A−λI)u=0
+   #Determinante
    #Eigenwertproblem
+
+[Previous: #Analysis-Lineare_Algebra-230308_724](Analysis-Lineare_Algebra-230308_724.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_724](Analysis-Lineare_Algebra-230308_724.md)

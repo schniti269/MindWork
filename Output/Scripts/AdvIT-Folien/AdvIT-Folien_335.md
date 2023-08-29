@@ -7,3 +7,7 @@ Programmablauf
    Tags & Topics:
    #Client-Prozess
    #107/132Server
+
+[Previous: #AdvIT-Folien_336](AdvIT-Folien_336.md)
+
+[Next: #AdvIT-Folien_336](AdvIT-Folien_336.md)

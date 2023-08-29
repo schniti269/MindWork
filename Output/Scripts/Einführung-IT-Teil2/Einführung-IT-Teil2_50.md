@@ -5,9 +5,13 @@ Inversion ¬ NOTBinäre Arithmetik, Wahrheitstabellen
 •Beispiel: Logische Verknüpfungen werden stellenweise ausgeführt:
 
    Tags & Topics:
-   #Konjunktion
-   #konjunktion
    #Inversion
+   #Verknüpfungen
    #Verknüpfung
    #Arithmetik
-   #Verknüpfungen
+   #Konjunktion
+   #konjunktion
+
+[Previous: #Einführung-IT-Teil2_51](Einführung-IT-Teil2_51.md)
+
+[Next: #Einführung-IT-Teil2_51](Einführung-IT-Teil2_51.md)

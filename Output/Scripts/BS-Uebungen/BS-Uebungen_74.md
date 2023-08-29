@@ -4,3 +4,7 @@ b) Welche Dateizugriﬀe kann welcher Benutzer ¨uber das notwendige Maß hinaus
 
    Tags & Topics:
    
+
+[Previous: #BS-Uebungen_8](BS-Uebungen_8.md)
+
+[Next: #BS-Uebungen_8](BS-Uebungen_8.md)

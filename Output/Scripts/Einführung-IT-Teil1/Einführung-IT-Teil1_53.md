@@ -6,10 +6,14 @@ Neue Supercomputer mit Tausenden von CPUs, "Summit" (Platz 2) mit einer Leistung
 
    Tags & Topics:
    #•Superminicomputer
-   #Platz
-   #Turnhalle
    #Supercomputer
-   #•superminicomputer
+   #Platz
    #Kleinstadt
-   #•Mikrocomput
    #Energie
+   #Turnhalle
+   #•superminicomputer
+   #•Mikrocomput
+
+[Previous: #Einführung-IT-Teil1_54](Einführung-IT-Teil1_54.md)
+
+[Next: #Einführung-IT-Teil1_54](Einführung-IT-Teil1_54.md)

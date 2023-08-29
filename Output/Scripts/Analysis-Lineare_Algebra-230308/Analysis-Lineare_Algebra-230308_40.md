@@ -6,3 +6,7 @@ fenden Anzahl besetzt wird. Bei n= 1000produzierten Gütern im Monat ergeben sic
 
    Tags & Topics:
    #Vereinfachung
+
+[Previous: #Analysis-Lineare_Algebra-230308_400](Analysis-Lineare_Algebra-230308_400.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_400](Analysis-Lineare_Algebra-230308_400.md)

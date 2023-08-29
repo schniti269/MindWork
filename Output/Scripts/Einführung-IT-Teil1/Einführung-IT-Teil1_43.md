@@ -5,8 +5,12 @@ dem Betriebssystem MS -DOS, das Microsoft für IBM entwickelt wurde.
 •1982 Commodore 64 in Privathaushalten und Kinderzimmer
 
    Tags & Topics:
-   #Kinderzimmer
    #-computer
-   #-Computer
-   #•1982
+   #Kinderzimmer
    #Öffentlichkeit
+   #•1982
+   #-Computer
+
+[Previous: #Einführung-IT-Teil1_44](Einführung-IT-Teil1_44.md)
+
+[Next: #Einführung-IT-Teil1_44](Einführung-IT-Teil1_44.md)

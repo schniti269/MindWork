@@ -5,9 +5,13 @@ metakognitiven Prompts auf den Lernerfolg b eim Lernen durch Concept Mapping zu
 untersuchen.  Die teilnehmenden Schülerinnen und Schüler ( N = 112, 
 
    Tags & Topics:
-   #Lernstrategie
-   #Schüler
-   #Schülerin
    #Ziel
-   #Schülerinnen
+   #Schüler
    #Studie
+   #Schülerinnen
+   #Schülerin
+   #Lernstrategie
+
+[Previous: #4 Forschungsstrategien_6](4 Forschungsstrategien_6.md)
+
+[Next: #4 Forschungsstrategien_6](4 Forschungsstrategien_6.md)

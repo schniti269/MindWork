@@ -5,6 +5,10 @@ die Funktionen aber auch in Winkeln φin Grad definieren, die Umrechnung erfolgt
 beziehungsweise s=π
 
    Tags & Topics:
-   #Umrechnung
    #Man
+   #Umrechnung
    #Differenzial-
+
+[Previous: #Analysis-Lineare_Algebra-230308_122](Analysis-Lineare_Algebra-230308_122.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_122](Analysis-Lineare_Algebra-230308_122.md)

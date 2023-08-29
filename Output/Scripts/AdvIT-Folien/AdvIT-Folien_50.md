@@ -5,9 +5,13 @@ Vorteile:
 ⇒keine System-Calls n ¨otig, um Daten zu teilen
 
    Tags & Topics:
-   #⇒Hardware
-   #Adressraum
    #Ressource
-   #Ressourcen
-   #call
+   #Adressraum
    #System-Calls
+   #call
+   #Ressourcen
+   #⇒Hardware
+
+[Previous: #AdvIT-Folien_51](AdvIT-Folien_51.md)
+
+[Next: #AdvIT-Folien_51](AdvIT-Folien_51.md)

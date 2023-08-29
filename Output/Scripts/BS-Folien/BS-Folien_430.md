@@ -6,7 +6,11 @@ Betriebssysteme DHBW Mannheim ©Henning Pagnia Version 4.23 Fr¨uhjahr 2023 BS�
 
    Tags & Topics:
    #bs–172dateisysteme
+   #dateiattribute(a)game
    #Verweis
    #BS–172Dateisystem
-   #dateiattribute(a)game
    #Dateiattribute
+
+[Previous: #BS-Folien_431](BS-Folien_431.md)
+
+[Next: #BS-Folien_431](BS-Folien_431.md)

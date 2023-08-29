@@ -7,3 +7,7 @@ Prg. 3 Die abstrakte Klasse Schedulerpublic abstract class Scheduler {
    Tags & Topics:
    #Warteschlang
    #Warteschlangen
+
+[Previous: #BS-Folien_114](BS-Folien_114.md)
+
+[Next: #BS-Folien_114](BS-Folien_114.md)

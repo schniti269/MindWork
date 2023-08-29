@@ -5,5 +5,9 @@ printer.p(); // einen Drucker belegen
 mutex.p();
 
    Tags & Topics:
-   #BS–102Prozessverwaltung
    #Druckerverwaltung
+   #BS–102Prozessverwaltung
+
+[Previous: #BS-Folien_25](BS-Folien_25.md)
+
+[Next: #BS-Folien_25](BS-Folien_25.md)

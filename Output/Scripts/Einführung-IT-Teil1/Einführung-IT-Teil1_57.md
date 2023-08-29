@@ -7,11 +7,15 @@ Archivierung von digitalen Informationen eingesetzt
    Tags & Topics:
    #Medienkost
    #Speichermedie
+   #Speichermedien
+   #•WORM
+   #HDvideo
+   #-Ray
    #Medien
    #Abnutzung
-   #-Ray
    #Medienkosten
-   #Speichermedien
-   #HDvideo
    #Medium
-   #•WORM
+
+[Previous: #Einführung-IT-Teil1_58](Einführung-IT-Teil1_58.md)
+
+[Next: #Einführung-IT-Teil1_58](Einführung-IT-Teil1_58.md)

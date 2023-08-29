@@ -1,3 +1,6 @@
-# ## #bei rotationen #
+### bei rotationen
 
- - #p(x ) = #x #
+- p(x) = x
+
+   Tags & Topics:
+   

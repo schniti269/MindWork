@@ -5,5 +5,9 @@ class Socket
 implementiert in java.net.Socket
 
    Tags & Topics:
-   #Verbindung
    #108/132Server
+   #Verbindung
+
+[Previous: #AdvIT-Folien_338](AdvIT-Folien_338.md)
+
+[Next: #AdvIT-Folien_338](AdvIT-Folien_338.md)

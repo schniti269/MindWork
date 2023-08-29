@@ -1,3 +1,6 @@
-# ## #Fairness 
+### Fairness
 
- - #Bias 
+- Bias
+
+   Tags & Topics:
+   #fairness

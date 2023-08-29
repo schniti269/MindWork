@@ -5,7 +5,11 @@ bei Einprozessorsystemen oft benutzt und korrekt
 bei Mehrprozessorsystemen nicht ausreichend!
 
    Tags & Topics:
-   #•Unterbrechungen
-   #Abschnittes
    #Abschnitt
+   #Abschnittes
+   #•Unterbrechungen
    #⋄Prozess
+
+[Previous: #BS-Folien_126](BS-Folien_126.md)
+
+[Next: #BS-Folien_126](BS-Folien_126.md)

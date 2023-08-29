@@ -8,3 +8,7 @@ Wichtige Methoden
    #R¨uckgabewert
    #Falls
    #Stream-Ende
+
+[Previous: #AdvIT-Folien_364](AdvIT-Folien_364.md)
+
+[Next: #AdvIT-Folien_364](AdvIT-Folien_364.md)

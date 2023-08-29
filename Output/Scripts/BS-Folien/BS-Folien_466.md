@@ -8,3 +8,7 @@ freie Plattenbl ¨ocke werden (nur) als ”frei”markiert
    #⋄¨Anderunge
    #Eintrag
    #⋄¨Anderungen
+
+[Previous: #BS-Folien_467](BS-Folien_467.md)
+
+[Next: #BS-Folien_467](BS-Folien_467.md)

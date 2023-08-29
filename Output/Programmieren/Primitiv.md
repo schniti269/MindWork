@@ -1,18 +1,28 @@
-# ## #Primitiv 
+### Primitiv
 
- - #Numerisch 
+- Numerisch 
 
-	 - #Fließkomma 
+	- Fließkomma
 
-		 - #Float 
-		 - Double 
-		 - #Decimal 
+		- Float
+		- Double
+		- Decimal
 
-	 - #Ganzzahl 
+	- Ganzzahl
 
-		 - #Int 
-		 - Long 
-		 - #„Char“ 
+		- Int
+		- Long
+		- „Char“
 
- - #Alphabetisch 
- - #Call by #value 
+- Alphabetisch
+- Call by value 
+
+   Tags & Topics:
+   #Decimal
+   #„char“
+   #Primitiv
+   #float
+   #Ganzzahl
+   #Fließkomma
+   #Float
+   #call

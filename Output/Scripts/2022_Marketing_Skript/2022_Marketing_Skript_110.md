@@ -5,13 +5,17 @@ VertriebswegWeg, auf dem das Angebotsprogramm eines Herstellers an die Nachfrage
 153www.dhbw.deMarketing
 
    Tags & Topics:
-   #Vertriebsagentur
+   #Vertriebs
+   #Vertriebswegeentscheidung
    #Einschaltung
    #Herstellers
    #AufgabenträgerAbsatzhelfer
-   #Vertriebs
+   #Angebotsprogramm
    #Vertriebsweg
    #Hersteller
-   #Vertriebswegeentscheidung
    #Kundenakquisition
-   #Angebotsprogramm
+   #Vertriebsagentur
+
+[Previous: #2022_Marketing_Skript_111](2022_Marketing_Skript_111.md)
+
+[Next: #2022_Marketing_Skript_111](2022_Marketing_Skript_111.md)

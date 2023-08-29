@@ -5,6 +5,10 @@ Preis p(in €/kg)Absatzx (in 100t)
 4.2. PriceMultiplikative PAF
 
    Tags & Topics:
-   #xAllgemeinBeispiel
    #1070605040302015678234Maximal
    #x=0Sättigungs
+   #xAllgemeinBeispiel
+
+[Previous: #2022_Marketing_Skript_87](2022_Marketing_Skript_87.md)
+
+[Next: #2022_Marketing_Skript_87](2022_Marketing_Skript_87.md)

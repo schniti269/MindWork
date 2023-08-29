@@ -7,3 +7,7 @@ headno: vertikale Einstellung (entscheidet zwischen Plattenebe nen)
    Tags & Topics:
    #Zugriﬀszeit
    #Plattenblockadresse
+
+[Previous: #BS-Folien_386](BS-Folien_386.md)
+
+[Next: #BS-Folien_386](BS-Folien_386.md)

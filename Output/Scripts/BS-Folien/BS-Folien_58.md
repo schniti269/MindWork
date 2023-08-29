@@ -5,9 +5,13 @@ koordiniert Ausf ¨uhrung der Instruktionen
 •Register (schnelle Mehrzweckspeicher)
 
    Tags & Topics:
-   #Steuerung
    #Instruktionen
-   #•Steuerwerk
-   #Befehlsabarbeitung
-   #Mehrzweckspeicher
    #Instruktion
+   #Steuerung
+   #Mehrzweckspeicher
+   #Befehlsabarbeitung
+   #•Steuerwerk
+
+[Previous: #BS-Folien_59](BS-Folien_59.md)
+
+[Next: #BS-Folien_59](BS-Folien_59.md)

@@ -1,48 +1,53 @@
-# ## in #Azure 
+### in Azure
 
- - #Logical #Container for #project 
+- Logical Container for project
 
-	 - #Subscribtion 
-	 - Scalable 
+	- Subscribtion
+	- Scalable 
 
-		 - #Authentification 
-		 - #Authorization 
+		- Authentification
+		- Authorization
 
-	 - #Payment for #resources 
+	- Payment for resources
 
- - #ML 
+- ML
 
-	 - #object 
+	- object 
 
-		 - #AI tries to bond 
+		- AI tries to bond
 
-			 - set of #features 
-			 - #label 
+			- set of features
+			- label
 
-	 - #task 
+	- task
 
-		 - predict #a #label 
-		 - #clustetr 
-		 - #regresion 
+		- predict a label
+		- clustetr
+		- regresion
 
-	 - Design #a #pipeline 
+	- Design a pipeline
 
- - #Cognitive #Services 
+- Cognitive Services
 
-	 - #AI #Vision 
+	- AI Vision
 
-		 - #form #recog 
+		- form recog
 
-			 - #PDF 
+			- PDF
 
-		 - #classification 
-		 - #object #detection 
-		 - #segmentation 
-		 - #image #analysis 
-		 - #character #detection 
+		- classification
+		- object detection
+		- segmentation
+		- image analysis
+		- character detection
 
- - #Bot 
+- Bot
 
-	 - " #forefront of #callcenters " 
+	- "forefront of callcenters"
 
- - Cognitive #Search 
+- Cognitive Search
+
+   Tags & Topics:
+   #Authorization
+   #Authentification
+   #Subscribtion

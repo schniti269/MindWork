@@ -6,3 +6,7 @@ If everyone’s doing it, then do it better
 
    Tags & Topics:
    
+
+[Previous: #C-Study22 - Own your transformation_247](C-Study22 - Own your transformation_247.md)
+
+[Next: #C-Study22 - Own your transformation_247](C-Study22 - Own your transformation_247.md)

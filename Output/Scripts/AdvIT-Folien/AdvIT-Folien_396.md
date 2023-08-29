@@ -6,6 +6,10 @@ Nachteil
 
    Tags & Topics:
    #Synchronisationspunkt
-   #warten
    #Synchronisationspunkte
+   #warten
    #Warten
+
+[Previous: #AdvIT-Folien_397](AdvIT-Folien_397.md)
+
+[Next: #AdvIT-Folien_397](AdvIT-Folien_397.md)

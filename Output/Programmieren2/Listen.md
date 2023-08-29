@@ -1,57 +1,78 @@
-# ## Listen 
+### Listen
 
- - #Que 
+- Que
 
-	 - First in #First out 
-	 - Element #kennt #das element #vor #ihm 
-	 - #Operationen 
+	- First in First out
+	- Element kennt das element vor ihm
+	- Operationen
 
-		 - #Enque 
+		- Enque
 
-			 - #Einketten " hinten " 
+			- Einketten "hinten"
 
-		 - #Deque 
+		- Deque
 
-			 - Ausketten " vorn " 
+			- Ausketten "vorn"
 
- - Linked #list 
+- Linked list
 
-	 - One #way linked #list 
+	- One way linked list
 
-		 - #list 
+		- list
 
-			 - first #node 
+			- first node
 
-		 - #node 
+		- node
 
-			 - #value 
-			 - next #node 
+			- value
+			- next node
 
-	 - Two #way linked #list 
+	- Two way linked list
 
-		 - #List 
+		- List
 
-			 - #First #node 
-			 - Last #node 
+			- First node
+			- Last node
 
-		 - #Node 
+		- Node
 
-			 - #Value 
-			 - #Next #node 
-			 - Previous #node 
+			- Value
+			- Next node
+			- Previous node
 
- - #Stack 
+- Stack
 
-	 - Last in #First out 
-	 - Element kennt darunterliegendes 
-	 - #Operationen 
+	- Last in First out
+	- Element kennt darunterliegendes
+	- Operationen
 
-		 - #Push 
-		 - #Pop 
-		 - #Peek 
+		- Push
+		- Pop
+		- Peek
 
-	 - #Warum #gut wenn #als linked list #implementiert 
+	- Warum gut wenn als linked list implementiert
 
-		 - #Komplex #O(1 ) 
-		 - #Hinzufügen #immer #eine #operation 
-		 - #" Aufrücken " #ist atomatisch 
+		- Komplex O(1)
+		- Hinzufügen immer eine operation
+		- "Aufrücken" ist atomatisch
+
+   Tags & Topics:
+   #Push
+   #hinzufügen
+   #pop
+   #Last
+   #Einketten
+   #Einkett
+   #Komplex
+   #Hinzufügen
+   #Peek
+   #push
+   #Operationen
+   #Node
+   #List
+   #Auskett
+   #Deque
+   #Stack
+   #Aufrücken
+   #Operation
+   #list

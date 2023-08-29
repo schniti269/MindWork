@@ -5,5 +5,9 @@ pwird implementiert durch die Methode acquire()
 vwird implementiert durch die Methode release()
 
    Tags & Topics:
-   #Konstruktur
    #FIFO
+   #Konstruktur
+
+[Previous: #AdvIT-Folien_182](AdvIT-Folien_182.md)
+
+[Next: #AdvIT-Folien_182](AdvIT-Folien_182.md)

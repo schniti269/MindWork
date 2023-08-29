@@ -5,6 +5,10 @@ auf der rechten Seite berechnet:
 ↓
 
    Tags & Topics:
-   #Jordan
    #Gauß
+   #Jordan
    #Einheitsmatrix
+
+[Previous: #Analysis-Lineare_Algebra-230308_676](Analysis-Lineare_Algebra-230308_676.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_676](Analysis-Lineare_Algebra-230308_676.md)

@@ -5,10 +5,14 @@
   String  zeile = ﬁleIn.readLine();
 
    Tags & Topics:
-   #verwenden
    #FileReader(ﬁlename
-   #Verwenden
+   #verwenden
+   #Konstruktion
    #Konstruktionen
    #BuﬀeredReader
-   #Konstruktion
+   #Verwenden
    #String
+
+[Previous: #AdvIT-Aufgaben_3](AdvIT-Aufgaben_3.md)
+
+[Next: #AdvIT-Aufgaben_3](AdvIT-Aufgaben_3.md)

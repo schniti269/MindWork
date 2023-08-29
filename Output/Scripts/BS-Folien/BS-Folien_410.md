@@ -5,5 +5,9 @@ Bereitstellung logischer Dateistrukturmodelle durch Zug riﬀsmethoden
 ⋄sequenzielle Organisation, sequenzieller Zugriﬀ:
 
    Tags & Topics:
-   #Dateistrukturmodelle
    #Datens¨atzen(records
+   #Dateistrukturmodelle
+
+[Previous: #BS-Folien_411](BS-Folien_411.md)
+
+[Next: #BS-Folien_411](BS-Folien_411.md)

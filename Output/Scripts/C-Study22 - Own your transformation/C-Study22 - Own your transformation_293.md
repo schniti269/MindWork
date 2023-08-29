@@ -6,3 +6,7 @@ the-universe-really-does-change-the-outcome-and-
 
    Tags & Topics:
    #Siegel
+
+[Previous: #C-Study22 - Own your transformation_294](C-Study22 - Own your transformation_294.md)
+
+[Next: #C-Study22 - Own your transformation_294](C-Study22 - Own your transformation_294.md)

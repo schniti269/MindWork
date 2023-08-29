@@ -1,33 +1,44 @@
-# ## Speicherung 
+### Speicherung
 
- - Datenbanken 
+- Datenbanken
 
-	 - #SQL 
-	 - #SAP 
-	 - Acess 
-	 - #Codd regeln 
+	- SQL 
+	- SAP 
+	- Acess
+	- Codd regeln
 
- - #Medien 
+- Medien
 
-	 - #Formate 
+	- Formate
 
-		 - #Raid 
-		 - Fat64 
-		 - #Nnfts 
+		- Raid
+		- Fat64
+		- Nnfts
 
-	 - #Verschlüsselung 
+	- Verschlüsselung
 
-		 - #Hatdwarebasiert 
-		 - #Unterknoten 2 
+		- Hatdwarebasiert
+		- Unterknoten 2
 
-	 - #Speichermedien 
+	- Speichermedien
 
-		 - Solid state 
-		 - #Festplatte 
-		 - #Megnetband 
+		- Solid state
+		- Festplatte
+		- Megnetband
 
- - #Dateien 
+- Dateien
 
-	 - #Csv 
-	 - #Excel 
-	 - #Dataframe 
+	- Csv
+	- Excel
+	- Dataframe
+
+   Tags & Topics:
+   #Formate
+   #Nnfts
+   #Nnft
+   #Medium
+   #Medien
+   #Format
+   #Dataframe
+   #Megnetband
+   #Verschlüsselung

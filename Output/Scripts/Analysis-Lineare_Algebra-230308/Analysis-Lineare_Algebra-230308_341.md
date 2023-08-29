@@ -5,6 +5,10 @@ Intervall, so kann man weiter iterieren. Die allgemeine Vorschrift für einen Ne
 xn+1=xn−f(xn)
 
    Tags & Topics:
-   #dasNewton-Verfahren
-   #dasNewton
    #Newton
+   #dasNewton
+   #dasNewton-Verfahren
+
+[Previous: #Analysis-Lineare_Algebra-230308_342](Analysis-Lineare_Algebra-230308_342.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_342](Analysis-Lineare_Algebra-230308_342.md)

@@ -1,13 +1,19 @@
-# ## #Kosten #Arten 
+### Kosten Arten
 
- - #Linear #
+- Linear
 
-	 - #* #* #linie * * 
+	- **linie**
 
- - #Fix 
+- Fix
 
-	 - #linie #ohne #steigung 
+	- linie ohne steigung
 
- - #Sprungfix 
+- Sprungfix
 
-	 - #treppenartig #aber #KEINE #TREPPE 
+	- treppenartig aber KEINE TREPPE
+
+   Tags & Topics:
+   #Kosten
+   #Art
+   #TREPPE
+   #Arten

@@ -5,7 +5,11 @@ f¨ur jeden kritischen Abschnitt deﬁnieren wir zwei Z ¨ahler
 Die Synchronisation stellt sicher, dass zu jedem Zeitpunkt die nachfolgende
 
    Tags & Topics:
+   #Abschnitt
    #Bedingungssynchronisation
    #Abschnitts
-   #Abschnitt
    #Synchronisationstyp
+
+[Previous: #AdvIT-Folien_154](AdvIT-Folien_154.md)
+
+[Next: #AdvIT-Folien_154](AdvIT-Folien_154.md)

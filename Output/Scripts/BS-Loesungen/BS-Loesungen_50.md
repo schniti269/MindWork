@@ -6,3 +6,7 @@ Zuviel vergebene Rechte
 
    Tags & Topics:
    
+
+[Previous: #BS-Loesungen_51](BS-Loesungen_51.md)
+
+[Next: #BS-Loesungen_51](BS-Loesungen_51.md)

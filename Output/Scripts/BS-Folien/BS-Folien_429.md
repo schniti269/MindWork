@@ -5,8 +5,12 @@ Betriebssysteme DHBW Mannheim ©Henning Pagnia Version 4.23 Fr¨uhjahr 2023 BS�
 (b)unabh¨angig vom Dateiverzeichniseintrag (Unix-Ansatz)
 
    Tags & Topics:
+   #Platz
+   #Unix-Ansatz
+   #Windows-Ansatz
    #Dateiattr
    #DOS
-   #Platz
-   #Windows-Ansatz
-   #Unix-Ansatz
+
+[Previous: #BS-Folien_43](BS-Folien_43.md)
+
+[Next: #BS-Folien_43](BS-Folien_43.md)

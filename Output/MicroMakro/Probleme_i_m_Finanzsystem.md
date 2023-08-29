@@ -1,1 +1,0 @@
-# ## #Probleme i m #Finanzsystem 

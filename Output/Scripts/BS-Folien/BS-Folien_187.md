@@ -9,3 +9,7 @@ Qzu groß
    #GleichesZeitscheibenquantum
    #verfahren
    #FIFO-Organisation
+
+[Previous: #BS-Folien_188](BS-Folien_188.md)
+
+[Next: #BS-Folien_188](BS-Folien_188.md)

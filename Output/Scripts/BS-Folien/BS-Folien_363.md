@@ -7,3 +7,7 @@ Die Seitenbenutzung eines Prozesses erfolgt normalerweis e nicht zuf ¨allig:
    Tags & Topics:
    #Seitenbenutzung
    #Anteil
+
+[Previous: #BS-Folien_364](BS-Folien_364.md)
+
+[Next: #BS-Folien_364](BS-Folien_364.md)

@@ -5,12 +5,16 @@ als Zusammenschluss der ersten beiden Dateien. Dabei solle n fortlaufende Zeilen
 werden!
 
    Tags & Topics:
-   #Bearbeitungszeit
    #Aufgabe
-   #Datei
-   #Zeilennummer
-   #Erzeugen
    #Dateien
-   #Befehl
+   #Datei
    #Aufgaben
+   #Erzeugen
+   #Zeilennummer
+   #Befehl
+   #Bearbeitungszeit
    #Erzeug
+
+[Previous: #AdvIT-Aufgaben_20](AdvIT-Aufgaben_20.md)
+
+[Next: #AdvIT-Aufgaben_20](AdvIT-Aufgaben_20.md)

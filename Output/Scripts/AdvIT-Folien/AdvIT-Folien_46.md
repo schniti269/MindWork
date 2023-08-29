@@ -6,3 +6,7 @@ Ready1. Process blocks for input
 
    Tags & Topics:
    #Scheduler
+
+[Previous: #AdvIT-Folien_47](AdvIT-Folien_47.md)
+
+[Next: #AdvIT-Folien_47](AdvIT-Folien_47.md)

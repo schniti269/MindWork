@@ -6,3 +6,7 @@ x1−x0
 
    Tags & Topics:
    #Differenzenquotient
+
+[Previous: #Analysis-Lineare_Algebra-230308_321](Analysis-Lineare_Algebra-230308_321.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_321](Analysis-Lineare_Algebra-230308_321.md)

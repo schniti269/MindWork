@@ -5,6 +5,10 @@ Abb. 26 Gestreute Speicherungevtl. weiteresDeskriptorelement❄Segment-Segment-l
 l¨ange m
 
    Tags & Topics:
-   #Segment-Segment-l¨ang
-   #Segment
    #segment
+   #Segment
+   #Segment-Segment-l¨ang
+
+[Previous: #BS-Folien_405](BS-Folien_405.md)
+
+[Next: #BS-Folien_405](BS-Folien_405.md)

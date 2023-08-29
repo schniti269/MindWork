@@ -5,8 +5,12 @@
 mastering the art 
 
    Tags & Topics:
-   #Develop
    #Manage
    #Build
    #Innovat
    #manage
+   #Develop
+
+[Previous: #C-Study22 - Own your transformation_171](C-Study22 - Own your transformation_171.md)
+
+[Next: #C-Study22 - Own your transformation_171](C-Study22 - Own your transformation_171.md)

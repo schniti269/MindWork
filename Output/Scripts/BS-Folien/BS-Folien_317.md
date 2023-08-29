@@ -6,6 +6,10 @@ Einfache Struktur des Hintergrundspeichers ( Swap-Space ) als eigene Partition o
 
    Tags & Topics:
    #Paging
+   #Seitentauschs
    #Kachell
    #Seitentausch
-   #Seitentauschs
+
+[Previous: #BS-Folien_318](BS-Folien_318.md)
+
+[Next: #BS-Folien_318](BS-Folien_318.md)

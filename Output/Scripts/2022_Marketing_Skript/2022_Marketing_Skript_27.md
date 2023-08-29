@@ -5,9 +5,13 @@ Informations-abruf
  Informations-suche  Informationen/ Reize  Informations-aufnahme Sensorisches Gedächtnis  Informations-abruf Informations-aufnahme (selektiv) Gehirn Kurzzeitgedächtnis (Arbeitsspeicher): Informations-beurteilung Langzeitgedächtnis: Gespeicherte Informationen Informations-speicherung 2.2 InformationsverarbeitungÜberblick Informationsverarbeitung
 
    Tags & Topics:
-   #Informations-aufnahme
+   #Informationsverarbeitung
    #Arbeitsspeicher
    #Gedächtnis
    #Informationen/
-   #Informationsverarbeitung
    #Langzeitgedächtnis
+   #Informations-aufnahme
+
+[Previous: #2022_Marketing_Skript_28](2022_Marketing_Skript_28.md)
+
+[Next: #2022_Marketing_Skript_28](2022_Marketing_Skript_28.md)

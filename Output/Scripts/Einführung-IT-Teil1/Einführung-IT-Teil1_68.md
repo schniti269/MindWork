@@ -5,8 +5,12 @@
 • vergleichsweise kostengünstige Medien –jedoch hohe Anschaffungskosten für die Bandlaufwerke selbst
 
    Tags & Topics:
-   #Schreibrat
+   #Kapazität
    #Lagerbarkeit
    #Schreibrate
+   #Schreibrat
    #Anschaffungskost
-   #Kapazität
+
+[Previous: #Einführung-IT-Teil1_69](Einführung-IT-Teil1_69.md)
+
+[Next: #Einführung-IT-Teil1_69](Einführung-IT-Teil1_69.md)

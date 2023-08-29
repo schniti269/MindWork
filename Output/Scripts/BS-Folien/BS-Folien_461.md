@@ -6,3 +6,7 @@ Unterst¨utzung großer Partitionen (max. 16 TiB)
 
    Tags & Topics:
    #sgid
+
+[Previous: #BS-Folien_462](BS-Folien_462.md)
+
+[Next: #BS-Folien_462](BS-Folien_462.md)

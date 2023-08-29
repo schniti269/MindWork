@@ -5,6 +5,10 @@ L¨osungsidee
 ◮Die Benutzereingaben lesen wir aus userIn¨uber einen BuﬀeredReader , der auf
 
    Tags & Topics:
-   #Zeile
    #Benutzereingabe
    #Benutzereingaben
+   #Zeile
+
+[Previous: #AdvIT-Folien_367](AdvIT-Folien_367.md)
+
+[Next: #AdvIT-Folien_367](AdvIT-Folien_367.md)

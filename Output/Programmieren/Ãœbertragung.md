@@ -1,23 +1,36 @@
-# ## #Übertragung 
+### Übertragung 
 
- - #Netzwerk 
+- Netzwerk 
 
-	 - #Protokolle 
+	- Protokolle
 
-		 - #Osi 
+		- Osi
 
- - #Sicherung 
+- Sicherung 
 
-	 - #Verschlüsselung 
-	 - #Fehlerkorrektur 
+	- Verschlüsselung 
+	- Fehlerkorrektur 
 
- - #Bandbreite 
- - #Mulitpex 
+- Bandbreite 
+- Mulitpex
 
-	 - #Seriealisieren 
+	- Seriealisieren
 
- - #Bus 
+- Bus
 
-	 - #Usb 
-	 - #Lan 
-	 - #Dvi 
+	- Usb
+	- Lan
+	- Dvi
+
+   Tags & Topics:
+   #Übertragung
+   #Dvi
+   #Mulitpex
+   #Netzwerk
+   #bandbreite
+   #Osi
+   #Fehlerkorrektur
+   #Bandbreite
+   #Seriealisieren
+   #Seriealisier
+   #Verschlüsselung

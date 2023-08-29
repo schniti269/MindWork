@@ -5,7 +5,11 @@
 sen enthalten.
 
    Tags & Topics:
+   #Best
    #Fit
    #⋄Simulationen
-   #Best
    #⇒First
+
+[Previous: #BS-Folien_288](BS-Folien_288.md)
+
+[Next: #BS-Folien_288](BS-Folien_288.md)

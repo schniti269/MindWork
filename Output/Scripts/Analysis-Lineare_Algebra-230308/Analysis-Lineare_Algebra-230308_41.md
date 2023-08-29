@@ -7,3 +7,7 @@ in einer Zeile wie bisher oder untereinander:
    Tags & Topics:
    #vereinfachen
    #Vereinfachen
+
+[Previous: #Analysis-Lineare_Algebra-230308_410](Analysis-Lineare_Algebra-230308_410.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_410](Analysis-Lineare_Algebra-230308_410.md)

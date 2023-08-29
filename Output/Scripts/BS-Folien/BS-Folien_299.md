@@ -5,5 +5,9 @@ Seitengr¨oße: 2mWorte
 •Ziel bei der Adressumsetzung: Aus der Seitennummer P die Kac helnummer K bestimmen.
 
    Tags & Topics:
-   #2mWorte
    #Kac
+   #2mWorte
+
+[Previous: #BS-Folien_3](BS-Folien_3.md)
+
+[Next: #BS-Folien_3](BS-Folien_3.md)

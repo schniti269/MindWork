@@ -5,6 +5,10 @@ Programm wird einemstatischen Bereich zugeordnet.
 ⋄Alternative Zuteilungsstrategien:
 
    Tags & Topics:
-   #⋄Voraussetzung
    #Zuteilungsstrategien
    #Speicherplatzzuteilung
+   #⋄Voraussetzung
+
+[Previous: #BS-Folien_266](BS-Folien_266.md)
+
+[Next: #BS-Folien_266](BS-Folien_266.md)

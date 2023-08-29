@@ -6,3 +6,7 @@ prepare for a precarious future. And, for 2021, this group achieved 11% more
 
    Tags & Topics:
    
+
+[Previous: #C-Study22 - Own your transformation_200](C-Study22 - Own your transformation_200.md)
+
+[Next: #C-Study22 - Own your transformation_200](C-Study22 - Own your transformation_200.md)

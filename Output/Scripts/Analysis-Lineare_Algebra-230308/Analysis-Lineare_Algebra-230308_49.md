@@ -8,3 +8,7 @@ Aussage kann wahr oder falsch und manchmal auch nicht eindeutig oder auch (noch)
    #demUngleichheitszeichen
    #Rechenvorschrift
    #Wenn
+
+[Previous: #Analysis-Lineare_Algebra-230308_490](Analysis-Lineare_Algebra-230308_490.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_490](Analysis-Lineare_Algebra-230308_490.md)

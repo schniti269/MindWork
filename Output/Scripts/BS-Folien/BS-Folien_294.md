@@ -6,3 +6,7 @@ Betriebssysteme DHBW Mannheim ©Henning Pagnia Version 4.23 Fr¨uhjahr 2023 BS�
 
    Tags & Topics:
    
+
+[Previous: #BS-Folien_295](BS-Folien_295.md)
+
+[Next: #BS-Folien_295](BS-Folien_295.md)

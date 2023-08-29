@@ -6,3 +6,7 @@ da hier eine Division erfolgen muss. Wird statt y2=1
 
    Tags & Topics:
    #Iteration
+
+[Previous: #Analysis-Lineare_Algebra-230308_614](Analysis-Lineare_Algebra-230308_614.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_614](Analysis-Lineare_Algebra-230308_614.md)

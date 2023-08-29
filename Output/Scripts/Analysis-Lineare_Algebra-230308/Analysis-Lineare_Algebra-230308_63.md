@@ -7,3 +7,7 @@ So könnte die Lösung so aussehen:
    Tags & Topics:
    #Soll
    #Bestimmen
+
+[Previous: #Analysis-Lineare_Algebra-230308_630](Analysis-Lineare_Algebra-230308_630.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_630](Analysis-Lineare_Algebra-230308_630.md)

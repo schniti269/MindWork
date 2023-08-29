@@ -5,5 +5,9 @@ m[255,255]
 auf ein Matrixelement ﬁndet ein Programmzugriﬀ statt.)
 
    Tags & Topics:
-   #Programmzugriﬀ
    #Matrixseite
+   #Programmzugriﬀ
+
+[Previous: #BS-Uebungen_71](BS-Uebungen_71.md)
+
+[Next: #BS-Uebungen_71](BS-Uebungen_71.md)

@@ -5,13 +5,17 @@ Gestaltung der Verkaufs-aktivitätenGestaltungder Beziehungen zu den Vertriebs-p
 Entscheidungsfelder4.4. PlaceEntscheidungsfelder akquisitorischer Aktivitäten
 
    Tags & Topics:
-   #aktivitätenGestaltungder
-   #Entscheidungsfelder4.4
-   #Verkaufs
-   #partnernundKey
-   #Vertriebssystems
-   #Vertriebs
-   #Entscheidungsfelder4.4.
-   #4.4.
    #Vertriebssystem
+   #Entscheidungsfelder4.4.
+   #Verkaufs
+   #Vertriebs
+   #Entscheidungsfelder4.4
+   #aktivitätenGestaltungder
+   #4.4.
+   #Vertriebssystems
+   #partnernundKey
    #Vorwerk
+
+[Previous: #2022_Marketing_Skript_113](2022_Marketing_Skript_113.md)
+
+[Next: #2022_Marketing_Skript_113](2022_Marketing_Skript_113.md)

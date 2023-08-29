@@ -5,6 +5,10 @@ Betriebssysteme DHBW Mannheim ©Henning Pagnia Version 4.23 Fr¨uhjahr 2023 BS�
 Eintritts- und Austrittsprotokoll sind unabh ¨angig von der Prozessanzahl und Prozessidentiﬁkationen.
 
    Tags & Topics:
-   #Austrittsprotokoll
    #Prozessidentiﬁkation
    #BS–60Prozessverwaltung
+   #Austrittsprotokoll
+
+[Previous: #BS-Folien_145](BS-Folien_145.md)
+
+[Next: #BS-Folien_145](BS-Folien_145.md)

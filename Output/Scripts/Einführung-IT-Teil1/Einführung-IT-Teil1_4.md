@@ -5,6 +5,10 @@
 •08.11.22, 8:30 -11:45, Raum ??, bzw. Online, 4 St.
 
    Tags & Topics:
-   #Online
    #Raum
+   #Online
    #13:00
+
+[Previous: #Einführung-IT-Teil1_40](Einführung-IT-Teil1_40.md)
+
+[Next: #Einführung-IT-Teil1_40](Einführung-IT-Teil1_40.md)

@@ -6,6 +6,10 @@ Algorithmus zum Bewerten der Zust ¨ande
 
    Tags & Topics:
    #Algorithmus
-   #Pimitneeded(Pi)≤Avail
-   #Zust
    #assigned(pi
+   #Zust
+   #Pimitneeded(Pi)≤Avail
+
+[Previous: #AdvIT-Folien_141](AdvIT-Folien_141.md)
+
+[Next: #AdvIT-Folien_141](AdvIT-Folien_141.md)

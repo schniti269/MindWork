@@ -6,3 +6,7 @@ to operations—especially automating decision-
 
    Tags & Topics:
    
+
+[Previous: #C-Study22 - Own your transformation_39](C-Study22 - Own your transformation_39.md)
+
+[Next: #C-Study22 - Own your transformation_39](C-Study22 - Own your transformation_39.md)

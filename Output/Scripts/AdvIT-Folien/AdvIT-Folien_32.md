@@ -5,5 +5,9 @@ Prof. Dr. Henning Pagnia (DHBW Mannheim) Advanced IT Herbst 2023 14/132Prozesse,
 Einf¨uhrung
 
    Tags & Topics:
-   #Einf¨uhrung
    #Nebenl¨auﬁgkeit
+   #Einf¨uhrung
+
+[Previous: #AdvIT-Folien_320](AdvIT-Folien_320.md)
+
+[Next: #AdvIT-Folien_320](AdvIT-Folien_320.md)

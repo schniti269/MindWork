@@ -7,3 +7,7 @@ reader.signal();    }
    Tags & Topics:
    #activeWriter
    #activewriter
+
+[Previous: #AdvIT-Folien_302](AdvIT-Folien_302.md)
+
+[Next: #AdvIT-Folien_302](AdvIT-Folien_302.md)

@@ -5,5 +5,9 @@ Konstruktoren
      public  DatagramPacket  ( byte[] data, int length,
 
    Tags & Topics:
-   #UDP-Socket
    #Nachricht
+   #UDP-Socket
+
+[Previous: #AdvIT-Folien_381](AdvIT-Folien_381.md)
+
+[Next: #AdvIT-Folien_381](AdvIT-Folien_381.md)

@@ -5,6 +5,10 @@
 Betriebssysteme DHBW Mannheim ©Henning Pagnia Version 4.23 Fr¨uhjahr 2023 BS–150Dateisysteme Schichtenmodell eines Dateisystems
 
    Tags & Topics:
-   #bs–150dateisysteme
    #Endung
+   #bs–150dateisysteme
    #BS–150Dateisystem
+
+[Previous: #BS-Folien_379](BS-Folien_379.md)
+
+[Next: #BS-Folien_379](BS-Folien_379.md)

@@ -6,5 +6,9 @@ Form
 
    Tags & Topics:
    #Algorithmus
-   #Iterationsschritt
    #Gleitkommaformat
+   #Iterationsschritt
+
+[Previous: #Analysis-Lineare_Algebra-230308_621](Analysis-Lineare_Algebra-230308_621.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_621](Analysis-Lineare_Algebra-230308_621.md)

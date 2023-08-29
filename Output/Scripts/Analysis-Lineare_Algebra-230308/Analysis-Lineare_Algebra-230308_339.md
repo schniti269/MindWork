@@ -5,5 +5,9 @@ diesen Punkt geschehen. Sehr einfach wird es, wenn die Funktion zweimal stetig a
 0 1 2 3
 
    Tags & Topics:
-   #Kriterium
    #Ableitung
+   #Kriterium
+
+[Previous: #Analysis-Lineare_Algebra-230308_34](Analysis-Lineare_Algebra-230308_34.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_34](Analysis-Lineare_Algebra-230308_34.md)

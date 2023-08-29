@@ -7,9 +7,13 @@
    Tags & Topics:
    #Forschungsinstitut
    #Industrie
-   #•Tabletcomputer
-   #Vorläufer
    #Investitionen
+   #Investition
    #Forschungsinstituten
    #Docker
-   #Investition
+   #•Tabletcomputer
+   #Vorläufer
+
+[Previous: #Einführung-IT-Teil1_51](Einführung-IT-Teil1_51.md)
+
+[Next: #Einführung-IT-Teil1_51](Einführung-IT-Teil1_51.md)

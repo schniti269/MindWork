@@ -5,6 +5,10 @@ Betriebsmittel anfordern
 B3Nichtentziehbarkeit (no preemption condition )
 
    Tags & Topics:
+   #B3Nichtentziehbarkeit
    #B2Nachforderung
    #b3nichtentziehbarkeit
-   #B3Nichtentziehbarkeit
+
+[Previous: #AdvIT-Folien_115](AdvIT-Folien_115.md)
+
+[Next: #AdvIT-Folien_115](AdvIT-Folien_115.md)

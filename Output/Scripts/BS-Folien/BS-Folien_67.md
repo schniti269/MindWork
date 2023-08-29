@@ -5,10 +5,14 @@ programmbezogen (synchron) ⇒Software-Interrupt, Trap
 systembezogen (asynchron) ⇒Hardware-Interrupt
 
    Tags & Topics:
-   #Unterbrechungskonzept
-   #⇒Hardware
-   #⇒Software
-   #⋄adressfehler
-   #⋄Adressfehler
    #•ursachen
+   #⇒Software
+   #⋄Adressfehler
+   #Unterbrechungskonzept
+   #⋄adressfehler
    #Unterbrechung
+   #⇒Hardware
+
+[Previous: #BS-Folien_68](BS-Folien_68.md)
+
+[Next: #BS-Folien_68](BS-Folien_68.md)

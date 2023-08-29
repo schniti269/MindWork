@@ -5,6 +5,10 @@
 einer einstelligen Binärzahl. Es kann die Werte 0binund 1bin bin annehmen. Eine achtstellige Binärzahl wird als ein 
 
    Tags & Topics:
-   #Binärzahl
    #Byt
+   #Binärzahl
    #Bytes
+
+[Previous: #Einführung-IT-Teil2_23](Einführung-IT-Teil2_23.md)
+
+[Next: #Einführung-IT-Teil2_23](Einführung-IT-Teil2_23.md)

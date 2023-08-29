@@ -6,3 +6,7 @@ grappling with persistent challenges, the IBM Institute for Business Value
 
    Tags & Topics:
    
+
+[Previous: #C-Study22 - Own your transformation_190](C-Study22 - Own your transformation_190.md)
+
+[Next: #C-Study22 - Own your transformation_190](C-Study22 - Own your transformation_190.md)

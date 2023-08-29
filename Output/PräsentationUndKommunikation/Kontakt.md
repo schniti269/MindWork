@@ -1,7 +1,15 @@
-# ## #Kontakt 
+### Kontakt
 
- - #Begrüßung 
- - #Auftreten 
- - " Machtstrukturen " 
+- Begrüßung
+- Auftreten
+- "Machtstrukturen"
 
-	 - #Stellung 
+	- Stellung
+
+   Tags & Topics:
+   #Kontakt
+   #Auftreten
+   #Stellung
+   #Begrüßung
+   #auftreten
+   #Machtstruktur

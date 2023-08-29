@@ -5,9 +5,13 @@ Benutzeroberfläche (GUI) mit Maus -Bedienung, SmallTalk und der Vorläufer von 
 Meilenstein war der IBM Mikrocomputer 5100 mit 64 kBytes Arbeitsspeicher, der in BASIC oder APL 
 
    Tags & Topics:
-   #Laserdrucker
-   #Vorläufer
+   #•Gründung
    #Benutzeroberfläche
    #Meilenstein
+   #Laserdrucker
    #Mikrocomputer
-   #•Gründung
+   #Vorläufer
+
+[Previous: #Einführung-IT-Teil1_42](Einführung-IT-Teil1_42.md)
+
+[Next: #Einführung-IT-Teil1_42](Einführung-IT-Teil1_42.md)

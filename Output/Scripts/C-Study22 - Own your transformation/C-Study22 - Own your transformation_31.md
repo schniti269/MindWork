@@ -6,3 +6,7 @@ Q. What are the most important external forces that will impact your enterprise 
 
    Tags & Topics:
    #Jozwiak
+
+[Previous: #C-Study22 - Own your transformation_32](C-Study22 - Own your transformation_32.md)
+
+[Next: #C-Study22 - Own your transformation_32](C-Study22 - Own your transformation_32.md)

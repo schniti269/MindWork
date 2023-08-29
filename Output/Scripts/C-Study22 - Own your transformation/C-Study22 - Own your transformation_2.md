@@ -6,3 +6,7 @@ the modern supply chainiContents
 
    Tags & Topics:
    
+
+[Previous: #C-Study22 - Own your transformation_20](C-Study22 - Own your transformation_20.md)
+
+[Next: #C-Study22 - Own your transformation_20](C-Study22 - Own your transformation_20.md)

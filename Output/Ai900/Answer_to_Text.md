@@ -1,13 +1,17 @@
-# ## #Answer to #Text 
+### Answer to Text
 
- - #chat 
+- chat
 
-	 - best #practice 
+	- best practice
 
-		 - 1 #database for #FAQ 
-		 - different #channels are connected to it 
-		 - #workflow with #steps 
-		 - #customer has #the #option to go back to #top of #procedure 
+		- 1 database for FAQ
+		- different channels are connected to it
+		- workflow with steps
+		- customer has the option to go back to top of procedure
 
-	 - #text to #speech 
-	 - #speech to text 
+	- text to speech
+	- speech to text
+
+   Tags & Topics:
+   #answer
+   #Text

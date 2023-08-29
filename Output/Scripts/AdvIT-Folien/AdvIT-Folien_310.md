@@ -6,6 +6,10 @@ IP
 
    Tags & Topics:
    #97/132Server
-   #Server-Programmierung
-   #Kommunikationsprotokolle
    #98/132Server
+   #Kommunikationsprotokolle
+   #Server-Programmierung
+
+[Previous: #AdvIT-Folien_311](AdvIT-Folien_311.md)
+
+[Next: #AdvIT-Folien_311](AdvIT-Folien_311.md)

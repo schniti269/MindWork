@@ -6,3 +6,7 @@ Kachel freigeben ;
 
    Tags & Topics:
    #Kachelinhalt
+
+[Previous: #BS-Folien_35](BS-Folien_35.md)
+
+[Next: #BS-Folien_35](BS-Folien_35.md)

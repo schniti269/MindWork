@@ -5,9 +5,13 @@ D.J. Wetherall, Prentice Hall, 2013
 [Ull2016] Java ist auch eine Insel , 12. Auﬂage, C. Ullenboom,
 
    Tags & Topics:
-   #Betriebssystem
-   #Ull2016
-   #Betriebssysteme
    #auﬂage
-   #Insel
+   #Betriebssysteme
+   #Betriebssystem
    #Auﬂage
+   #Insel
+   #Ull2016
+
+[Previous: #AdvIT-Folien_70](AdvIT-Folien_70.md)
+
+[Next: #AdvIT-Folien_70](AdvIT-Folien_70.md)

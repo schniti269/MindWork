@@ -5,9 +5,13 @@ umgekehrt
 Prof. Dr. Henning Pagnia (DHBW Mannheim) Advanced IT Herbst 2023 53/132Speicherbasierte Synchronisation Begriﬀe und Basismechanismen
 
    Tags & Topics:
-   #Adurchlaufen
    #Regel
+   #adurchlaufen
    #bevorBbetret
    #Abschnitte
    #Abschnitt
-   #adurchlaufen
+   #Adurchlaufen
+
+[Previous: #AdvIT-Folien_157](AdvIT-Folien_157.md)
+
+[Next: #AdvIT-Folien_157](AdvIT-Folien_157.md)

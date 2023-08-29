@@ -5,18 +5,22 @@ Kaufentscheidung
 Foscht/Swoboda (2011), S. 37.AktivierungEmotionMotivationEinstellung+ Interpretation+ Zielorientierung+ Objektbeurteilunginnere Erregungsvorgänge, die subjektiv als angenehme oder unangenehme Zustände empfunden werdenEmotionen + kognitive HandlungsorientierungHaltung gegenüber einem Objekt= Motivation + Urteil über ein Objekt= Motivation + kognitive Gegenstandsbeurteilung„Hungergefühl“Essen gehenMeinung zum Restaurant „XY“Grundlagen –aktivierende Konstrukte: Überblick
 
    Tags & Topics:
-   #Konsumentenverhalten
-   #Urteil
-   #Überblick
-   #Gegenstandsbeurteilung
-   #überblick
    #gehenMeinung
-   #HandlungsorientierungHaltung
+   #KonsumentenverhaltensZentrale
    #Grundlage
+   #Urteil
+   #Erregungsvorgänge
+   #HandlungsorientierungHaltung
    #Konsumentenverhaltens
-   #XY“Grundlagen
+   #Konsumentenverhalten
    #werdenemotionen
    #werdenEmotion
-   #Erregungsvorgänge
+   #überblick
+   #Gegenstandsbeurteilung
+   #XY“Grundlagen
    #Gegenstandsbeurteilung„Hungergefühl“Essen
-   #KonsumentenverhaltensZentrale
+   #Überblick
+
+[Previous: #2022_Marketing_Skript_15](2022_Marketing_Skript_15.md)
+
+[Next: #2022_Marketing_Skript_15](2022_Marketing_Skript_15.md)

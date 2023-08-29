@@ -5,14 +5,18 @@ Realisierung wirksamer Schutzmechnismen:
 Betriebssysteme DHBW Mannheim ©Henning Pagnia Version 4.23 Fr¨uhjahr 2023 BS–149Dateisysteme ¨Uberblick
 
    Tags & Topics:
-   #leser-/schreibersynchronisation
-   #Schutzmechnismen
-   #Vergabe
-   #BS–149Dateisystem
    #Datenintegrit
-   #bs–149dateisysteme
-   #Verdeckung
-   #⋄Unterscheidung
    #Leser-/Schreibersynchronisation
-   #⋄Erhaltung
+   #⋄Unterscheidung
+   #Vergabe
+   #bs–149dateisysteme
    #Schutzmechnisme
+   #Verdeckung
+   #leser-/schreibersynchronisation
+   #⋄Erhaltung
+   #BS–149Dateisystem
+   #Schutzmechnismen
+
+[Previous: #BS-Folien_376](BS-Folien_376.md)
+
+[Next: #BS-Folien_376](BS-Folien_376.md)

@@ -5,6 +5,10 @@ Ein Polynom nullten oder ersten Grades bezeichnet man normalerweise als Konstant
 In der Form
 
    Tags & Topics:
+   #Monom
    #Monome
    #Polynoms
-   #Monom
+
+[Previous: #Analysis-Lineare_Algebra-230308_86](Analysis-Lineare_Algebra-230308_86.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_86](Analysis-Lineare_Algebra-230308_86.md)

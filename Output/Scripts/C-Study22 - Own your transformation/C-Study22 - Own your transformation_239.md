@@ -7,3 +7,7 @@ achieving accelerated competitive advantage. –Make the future your friend.
    Tags & Topics:
    #Support
    #Through
+
+[Previous: #C-Study22 - Own your transformation_24](C-Study22 - Own your transformation_24.md)
+
+[Next: #C-Study22 - Own your transformation_24](C-Study22 - Own your transformation_24.md)

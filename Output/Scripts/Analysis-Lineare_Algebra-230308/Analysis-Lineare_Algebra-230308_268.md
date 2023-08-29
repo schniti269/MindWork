@@ -6,3 +6,7 @@ auch mit Hilfe von Koeffizientenvergleichen bestimmt werden.
 
    Tags & Topics:
    #k=0ak(x−x0)k=∞X
+
+[Previous: #Analysis-Lineare_Algebra-230308_269](Analysis-Lineare_Algebra-230308_269.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_269](Analysis-Lineare_Algebra-230308_269.md)

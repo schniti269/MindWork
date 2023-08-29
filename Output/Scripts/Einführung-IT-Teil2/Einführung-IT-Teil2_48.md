@@ -5,8 +5,12 @@ Anmerkung: Bei der Verwendung von „ ∨“ für das logische Oder wird hingege
 Addition +
 
    Tags & Topics:
-   #Grundrechenarten
+   #Übersicht
    #Anmerkung
    #•Es
-   #Übersicht
    #Grundrechenart
+   #Grundrechenarten
+
+[Previous: #Einführung-IT-Teil2_49](Einführung-IT-Teil2_49.md)
+
+[Next: #Einführung-IT-Teil2_49](Einführung-IT-Teil2_49.md)

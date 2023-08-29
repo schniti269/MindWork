@@ -1,21 +1,28 @@
-# ## Typisierung 
+### Typisierung 
 
- - #Nicht 
+- Nicht
 
-	 - #Python 
-	 - #Julia 
+	- Python
+	- Julia
 
- - Typisiert 
+- Typisiert
 
-	 - #Java 
+	- Java
 
-		 - #Scipt 
-		 - Java 
+		- Scipt
+		- Java
 
-	 - #C 
+	- C
 
-		 - #C # 
-		 - #C 
-		 - #C++ 
+		- C#
+		- C
+		- C++
 
-	 - 
+	- 
+
+   Tags & Topics:
+   #Typisierung
+   #Typisiert
+   #Nicht
+   #scipt
+   #Scipt

@@ -7,5 +7,9 @@ Befehlszyklus
    Tags & Topics:
    #zwischenabstufungen
    #Zwischenabstufung
-   #Hardware
    #Befehl
+   #Hardware
+
+[Previous: #BS-Folien_64](BS-Folien_64.md)
+
+[Next: #BS-Folien_64](BS-Folien_64.md)

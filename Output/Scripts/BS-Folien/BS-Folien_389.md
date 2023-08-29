@@ -5,6 +5,10 @@ Physikalisches Dateisystem
 Physikalische Datei:
 
    Tags & Topics:
-   #BS–154Dateisystem
-   #Erase
    #bs–154dateisysteme
+   #Erase
+   #BS–154Dateisystem
+
+[Previous: #BS-Folien_39](BS-Folien_39.md)
+
+[Next: #BS-Folien_39](BS-Folien_39.md)

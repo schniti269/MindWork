@@ -5,5 +5,9 @@ f′(x0) = 1·a1= 1und entsprechend mit weiteren Ableitungen f′′(x0) = 1·2�
 1·2·3·a3= 3!·a3und so fort. Das gibt uns eine neue Möglichkeit Potenzreihen von Funktionen zu be-
 
    Tags & Topics:
-   #Möglichkeit
    #Koeffi-
+   #Möglichkeit
+
+[Previous: #Analysis-Lineare_Algebra-230308_35](Analysis-Lineare_Algebra-230308_35.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_35](Analysis-Lineare_Algebra-230308_35.md)

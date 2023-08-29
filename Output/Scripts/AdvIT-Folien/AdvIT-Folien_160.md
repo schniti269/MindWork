@@ -6,3 +6,7 @@ Basismechanismen (Forts.)
 
    Tags & Topics:
    #Realisierung
+
+[Previous: #AdvIT-Folien_161](AdvIT-Folien_161.md)
+
+[Next: #AdvIT-Folien_161](AdvIT-Folien_161.md)

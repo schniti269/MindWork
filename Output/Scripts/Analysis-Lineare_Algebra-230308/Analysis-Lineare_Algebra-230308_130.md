@@ -5,10 +5,14 @@ Kehrwert der Tangens-Funktion.
 -2-1012
 
    Tags & Topics:
-   #Graph
    #Graphen
+   #Tangen
+   #Tangens-Funktion
+   #Graph
+   #Tangens
    #Kotangens
    #Kotangens-Funktion
-   #Tangens-Funktion
-   #Tangen
-   #Tangens
+
+[Previous: #Analysis-Lineare_Algebra-230308_131](Analysis-Lineare_Algebra-230308_131.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_131](Analysis-Lineare_Algebra-230308_131.md)

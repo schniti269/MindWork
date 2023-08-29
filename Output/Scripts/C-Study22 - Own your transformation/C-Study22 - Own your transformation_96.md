@@ -6,3 +6,7 @@ ASTRI estimates that the twin approach has reduced integration time by
 
    Tags & Topics:
    
+
+[Previous: #C-Study22 - Own your transformation_97](C-Study22 - Own your transformation_97.md)
+
+[Next: #C-Study22 - Own your transformation_97](C-Study22 - Own your transformation_97.md)

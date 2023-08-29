@@ -9,3 +9,7 @@ Entwicklung der Informatik verdient gemacht haben. Er gilt als höchste Auszeich
    #Olsen
    #Auszeichnung
    #Auszeichnungen
+
+[Previous: #Einführung-IT-Teil1_82](Einführung-IT-Teil1_82.md)
+
+[Next: #Einführung-IT-Teil1_82](Einführung-IT-Teil1_82.md)

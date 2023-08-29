@@ -6,3 +6,7 @@ IBM Institute for Business Value
 
    Tags & Topics:
    #•Education
+
+[Previous: #Einführung-IT-Teil1_91](Einführung-IT-Teil1_91.md)
+
+[Next: #Einführung-IT-Teil1_91](Einführung-IT-Teil1_91.md)

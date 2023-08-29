@@ -7,3 +7,7 @@ Ax+B
    Tags & Topics:
    #DieerstenbeidenSchrittesindhiernichterforderlich
    #Ax+B
+
+[Previous: #Analysis-Lineare_Algebra-230308_44](Analysis-Lineare_Algebra-230308_44.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_44](Analysis-Lineare_Algebra-230308_44.md)

@@ -7,3 +7,7 @@ Benutzerkategorien und Zugriﬀsrechte
    Tags & Topics:
    #Benutzerkategorien
    #Benutzerkategorie
+
+[Previous: #BS-Folien_413](BS-Folien_413.md)
+
+[Next: #BS-Folien_413](BS-Folien_413.md)

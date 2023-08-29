@@ -5,9 +5,13 @@ Bash-Shell-Programme beginnen mit #!/bin/bash
 Kommentare sind Zeilen, die mit #beginnen
 
    Tags & Topics:
-   #Programme
-   #Kommentar
-   #Kommentare
    #Arbeit
-   #Exkurs
+   #Kommentar
    #Arbeiten
+   #Programme
+   #Kommentare
+   #Exkurs
+
+[Previous: #AdvIT-Folien_180](AdvIT-Folien_180.md)
+
+[Next: #AdvIT-Folien_180](AdvIT-Folien_180.md)

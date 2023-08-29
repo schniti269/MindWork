@@ -5,9 +5,13 @@ Wirtschaftswissenschaften, insbesondere der Betriebswirtschaftslehre, und der In
 vor allem in den USA, sind ähnliche Konzepte unter Information Systems (IS) bekannt. Grundlegende Definitionen
 
    Tags & Topics:
+   #Betriebswirtschaftslehre
+   #Einordnung
+   #Wurzel
    #Wurzeln
    #Kommunikationssysteme
-   #Betriebswirtschaftslehre
-   #Wurzel
    #Kommunikationssystemen
-   #Einordnung
+
+[Previous: #Einführung-IT-Teil1_16](Einführung-IT-Teil1_16.md)
+
+[Next: #Einführung-IT-Teil1_16](Einführung-IT-Teil1_16.md)

@@ -7,9 +7,13 @@ Betriebssysteme
    Tags & Topics:
    #Smartphone
    #Modulklausur
-   #•50
-   #Laptop"
-   #Laptop".Literaturempfehlung
    #Taschenrechner
+   #•50
    #Literaturempfehlung
+   #Laptop".Literaturempfehlung
+   #Laptop"
    #Min
+
+[Previous: #Einführung-IT-Teil1_70](Einführung-IT-Teil1_70.md)
+
+[Next: #Einführung-IT-Teil1_70](Einführung-IT-Teil1_70.md)

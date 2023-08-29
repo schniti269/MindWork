@@ -1,7 +1,15 @@
-# # #Entwicklung 
+### Entwicklung
 
- - neue Möglichkeiten der #Interaktion 
- - #neue #Formen #der #Nutzung 
+- neue Möglichkeiten der Interaktion
+- neue Formen der Nutzung
 
-	 - multitasking 
-	 - #multiuser 
+	- multitasking
+	- multiuser
+
+   Tags & Topics:
+   #Möglichkeit
+   #Formen
+   #Entwicklung
+   #Form
+   #Nutzung
+   #Interaktion

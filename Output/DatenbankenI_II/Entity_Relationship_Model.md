@@ -1,22 +1,38 @@
-# ## #Entity #Relationship #Model #
- #( #ERM ) #
+### Entity Relationship Model
+(ERM)
 
- - kardinalitäten 
- - Entitäten 
- - #Relationen 
+- kardinalitäten
+- Entitäten
+- Relationen
 
-	 - #Kopfkomponente 
+	- Kopfkomponente
 
-		 - #Eindeutige #Namen der #Relation und #Attribute 
-		 - " #Header " #
+		- Eindeutige Namen der Relation und Attribute 
+		- "Header"
 
-	 - #Körperkomponente 
+	- Körperkomponente
 
-		 - #Tupel #über #  #unterschiedliche #Wertebereiche ( #Domäne ) #
-		 - " #value " 
+		- Tupel über  unterschiedliche Wertebereiche (Domäne)
+		- "value"
 
-	 - #Regeln 
+	- Regeln
 
-		 - in #einer Relation #müssen #Tupel #Eindeutig #sein 
+		- in einer Relation müssen Tupel Eindeutig sein
 
-	 - #Relationen und tabellen #sind #gleich 
+	- Relationen und tabellen sind gleich
+
+   Tags & Topics:
+   #Header
+   #Körperkomponente
+   #Domäne
+   #Tupel
+   #Wertebereiche
+   #Namen
+   #Kopfkomponente
+   #Relation
+   #Entity
+   #Name
+   #Regeln
+   #Regel
+   #Relationen
+   #Attribute

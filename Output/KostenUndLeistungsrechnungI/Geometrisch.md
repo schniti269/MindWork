@@ -1,6 +1,9 @@
-# ## #Geometrisch 
+### Geometrisch
 
- - Progressiv #
- - #Degressiv #
+- Progressiv
+- Degressiv
 
-	 - x% #vom #Restbetrag #bis #< #Linear #über #selben #zeitraum #
+	- x% vom Restbetrag bis < Linear über selben zeitraum
+
+   Tags & Topics:
+   

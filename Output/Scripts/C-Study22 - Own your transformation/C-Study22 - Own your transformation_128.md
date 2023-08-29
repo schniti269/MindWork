@@ -6,3 +6,7 @@ based Henkel. “The whole ecosystem network has to be
 
    Tags & Topics:
    
+
+[Previous: #C-Study22 - Own your transformation_129](C-Study22 - Own your transformation_129.md)
+
+[Next: #C-Study22 - Own your transformation_129](C-Study22 - Own your transformation_129.md)

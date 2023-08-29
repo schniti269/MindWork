@@ -5,7 +5,11 @@ Abb. 8 Interne Fragmentierung bei Verwendung von Speicherb ereichen fester L ¨a
 benutzt
 
    Tags & Topics:
-   #Adresse
-   #Speicheranforderungen
-   #Speicheranforderung
    #Fragmentierung
+   #Speicheranforderung
+   #Speicheranforderungen
+   #Adresse
+
+[Previous: #BS-Folien_256](BS-Folien_256.md)
+
+[Next: #BS-Folien_256](BS-Folien_256.md)

@@ -6,3 +6,7 @@ Die Aufgabe 151 ,875+27 ,625 = 179 ,5 soll in binärer Arithmetik gelöst werden
 
    Tags & Topics:
    #875+27
+
+[Previous: #Einführung-IT-Teil2_55](Einführung-IT-Teil2_55.md)
+
+[Next: #Einführung-IT-Teil2_55](Einführung-IT-Teil2_55.md)

@@ -5,10 +5,14 @@ D. Abts, Springer Vieweg, 2015
 [Man2017] TCP und UDP Internals, P. Mandl, Springer Vieweg, 2 017
 
    Tags & Topics:
-   #Server-Programmierung
-   #132Literatur
    #Abt2015
    #auﬂage
+   #Server-Programmierung
    #Masterkurs
    #Literaturlist
    #Auﬂage
+   #132Literatur
+
+[Previous: #AdvIT-Folien_60](AdvIT-Folien_60.md)
+
+[Next: #AdvIT-Folien_60](AdvIT-Folien_60.md)

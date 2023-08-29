@@ -5,7 +5,11 @@ Socket: IP-Adresse und Port-Nummer
 Port bezeichnet rechnerinterne Kommunikationsadresse ei nes Prozesses
 
    Tags & Topics:
+   #Kommunikationsadresse
+   #101/132Server
    #Adresse
    #Nummer
-   #101/132Server
-   #Kommunikationsadresse
+
+[Previous: #AdvIT-Folien_32](AdvIT-Folien_32.md)
+
+[Next: #AdvIT-Folien_32](AdvIT-Folien_32.md)

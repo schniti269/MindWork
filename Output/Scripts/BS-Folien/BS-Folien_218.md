@@ -5,7 +5,11 @@ deckt!
 Betriebssysteme DHBW Mannheim ©Henning Pagnia Version 4.23 Fr¨uhjahr 2023 BS–89Prozessverwaltung Synchrone E/A-Schnittstelle Ein-Ausg abeoperationen
 
    Tags & Topics:
-   #Synchrone
    #Ausg
    #A-Schnittstell
+   #Synchrone
    #Anwendungsprogramm
+
+[Previous: #BS-Folien_219](BS-Folien_219.md)
+
+[Next: #BS-Folien_219](BS-Folien_219.md)

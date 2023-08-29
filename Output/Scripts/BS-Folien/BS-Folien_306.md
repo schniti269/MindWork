@@ -5,8 +5,12 @@ Seite einlagern ;
 Kachelnummer in Seitentabelle eintragen ;
 
    Tags & Topics:
-   #Seitenfehlerunterbrechungsbehandlu
-   #Paging
-   #Kachelnummer
    #Ein-/Auslagerung
    #ein-/auslagerungen
+   #Kachelnummer
+   #Paging
+   #Seitenfehlerunterbrechungsbehandlu
+
+[Previous: #BS-Folien_307](BS-Folien_307.md)
+
+[Next: #BS-Folien_307](BS-Folien_307.md)

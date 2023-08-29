@@ -7,6 +7,10 @@ Betriebssysteme DHBW Mannheim ©Henning Pagnia Version 4.23 Fr¨uhjahr 2023 BS�
    Tags & Topics:
    #ModusProzess
    #Ein-Ausgabeoperation
-   #Warte
-   #Priorit¨atProzess
    #A-Verarbeitung
+   #Priorit¨atProzess
+   #Warte
+
+[Previous: #BS-Folien_208](BS-Folien_208.md)
+
+[Next: #BS-Folien_208](BS-Folien_208.md)

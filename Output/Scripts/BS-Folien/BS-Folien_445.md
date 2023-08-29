@@ -7,3 +7,7 @@ Speicherung von Soft-Links)
    Tags & Topics:
    #Verzeichniseintr
    #Soft
+
+[Previous: #BS-Folien_446](BS-Folien_446.md)
+
+[Next: #BS-Folien_446](BS-Folien_446.md)

@@ -7,3 +7,7 @@ Wichtige Methoden
    Tags & Topics:
    #ServerSocket
    #BindException
+
+[Previous: #AdvIT-Folien_372](AdvIT-Folien_372.md)
+
+[Next: #AdvIT-Folien_372](AdvIT-Folien_372.md)

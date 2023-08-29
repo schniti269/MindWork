@@ -5,8 +5,12 @@ Betriebssysteme DHBW Mannheim ©Henning Pagnia Version 4.23 Fr¨uhjahr 2023 BS�
 ¨Ubergangsfunktionen
 
    Tags & Topics:
-   #•zu
-   #Zustandsmodell
-   #•Es
    #•Zu
+   #•Es
+   #Zustandsmodell
+   #•zu
    #¨Ubergangsfunktion
+
+[Previous: #BS-Folien_93](BS-Folien_93.md)
+
+[Next: #BS-Folien_93](BS-Folien_93.md)

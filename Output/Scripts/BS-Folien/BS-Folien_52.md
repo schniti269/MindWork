@@ -5,12 +5,16 @@ Betriebssysteme DHBW Mannheim ©Henning Pagnia Version 4.23 Fr¨uhjahr 2023 BS�
 schneller Assoziativspeicher
 
    Tags & Topics:
-   #Auslesen
-   #BS–23Einleitung
-   #Befehlsfolge
    #Befehlen
-   #Befehl
    #Assoziativspeicher
-   #⋄Speichern
-   #•Cache
+   #Auslesen
    #Hardware
+   #•Cache
+   #Befehlsfolge
+   #Befehl
+   #⋄Speichern
+   #BS–23Einleitung
+
+[Previous: #BS-Folien_53](BS-Folien_53.md)
+
+[Next: #BS-Folien_53](BS-Folien_53.md)

@@ -5,15 +5,19 @@ Quelle: Kotler 1972
 Quelle: www.deutsche-bank.de4.1. ProductDer Produkbegriff (2/2), Beispiel Deutsche Bank
 
    Tags & Topics:
-   #Banken
-   #Finanzdienstleistungen
-   #Unternehmen
-   #Versicherungen
-   #Image
-   #Unternehmens
-   #Versicherung
-   #Finanzdienstleistung
    #Sympathie
+   #Unternehmen
    #Produktbegriffumfasst
    #Bank
+   #Finanzdienstleistung
+   #Versicherung
    #Darlehen
+   #Versicherungen
+   #Finanzdienstleistungen
+   #Unternehmens
+   #Banken
+   #Image
+
+[Previous: #2022_Marketing_Skript_6](2022_Marketing_Skript_6.md)
+
+[Next: #2022_Marketing_Skript_6](2022_Marketing_Skript_6.md)

@@ -8,3 +8,7 @@ Betriebssysteme DHBW Mannheim ©Henning Pagnia Version 4.23 Fr¨uhjahr 2023 BS�
    #1;C
    #Paging
    #Kachelnummer
+
+[Previous: #BS-Folien_309](BS-Folien_309.md)
+
+[Next: #BS-Folien_309](BS-Folien_309.md)

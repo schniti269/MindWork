@@ -6,10 +6,14 @@ Satz6.13.Rechenregeln für Determinanten. Sei A∈Rn×neine quadratische Matrix.
 
    Tags & Topics:
    #Satz6.13.Rechenregel
-   #Spalte
-   #Vorzeichen
-   #B·C
    #A⊤)6.4
-   #B·detC.
-   #Spalten
    #EIGENVEKTOREN
+   #Vorzeichen
+   #B·detC.
+   #Spalte
+   #B·C
+   #Spalten
+
+[Previous: #Analysis-Lineare_Algebra-230308_719](Analysis-Lineare_Algebra-230308_719.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_719](Analysis-Lineare_Algebra-230308_719.md)

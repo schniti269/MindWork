@@ -5,5 +5,9 @@ printerFree  = false;
 privsem[threadId].release();  // nachher NICHT warten!
 
    Tags & Topics:
-   #privsem[threadId].release
    #ThreadId].release
+   #privsem[threadId].release
+
+[Previous: #AdvIT-Folien_268](AdvIT-Folien_268.md)
+
+[Next: #AdvIT-Folien_268](AdvIT-Folien_268.md)

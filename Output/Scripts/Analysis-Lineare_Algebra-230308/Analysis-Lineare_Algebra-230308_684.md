@@ -5,9 +5,13 @@ Definition 6.6.DerKerneiner linearen Abbildung φ:V→Wist die Menge aller x∈V
 Kern( φ) ={x∈V:φ(x) =0W}
 
    Tags & Topics:
+   #Rang
+   #0WvonWabgebildet
+   #V→Wist
    #v→wist
    #Identitätsmatrix
    #x∈V
-   #V→Wist
-   #0WvonWabgebildet
-   #Rang
+
+[Previous: #Analysis-Lineare_Algebra-230308_685](Analysis-Lineare_Algebra-230308_685.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_685](Analysis-Lineare_Algebra-230308_685.md)

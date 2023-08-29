@@ -6,3 +6,7 @@ g:R\{0} →R, wo die 0aus dem Definitionsbereich ausgenommen werden muss, da man
 
    Tags & Topics:
    #Schreibweise
+
+[Previous: #Analysis-Lineare_Algebra-230308_740](Analysis-Lineare_Algebra-230308_740.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_740](Analysis-Lineare_Algebra-230308_740.md)

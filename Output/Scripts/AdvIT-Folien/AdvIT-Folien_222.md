@@ -5,9 +5,13 @@ Leser-Schreiber-Problem (Forts.)
 L¨osung des Leser-Schreiber-Problems
 
    Tags & Topics:
+   #Leser-Schreiber-Problem
    #Schreiber
    #problem
    #lesen
    #L¨osung
    #Lesen
-   #Leser-Schreiber-Problem
+
+[Previous: #AdvIT-Folien_223](AdvIT-Folien_223.md)
+
+[Next: #AdvIT-Folien_223](AdvIT-Folien_223.md)

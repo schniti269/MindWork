@@ -6,3 +6,7 @@ private Semaphore  w = new Semaphore  (1, true); // mutex for writers
 
    Tags & Topics:
    
+
+[Previous: #AdvIT-Folien_224](AdvIT-Folien_224.md)
+
+[Next: #AdvIT-Folien_224](AdvIT-Folien_224.md)

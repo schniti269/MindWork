@@ -6,7 +6,11 @@ Umsetzung in Java
 
    Tags & Topics:
    #demSocket
-   #senden
    #Senden
    #Umsetzung
    #119/132Server
+   #senden
+
+[Previous: #AdvIT-Folien_369](AdvIT-Folien_369.md)
+
+[Next: #AdvIT-Folien_369](AdvIT-Folien_369.md)

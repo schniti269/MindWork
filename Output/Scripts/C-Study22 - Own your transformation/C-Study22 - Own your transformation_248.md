@@ -6,3 +6,7 @@ to smooth and speed intelligent workflows.
 
    Tags & Topics:
    
+
+[Previous: #C-Study22 - Own your transformation_249](C-Study22 - Own your transformation_249.md)
+
+[Next: #C-Study22 - Own your transformation_249](C-Study22 - Own your transformation_249.md)

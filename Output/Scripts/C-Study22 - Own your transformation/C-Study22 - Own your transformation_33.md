@@ -6,3 +6,7 @@ importance since 2019.
 
    Tags & Topics:
    
+
+[Previous: #C-Study22 - Own your transformation_34](C-Study22 - Own your transformation_34.md)
+
+[Next: #C-Study22 - Own your transformation_34](C-Study22 - Own your transformation_34.md)

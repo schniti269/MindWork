@@ -5,7 +5,11 @@ Betriebssysteme DHBW Mannheim ©Henning Pagnia Version 4.23 Fr¨uhjahr 2023 BS�
 Hardware
 
    Tags & Topics:
-   #Kontrollsystem
-   #A-Kontrollsystem
    #Unterbrechungsbehandlung
    #Peripherieger
+   #Kontrollsystem
+   #A-Kontrollsystem
+
+[Previous: #BS-Folien_382](BS-Folien_382.md)
+
+[Next: #BS-Folien_382](BS-Folien_382.md)

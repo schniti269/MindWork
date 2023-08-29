@@ -5,6 +5,10 @@ Zum Verlauf der Vorlesung
 Hardware-Grundlagen
 
    Tags & Topics:
-   #Themenfeld
    #Hardware
    #4Einleitung
+   #Themenfeld
+
+[Previous: #BS-Folien_70](BS-Folien_70.md)
+
+[Next: #BS-Folien_70](BS-Folien_70.md)

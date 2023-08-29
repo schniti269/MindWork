@@ -8,3 +8,7 @@ Befragung
    #Mischform
    #Mischformen
    #Experiment
+
+[Previous: #2022_Marketing_Skript_49](2022_Marketing_Skript_49.md)
+
+[Next: #2022_Marketing_Skript_49](2022_Marketing_Skript_49.md)

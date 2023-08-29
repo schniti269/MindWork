@@ -5,14 +5,18 @@ pencil -Tests erhoben und die Zusammenhänge mit Korrelations - und
 Regressionsanalysen untersucht. Die Ergebnisse zeigen, dass die außerfachliche 
 
    Tags & Topics:
-   #Regressionsanalyse
-   #Wirkgefüges
+   #Wirkgefüg
+   #Ergebnisse
+   #Modell
+   #Ergebnis
+   #Modells
+   #Zusammenhang
+   #Regressionsanalysen
    #Zusammenhänge
    #Artikel
-   #Zusammenhang
-   #Modell
-   #Modells
-   #Ergebnisse
-   #Wirkgefüg
-   #Regressionsanalysen
-   #Ergebnis
+   #Wirkgefüges
+   #Regressionsanalyse
+
+[Previous: #4 Forschungsstrategien_3](4 Forschungsstrategien_3.md)
+
+[Next: #4 Forschungsstrategien_3](4 Forschungsstrategien_3.md)

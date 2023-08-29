@@ -5,9 +5,13 @@ Nachteile
 ◮Spooling kann selbst Verklemmungen hervorrufen
 
    Tags & Topics:
-   #Nachteil
-   #Gleichzeitigkeit
    #Nachteile
-   #verklemmunger
-   #⇒B1
+   #Nachteil
    #Verklemmungen
+   #⇒B1
+   #Gleichzeitigkeit
+   #verklemmunger
+
+[Previous: #AdvIT-Folien_126](AdvIT-Folien_126.md)
+
+[Next: #AdvIT-Folien_126](AdvIT-Folien_126.md)

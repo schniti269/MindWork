@@ -5,7 +5,11 @@ einen lesenden und/oder schreibenden Speicherzugriff auf ein beliebiges Element 
 Datenspeichers durchführen zu können.
 
    Tags & Topics:
-   #Datenspeicher
    #Oberfläche
    #Datenspeichers
+   #Datenspeicher
    #Speicherzugriff
+
+[Previous: #Einführung-IT-Teil1_6](Einführung-IT-Teil1_6.md)
+
+[Next: #Einführung-IT-Teil1_6](Einführung-IT-Teil1_6.md)

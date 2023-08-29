@@ -8,6 +8,10 @@ Bereitstellung wichtiger Dateioperationen:
    #Blocknummern
    #Blocknummer
    #Dateioperationen
-   #⋄Erzeugung
    #dateioperatione
+   #⋄Erzeugung
    #Verk
+
+[Previous: #BS-Folien_394](BS-Folien_394.md)
+
+[Next: #BS-Folien_394](BS-Folien_394.md)

@@ -6,11 +6,15 @@ die Kosten mit diesem Term dargestellt und zusammengefasst werden:
 
    Tags & Topics:
    #Raumkost
-   #Materialkost
    #Materialkosten
-   #Fertigungskosten
-   #Fertigungskost
+   #Materialkost
    #Stück
    #schiedenemonatlicheKost
+   #Fertigungskosten
    #Raumkosten
+   #Fertigungskost
    #Energiekosten
+
+[Previous: #Analysis-Lineare_Algebra-230308_370](Analysis-Lineare_Algebra-230308_370.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_370](Analysis-Lineare_Algebra-230308_370.md)

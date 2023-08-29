@@ -6,3 +6,7 @@ Abb. 24 Physikalische Dateiverwaltung auf Plattenspeiche rn...Freispeicher-verze
 
    Tags & Topics:
    #Freispeicher
+
+[Previous: #BS-Folien_395](BS-Folien_395.md)
+
+[Next: #BS-Folien_395](BS-Folien_395.md)

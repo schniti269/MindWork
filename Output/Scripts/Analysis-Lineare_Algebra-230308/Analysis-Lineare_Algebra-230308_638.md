@@ -7,3 +7,7 @@ Aufgabe 76. Sind die Vektoren (1,4,1)⊤,(1,5,2)⊤und(1,2,−1)⊤linear unabh�
    Tags & Topics:
    #Newton
    #5.4.
+
+[Previous: #Analysis-Lineare_Algebra-230308_639](Analysis-Lineare_Algebra-230308_639.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_639](Analysis-Lineare_Algebra-230308_639.md)

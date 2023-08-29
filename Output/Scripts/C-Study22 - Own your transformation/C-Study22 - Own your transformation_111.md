@@ -6,3 +6,7 @@ and smart insights, not only are you building
 
    Tags & Topics:
    
+
+[Previous: #C-Study22 - Own your transformation_112](C-Study22 - Own your transformation_112.md)
+
+[Next: #C-Study22 - Own your transformation_112](C-Study22 - Own your transformation_112.md)

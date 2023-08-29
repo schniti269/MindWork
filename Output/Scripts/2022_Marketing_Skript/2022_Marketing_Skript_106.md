@@ -5,9 +5,13 @@ Marktgerichtete akquisitorische Aktivitäten
 Vertriebslogistische Aktivitäten4.4. PlaceBegriffliche Grundlagen
 
    Tags & Topics:
-   #Grundlagen
-   #Gewinnung
-   #Grundlage
-   #Kaufabschlusses§Nachkaufbetreuung
-   #Distanzen§Sicherstellung
    #Verfügbarkeit
+   #Grundlagen
+   #Kaufabschlusses§Nachkaufbetreuung
+   #Grundlage
+   #Distanzen§Sicherstellung
+   #Gewinnung
+
+[Previous: #2022_Marketing_Skript_107](2022_Marketing_Skript_107.md)
+
+[Next: #2022_Marketing_Skript_107](2022_Marketing_Skript_107.md)

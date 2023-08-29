@@ -5,8 +5,12 @@ B A
 BCRoot directory
 
    Tags & Topics:
-   #Zyklen
    #Zyklus
+   #⋄frage
+   #Zyklen
    #Was
    #⋄Frage
-   #⋄frage
+
+[Previous: #BS-Folien_436](BS-Folien_436.md)
+
+[Next: #BS-Folien_436](BS-Folien_436.md)

@@ -6,7 +6,11 @@ Terme können auch mit mehreren Variablen aufgestellt werden und entsprechend um
 
    Tags & Topics:
    #Gleichungen
-   #Rest
    #Ungleichungen
+   #Rest
    #Gleichung
    #Ungleichung
+
+[Previous: #Analysis-Lineare_Algebra-230308_480](Analysis-Lineare_Algebra-230308_480.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_480](Analysis-Lineare_Algebra-230308_480.md)

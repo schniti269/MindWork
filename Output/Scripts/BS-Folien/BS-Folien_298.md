@@ -5,9 +5,13 @@ Wie ﬁnde ich ein Speicherwort?
 •Interpretation einer vom ¨Ubersetzer erzeugten virtuellen Adresse (wird von der Hardw are erledigt):
 
    Tags & Topics:
-   #Paging
-   #Hauptspeichers
    #Hauptspeicher
-   #Einteilung
+   #Hauptspeichers
    #•interpretation
+   #Einteilung
+   #Paging
    #•Interpretation
+
+[Previous: #BS-Folien_299](BS-Folien_299.md)
+
+[Next: #BS-Folien_299](BS-Folien_299.md)

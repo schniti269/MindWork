@@ -2,5 +2,9 @@ und Fachwissen erfasst und in Zukunft für weitere Forschungsziele bezüglich de
 Expertenwissens von Biologielehrkräften eingesetzt werden kann.  
 
    Tags & Topics:
-   #Expertenwissens
    #Fachwissen
+   #Expertenwissens
+
+[Previous: #4 Forschungsstrategien_24](4 Forschungsstrategien_24.md)
+
+[Next: #4 Forschungsstrategien_24](4 Forschungsstrategien_24.md)

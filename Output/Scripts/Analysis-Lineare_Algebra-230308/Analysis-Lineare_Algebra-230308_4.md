@@ -5,14 +5,18 @@
 2.5. Aufgaben 37
 
    Tags & Topics:
-   #Folge
    #Aufgabe
+   #Folge
+   #2.1.
    #Potenzreihen
-   #Folgen
-   #Reihen
    #Potenzreihe
-   #Konvergenz
    #Aufgaben
    #Reihe
-   #2.1.
+   #Reihen
    #2.2.
+   #Konvergenz
+   #Folgen
+
+[Previous: #Analysis-Lineare_Algebra-230308_40](Analysis-Lineare_Algebra-230308_40.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_40](Analysis-Lineare_Algebra-230308_40.md)

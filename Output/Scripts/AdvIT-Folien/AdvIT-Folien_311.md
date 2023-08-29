@@ -6,5 +6,9 @@ ist im Internet durch IPrealisiert
 
    Tags & Topics:
    #Vermittlungsschicht
-   #Ende-zu-Ende-Kommunikation
    #Routing
+   #Ende-zu-Ende-Kommunikation
+
+[Previous: #AdvIT-Folien_312](AdvIT-Folien_312.md)
+
+[Next: #AdvIT-Folien_312](AdvIT-Folien_312.md)

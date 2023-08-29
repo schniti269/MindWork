@@ -7,3 +7,7 @@ Beispiel 3.17.Die Funktion g(x1, x2) =x2
    Tags & Topics:
    #DieseDefinitionnimmtdenBegriffdesVektorsvorweg
    #Ableitung
+
+[Previous: #Analysis-Lineare_Algebra-230308_371](Analysis-Lineare_Algebra-230308_371.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_371](Analysis-Lineare_Algebra-230308_371.md)

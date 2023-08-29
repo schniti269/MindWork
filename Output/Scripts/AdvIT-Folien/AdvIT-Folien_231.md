@@ -6,3 +6,7 @@ Semaphor w
 
    Tags & Topics:
    
+
+[Previous: #AdvIT-Folien_232](AdvIT-Folien_232.md)
+
+[Next: #AdvIT-Folien_232](AdvIT-Folien_232.md)

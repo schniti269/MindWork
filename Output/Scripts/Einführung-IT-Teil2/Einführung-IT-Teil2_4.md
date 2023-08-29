@@ -5,8 +5,12 @@ darzustellen oder zu übertragen.
 Oktalsystem zur Anwendung.Zahlensysteme
 
    Tags & Topics:
-   #Oktalsystem
-   #Zahlensysteme
    #Zahlensystem
    #Hexadezimalsystem
    #Binärsystem
+   #Oktalsystem
+   #Zahlensysteme
+
+[Previous: #Einführung-IT-Teil2_40](Einführung-IT-Teil2_40.md)
+
+[Next: #Einführung-IT-Teil2_40](Einführung-IT-Teil2_40.md)

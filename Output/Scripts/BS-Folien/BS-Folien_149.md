@@ -6,3 +6,7 @@ Gegenseitiger Ausschluss auf einer Mehrprozessormaschin e
 
    Tags & Topics:
    
+
+[Previous: #BS-Folien_15](BS-Folien_15.md)
+
+[Next: #BS-Folien_15](BS-Folien_15.md)

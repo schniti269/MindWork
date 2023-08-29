@@ -5,8 +5,12 @@ Preis pMarktanteil in %
 121Allgemein:Flacher mittlerer Teil (monopolistischer Bereich) und zwei steile RandbereicheBeispiel:87 –5 pfür0 £p £8x(p) =  51 –1/2pfür8 £p £14100 –4pfür14 £p £25
 
    Tags & Topics:
-   #Flacher
    #Funktion
-   #Bereich
-   #120Preis
    #PriceGutenberg
+   #Bereich
+   #Flacher
+   #120Preis
+
+[Previous: #2022_Marketing_Skript_88](2022_Marketing_Skript_88.md)
+
+[Next: #2022_Marketing_Skript_88](2022_Marketing_Skript_88.md)

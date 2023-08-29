@@ -5,6 +5,10 @@
 Betriebssysteme DHBW Mannheim ©Henning Pagnia Version 4.23 Fr¨uhjahr 2023 BS–191Dateisysteme NTFS Fallbeispiele
 
    Tags & Topics:
-   #Zeitstempel
-   #MFT-Eintr
    #Plattenblockadressen*einRun(aufeinanderfolgende
+   #MFT-Eintr
+   #Zeitstempel
+
+[Previous: #BS-Folien_477](BS-Folien_477.md)
+
+[Next: #BS-Folien_477](BS-Folien_477.md)

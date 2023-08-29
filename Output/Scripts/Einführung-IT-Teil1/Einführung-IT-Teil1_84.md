@@ -5,11 +5,15 @@ Informatik Fachzeitschriften/2
 seit 1969 die Interessen der Informatikerinnen und Informatiker in Wissenschaft, 
 
    Tags & Topics:
-   #•magazine
-   #Informatiker
-   #Fachgesellschaft
-   #Gesellschft
-   #Interessen
-   #Informatikerinn
    #Interesse
    #Informatikerinnen
+   #Informatikerinn
+   #Interessen
+   #•magazine
+   #Fachgesellschaft
+   #Gesellschft
+   #Informatiker
+
+[Previous: #Einführung-IT-Teil1_85](Einführung-IT-Teil1_85.md)
+
+[Next: #Einführung-IT-Teil1_85](Einführung-IT-Teil1_85.md)

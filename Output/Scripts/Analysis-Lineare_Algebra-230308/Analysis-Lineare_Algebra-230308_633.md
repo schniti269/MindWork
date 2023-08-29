@@ -5,5 +5,9 @@ k ykrel. Fehler
 0 0.75 6.0660%
 
    Tags & Topics:
-   #0.0047
    #Newton
+   #0.0047
+
+[Previous: #Analysis-Lineare_Algebra-230308_634](Analysis-Lineare_Algebra-230308_634.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_634](Analysis-Lineare_Algebra-230308_634.md)

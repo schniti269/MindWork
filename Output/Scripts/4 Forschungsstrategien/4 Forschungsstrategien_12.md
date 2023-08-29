@@ -5,10 +5,14 @@ theoretischer Rahmen dafür ist das Modell der  Didaktischen Rekonstruktion. Dar
 werden Schülervorstellungen zu  einem Thema mit den entsprechenden  fachlichen 
 
    Tags & Topics:
-   #Schüler
    #Schülervorstellungen
-   #Lernvoraussetzung
+   #Schüler
    #Schülervorstellung
+   #Rekonstruktion
+   #Lernvoraussetzung
    #Vorstellung
    #Vorstellungen
-   #Rekonstruktion
+
+[Previous: #4 Forschungsstrategien_13](4 Forschungsstrategien_13.md)
+
+[Next: #4 Forschungsstrategien_13](4 Forschungsstrategien_13.md)

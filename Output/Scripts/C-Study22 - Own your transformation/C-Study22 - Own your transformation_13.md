@@ -6,3 +6,7 @@ Another day, another crisis.
 
    Tags & Topics:
    #Another
+
+[Previous: #C-Study22 - Own your transformation_130](C-Study22 - Own your transformation_130.md)
+
+[Next: #C-Study22 - Own your transformation_130](C-Study22 - Own your transformation_130.md)

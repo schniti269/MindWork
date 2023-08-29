@@ -8,3 +8,7 @@ Wirkungsweise der Operationen
    #Objekt
    #Komponente
    #Komponenten
+
+[Previous: #AdvIT-Folien_17](AdvIT-Folien_17.md)
+
+[Next: #AdvIT-Folien_17](AdvIT-Folien_17.md)

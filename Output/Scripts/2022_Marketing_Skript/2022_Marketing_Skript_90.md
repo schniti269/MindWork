@@ -5,32 +5,36 @@ Die verhaltenswissenschaftliche Preistheorie untersucht, wie Kunden Preise tats�
 4.2. PricePhasen und wichtige Konzepte der verhaltenswissenschaftlichen Preisforschung
 
    Tags & Topics:
-   #Preisersparnissen
-   #MultiplikativePAF
-   #Phänomen
-   #Shortcuts
-   #Faktoren
-   #Beispiel
-   #Preisersparnisse
-   #∗(#$+𝑘)Bedingung
-   #Beispiele
-   #Wert
-   #k[x(p
-   #Bedingung
-   #Preisunterschiede
-   #Stückkost
-   #Fairness
-   #Preisforschung
-   #Gewinnfunktion
-   #-K[x(p
-   #Koschate2005Abgrenzung
-   #Transaktion
-   #Konzepte
    #Geldes).4.2
-   #Faktor
    #∗(#$+𝑘)bedingung
-   #Herleitung
+   #Wert
+   #Gewinnfunktion
+   #Beispiele
+   #MultiplikativePAF
+   #k[x(p
    #Geldes).4.2.
-   #124Ermittlung
-   #Konzept
+   #Transaktion
+   #Preisforschung
    #Stückkosten
+   #Koschate2005Abgrenzung
+   #Konzepte
+   #Preisunterschiede
+   #Herleitung
+   #Preisersparnisse
+   #Bedingung
+   #Fairness
+   #124Ermittlung
+   #Stückkost
+   #Faktoren
+   #Faktor
+   #Preisersparnissen
+   #Beispiel
+   #Phänomen
+   #-K[x(p
+   #Shortcuts
+   #Konzept
+   #∗(#$+𝑘)Bedingung
+
+[Previous: #2022_Marketing_Skript_91](2022_Marketing_Skript_91.md)
+
+[Next: #2022_Marketing_Skript_91](2022_Marketing_Skript_91.md)

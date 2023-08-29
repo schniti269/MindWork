@@ -5,5 +5,9 @@ zeitscheibenbasiertes Scheduling
 FRAGE: Welchen Unterschied macht das?
 
    Tags & Topics:
-   #Scheduling
    #FRAGE
+   #Scheduling
+
+[Previous: #AdvIT-Folien_98](AdvIT-Folien_98.md)
+
+[Next: #AdvIT-Folien_98](AdvIT-Folien_98.md)

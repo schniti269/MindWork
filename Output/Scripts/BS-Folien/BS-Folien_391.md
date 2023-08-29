@@ -5,6 +5,10 @@ Speicherorganisation auf externen Datentr ¨agern.
 Verwaltung der Dateien durch Datei-Deskriptoren.
 
    Tags & Topics:
-   #⋄Zuordnung
-   #Speicherorganisation
    #Deskriptoren
+   #Speicherorganisation
+   #⋄Zuordnung
+
+[Previous: #BS-Folien_392](BS-Folien_392.md)
+
+[Next: #BS-Folien_392](BS-Folien_392.md)

@@ -1,3 +1,6 @@
-# ## #Inclusiveness 
+### Inclusiveness
 
- - make it work for #everyone 
+- make it work for everyone
+
+   Tags & Topics:
+   #inclusiveness

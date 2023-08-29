@@ -5,6 +5,10 @@ Differenzial- und Integralrechnung lösen können.
 DerSinus hyperbolicus sinh(x) =1
 
    Tags & Topics:
+   #Hyperbelfunktion
    #Hyperbelfunktionen
    #Differenzial-
-   #Hyperbelfunktion
+
+[Previous: #Analysis-Lineare_Algebra-230308_141](Analysis-Lineare_Algebra-230308_141.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_141](Analysis-Lineare_Algebra-230308_141.md)

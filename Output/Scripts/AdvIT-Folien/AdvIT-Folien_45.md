@@ -5,9 +5,13 @@ Struktur
 Vorteil des Modells: vereinfachtes Denken auch ¨uber komplexe Systemabl ¨aufe
 
    Tags & Topics:
-   #Idle
-   #denken
-   #Modell
    #Struktur
-   #Systemabl
+   #Modell
    #Denken
+   #denken
+   #Idle
+   #Systemabl
+
+[Previous: #AdvIT-Folien_46](AdvIT-Folien_46.md)
+
+[Next: #AdvIT-Folien_46](AdvIT-Folien_46.md)

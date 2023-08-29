@@ -9,3 +9,7 @@ Eine grundlegende Eigenschaft von stetig differenzierbaren Funktionen zeigt der 
    #Ableitung
    #dxanx0bzw.istdieAbleitung
    #faufI
+
+[Previous: #Analysis-Lineare_Algebra-230308_325](Analysis-Lineare_Algebra-230308_325.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_325](Analysis-Lineare_Algebra-230308_325.md)

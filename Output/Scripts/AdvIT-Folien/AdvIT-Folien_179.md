@@ -6,6 +6,10 @@ oder
 
    Tags & Topics:
    #System.err.println(e
-   #Fehlerausgabe
    #Text
    #Standard
+   #Fehlerausgabe
+
+[Previous: #AdvIT-Folien_18](AdvIT-Folien_18.md)
+
+[Next: #AdvIT-Folien_18](AdvIT-Folien_18.md)

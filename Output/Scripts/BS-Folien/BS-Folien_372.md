@@ -5,5 +5,9 @@ Die Daten m ¨ussen von mehreren Prozessen aus zu bearbeiten sein, oft soga r gl
 Daten d¨urfen nicht immer von ’fremden’ Prozessen aus sichtbar oder v er¨anderbar sein.
 
    Tags & Topics:
-   #Datenmenge
    #Datenmengen
+   #Datenmenge
+
+[Previous: #BS-Folien_373](BS-Folien_373.md)
+
+[Next: #BS-Folien_373](BS-Folien_373.md)

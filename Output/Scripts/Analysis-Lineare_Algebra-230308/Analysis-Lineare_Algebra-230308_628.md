@@ -6,3 +6,7 @@ Da nun δin der Regel einen Wert zwischen 0und1besitzt, wird die Approximation i
 
    Tags & Topics:
    #floatToIntBits
+
+[Previous: #Analysis-Lineare_Algebra-230308_629](Analysis-Lineare_Algebra-230308_629.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_629](Analysis-Lineare_Algebra-230308_629.md)

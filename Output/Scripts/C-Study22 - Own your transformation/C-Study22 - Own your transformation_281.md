@@ -6,3 +6,7 @@ leaders-can-prepare-for-the-next-big-disruption
 
    Tags & Topics:
    #Gartner
+
+[Previous: #C-Study22 - Own your transformation_282](C-Study22 - Own your transformation_282.md)
+
+[Next: #C-Study22 - Own your transformation_282](C-Study22 - Own your transformation_282.md)

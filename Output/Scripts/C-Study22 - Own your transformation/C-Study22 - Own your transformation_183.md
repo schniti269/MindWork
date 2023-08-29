@@ -6,3 +6,7 @@ management will be a key driver of success for more than half of organizations.2
 
    Tags & Topics:
    
+
+[Previous: #C-Study22 - Own your transformation_184](C-Study22 - Own your transformation_184.md)
+
+[Next: #C-Study22 - Own your transformation_184](C-Study22 - Own your transformation_184.md)

@@ -6,6 +6,10 @@ runningProcess.state = Pcb.INACTIVE;inactiveQueue.put ( runningProcess );
 
    Tags & Topics:
    #2//Dispatcher
-   #Dispatcher-Operation
-   #INACTIVE;inactiveQueue.put
    #READY;readyQueue.put
+   #INACTIVE;inactiveQueue.put
+   #Dispatcher-Operation
+
+[Previous: #BS-Folien_16](BS-Folien_16.md)
+
+[Next: #BS-Folien_16](BS-Folien_16.md)

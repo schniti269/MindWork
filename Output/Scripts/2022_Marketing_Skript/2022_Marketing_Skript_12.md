@@ -5,31 +5,35 @@ VerkaufsförderungTV-SpotsPrintanzeigenPromotion:Kommunikations-politik
 1.2. Einführung Marketing-MixBeispielhafte Themen in der VertriebspolitikBeispiel Hugo Boss§Gestaltung des VertriebssystemsÜber welche Kanäle soll das Produkt vertrieben werden?z. B. Mehrkanalvertrieb§Gestaltung der Beziehungen zu VertriebspartnernWelche Kunden werden als Key Accounts betrachtet?z. B. intensive Kontaktpflege der größten / wichtigsten Kunden eines Unternehmen (oftmals Vorstandsaufgabe)Place:Vertriebs-politikRetail StoresShop-in-ShopOnline ShoppingMobile App
 
    Tags & Topics:
-   #politikRetail
-   #Einsatz
-   #Kontaktpflege
-   #Budget
-   #Vorstandsaufgabe
-   #Beziehung
-   #Kommunikationsinstrument
-   #Themen
-   #Accounts
-   #Beziehungen
-   #Höhe
-   #vorstandsaufgabe)place
-   #ShoppingMobile
-   #Verteilung
-   #Thema
-   #Vertriebs
-   #VertriebssystemsÜber
-   #Kanal
    #MixBeispielhafte
-   #Limo
-   #Kanäle
-   #Budgets
-   #Account
+   #Budget
+   #Einsatz
    #Kommunikationsinstrumente
-   #spotsprintanzeigenpromotion
    #VerkaufsförderungTV-SpotsPrintanzeigenPromotion
+   #Höhe
+   #Budgets
+   #Beziehung
+   #Limo
+   #Kanal
+   #Vorstandsaufgabe
+   #Thema
    #StoresShop
+   #Kanäle
+   #Vertriebs
+   #Themen
+   #Kontaktpflege
+   #politikRetail
+   #VertriebssystemsÜber
+   #Account
+   #Accounts
    #kommunikation
+   #ShoppingMobile
+   #vorstandsaufgabe)place
+   #Beziehungen
+   #Verteilung
+   #spotsprintanzeigenpromotion
+   #Kommunikationsinstrument
+
+[Previous: #2022_Marketing_Skript_13](2022_Marketing_Skript_13.md)
+
+[Next: #2022_Marketing_Skript_13](2022_Marketing_Skript_13.md)

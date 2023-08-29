@@ -1,46 +1,62 @@
-# ## #Keywords 
+### Keywords
 
- - Try und Catch 
+- Try und Catch
 
-	 - Try 
+	- Try
 
-		 - #Code under #Inspektion 
-		 - #Code that might Throw #exception 
-		 - #Semantik neighbours 
+		- Code under Inspektion
+		- Code that might Throw exception
+		- Semantik neighbours
 
-	 - #Catch 
+	- Catch
 
-		 - #Aufruf #Exception 
+		- Aufruf Exception
 
-			 - #e 
+			- e
 
-		 - #Verpflichtend 
-		 - #E.getMessage ( ) 
-		 - #Stacktrace 
-		 - #Besonderheit 
+		- Verpflichtend
+		- E.getMessage()
+		- Stacktrace
+		- Besonderheit
 
-			 - #Methode #die #mehrere #Ausnahmen werfen #kann 
-			 - Eigene #Catchblöcke 
+			- Methode die mehrere Ausnahmen werfen kann
+			- Eigene Catchblöcke
 
-				 - #Instance of 
-				 - #Ziel : 
- so #spezifisch wie möglich abfangen 
-				 - 
+				- Instance of
+				- Ziel:
+so spezifisch wie möglich abfangen
+				- 
 
-	 - #Finally 
+	- Finally
 
-		 - #Immer ausgeführt 
-		 - #Unabhängig von #Methode 
+		- Immer ausgeführt
+		- Unabhängig von Methode
 
- - Throw 
+- Throw
 
-	 - #Throws 
+	- Throws
 
-		 - Exceptionklasse aufführen an #Methode 
-		 - #Zwingt #Methode die #Exception #zu behandeln 
+		- Exceptionklasse aufführen an Methode
+		- Zwingt Methode die Exception zu behandeln
 
-	 - #Throw 
+	- Throw
 
-		 - An #aufrufer geben 
-		 - #Werfen = #jemand muss fangen ( #spätestens #Main ) 
-		 - #Abarbeiten , #kaskadierend nach #oben 
+		- An aufrufer geben
+		- Werfen = jemand muss fangen ( spätestens Main) 
+		- Abarbeiten, kaskadierend nach oben
+
+   Tags & Topics:
+   #Aufruf
+   #Methode
+   #Abarbeiten
+   #Exceptionklas
+   #Ausnahme
+   #keyword
+   #ausgeführt
+   #Keywords
+   #Werfen
+   #Catchblöcke
+   #Werfe
+   #E.getMessage
+   #Abarbeit
+   #Semantik

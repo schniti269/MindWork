@@ -5,13 +5,17 @@ EEPROM . Im Gegensatz zu gewöhnlichem EEPROM -Speicher lassen sich hier Bytes n
 löschen oder überschreiben. Flash -Speicher sind langsamer als Festwertspeicher (ROM).
 
    Tags & Topics:
+   #•Kapazität
+   #-Speicher
+   #Speicher
+   #Speichertyp
+   #Byte
    #Speichertyps
    #Speicherbaustein
    #Festwertspeicher
-   #•Kapazität
-   #Byte
-   #Speicher
-   #Speichertyp
    #Speicherbausteine
-   #-Speicher
    #Bytes
+
+[Previous: #Einführung-IT-Teil1_61](Einführung-IT-Teil1_61.md)
+
+[Next: #Einführung-IT-Teil1_61](Einführung-IT-Teil1_61.md)

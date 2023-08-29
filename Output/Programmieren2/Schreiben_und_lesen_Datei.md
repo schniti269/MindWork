@@ -1,34 +1,42 @@
-# ## #Schreiben und lesen #Datei 
- ( #klausurrelavant #weil #Exception #handling ) 
+### Schreiben und lesen Datei
+(klausurrelavant weil Exception handling)
 
- - #Writer 
+- Writer
 
-	 - .write 
+	- .write
 
-		 - möchte #string 
-		 - #schreibt alles #hintereinader weg 
+		- möchte string
+		- schreibt alles hintereinader weg
 
-			 - #\n 
-			 - #lineseperator 
+			- \n
+			- lineseperator
 
-	 - #mögliche #fehler 
+	- mögliche fehler
 
-		 - #Schreiben 
-		 - lesen 
-		 - #sonstige 
+		- Schreiben
+		- lesen
+		- sonstige
 
-	 - #blockiert #solange datei #wie #wir sie #benutzen 
+	- blockiert solange datei wie wir sie benutzen
 
- - #Reader 
+- Reader
 
-	 - #File #reader 
+	- File reader
 
-		 - #mögliche #fhler 
+		- mögliche fhler
 
-			 - #io #exception 
+			- io exception
 
-		 - Cloasable #interface #für try with #ressource 
+		- Cloasable interface für try with ressource
 
-			 - #damit #man das #verschachtelte finally #nicht notwendig tist 
+			- damit man das verschachtelte finally nicht notwendig tist
 
-		 - Schleife zum lesen 
+		- Schleife zum lesen
+
+   Tags & Topics:
+   #Read
+   #Reader
+   #Writer
+   #schreiben
+   #Schleife
+   #Schreiben

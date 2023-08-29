@@ -5,5 +5,9 @@ ISBN 978-3658305468.
 [Sta17] William Stallings: Operating Systems: Internals and Design Principles . Pearson, 9. Auflage, 2017.
 
    Tags & Topics:
-   #Auflage
    #Sta17
+   #Auflage
+
+[Previous: #BS-Folien_110](BS-Folien_110.md)
+
+[Next: #BS-Folien_110](BS-Folien_110.md)

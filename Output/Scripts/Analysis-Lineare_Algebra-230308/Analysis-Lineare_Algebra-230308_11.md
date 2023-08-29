@@ -5,6 +5,10 @@ Menge Aist, und die Zahl 7kein Element der Menge Aist. In mathematischer Notatio
 man das so: 9∈A,7̸∈A.
 
    Tags & Topics:
-   #a={1,9,4,12
    #Rolle
+   #a={1,9,4,12
    #A={1,9,4,12
+
+[Previous: #Analysis-Lineare_Algebra-230308_110](Analysis-Lineare_Algebra-230308_110.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_110](Analysis-Lineare_Algebra-230308_110.md)

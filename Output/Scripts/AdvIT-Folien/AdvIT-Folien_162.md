@@ -5,9 +5,13 @@ Maschinenbefehle, z.B.
 Schreiben eines Speicherwortes auf den Wert 1 werden atomardurchgef¨uhrt
 
    Tags & Topics:
-   #Mikroprozessoren
    #Mikroprozessor
-   #Maschinenbefehle
-   #Lesen
-   #Speicherwort
    #Hardware
+   #Speicherwort
+   #Maschinenbefehle
+   #Mikroprozessoren
+   #Lesen
+
+[Previous: #AdvIT-Folien_163](AdvIT-Folien_163.md)
+
+[Next: #AdvIT-Folien_163](AdvIT-Folien_163.md)

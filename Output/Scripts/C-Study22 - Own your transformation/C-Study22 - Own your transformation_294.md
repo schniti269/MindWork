@@ -6,3 +6,7 @@ Celonis. April 2022. https://ibm.co/digital-supply-chain
 
    Tags & Topics:
    #April
+
+[Previous: #C-Study22 - Own your transformation_295](C-Study22 - Own your transformation_295.md)
+
+[Next: #C-Study22 - Own your transformation_295](C-Study22 - Own your transformation_295.md)

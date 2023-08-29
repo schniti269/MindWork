@@ -1,18 +1,21 @@
-# ## #hashCode ( ) 
+### hashCode()
 
- - surjektive #funktion 
- - #bitverknüpung durch #^ 
+- surjektive funktion
+- bitverknüpung durch ^
 
-	 - bei long 
-	 - ( #int)(field>>>32 ) #^(int)(field & #0xFFFFFFFF 
+	- bei long
+	- (int)(field>>>32) ^(int)(field &0xFFFFFFFF
 
-		 - > #> #> bitshift 
+		- >>> bitshift
 
- - #field==null ? 0 : #field.hashCode ( ) 
- - #hash #start 
+- field==null ? 0: field.hashCode()
+- hash start
 
-	 - #jede #klasse #anders 
+	- jede klasse anders
 
- - #hash #multiplyer 
+- hash multiplyer
 
-	 - #primzahl die #den #hash #start multipliziert 
+	- primzahl die den hash start multipliziert
+
+   Tags & Topics:
+   #bitverknüpung

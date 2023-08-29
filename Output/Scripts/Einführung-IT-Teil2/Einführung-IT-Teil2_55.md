@@ -5,7 +5,11 @@ Die Aufgabe 13 −11 = 2 soll in binärer Arithmetik gelöst werden:
 1101
 
    Tags & Topics:
-   #Binärziffer
-   #•0−0
    #1−0
+   #•0−0
+   #Binärziffer
    #Binärziffern
+
+[Previous: #Einführung-IT-Teil2_56](Einführung-IT-Teil2_56.md)
+
+[Next: #Einführung-IT-Teil2_56](Einführung-IT-Teil2_56.md)

@@ -5,8 +5,12 @@ Waiting for child to exit
 Waiting for terminal output
 
    Tags & Topics:
-   #BSD
-   #User-Mode-Priorit
-   #Anpassung
-   #Mode
    #BS–84Prozessverwaltung
+   #Mode
+   #Anpassung
+   #User-Mode-Priorit
+   #BSD
+
+[Previous: #BS-Folien_206](BS-Folien_206.md)
+
+[Next: #BS-Folien_206](BS-Folien_206.md)

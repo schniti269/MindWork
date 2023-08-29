@@ -6,3 +6,7 @@ Wichtige Methoden
 
    Tags & Topics:
    #SocketException
+
+[Previous: #AdvIT-Folien_379](AdvIT-Folien_379.md)
+
+[Next: #AdvIT-Folien_379](AdvIT-Folien_379.md)

@@ -5,9 +5,13 @@ geh¨origen Prozess.
 DieZeitanteilezurAusf ¨uhrungderschedule -OperationgehendenAnwendungsprogrammenverloren.
 
    Tags & Topics:
-   #Echtzeitvorga
-   #•antwortzeit
-   #Prozessorzuteilung
    #Scheduling-Verfahren
    #Verfahrens
+   #Echtzeitvorga
    #•Antwortzeit
+   #Prozessorzuteilung
+   #•antwortzeit
+
+[Previous: #BS-Folien_175](BS-Folien_175.md)
+
+[Next: #BS-Folien_175](BS-Folien_175.md)

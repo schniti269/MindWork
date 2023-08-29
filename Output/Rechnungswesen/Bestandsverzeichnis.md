@@ -1,16 +1,30 @@
-# ## Bestandsverzeichnis #
+### Bestandsverzeichnis
 
- - #Vermögen 
+- Vermögen
 
-	 - I #Anlage 
-	 - #II #Umlauf #
+	- I Anlage
+	- II Umlauf
 
- - #Schulden #
+- Schulden
 
-	 - Hypotheken #
-	 - #Darlen #
-	 - #Verbindlichkeiten #
+	- Hypotheken
+	- Darlen
+	- Verbindlichkeiten
 
- - #Ermittlung #EK #
+- Ermittlung EK
 
-	 - #Vermögen - #Schulden 
+	- Vermögen - Schulden
+
+   Tags & Topics:
+   #Verbindlichkeit
+   #Umlauf
+   #Verbindlichkeiten
+   #Vermög
+   #Vermögen
+   #Bestandsverzeichnis
+   #Ermittlung
+   #Schuld
+   #Anlage
+   #Darlen
+   #Hypothek
+   #Schulden

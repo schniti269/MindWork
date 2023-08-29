@@ -6,3 +6,7 @@ Wichtige Methoden
 
    Tags & Topics:
    
+
+[Previous: #AdvIT-Folien_354](AdvIT-Folien_354.md)
+
+[Next: #AdvIT-Folien_354](AdvIT-Folien_354.md)

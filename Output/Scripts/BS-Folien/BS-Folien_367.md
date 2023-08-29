@@ -5,6 +5,10 @@ p = Bruchteil der Seiten im Hauptspeicher
 ⋄W¨unschenswert: (eingeschr ¨ankte)Aufhebung der Benutzertransparenz!
 
    Tags & Topics:
-   #Bruchteil
    #dieSeitenfehlerausl¨osen
    #Benutzertransparenz
+   #Bruchteil
+
+[Previous: #BS-Folien_368](BS-Folien_368.md)
+
+[Next: #BS-Folien_368](BS-Folien_368.md)

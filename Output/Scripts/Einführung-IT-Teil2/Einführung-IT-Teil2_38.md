@@ -6,3 +6,7 @@
 
    Tags & Topics:
    #abspaltenUmwandlung
+
+[Previous: #Einführung-IT-Teil2_39](Einführung-IT-Teil2_39.md)
+
+[Next: #Einführung-IT-Teil2_39](Einführung-IT-Teil2_39.md)

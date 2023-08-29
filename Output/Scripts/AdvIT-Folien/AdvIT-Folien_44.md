@@ -6,3 +6,7 @@ Prozesszustandsmodell (f ¨ur ein Einprozessorsystem)
 
    Tags & Topics:
    #Nebenl¨auﬁgkeit
+
+[Previous: #AdvIT-Folien_45](AdvIT-Folien_45.md)
+
+[Next: #AdvIT-Folien_45](AdvIT-Folien_45.md)

@@ -6,6 +6,10 @@ public  ServerSocket  (int port)
 
    Tags & Topics:
    #ServerSocket
-   #Server-Programmierung
-   #Konstruktoren
    #120/132Server
+   #Konstruktoren
+   #Server-Programmierung
+
+[Previous: #AdvIT-Folien_371](AdvIT-Folien_371.md)
+
+[Next: #AdvIT-Folien_371](AdvIT-Folien_371.md)

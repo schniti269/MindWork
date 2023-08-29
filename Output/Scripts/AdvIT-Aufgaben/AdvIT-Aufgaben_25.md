@@ -5,7 +5,11 @@ In dieser Aufgabe soll ein einfacher File-Server f ¨ur Textdateien entwickelt w
 Vereinfachend gehen wir davon aus, dass dem Server ein feste s Basisverzeichnis zugeordnet ist, in dem
 
    Tags & Topics:
-   #File-Server
-   #Basisverzeichnis
-   #File
    #Textdateien
+   #Basisverzeichnis
+   #File-Server
+   #File
+
+[Previous: #AdvIT-Aufgaben_26](AdvIT-Aufgaben_26.md)
+
+[Next: #AdvIT-Aufgaben_26](AdvIT-Aufgaben_26.md)

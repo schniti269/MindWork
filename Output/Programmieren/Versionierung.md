@@ -1,16 +1,26 @@
-# ## Versionierung 
+### Versionierung
 
- - #Git 
+- Git
 
-	 - #Repository 
+	- Repository
 
-		 - #Push 
+		- Push
 
-			 - #Stage 
-			 - #Commit 
+			- Stage
+			- Commit
 
-		 - #Pull 
-		 - #Branch 
-		 - #Fork 
+		- Pull
+		- Branch
+		- Fork
 
-	 - #Ssh key 
+	- Ssh key
+
+   Tags & Topics:
+   #Push
+   #Repository
+   #Commit
+   #Stage
+   #Ssh
+   #Versionierung
+   #Branch
+   #stage

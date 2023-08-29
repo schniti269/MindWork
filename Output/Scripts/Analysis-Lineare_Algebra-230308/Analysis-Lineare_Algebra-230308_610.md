@@ -6,3 +6,7 @@ Jeweils mit dem Startwert y0= 1ergeben sich die folgenden Näherungen für a1= 2
 
    Tags & Topics:
    
+
+[Previous: #Analysis-Lineare_Algebra-230308_611](Analysis-Lineare_Algebra-230308_611.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_611](Analysis-Lineare_Algebra-230308_611.md)

@@ -6,6 +6,10 @@ Control Block , PCB) repr ¨asentiert.
 
    Tags & Topics:
    #⋄Auswahl
-   #Prozessleitblock
    #BS–42Prozessverwaltung
    #Prozesskontrollblock
+   #Prozessleitblock
+
+[Previous: #BS-Folien_101](BS-Folien_101.md)
+
+[Next: #BS-Folien_101](BS-Folien_101.md)

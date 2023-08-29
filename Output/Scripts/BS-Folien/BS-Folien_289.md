@@ -9,3 +9,7 @@ Grundlagen
    #⋄Beizuf¨alligerVerteilung
    #Fit
    #Speicherplatz
+
+[Previous: #BS-Folien_29](BS-Folien_29.md)
+
+[Next: #BS-Folien_29](BS-Folien_29.md)

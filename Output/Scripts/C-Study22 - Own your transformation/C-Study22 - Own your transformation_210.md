@@ -6,3 +6,7 @@ linked to each company’s system, while safeguarding
 
    Tags & Topics:
    
+
+[Previous: #C-Study22 - Own your transformation_211](C-Study22 - Own your transformation_211.md)
+
+[Next: #C-Study22 - Own your transformation_211](C-Study22 - Own your transformation_211.md)

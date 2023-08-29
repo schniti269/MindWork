@@ -1,22 +1,32 @@
-# ## Verfahren #
+### Verfahren
 
- - #Umsatzkosten 
+- Umsatzkosten
 
-	 - #Von #Umsatz abziehen 
-	 - #Ausdifferenzieren #
+	- Von Umsatz abziehen
+	- Ausdifferenzieren
 
-		 - #Ausdifferenzieren in #Gruppen und Kostenträger 
-		 - Was ist #material , was #sind umkosten #
+		- Ausdifferenzieren in Gruppen und Kostenträger
+		- Was ist material, was sind umkosten
 
-	 - 
+	- 
 
-		 - #Umsatz #zu #Umsatzergebnis 
-		 - " #Längerfristig " 
+		- Umsatz zu Umsatzergebnis
+		- "Längerfristig"
 
-	 - #Internationale #variente #, #weil #mehr #info 
+	- Internationale variente, weil mehr info
 
- - Gesamtkosten #
+- Gesamtkosten
 
-	 - #
-	 - #Gesamt zu ergebnis #der #periode 
-	 - ehere #deutsche #variante 
+	- 
+	- Gesamt zu ergebnis der periode
+	- ehere deutsche variante
+
+   Tags & Topics:
+   #Ausdifferenzieren
+   #Gesamtkosten
+   #Gesamt
+   #ausdifferenzieren
+   #Verfahren
+   #Gesamtkoste
+   #Umsatzkosten
+   #Umsatzkost

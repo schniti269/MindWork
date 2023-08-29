@@ -5,8 +5,12 @@ Vorteile:
 ◮ﬁxer Aufwand f ¨ur die Thread-Erzeugung nur beim Start ⇒guter Durchsatz
 
    Tags & Topics:
-   #Erzeugung
-   #Thread-Erzeugung
-   #Durchsatz
    #Auftrag
    #Worker-Thread
+   #Durchsatz
+   #Erzeugung
+   #Thread-Erzeugung
+
+[Previous: #AdvIT-Folien_88](AdvIT-Folien_88.md)
+
+[Next: #AdvIT-Folien_88](AdvIT-Folien_88.md)

@@ -6,3 +6,7 @@ verbindungsorientierte Kommunikation
 
    Tags & Topics:
    #102/132Server
+
+[Previous: #AdvIT-Folien_322](AdvIT-Folien_322.md)
+
+[Next: #AdvIT-Folien_322](AdvIT-Folien_322.md)

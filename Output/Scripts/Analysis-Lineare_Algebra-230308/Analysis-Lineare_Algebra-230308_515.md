@@ -5,7 +5,11 @@
 also dem Flächeninhalt dem von uundvaufgespannten Parallelogramms beträgt.
 
    Tags & Topics:
-   #Kreuzprodukt
+   #Winkel
    #v∈Vlinear
    #Flächeninhalt
-   #Winkel
+   #Kreuzprodukt
+
+[Previous: #Analysis-Lineare_Algebra-230308_516](Analysis-Lineare_Algebra-230308_516.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_516](Analysis-Lineare_Algebra-230308_516.md)

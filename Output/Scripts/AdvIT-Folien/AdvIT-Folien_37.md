@@ -5,6 +5,10 @@ Prozesse (Forts.)
 Sequenzieller Server
 
    Tags & Topics:
-   #Sequenzieller
    #Auftrags−
    #Nebenl¨auﬁgkeit
+   #Sequenzieller
+
+[Previous: #AdvIT-Folien_370](AdvIT-Folien_370.md)
+
+[Next: #AdvIT-Folien_370](AdvIT-Folien_370.md)

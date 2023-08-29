@@ -6,3 +6,7 @@ h(x) =1
 
    Tags & Topics:
    #Taylorpolynom
+
+[Previous: #Analysis-Lineare_Algebra-230308_384](Analysis-Lineare_Algebra-230308_384.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_384](Analysis-Lineare_Algebra-230308_384.md)

@@ -8,3 +8,7 @@
    #•Deduplication
    #Datenreplizierung
    #Virtualisierung
+
+[Previous: #Einführung-IT-Teil1_67](Einführung-IT-Teil1_67.md)
+
+[Next: #Einführung-IT-Teil1_67](Einführung-IT-Teil1_67.md)

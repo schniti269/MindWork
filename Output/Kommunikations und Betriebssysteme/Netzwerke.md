@@ -1,50 +1,75 @@
-# # #Netzwerke 
+### Netzwerke
 
- - #Topologie 
+- Topologie
 
-	 - #Bus 
+	- Bus
 
-		 - #Akteure an #einem #Gemeinsamen Bus 
-		 - #Kollision #möglich 
+		- Akteure an einem Gemeinsamen Bus
+		- Kollision möglich
 
-	 - #Ring 
+	- Ring
 
-		 - #Akteure in einem #Ring #Organisiert #
-		 - Token #wird #als " #Rederecht " #genutzt #
+		- Akteure in einem Ring Organisiert
+		- Token wird als "Rederecht" genutzt
 
- - #Routing #
- - #Verbundsystem #
+- Routing
+- Verbundsystem
 
-	 - #Geräte 
+	- Geräte
 
-		 - #Endgerät 
+		- Endgerät
 
-			 - #Netzwerkkarte #
+			- Netzwerkkarte
 
-				 - #MAC #Adresse 
-				 - #Netzwerklokale #IP #adresse #
+				- MAC Adresse
+				- Netzwerklokale IP adresse
 
-		 - #Verwaltungsgerät #
+		- Verwaltungsgerät
 
-			 - #Switch #
-			 - #Repeater #
-			 - #Hub 
-			 - #Bridge 
-			 - #Router 
+			- Switch
+			- Repeater
+			- Hub
+			- Bridge
+			- Router
 
-	 - Verbund #Netz #
+	- Verbund Netz
 
-		 - #Intranet 
+		- Intranet
 
-			 - #Firmen #Internet #
-			 - #Nutzt #Internet Protokolle 
+			- Firmen Internet 
+			- Nutzt Internet Protokolle
 
-		 - #Extranet 
+		- Extranet
 
-			 - #Home #Office #
+			- Home Office
 
-		 - #Internetzugang #i m #Lokalen #Netz 
+		- Internetzugang im Lokalen Netz
 
-			 - #LAN 
-			 - #WAN 
-			 - #Internet 
+			- LAN
+			- WAN
+			- Internet
+
+   Tags & Topics:
+   #Firma
+   #Ring
+   #Netzwerkkarte
+   #Firmen
+   #Akteur
+   #Bus
+   #Netzwerklokal
+   #Verbundsystem
+   #Routing
+   #verbund
+   #Router
+   #Netzwerk
+   #Netzwerkkart
+   #Internetzugang
+   #Netzwerklokale
+   #Kollision
+   #netzwerke
+   #Topologie
+   #Intranet
+   #Extranet
+   #Verbund
+   #Adresse
+   #Akteure

@@ -6,3 +6,7 @@ customers over sustainability imperatives, using that
 
    Tags & Topics:
    
+
+[Previous: #C-Study22 - Own your transformation_194](C-Study22 - Own your transformation_194.md)
+
+[Next: #C-Study22 - Own your transformation_194](C-Study22 - Own your transformation_194.md)

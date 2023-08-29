@@ -5,7 +5,11 @@ Logisches Dateisystem
 •(Logische) Datei:
 
    Tags & Topics:
-   #Unabh¨angigkeit
-   #bs–162dateisysteme
    #BS–162Dateisystem
+   #bs–162dateisysteme
    #⋄Ein
+   #Unabh¨angigkeit
+
+[Previous: #BS-Folien_41](BS-Folien_41.md)
+
+[Next: #BS-Folien_41](BS-Folien_41.md)

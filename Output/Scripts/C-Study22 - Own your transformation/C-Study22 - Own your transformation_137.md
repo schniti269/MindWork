@@ -6,3 +6,7 @@ of systems unless they are powered by data.
 
    Tags & Topics:
    
+
+[Previous: #C-Study22 - Own your transformation_138](C-Study22 - Own your transformation_138.md)
+
+[Next: #C-Study22 - Own your transformation_138](C-Study22 - Own your transformation_138.md)

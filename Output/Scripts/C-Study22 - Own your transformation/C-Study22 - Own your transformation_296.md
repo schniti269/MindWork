@@ -6,3 +6,7 @@ case-studies/hong-kong-astri-engineering-rhapsody
 
    Tags & Topics:
    #Ushering
+
+[Previous: #C-Study22 - Own your transformation_297](C-Study22 - Own your transformation_297.md)
+
+[Next: #C-Study22 - Own your transformation_297](C-Study22 - Own your transformation_297.md)

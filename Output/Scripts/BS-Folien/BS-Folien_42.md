@@ -5,8 +5,12 @@ Von-Neumann-Rechner
 •John (Janos) von Neumann (geb. 1903 in Ungarn, gest. 1957)
 
    Tags & Topics:
-   #Linux
    #Rechner
    #großrechnerbetriebssysteme
    #Großrechnerbetriebssystem
    #Hardware
+   #Linux
+
+[Previous: #BS-Folien_420](BS-Folien_420.md)
+
+[Next: #BS-Folien_420](BS-Folien_420.md)

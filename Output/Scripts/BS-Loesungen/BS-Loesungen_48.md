@@ -5,6 +5,10 @@ rwxrwxrwx
 Meier M ¨uller Schmidt
 
    Tags & Topics:
-   #Schema
    #Dateischutz
    #Unix-Dateischutz
+   #Schema
+
+[Previous: #BS-Loesungen_49](BS-Loesungen_49.md)
+
+[Next: #BS-Loesungen_49](BS-Loesungen_49.md)

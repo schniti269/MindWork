@@ -6,3 +6,7 @@ Nacheinander treﬀen f ¨unf Anforderungen ein. Tragen Sie in die Tabelle ein, 
 
    Tags & Topics:
    #Nacheinander
+
+[Previous: #BS-Uebungen_17](BS-Uebungen_17.md)
+
+[Next: #BS-Uebungen_17](BS-Uebungen_17.md)

@@ -6,3 +6,7 @@ they get it right. Here are some concrete steps, as well
 
    Tags & Topics:
    
+
+[Previous: #C-Study22 - Own your transformation_224](C-Study22 - Own your transformation_224.md)
+
+[Next: #C-Study22 - Own your transformation_224](C-Study22 - Own your transformation_224.md)

@@ -5,7 +5,11 @@ Verschiedene Sichten
 A
 
    Tags & Topics:
-   #Sicht
    #Wartebefehl
    #Zeitscheibe
+   #Sicht
    #Sichten
+
+[Previous: #AdvIT-Folien_42](AdvIT-Folien_42.md)
+
+[Next: #AdvIT-Folien_42](AdvIT-Folien_42.md)

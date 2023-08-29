@@ -5,6 +5,10 @@ Wenn die Nullstellenmengen Npvom Zähler und Nqvom Nenner keinen Schnitt besitze
 Nullstellen Npdes Zählers auch die Nullstellen von f, und die Nullstellen Nqvom Nenner sind die
 
    Tags & Topics:
-   #Nullstellenmeng
    #Nullstellenmengen
    #Wenn
+   #Nullstellenmeng
+
+[Previous: #Analysis-Lineare_Algebra-230308_11](Analysis-Lineare_Algebra-230308_11.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_11](Analysis-Lineare_Algebra-230308_11.md)

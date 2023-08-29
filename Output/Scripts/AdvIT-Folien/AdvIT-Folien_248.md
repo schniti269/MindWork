@@ -6,3 +6,7 @@ und wartet vor dem Semaphor w {⇒r.ctr=0}
 
    Tags & Topics:
    #w1meldet
+
+[Previous: #AdvIT-Folien_249](AdvIT-Folien_249.md)
+
+[Next: #AdvIT-Folien_249](AdvIT-Folien_249.md)

@@ -5,6 +5,10 @@ hohe Adresse✲ Freilisten-Kopf
 Verkettung der unbelegten Bereiche in einer Freiliste (→Abb. 12).
 
    Tags & Topics:
+   #Freilisten
    #Freilisten-Kopf
    #Kopf
-   #Freilisten
+
+[Previous: #BS-Folien_271](BS-Folien_271.md)
+
+[Next: #BS-Folien_271](BS-Folien_271.md)

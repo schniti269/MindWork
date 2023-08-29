@@ -5,6 +5,10 @@ vergeben werden:
 Betriebssysteme – L ¨osungsvorschl ¨age Fr¨uhjahr 2023 ©Henning Pagnia/J ¨org Baumgart L¨OS–16
 
    Tags & Topics:
-   #Unix-Schemas
-   #Schreibrecht
    #Schemas
+   #Schreibrecht
+   #Unix-Schemas
+
+[Previous: #BS-Loesungen_6](BS-Loesungen_6.md)
+
+[Next: #BS-Loesungen_6](BS-Loesungen_6.md)

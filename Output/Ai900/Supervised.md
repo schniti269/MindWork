@@ -1,14 +1,19 @@
-# ## Supervised 
- ( labeled by #human ) 
+### Supervised
+(labeled by human)
 
- - #regression 
+- regression
 
-	 - #Trends 
-	 - #graph #problems 
-	 - #extapolation within #range 
+	- Trends
+	- graph problems
+	- extapolation within range
 
- - #Classification 
+- Classification
 
-	 - Predict #cases 
-	 - predict 
-	 - false positive   #diagram 
+	- Predict cases
+	- predict
+	- false positive  diagram
+
+   Tags & Topics:
+   #Trends
+   #Predict
+   #Trend

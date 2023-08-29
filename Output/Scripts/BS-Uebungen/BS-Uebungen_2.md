@@ -5,6 +5,10 @@ Nichts davon.
 (2) Cache-Speicher
 
    Tags & Topics:
+   #Festplatte
    #Netzwerkna
    #Nichts
-   #Festplatte
+
+[Previous: #BS-Uebungen_20](BS-Uebungen_20.md)
+
+[Next: #BS-Uebungen_20](BS-Uebungen_20.md)

@@ -5,10 +5,14 @@
 Interrupts, Asynchronität, Ereignissteuerung, Memory Management (HW), Parallele
 
    Tags & Topics:
-   #•Informationstheorie
-   #Asynchronität
    #Rechnersystem
+   #Asynchronität
    #Ereignissteuerung
+   #•Codierung
+   #•Informationstheorie
    #Arithmetik
    #Parallele
-   #•Codierung
+
+[Previous: #Einführung-IT-Teil1_60](Einführung-IT-Teil1_60.md)
+
+[Next: #Einführung-IT-Teil1_60](Einführung-IT-Teil1_60.md)

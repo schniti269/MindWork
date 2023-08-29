@@ -5,7 +5,11 @@ Eine besonders praktische Schreibweise gibt es für Intervalle auf den reellen Z
 Art der Klammern beschreibt, ob die Ränder dazu gehören oder nicht:
 
    Tags & Topics:
-   #Schreibweise
-   #Klammer
    #Klammern
+   #Klammer
    #Rand
+   #Schreibweise
+
+[Previous: #Analysis-Lineare_Algebra-230308_210](Analysis-Lineare_Algebra-230308_210.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_210](Analysis-Lineare_Algebra-230308_210.md)

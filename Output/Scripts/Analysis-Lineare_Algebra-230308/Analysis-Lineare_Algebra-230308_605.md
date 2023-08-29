@@ -6,3 +6,7 @@ i = * ( long * ) &y; // evil floating point bit level hacking
 
    Tags & Topics:
    
+
+[Previous: #Analysis-Lineare_Algebra-230308_606](Analysis-Lineare_Algebra-230308_606.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_606](Analysis-Lineare_Algebra-230308_606.md)

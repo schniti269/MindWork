@@ -7,3 +7,7 @@ einer Stelle x∈[a, b], wenn es eine Umgebung (c, d)⊂[a, b]umx∈(c, d)gilt, 
    Tags & Topics:
    #Umgebung
    #Maximum
+
+[Previous: #Analysis-Lineare_Algebra-230308_338](Analysis-Lineare_Algebra-230308_338.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_338](Analysis-Lineare_Algebra-230308_338.md)

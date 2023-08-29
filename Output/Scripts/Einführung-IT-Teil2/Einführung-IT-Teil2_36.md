@@ -5,7 +5,11 @@ Genauigkeit erreicht ist.
 0,3750 · 2 = 0,750 0 abspalten
 
    Tags & Topics:
-   #Dezimalbruchs
-   #Vorkommastellen
-   #Dezimalbruch
    #man
+   #Vorkommastellen
+   #Dezimalbruchs
+   #Dezimalbruch
+
+[Previous: #Einführung-IT-Teil2_37](Einführung-IT-Teil2_37.md)
+
+[Next: #Einführung-IT-Teil2_37](Einführung-IT-Teil2_37.md)

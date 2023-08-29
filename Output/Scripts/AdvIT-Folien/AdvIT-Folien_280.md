@@ -6,7 +6,11 @@ Prof. Dr. Henning Pagnia (DHBW Mannheim) Advanced IT Herbst 2023 88/132Speicherb
 
    Tags & Topics:
    #Monitors
-   #Monitor
    #Monitor-Konzept
    #Monitorkontrolle
+   #Monitor
    #Konzept
+
+[Previous: #AdvIT-Folien_281](AdvIT-Folien_281.md)
+
+[Next: #AdvIT-Folien_281](AdvIT-Folien_281.md)

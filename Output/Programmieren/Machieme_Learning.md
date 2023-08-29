@@ -1,35 +1,50 @@
-# ## #Machieme #Learning 
+### Machieme Learning 
 
- - Supervised 
- - Unsupervided 
- - #Evolution 
- - #Datasets 
+- Supervised
+- Unsupervided
+- Evolution 
+- Datasets
 
-	 - #Training data 
-	 - #Validatin data 
-	 - Cross validation 
+	- Training data
+	- Validatin data
+	- Cross validation
 
- - Bibliotheken 
+- Bibliotheken 
 
-	 - #Lightgbm 
+	- Lightgbm
 
-		 - #Regressor 
+		- Regressor
 
-			 - Fit 
-			 - #Dart 
-			 - #Gradient boosting 
+			- Fit
+			- Dart
+			- Gradient boosting 
 
-		 - #Weights 
+		- Weights
 
- - #Begriffe 
+- Begriffe
 
-	 - #Target #leakage 
-	 - Overfitting 
-	 - #Trees 
+	- Target leakage 
+	- Overfitting
+	- Trees 
 
-		 - #Random forest 
+		- Random forest 
 
-	 - Neural #network 
+	- Neural network
 
-		 - Hidden #layer 
-		 - #Neurons 
+		- Hidden layer
+		- Neurons
+
+   Tags & Topics:
+   #Weight
+   #Bibliothek
+   #Target
+   #Gradient
+   #Hidden
+   #training
+   #Trees
+   #Weights
+   #Evolution
+   #trees
+   #Random
+   #Learning
+   #Regressor

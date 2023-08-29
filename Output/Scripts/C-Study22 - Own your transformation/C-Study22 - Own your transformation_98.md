@@ -6,3 +6,7 @@ core strengths, supplement their weaknesses, and
 
    Tags & Topics:
    #Forward
+
+[Previous: #C-Study22 - Own your transformation_99](C-Study22 - Own your transformation_99.md)
+
+[Next: #C-Study22 - Own your transformation_99](C-Study22 - Own your transformation_99.md)

@@ -6,3 +6,7 @@ Optimal Replacement
 
    Tags & Topics:
    
+
+[Previous: #BS-Folien_343](BS-Folien_343.md)
+
+[Next: #BS-Folien_343](BS-Folien_343.md)

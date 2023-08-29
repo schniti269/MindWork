@@ -7,3 +7,7 @@ auch der anschließende Newton-Schritt zu einer verlässlichen Verbesserung füh
    Tags & Topics:
    #Aspekt
    #Newton
+
+[Previous: #Analysis-Lineare_Algebra-230308_636](Analysis-Lineare_Algebra-230308_636.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_636](Analysis-Lineare_Algebra-230308_636.md)

@@ -7,3 +7,7 @@ hierarchisches Dateisystem f ¨ur Windows ab Win NT
    Tags & Topics:
    #BS–189Dateisystem
    #bs–189dateisysteme
+
+[Previous: #BS-Folien_473](BS-Folien_473.md)
+
+[Next: #BS-Folien_473](BS-Folien_473.md)

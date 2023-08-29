@@ -5,8 +5,12 @@ pk(x) =kX
 n=0f(n)(x0)
 
    Tags & Topics:
-   #Partialsumm
-   #Taylor-Polynom
    #Satz3.13.Seif
+   #Partialsumm
    #Taylor
    #satz3.13.seif
+   #Taylor-Polynom
+
+[Previous: #Analysis-Lineare_Algebra-230308_351](Analysis-Lineare_Algebra-230308_351.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_351](Analysis-Lineare_Algebra-230308_351.md)

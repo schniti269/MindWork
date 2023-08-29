@@ -11,6 +11,8 @@ def split_text(text, output_root, max_indent_level=3):
     
     # Check if any section has more than max_indent_level indent levels
     for section in sections:
+
+        
         indent_level = len(re.match(r' *#+', section).group()) // 2
         if indent_level > max_indent_level:
             split_text(section, output_root, max_indent_level)
@@ -23,6 +25,8 @@ def split_text(text, output_root, max_indent_level=3):
             output_path = os.path.join(output_root, filename)
             os.makedirs(os.path.dirname(output_path), exist_ok=True)
             with open(output_path, 'w') as f:
+                # Add hashtags before processing
+                section = add_hashtags(section)
                 f.write(section)
 
 
@@ -31,8 +35,7 @@ def process_markdown_file(file_path, output_root, path):
     with open(file_path, 'r') as f:
         text = f.read()
     
-    # Add hashtags before processing
-    text = add_hashtags(text)
+    
     
     # Split the text into sections with no more than 3 indent levels using a recursive function
     split_text(text, output_root)
@@ -53,6 +56,9 @@ def process_folder(input_folder, output_folder):
 
 
 if __name__ == "__main__":
-    input_folder_path = r"C:\Users\ian-s\Desktop\Mindwork\Xmind"
-    output_folder_path = r"C:\Users\ian-s\Desktop\Mindwork\Output"
+
+    input_folder_path = r"C:\Users\ian-s\Repos\MindWork\Xmind"
+    output_folder_path = r"C:\Users\ian-s\Repos\MindWork\Output"
+    
+    
     process_folder(input_folder_path, output_folder_path)

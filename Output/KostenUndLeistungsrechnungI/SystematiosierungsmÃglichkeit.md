@@ -1,13 +1,19 @@
-# ## #Systematiosierungsmöglichkeit #
+### Systematiosierungsmöglichkeit
 
- - #Auf #basis #
+- Auf basis
 
-	 - #Variabler kosten 
+	- Variabler kosten
 
-		 - Deckungsbeitrag #
+		- Deckungsbeitrag
 
-	 - Einzelkosten 
+	- Einzelkosten
 
-		 - #Relative Einzelkosten 
-		 - #Wird ggf relevant #mit der #Zeit 
-		 - #Feht etwas #an #fexlibilität 
+		- Relative Einzelkosten
+		- Wird ggf relevant mit der Zeit
+		- Feht etwas an fexlibilität
+
+   Tags & Topics:
+   #Variabler
+   #Deckungsbeitrag
+   #Einzelkosten
+   #Einzelkost

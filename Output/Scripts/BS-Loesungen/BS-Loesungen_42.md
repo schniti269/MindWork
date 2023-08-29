@@ -6,3 +6,7 @@ Jeweils nach der Bearbeitung von 4 Matrixelementen tritt ei n Seitenfehler auf. 
 
    Tags & Topics:
    #Zugriﬀsreihenfolge
+
+[Previous: #BS-Loesungen_43](BS-Loesungen_43.md)
+
+[Next: #BS-Loesungen_43](BS-Loesungen_43.md)

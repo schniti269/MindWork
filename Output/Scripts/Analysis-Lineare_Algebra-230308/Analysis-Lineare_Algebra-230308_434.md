@@ -5,6 +5,10 @@ f(x)dx= ln|f(x)|+C
 Beispiel 4.12.Bestimmen Sie die StammfunktionR2x+1
 
    Tags & Topics:
-   #StammfunktionR2x+1
    #stammfunktionr2x+1
+   #StammfunktionR2x+1
    #Kettenregel
+
+[Previous: #Analysis-Lineare_Algebra-230308_435](Analysis-Lineare_Algebra-230308_435.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_435](Analysis-Lineare_Algebra-230308_435.md)

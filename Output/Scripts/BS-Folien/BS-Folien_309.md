@@ -6,5 +6,9 @@ bereiche (vgl. Beispiel in Abb. 19).
 
    Tags & Topics:
    #Anfangsadresse
-   #Schutzaspekt
    #Anfangsadres
+   #Schutzaspekt
+
+[Previous: #BS-Folien_31](BS-Folien_31.md)
+
+[Next: #BS-Folien_31](BS-Folien_31.md)

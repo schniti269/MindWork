@@ -5,12 +5,16 @@ siehe auch: https://www.top500.org/Personengruppen in der Informatik
 •Admin für Server, Speicher, Netzwerk, etc.
 
    Tags & Topics:
-   #Tesla
-   #•Admin
-   #gpu
-   #-Master
-   #GPUs
    #•admin
-   #Netzwerk
-   #https://www.top500.org/Personengruppe
    #-master
+   #gpu
+   #GPUs
+   #Netzwerk
+   #Tesla
+   #-Master
+   #https://www.top500.org/Personengruppe
+   #•Admin
+
+[Previous: #Einführung-IT-Teil1_55](Einführung-IT-Teil1_55.md)
+
+[Next: #Einführung-IT-Teil1_55](Einführung-IT-Teil1_55.md)

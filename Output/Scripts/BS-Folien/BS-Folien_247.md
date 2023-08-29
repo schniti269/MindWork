@@ -5,6 +5,10 @@ private Semaphore printer;private Semaphore mutex = new Semaphore (1);// Definit
 //Verwaltungsobjekt erzeugen, das n
 
    Tags & Topics:
+   #IdenticalPrinter
    #Druckerverwaltung
    #Belegungstabelle
-   #IdenticalPrinter
+
+[Previous: #BS-Folien_248](BS-Folien_248.md)
+
+[Next: #BS-Folien_248](BS-Folien_248.md)

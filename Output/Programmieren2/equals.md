@@ -1,33 +1,40 @@
-# ## equals ( ) 
+### equals()
 
- - bei #vergleich mit null #muss false 
- - #reflexiv 
- - #symmetrisch 
- - #transitiv 
- - #konstistent 
- - dierekte subklasse 
+- bei vergleich mit null muss false
+- reflexiv
+- symmetrisch
+- transitiv
+- konstistent
+- dierekte subklasse
 
-	 - #alias #check 
+	- alias check
 
-		 - this #= #= o 
+		- this == o
 
-	 - test null 
+	- test null
 
-		 - #o== #null 
+		- o== null
 
-	 - instanzen #der gleichen #klasse ? 
+	- instanzen der gleichen klasse?
 
-		 - #this.getClass ( ) ! #= #o.getClass ( ) 
+		- this.getClass() != o.getClass()
 
-	 - #Feldvergleich 
+	- Feldvergleich
 
-		 - 
+		- 
 
- - indierekte subklasse 
+- indierekte subklasse
 
-	 - #alias #check 
-	 - #delegation zur #oberklassse 
+	- alias check
+	- delegation zur oberklassse
 
-		 - #super.equals ( ) 
+		- super.equals()
 
-	 - #Feld #Vergleich #überprüft die Inhaltliche #Gelichhetit #der #Subklasse 
+	- Feld Vergleich überprüft die Inhaltliche Gelichhetit der Subklasse
+
+   Tags & Topics:
+   #Feld
+   #Feldvergleich
+   #this.getClass
+   #Subklasse
+   #Gelichhetit

@@ -5,6 +5,10 @@ Ergebnis 00101001
 Anmerkung: Tritt ein Übertrag auf, wird das MSB automatisch 0Beispiel 2: Subtraktion durch Addition des Zweierkomplements
 
    Tags & Topics:
-   #Zweierkomplement
    #Zweierkomplements
    #0Beispiel
+   #Zweierkomplement
+
+[Previous: #Einführung-IT-Teil2_63](Einführung-IT-Teil2_63.md)
+
+[Next: #Einführung-IT-Teil2_63](Einführung-IT-Teil2_63.md)

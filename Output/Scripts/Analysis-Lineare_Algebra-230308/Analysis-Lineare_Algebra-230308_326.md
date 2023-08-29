@@ -5,6 +5,10 @@ Mit der Definition der Ableitung kann man elementar Ableitungen von Funktionen b
 Zusatzbedingung x̸=x0wird oft in der Notation ausgelassen, gilt aber weiterhin.
 
    Tags & Topics:
-   #Knöllchen
    #Ableitung
+   #Knöllchen
    #Zusatzbedingung
+
+[Previous: #Analysis-Lineare_Algebra-230308_327](Analysis-Lineare_Algebra-230308_327.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_327](Analysis-Lineare_Algebra-230308_327.md)

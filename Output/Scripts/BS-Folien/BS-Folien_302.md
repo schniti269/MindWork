@@ -6,3 +6,7 @@ Abb. 17 Abbildung virtueller Seiten auf Hauptspeicherkach elnSeitentabelleSeiten
 
    Tags & Topics:
    #Paging
+
+[Previous: #BS-Folien_303](BS-Folien_303.md)
+
+[Next: #BS-Folien_303](BS-Folien_303.md)

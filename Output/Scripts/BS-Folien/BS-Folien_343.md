@@ -6,7 +6,11 @@ Second Chance
 
    Tags & Topics:
    #Strategien
-   #•idee
-   #Nicht
-   #Strategie
    #•Idee
+   #•idee
+   #Strategie
+   #Nicht
+
+[Previous: #BS-Folien_344](BS-Folien_344.md)
+
+[Next: #BS-Folien_344](BS-Folien_344.md)

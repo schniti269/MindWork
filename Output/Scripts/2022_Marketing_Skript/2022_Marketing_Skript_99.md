@@ -5,7 +5,7 @@ Visuelle Elemente
 Auditive Elemente
 
    Tags & Topics:
+   #Auditive
    #Kommunikationsmittel
    #Kommunikationsmittels
-   #Auditive
    #Auditiv

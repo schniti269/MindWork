@@ -6,3 +6,7 @@ implementiert
 
    Tags & Topics:
    #FIFO-Warteschlange
+
+[Previous: #AdvIT-Folien_254](AdvIT-Folien_254.md)
+
+[Next: #AdvIT-Folien_254](AdvIT-Folien_254.md)

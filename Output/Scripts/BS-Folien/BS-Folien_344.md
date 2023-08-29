@@ -5,7 +5,11 @@ NebenReferenzbit undChange-Bit (beide CPU) wird ein Auslagerbit (in Software) ve
 Seite.
 
    Tags & Topics:
+   #Clock
    #auslagerbit
    #Auslagerbit
-   #Clock
    #•Implementierung
+
+[Previous: #BS-Folien_345](BS-Folien_345.md)
+
+[Next: #BS-Folien_345](BS-Folien_345.md)

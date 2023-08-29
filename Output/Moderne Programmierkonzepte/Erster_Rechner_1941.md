@@ -1,11 +1,15 @@
-# ## Erster #Rechner 1941 
+### Erster Rechner 1941
 
- - #Zuse #Z3 
+- Zuse Z3
 
-	 - #Hardwarebauer 
- #programmierer und #Nutzer #zugleich 
+	- Hardwarebauer
+programmierer und Nutzer zugleich
 
- - #Relais 
+- Relais
 
-	 - Binäres #System 
-	 - #voll #elektrisch 
+	- Binäres System
+	- voll elektrisch
+
+   Tags & Topics:
+   #Nutzer
+   #Hardwarebauer

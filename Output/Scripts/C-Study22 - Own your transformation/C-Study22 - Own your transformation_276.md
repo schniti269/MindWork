@@ -7,3 +7,7 @@ newsroom.ibm.com/2020-01-06-Farmer-Connect-
    Tags & Topics:
    #Farmer
    #Farmers
+
+[Previous: #C-Study22 - Own your transformation_277](C-Study22 - Own your transformation_277.md)
+
+[Next: #C-Study22 - Own your transformation_277](C-Study22 - Own your transformation_277.md)

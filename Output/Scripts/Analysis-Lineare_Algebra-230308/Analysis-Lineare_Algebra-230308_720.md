@@ -7,3 +7,7 @@ Bestimmte Vektoren werden von linearen Abbildungen auf Vielfache von sich selbst
    Tags & Topics:
    #Spiegelrichtung
    #6.4.
+
+[Previous: #Analysis-Lineare_Algebra-230308_721](Analysis-Lineare_Algebra-230308_721.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_721](Analysis-Lineare_Algebra-230308_721.md)

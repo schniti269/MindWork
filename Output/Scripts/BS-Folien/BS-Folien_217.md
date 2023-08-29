@@ -7,3 +7,7 @@ Prozedurausf ¨uhrung endet, wenn die E/A-Operation beendet ist.
    Tags & Topics:
    #Prozessverwalt
    #Prozedur
+
+[Previous: #BS-Folien_218](BS-Folien_218.md)
+
+[Next: #BS-Folien_218](BS-Folien_218.md)

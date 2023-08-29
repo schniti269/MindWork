@@ -7,3 +7,7 @@ vorhanden – an die Festplatte geschickt.
    Tags & Topics:
    #Plattenauftrag
    #-Auftrag
+
+[Previous: #BS-Uebungen_12](BS-Uebungen_12.md)
+
+[Next: #BS-Uebungen_12](BS-Uebungen_12.md)

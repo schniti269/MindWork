@@ -1,3 +1,6 @@
-# ## #Anschaffungs kosten #
+### Anschaffungs kosten
 
- - #Wert #eines wirtschaftsguts #zum #anschaffungszeitpunkt 
+- Wert eines wirtschaftsguts zum anschaffungszeitpunkt
+
+   Tags & Topics:
+   

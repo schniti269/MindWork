@@ -6,3 +6,7 @@ azu bestimmen. Das
 
    Tags & Topics:
    #Wurzel
+
+[Previous: #Analysis-Lineare_Algebra-230308_609](Analysis-Lineare_Algebra-230308_609.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_609](Analysis-Lineare_Algebra-230308_609.md)

@@ -6,3 +6,7 @@ to clarify because even if the data fabric
 
    Tags & Topics:
    
+
+[Previous: #C-Study22 - Own your transformation_187](C-Study22 - Own your transformation_187.md)
+
+[Next: #C-Study22 - Own your transformation_187](C-Study22 - Own your transformation_187.md)

@@ -5,13 +5,17 @@ http://www.adm-ev.de3.2. Prozess der MarktforschungSchritt 3: Bedeutung von Mark
 72www.dhbw.deMarketing
 
    Tags & Topics:
-   #GfK-Gruppe
+   #Marktforschungs-Unternehm
+   #Umsatzvolumen
    #Weltmarkt
    #Bedeutung
-   #ACNielsen
-   #GfK
-   #MarktforschungSchritt
-   #Marktforschungs
-   #Umsatzvolumen
-   #Marktforschungs-Unternehm
    #Studie
+   #GfK-Gruppe
+   #GfK
+   #ACNielsen
+   #Marktforschungs
+   #MarktforschungSchritt
+
+[Previous: #2022_Marketing_Skript_47](2022_Marketing_Skript_47.md)
+
+[Next: #2022_Marketing_Skript_47](2022_Marketing_Skript_47.md)

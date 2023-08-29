@@ -5,8 +5,12 @@ proZinsperiode wie beispielsweise einem Jahr direkt als
 Z=K·p
 
    Tags & Topics:
-   #Zinsen
    #Vergütung
-   #Zinsrechnung
+   #Zinsen
    #Zinssatz
+   #Zinsrechnung
    #Zins
+
+[Previous: #Analysis-Lineare_Algebra-230308_165](Analysis-Lineare_Algebra-230308_165.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_165](Analysis-Lineare_Algebra-230308_165.md)

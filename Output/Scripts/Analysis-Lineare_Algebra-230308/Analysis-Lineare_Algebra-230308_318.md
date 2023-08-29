@@ -7,3 +7,7 @@ s(x) =f(x1)−f(x0)
    Tags & Topics:
    #Grundthema
    #Satz3.1.DieSekante
+
+[Previous: #Analysis-Lineare_Algebra-230308_319](Analysis-Lineare_Algebra-230308_319.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_319](Analysis-Lineare_Algebra-230308_319.md)

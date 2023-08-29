@@ -1,46 +1,69 @@
-# ## Begriffe 
+### Begriffe
 
- - #Tupel 
+- Tupel
 
-	 - #Besteht #aus #mehreren Werten 
-	 - #Werte in #der selben #Domäne immer #gleiche #Reihenfolge 
+	- Besteht aus mehreren Werten
+	- Werte in der selben Domäne immer gleiche Reihenfolge
 
- - #Domäne 
+- Domäne
 
-	 - #Wertebereich für #ein #Attribut 
-	 - #Integer , #String , Double 
+	- Wertebereich für ein Attribut
+	- Integer, String, Double
 
- - #Schlüssel 
+- Schlüssel
 
-	 - #Unterstrichenes #attribut #
-	 - #eideutig 
-	 - dient #zur identifikation 
-	 - Natural / Surogate 
+	- Unterstrichenes attribut
+	- eideutig
+	- dient zur identifikation
+	- Natural/Surogate
 
-		 - natural= #Buisness #relavant- > auch #Kundennummer 
-		 - #Surogate ( #künstlich ): nur #für #Technische #Funktion der #Datenbank #IDR #Femdschlüssel #
+		- natural= Buisness relavant-> auch Kundennummer
+		- Surogate (künstlich): nur für Technische Funktion der Datenbank IDR Femdschlüssel
 
-	 - Arten 
+	- Arten
 
-		 - #Fremdschlüssel 
+		- Fremdschlüssel
 
-			 - " #link " 
-			 - #Schlüssel #aus #anderer Tabelle 
+			- "link"
+			- Schlüssel aus anderer Tabelle
 
-		 - #Primärschlüssel 
+		- Primärschlüssel
 
-			 - #ein #Ausgesuchter #Primärschlüssel #
+			- ein Ausgesuchter Primärschlüssel
 
-		 - #Kandidaten #Schlüssel #
+		- Kandidaten Schlüssel
 
-			 - " rausstreichen " #
- #bei #erhalt von #Funktionale Abhängigkeit #
+			- "rausstreichen"
+bei erhalt von Funktionale Abhängigkeit
 
-		 - #Superschlüssel 
+		- Superschlüssel
 
-			 - #Menge die funktional #Abhängig #ist 
+			- Menge die funktional Abhängig ist
 
- - #Funktionale #Abhängigkeit 
- - #Attribute 
+- Funktionale Abhängigkeit
+- Attribute
 
-	 - Werte 
+	- Werte
+
+   Tags & Topics:
+   #Begriff
+   #bestehen
+   #Kundennummer
+   #Art
+   #Surogate
+   #Primärschlüssel
+   #Besteht
+   #Funktion
+   #künstlich
+   #Surogat
+   #Werte
+   #Kandidat
+   #Kandidaten
+   #Menge
+   #Integer
+   #Wert
+   #Attribut
+   #Ausgesuchter
+   #Fremdschlüssel
+   #String
+   #Attribute

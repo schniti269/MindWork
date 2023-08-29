@@ -6,7 +6,11 @@ Betriebssysteme DHBW Mannheim ©Henning Pagnia Version 4.23 Fr¨uhjahr 2023 BS�
 
    Tags & Topics:
    #Blockgr
-   #DOS
-   #•Verzeichniseintrag
    #BS–187Dateisysteme
+   #•Verzeichniseintrag
    #BS–187Dateisystem
+   #DOS
+
+[Previous: #BS-Folien_468](BS-Folien_468.md)
+
+[Next: #BS-Folien_468](BS-Folien_468.md)

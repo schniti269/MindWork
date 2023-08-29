@@ -7,3 +7,7 @@ x2+ 1dx+Z1
    Tags & Topics:
    #Z2x
    #1dx+Z1
+
+[Previous: #Analysis-Lineare_Algebra-230308_436](Analysis-Lineare_Algebra-230308_436.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_436](Analysis-Lineare_Algebra-230308_436.md)

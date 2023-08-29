@@ -5,5 +5,9 @@ surjektiv, da für alle x∈Rgilt, dass f(x)≥0, somit sind die negativen Zahle
 reich nicht im Bild von f. Schränkt man aber die Definitions- und Wertebereiche von fgeeignet ein:14 1. GRUNDLAGEN
 
    Tags & Topics:
-   #Wertebereiche
    #Definitions-
+   #Wertebereiche
+
+[Previous: #Analysis-Lineare_Algebra-230308_810](Analysis-Lineare_Algebra-230308_810.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_810](Analysis-Lineare_Algebra-230308_810.md)

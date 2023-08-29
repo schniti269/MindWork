@@ -5,9 +5,13 @@ Typische Adressl ¨angen: 32 oder 64Bit
 •Nachladbare Programmteile:
 
    Tags & Topics:
-   #Petawort
+   #Petaworte
    #Bit→264Wort
    #bit→264worte
-   #Petaworte
-   #Gesamtsystemeﬃzienz
    #Bit→232Worte
+   #Petawort
+   #Gesamtsystemeﬃzienz
+
+[Previous: #BS-Folien_297](BS-Folien_297.md)
+
+[Next: #BS-Folien_297](BS-Folien_297.md)

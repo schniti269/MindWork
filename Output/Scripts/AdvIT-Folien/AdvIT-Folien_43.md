@@ -5,6 +5,10 @@ Process
 TimeB C D A
 
    Tags & Topics:
-   #AProcess
    #TimeB
    #aprocess
+   #AProcess
+
+[Previous: #AdvIT-Folien_44](AdvIT-Folien_44.md)
+
+[Next: #AdvIT-Folien_44](AdvIT-Folien_44.md)

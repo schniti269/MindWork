@@ -5,10 +5,14 @@ inode-Gr¨oße: 128 Byte (oder Vielfaches)
 pro inode 12 direkte Zeiger auf Bl ¨ocke sowie 1- , 2- und 3-fache Indirektionen
 
    Tags & Topics:
-   #Blockgr¨oße
-   #Schnittstell
-   #ACLs
    #Vielfache
+   #Blockgr¨oße
    #Dateigr
    #Vielfaches
+   #Schnittstell
    #Indirektion
+   #ACLs
+
+[Previous: #BS-Folien_463](BS-Folien_463.md)
+
+[Next: #BS-Folien_463](BS-Folien_463.md)

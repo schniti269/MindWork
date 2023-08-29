@@ -6,3 +6,7 @@ technology-makes-the-supply-chain-more-efficient/
 
    Tags & Topics:
    
+
+[Previous: #C-Study22 - Own your transformation_29](C-Study22 - Own your transformation_29.md)
+
+[Next: #C-Study22 - Own your transformation_29](C-Study22 - Own your transformation_29.md)

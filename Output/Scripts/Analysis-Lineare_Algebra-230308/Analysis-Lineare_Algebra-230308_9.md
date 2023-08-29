@@ -6,5 +6,9 @@ Index 89KAPITEL 1
 
    Tags & Topics:
    #Eigenvektor
-   #6.4.
    #Index
+   #6.4.
+
+[Previous: #Analysis-Lineare_Algebra-230308_90](Analysis-Lineare_Algebra-230308_90.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_90](Analysis-Lineare_Algebra-230308_90.md)

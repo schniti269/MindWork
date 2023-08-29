@@ -5,9 +5,13 @@ der virtuellen Maschine wird Hypervisor genannt. Er erlaubt den Betrieb mehrerer
 gleichzeitig auf einem physischen Rechner. Es gibt Hardware -, Speicher -und Netzwerkvirtualisierung .
 
    Tags & Topics:
-   #Schicht
-   #Host
-   #Netzwerkvirtualisierung
    #Wirt
-   #Hypervisor
+   #Schicht
+   #Netzwerkvirtualisierung
+   #Host
    #•Virtualisierung
+   #Hypervisor
+
+[Previous: #Einführung-IT-Teil1_5](Einführung-IT-Teil1_5.md)
+
+[Next: #Einführung-IT-Teil1_5](Einführung-IT-Teil1_5.md)

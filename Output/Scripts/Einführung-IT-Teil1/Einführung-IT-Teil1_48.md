@@ -6,12 +6,16 @@ Sprache und Anwendungen im Bereich der künstlichen Intelligenz (KI).
 
    Tags & Topics:
    #Textverarbeitung
-   #•Verarbeitung
-   #Rechenleistung
    #Expertensystem
-   #Intelligenz
-   #Senkung
-   #Steigerung
    #Expertensysteme
-   #Datenbanken
+   #Steigerung
    #Packungsdicht
+   #Intelligenz
+   #Rechenleistung
+   #Senkung
+   #Datenbanken
+   #•Verarbeitung
+
+[Previous: #Einführung-IT-Teil1_49](Einführung-IT-Teil1_49.md)
+
+[Next: #Einführung-IT-Teil1_49](Einführung-IT-Teil1_49.md)

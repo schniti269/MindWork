@@ -5,5 +5,9 @@ Prof. Dr. Henning Pagnia (DHBW Mannheim) Advanced IT Herbst 2023 41/132Speicherb
 Deadlocks (Forts.)
 
    Tags & Topics:
-   #locking
    #phase
+   #locking
+
+[Previous: #AdvIT-Folien_119](AdvIT-Folien_119.md)
+
+[Next: #AdvIT-Folien_119](AdvIT-Folien_119.md)

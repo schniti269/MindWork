@@ -5,8 +5,12 @@ sicheren Zustand f ¨uhren
 Prof. Dr. Henning Pagnia (DHBW Mannheim) Advanced IT Herbst 2023 46/132Speicherbasierte Synchronisation Begriﬀe und Basismechanismen
 
    Tags & Topics:
+   #Nachforderungen
    #Anforderungen
    #Deadlock
    #Algorithmus
-   #Nachforderungen
    #Anforderung
+
+[Previous: #AdvIT-Folien_135](AdvIT-Folien_135.md)
+
+[Next: #AdvIT-Folien_135](AdvIT-Folien_135.md)

@@ -6,9 +6,13 @@ Betriebssysteme DHBW Mannheim ©Henning Pagnia Version 4.23 Fr¨uhjahr 2023 BS�
 
    Tags & Topics:
    #Adressen
-   #A-Vorgang
    #Compaction
+   #A-Vorgang
    #Adresse
    #Vorgang
    #¨Uberlagerung
    #Speicherkompaktierung
+
+[Previous: #BS-Folien_262](BS-Folien_262.md)
+
+[Next: #BS-Folien_262](BS-Folien_262.md)

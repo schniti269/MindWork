@@ -1,4 +1,11 @@
-# ## #Umsortieren und #Teilen für #Pivot #Element 
+### Umsortieren und Teilen für Pivot Element
 
- - #Drehelement 
- - #gaus 
+- Drehelement
+- gaus
+
+   Tags & Topics:
+   #Drehelement
+   #Umsortieren
+   #Umsortiere
+   #Teil
+   #Teilen

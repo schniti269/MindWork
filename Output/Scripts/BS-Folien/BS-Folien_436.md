@@ -5,9 +5,13 @@ Betriebssysteme DHBW Mannheim ©Henning Pagnia Version 4.23 Fr¨uhjahr 2023 BS�
 Verwaltung von Dateisystemen
 
    Tags & Topics:
-   #L¨osungsvariant
-   #bs–175dateisysteme
-   #Zyklenerkennung
-   #Hardlinks
-   #BS–175Dateisystem
    #Hardlink
+   #Hardlinks
+   #Zyklenerkennung
+   #L¨osungsvariant
+   #BS–175Dateisystem
+   #bs–175dateisysteme
+
+[Previous: #BS-Folien_437](BS-Folien_437.md)
+
+[Next: #BS-Folien_437](BS-Folien_437.md)

@@ -7,3 +7,7 @@ mitˆx∈(a, b), so dass
    Tags & Topics:
    #Rk(x
    #dasTaylorpolynom
+
+[Previous: #Analysis-Lineare_Algebra-230308_352](Analysis-Lineare_Algebra-230308_352.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_352](Analysis-Lineare_Algebra-230308_352.md)

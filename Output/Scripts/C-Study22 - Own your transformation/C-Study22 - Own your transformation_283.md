@@ -6,3 +6,7 @@ Cyberattacks-in-2021-as-Supply-Chain-Woes-Grew
 
    Tags & Topics:
    #Report
+
+[Previous: #C-Study22 - Own your transformation_284](C-Study22 - Own your transformation_284.md)
+
+[Next: #C-Study22 - Own your transformation_284](C-Study22 - Own your transformation_284.md)

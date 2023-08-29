@@ -1,4 +1,9 @@
-# ## #Aktiva 
+### Aktiva
 
- - #Summe #Anlagevermögen 
- - #Summe #Umlaufvermögen 
+- Summe Anlagevermögen
+- Summe Umlaufvermögen
+
+   Tags & Topics:
+   #Umlaufvermögen
+   #aktiva
+   #Summe

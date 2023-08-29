@@ -5,7 +5,11 @@ Struktur eines Eintrags:
 •Dateideskriptor:
 
    Tags & Topics:
-   #Bezeichner
-   #Eintrag
    #⋄Verweise
+   #Eintrag
    #⋄Systemweit
+   #Bezeichner
+
+[Previous: #BS-Folien_399](BS-Folien_399.md)
+
+[Next: #BS-Folien_399](BS-Folien_399.md)

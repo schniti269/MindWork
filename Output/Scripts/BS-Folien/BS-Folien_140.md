@@ -6,3 +6,7 @@ local = SyncStatement.testAndSet ( busy );
 
    Tags & Topics:
    
+
+[Previous: #BS-Folien_141](BS-Folien_141.md)
+
+[Next: #BS-Folien_141](BS-Folien_141.md)

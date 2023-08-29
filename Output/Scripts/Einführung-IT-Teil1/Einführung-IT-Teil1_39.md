@@ -6,3 +6,7 @@ Computer bis zu den Supercomputern.
 
    Tags & Topics:
    #Palette
+
+[Previous: #Einführung-IT-Teil1_4](Einführung-IT-Teil1_4.md)
+
+[Next: #Einführung-IT-Teil1_4](Einführung-IT-Teil1_4.md)

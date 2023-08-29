@@ -6,3 +6,7 @@ Re(z)Im(z)
 
    Tags & Topics:
    #Re(z)Im(z
+
+[Previous: #Analysis-Lineare_Algebra-230308_260](Analysis-Lineare_Algebra-230308_260.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_260](Analysis-Lineare_Algebra-230308_260.md)

@@ -6,8 +6,12 @@ Prinzipieller Ablauf eines E/A-Auftrags:
 
    Tags & Topics:
    #ger¨ate
+   #A-Ger¨at
    #A-Auftrag
    #A-Befehl
-   #Operationsausf
    #ger¨at
-   #A-Ger¨at
+   #Operationsausf
+
+[Previous: #BS-Folien_211](BS-Folien_211.md)
+
+[Next: #BS-Folien_211](BS-Folien_211.md)

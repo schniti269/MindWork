@@ -6,3 +6,7 @@ mission, ASTRI is tasked with helping manufacturers shorten time to
 
    Tags & Topics:
    
+
+[Previous: #C-Study22 - Own your transformation_95](C-Study22 - Own your transformation_95.md)
+
+[Next: #C-Study22 - Own your transformation_95](C-Study22 - Own your transformation_95.md)

@@ -5,13 +5,17 @@ Qzu klein
 →Cache bleibt kalt.
 
    Tags & Topics:
-   #Antwortzeitverhalten
+   #antwortzeitverhalten
+   #⇒Weg
    #Prozesslaufzeiten
    #Cache-Speicher
-   #Verwaltungsaufwand
-   #antwortzeitverhalten
+   #Antwortzeitverhalten
    #⇒Wegen
-   #⇒Weg
    #Prozesslaufzeit
    #→Cache
+   #Verwaltungsaufwand
    #Lokalit
+
+[Previous: #BS-Folien_189](BS-Folien_189.md)
+
+[Next: #BS-Folien_189](BS-Folien_189.md)

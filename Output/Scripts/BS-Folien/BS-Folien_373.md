@@ -5,7 +5,11 @@ Generischer Container f ¨ur beliebige digitale Informationen in Form einer Bit-
 •Aufgaben des Dateisystems:
 
    Tags & Topics:
-   #Bit-Folge
    #BS–148Dateisystem
-   #bs–148dateisysteme
+   #Bit-Folge
    #Semantik
+   #bs–148dateisysteme
+
+[Previous: #BS-Folien_374](BS-Folien_374.md)
+
+[Next: #BS-Folien_374](BS-Folien_374.md)

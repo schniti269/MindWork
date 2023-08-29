@@ -6,6 +6,10 @@ Implementierung der Dispatcher-Operationen
 
    Tags & Topics:
    #Zustands¨ubergangsfunktion
+   #Zustands¨ubergangsfunktionen
    #Prozessverwaltun
    #Dispatcher-Operation
-   #Zustands¨ubergangsfunktionen
+
+[Previous: #BS-Folien_158](BS-Folien_158.md)
+
+[Next: #BS-Folien_158](BS-Folien_158.md)

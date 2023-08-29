@@ -5,8 +5,12 @@ tatsächlichen Exponenten e wird also eine Verschiebung (Bias) B addiert, die so
 für e in die Mitte des zur Verfügung stehenden Wertebereichs [0 ,2B+1] verschoben wird. Auf diese Weise können 
 
    Tags & Topics:
-   #Verschiebung
    #Charakteristik
    #Nullpunkt
-   #Wertebereich
    #e+Bgespeichert
+   #Verschiebung
+   #Wertebereich
+
+[Previous: #Einführung-IT-Teil2_44](Einführung-IT-Teil2_44.md)
+
+[Next: #Einführung-IT-Teil2_44](Einführung-IT-Teil2_44.md)

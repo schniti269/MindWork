@@ -6,6 +6,10 @@ Nach Ausf ¨uhrung vonioItrHandler k¨onnte auch ein Aufruf des Schedulers erfol
 
    Tags & Topics:
    #Ausg
-   #Synchrone
-   #assign-Operation
    #A-Schnittstell
+   #assign-Operation
+   #Synchrone
+
+[Previous: #BS-Folien_217](BS-Folien_217.md)
+
+[Next: #BS-Folien_217](BS-Folien_217.md)

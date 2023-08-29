@@ -5,8 +5,12 @@ keine Mehrprogramm-Unterst ¨utzung
 dient der Verwaltung der Dateien und der freien Bl ¨ocke
 
    Tags & Topics:
+   #Pfadnamens
    #Allocation
    #Pfadnamen
-   #Mehrprogramm
-   #Pfadnamens
    #Unterst
+   #Mehrprogramm
+
+[Previous: #BS-Folien_466](BS-Folien_466.md)
+
+[Next: #BS-Folien_466](BS-Folien_466.md)

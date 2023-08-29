@@ -5,5 +5,9 @@ Programmstruktur
 falls ja⇒release auf dem privaten Semaphor {ctr⇒1}
 
    Tags & Topics:
-   #Abschnitts
    #Abschnitt
+   #Abschnitts
+
+[Previous: #AdvIT-Folien_257](AdvIT-Folien_257.md)
+
+[Next: #AdvIT-Folien_257](AdvIT-Folien_257.md)

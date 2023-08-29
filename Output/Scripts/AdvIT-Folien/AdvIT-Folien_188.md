@@ -5,7 +5,11 @@ Synchronisationsbedingungen:
 ◮wenn der Puﬀer voll ist, m ¨ussen zuerst Daten verbraucht werden
 
    Tags & Topics:
-   #Verbrauchen
-   #Erzeug
    #Erzeugen
    #Verbrauche
+   #Verbrauchen
+   #Erzeug
+
+[Previous: #AdvIT-Folien_189](AdvIT-Folien_189.md)
+
+[Next: #AdvIT-Folien_189](AdvIT-Folien_189.md)

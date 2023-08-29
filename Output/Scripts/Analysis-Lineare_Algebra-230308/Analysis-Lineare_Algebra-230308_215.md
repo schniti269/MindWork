@@ -5,5 +5,9 @@ Summe –6000 80000 86000 –
 Annuitätentilgung : Soll ein Kredit KübernPerioden in Annuitätentilgung und einem Zinssatz
 
    Tags & Topics:
-   #Soll
    #KübernPerioden
+   #Soll
+
+[Previous: #Analysis-Lineare_Algebra-230308_216](Analysis-Lineare_Algebra-230308_216.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_216](Analysis-Lineare_Algebra-230308_216.md)

@@ -8,3 +8,7 @@ x=
    #Spalte
    #Transposition
    #Spalten
+
+[Previous: #Analysis-Lineare_Algebra-230308_491](Analysis-Lineare_Algebra-230308_491.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_491](Analysis-Lineare_Algebra-230308_491.md)

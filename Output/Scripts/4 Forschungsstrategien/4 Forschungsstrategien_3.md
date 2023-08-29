@@ -5,9 +5,13 @@ Strategieerwerb fördern? Zeitschrift für pädagogische Psychologie , 22(2), 11
 125. 
 
    Tags & Topics:
-   #Strategieerwerb
    #Können
+   #Zeitschrift
+   #Strategieerwerb
+   #Ruhe
    #wissen
    #Wissens
-   #Ruhe
-   #Zeitschrift
+
+[Previous: #4 Forschungsstrategien_30](4 Forschungsstrategien_30.md)
+
+[Next: #4 Forschungsstrategien_30](4 Forschungsstrategien_30.md)

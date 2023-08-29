@@ -5,5 +5,9 @@ Die Hexadezimalzahl x = F8hexhat die dezimale Darstellung
 15 x 161+ 8 x 160= 240 + 8 = 248 Konvertierung Dez -> Bin durch Divisionsmethode 
 
    Tags & Topics:
-   #Hexadezimalzahl
    #Oktalzahl
+   #Hexadezimalzahl
+
+[Previous: #Einführung-IT-Teil2_28](Einführung-IT-Teil2_28.md)
+
+[Next: #Einführung-IT-Teil2_28](Einführung-IT-Teil2_28.md)

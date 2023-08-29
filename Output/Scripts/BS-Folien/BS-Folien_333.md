@@ -5,7 +5,11 @@
 ⇒Treﬀerrate muss extrem hoch sein (lohnt in der Praxis selten ).
 
    Tags & Topics:
-   #⊲Prozessorzeit
-   #⊲Platz
    #Platten
+   #⊲Prozessorzeit
    #Platte
+   #⊲Platz
+
+[Previous: #BS-Folien_334](BS-Folien_334.md)
+
+[Next: #BS-Folien_334](BS-Folien_334.md)

@@ -5,10 +5,14 @@ private Semaphore printer = newSemaphore (1);
 private Semaphore tape = newSemaphore (1);
 
    Tags & Topics:
+   #einenFehler
    #Problem
-   #problem
    #newSemaphore
+   #problem
    #Wenn
    #einenfehler
    #DiskutierenSie
-   #einenFehler
+
+[Previous: #BS-Uebungen_70](BS-Uebungen_70.md)
+
+[Next: #BS-Uebungen_70](BS-Uebungen_70.md)

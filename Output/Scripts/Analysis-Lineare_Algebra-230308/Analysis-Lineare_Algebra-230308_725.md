@@ -6,3 +6,7 @@ und damit die Eigenwerte λ1= 2undλ2= 3mit Eigenvektoren
 
    Tags & Topics:
    
+
+[Previous: #Analysis-Lineare_Algebra-230308_726](Analysis-Lineare_Algebra-230308_726.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_726](Analysis-Lineare_Algebra-230308_726.md)

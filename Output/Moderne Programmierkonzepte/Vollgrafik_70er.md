@@ -1,14 +1,21 @@
-# ## #Vollgrafik 70er 
+### Vollgrafik 70er
 
- - #WIMP #Oberflächen 
+- WIMP Oberflächen
 
-	 - #windows 
-	 - #icons 
-	 - menus 
-	 - pointing #devices 
+	- windows
+	- icons
+	- menus
+	- pointing devices
 
- - #WYSIWYG 
+- WYSIWYG
 
-	 - " what you see is what you get " #
+	- "what you see is what you get"
 
- - #Direkt am #Bildschirm #Arbeiten #
+- Direkt am Bildschirm Arbeiten
+
+   Tags & Topics:
+   #Vollgrafik
+   #Arbeit
+   #Oberflächen
+   #vollgrafik
+   #Arbeiten

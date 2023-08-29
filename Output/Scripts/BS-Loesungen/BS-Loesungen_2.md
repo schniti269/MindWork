@@ -6,8 +6,12 @@
 
    Tags & Topics:
    #IER-Register
+   #Hautpspeicher
+   #Pointer
+   #Main-Memory
    #Stack
    #Stack-Pointer-Register
-   #Main-Memory
-   #Pointer
-   #Hautpspeicher
+
+[Previous: #BS-Loesungen_20](BS-Loesungen_20.md)
+
+[Next: #BS-Loesungen_20](BS-Loesungen_20.md)

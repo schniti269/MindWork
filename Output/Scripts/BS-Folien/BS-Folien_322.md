@@ -5,9 +5,13 @@ Speicherung der Seitentabellen
 bei 32-Bit Adressen:
 
    Tags & Topics:
-   #Seitentabellen
    #Eﬃzienz
-   #Adresse
-   #Speicherung
-   #Seitentabelle
    #Platzbedarf
+   #Speicherung
+   #Seitentabellen
+   #Adresse
+   #Seitentabelle
+
+[Previous: #BS-Folien_323](BS-Folien_323.md)
+
+[Next: #BS-Folien_323](BS-Folien_323.md)

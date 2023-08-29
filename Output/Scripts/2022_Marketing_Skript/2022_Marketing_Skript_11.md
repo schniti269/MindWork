@@ -5,25 +5,29 @@
 16www.dhbw.deMarketing
 
    Tags & Topics:
-   #Preis
-   #Zahlungsbereitschaften
-   #Produkt
-   #Jahre
-   #Themen
-   #1.2.
-   #Preisstrategie
-   #BetriebssystemPrice
-   #Preise
-   #Jahr
-   #Plus
-   #Thema
-   #Marke
-   #Zahlungsbereitschaft
    #MixBeispielhafte
-   #Preispolitik
+   #Zahlungsbereitschaften
    #Umsatz
+   #Preis
    #Produktprogramm
-   #ProdukteWie
-   #Abo-Länge
+   #BetriebssystemPrice
+   #Produkt
    #Abo
    #Produkte
+   #Jahre
+   #Thema
+   #Preisstrategie
+   #Preispolitik
+   #Themen
+   #Marke
+   #Zahlungsbereitschaft
+   #ProdukteWie
+   #1.2.
+   #Jahr
+   #Preise
+   #Abo-Länge
+   #Plus
+
+[Previous: #2022_Marketing_Skript_110](2022_Marketing_Skript_110.md)
+
+[Next: #2022_Marketing_Skript_110](2022_Marketing_Skript_110.md)

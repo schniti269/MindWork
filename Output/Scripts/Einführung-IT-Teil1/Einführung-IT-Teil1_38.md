@@ -5,10 +5,14 @@ dieser Rechner „rundum“, also um 360 Grad, alle Ansprüche befriedigen könn
 auch zahlreiche weitere Programmiersprachen wie BASIC, PL/1, PASCAL etc. auf den Markt.Computer -Generationen/3
 
    Tags & Topics:
-   #Platz
-   #-Generationen/3
-   #Ansprüche
-   #Anspruch
-   #Programmiersprache
-   #Programmiersprachen
    #PL/1
+   #Platz
+   #Anspruch
+   #Ansprüche
+   #Programmiersprachen
+   #-Generationen/3
+   #Programmiersprache
+
+[Previous: #Einführung-IT-Teil1_39](Einführung-IT-Teil1_39.md)
+
+[Next: #Einführung-IT-Teil1_39](Einführung-IT-Teil1_39.md)

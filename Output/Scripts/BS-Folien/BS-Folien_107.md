@@ -6,6 +6,10 @@ Durch eine eindeutige PID ( Process ID )
 
    Tags & Topics:
    #desContext
+   #Maschin
    #Startadresse
    #Prozesswarteschlang
-   #Maschin
+
+[Previous: #BS-Folien_108](BS-Folien_108.md)
+
+[Next: #BS-Folien_108](BS-Folien_108.md)

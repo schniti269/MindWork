@@ -6,3 +6,7 @@ resource.v()
 
    Tags & Topics:
    #TimerItrHdler
+
+[Previous: #BS-Uebungen_14](BS-Uebungen_14.md)
+
+[Next: #BS-Uebungen_14](BS-Uebungen_14.md)

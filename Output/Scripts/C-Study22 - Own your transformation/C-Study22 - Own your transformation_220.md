@@ -6,3 +6,7 @@ also to continue building long-term, agile strategies.”
 
    Tags & Topics:
    
+
+[Previous: #C-Study22 - Own your transformation_221](C-Study22 - Own your transformation_221.md)
+
+[Next: #C-Study22 - Own your transformation_221](C-Study22 - Own your transformation_221.md)

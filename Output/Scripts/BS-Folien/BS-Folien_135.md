@@ -5,13 +5,17 @@ Realisierung des gegenseitigen Ausschlusses ohne die Verw endung spezieller Hard
 gezeigt hat.
 
    Tags & Topics:
-   #Ausschluß
-   #Verfahren
    #Ausschlusses
    #Existenz
-   #Warten
    #⋄Dies
-   #Algorithmus
-   #warten
-   #Verfahrens
    #Hardware
+   #Verfahrens
+   #warten
+   #Ausschluß
+   #Algorithmus
+   #Verfahren
+   #Warten
+
+[Previous: #BS-Folien_136](BS-Folien_136.md)
+
+[Next: #BS-Folien_136](BS-Folien_136.md)

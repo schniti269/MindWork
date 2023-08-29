@@ -6,3 +6,7 @@ Anforderung
 
    Tags & Topics:
    
+
+[Previous: #BS-Loesungen_15](BS-Loesungen_15.md)
+
+[Next: #BS-Loesungen_15](BS-Loesungen_15.md)

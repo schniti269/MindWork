@@ -1,7 +1,13 @@
-# ## #Ansatzweise 
+### Ansatzweise
 
- - #Nutzung #Marktchancen 
+- Nutzung Marktchancen
 
-	 - 
+	- 
 
- - 
+- 
+
+   Tags & Topics:
+   #Nutzung
+   #Marktchancen
+   #Marktchance
+   #Ansatzweise

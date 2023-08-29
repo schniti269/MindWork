@@ -5,11 +5,15 @@ Prof. Dr. Henning Pagnia (DHBW Mannheim) Advanced IT Herbst 2023 10/132Unix Arbe
 Unix-Befehle (Forts.)
 
    Tags & Topics:
-   #Anlegen
-   #Befehle
    #Arbeit
+   #Befehle
    #Arbeiten
    #Symbolic
+   #Symbolic-Link
    #anlegen
    #¨Andern
-   #Symbolic-Link
+   #Anlegen
+
+[Previous: #AdvIT-Folien_240](AdvIT-Folien_240.md)
+
+[Next: #AdvIT-Folien_240](AdvIT-Folien_240.md)

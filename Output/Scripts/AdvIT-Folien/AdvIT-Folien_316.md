@@ -7,3 +7,7 @@ unzuverl¨assig (⇒keine Fehlerkontrolle)
    Tags & Topics:
    #100/132Server
    #Fehlerkontrolle
+
+[Previous: #AdvIT-Folien_317](AdvIT-Folien_317.md)
+
+[Next: #AdvIT-Folien_317](AdvIT-Folien_317.md)

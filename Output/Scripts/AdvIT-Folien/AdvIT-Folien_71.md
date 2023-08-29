@@ -6,3 +6,7 @@ Prof. Dr. Henning Pagnia (DHBW Mannheim) Advanced IT Herbst 2023 23/132Prozesse,
 
    Tags & Topics:
    #Nebenl¨auﬁgkeit
+
+[Previous: #AdvIT-Folien_72](AdvIT-Folien_72.md)
+
+[Next: #AdvIT-Folien_72](AdvIT-Folien_72.md)

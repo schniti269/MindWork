@@ -5,8 +5,12 @@ Dateisysteme
 Schichtenmodell eines Dateisystems................... .........151
 
    Tags & Topics:
-   #Schichtenmodell
    #Dateisysteme
-   #Dateisystem
    #Speicher
+   #Schichtenmodell
+   #Dateisystem
    #Speicherverwaltung
+
+[Previous: #BS-Folien_50](BS-Folien_50.md)
+
+[Next: #BS-Folien_50](BS-Folien_50.md)

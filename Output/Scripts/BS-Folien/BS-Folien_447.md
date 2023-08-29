@@ -5,13 +5,17 @@
 •Zugriﬀ auf ein bestehendes Dateisystem durch den mount-Befehl.
 
    Tags & Topics:
-   #•DasRoot
    #Festplatte
    #•Erweiterung
-   #•Partitionierung
    #dieUrlade
-   #denBoot
-   #Vorgang
-   #Einrichtung
+   #•DasRoot
    #dieUrlade-Informationen
+   #Einrichtung
+   #Vorgang
+   #•Partitionierung
+   #denBoot
    #Filesystem
+
+[Previous: #BS-Folien_448](BS-Folien_448.md)
+
+[Next: #BS-Folien_448](BS-Folien_448.md)

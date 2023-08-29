@@ -5,7 +5,11 @@ Umsetzung in Java
 import java.net.*;
 
    Tags & Topics:
-   #Kommunikations-Socket
-   #Kommunikations
-   #Umsetzung
    #122/132Server
+   #Kommunikations-Socket
+   #Umsetzung
+   #Kommunikations
+
+[Previous: #AdvIT-Folien_376](AdvIT-Folien_376.md)
+
+[Next: #AdvIT-Folien_376](AdvIT-Folien_376.md)

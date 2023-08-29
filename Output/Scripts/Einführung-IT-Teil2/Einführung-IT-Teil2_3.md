@@ -5,7 +5,11 @@ einen Informationsgehalt von n Bit.
 •Der Informationsgehalt einer Nachricht ist eine Größe, die angibt, wie viel Information in dieser Nachricht 
 
    Tags & Topics:
-   #Informationsgehalt
-   #Maßeinheit
    #Umstand
    #Text
+   #Informationsgehalt
+   #Maßeinheit
+
+[Previous: #Einführung-IT-Teil2_30](Einführung-IT-Teil2_30.md)
+
+[Next: #Einführung-IT-Teil2_30](Einführung-IT-Teil2_30.md)

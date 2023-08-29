@@ -5,5 +5,9 @@ Aufgabe 16 (Bearbeitungszeit: max. 30 min)
 Skizzieren Sie, wie der File-Server mit den folgenden Imple mentierungsvarianten aussehen w ¨urde:
 
    Tags & Topics:
-   #L¨osungsvorschlag
    #File
+   #L¨osungsvorschlag
+
+[Previous: #AdvIT-Aufgaben_34](AdvIT-Aufgaben_34.md)
+
+[Next: #AdvIT-Aufgaben_34](AdvIT-Aufgaben_34.md)

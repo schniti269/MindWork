@@ -5,6 +5,10 @@ operating on hybrid cloud
 platforms as they scale to 
 
    Tags & Topics:
-   #Innovativ
    #Percentages
+   #Innovativ
    #percentage
+
+[Previous: #C-Study22 - Own your transformation_178](C-Study22 - Own your transformation_178.md)
+
+[Next: #C-Study22 - Own your transformation_178](C-Study22 - Own your transformation_178.md)

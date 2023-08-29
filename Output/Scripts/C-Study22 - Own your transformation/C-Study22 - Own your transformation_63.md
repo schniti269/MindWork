@@ -6,3 +6,7 @@ forward-thinking CEOs is that open innovation
 
    Tags & Topics:
    
+
+[Previous: #C-Study22 - Own your transformation_64](C-Study22 - Own your transformation_64.md)
+
+[Next: #C-Study22 - Own your transformation_64](C-Study22 - Own your transformation_64.md)

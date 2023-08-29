@@ -6,3 +6,7 @@ public method( ... ) throws exceptionType1, exceptionType 2,...
 
    Tags & Topics:
    #exception
+
+[Previous: #AdvIT-Folien_174](AdvIT-Folien_174.md)
+
+[Next: #AdvIT-Folien_174](AdvIT-Folien_174.md)

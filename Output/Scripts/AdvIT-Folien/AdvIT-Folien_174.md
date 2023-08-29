@@ -6,3 +6,7 @@ Catching Exceptions
 
    Tags & Topics:
    #Catching
+
+[Previous: #AdvIT-Folien_175](AdvIT-Folien_175.md)
+
+[Next: #AdvIT-Folien_175](AdvIT-Folien_175.md)

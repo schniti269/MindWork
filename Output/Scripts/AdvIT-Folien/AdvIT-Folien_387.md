@@ -6,3 +6,7 @@ public  String  (byte[] bytes, int start, int length)
 
    Tags & Topics:
    #KopiertlengthZeichen
+
+[Previous: #AdvIT-Folien_388](AdvIT-Folien_388.md)
+
+[Next: #AdvIT-Folien_388](AdvIT-Folien_388.md)

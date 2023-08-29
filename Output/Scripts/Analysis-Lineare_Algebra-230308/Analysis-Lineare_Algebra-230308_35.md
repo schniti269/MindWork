@@ -6,3 +6,7 @@ dieser eventuell noch sehr unpraktisch und sollte vereinfacht oder zusammengefas
 
    Tags & Topics:
    #Anlagekapital
+
+[Previous: #Analysis-Lineare_Algebra-230308_350](Analysis-Lineare_Algebra-230308_350.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_350](Analysis-Lineare_Algebra-230308_350.md)

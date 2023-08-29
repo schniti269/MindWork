@@ -6,5 +6,9 @@ Laufzeitsystem implementiert als Bibliothek: User-Level Threads Package
 
    Tags & Topics:
    #Level
-   #Laufzeitsystem
    #level
+   #Laufzeitsystem
+
+[Previous: #AdvIT-Folien_78](AdvIT-Folien_78.md)
+
+[Next: #AdvIT-Folien_78](AdvIT-Folien_78.md)

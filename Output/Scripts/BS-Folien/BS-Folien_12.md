@@ -5,7 +5,11 @@ Betriebssysteme DHBW Mannheim ©Henning Pagnia Version 4.23 Fr¨uhjahr 2023 BS�
 Was ist ein Betriebssystem?
 
    Tags & Topics:
-   #Auflage
+   #Studium
    #Andrew
    #BS–6Einleitung
-   #Studium
+   #Auflage
+
+[Previous: #BS-Folien_120](BS-Folien_120.md)
+
+[Next: #BS-Folien_120](BS-Folien_120.md)

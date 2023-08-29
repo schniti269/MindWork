@@ -5,6 +5,10 @@ Leser-Schreiber-Problem (Forts.)
 Schreiberpriorit ¨at – Erl¨auterung des Codes
 
    Tags & Topics:
+   #79/132Speicherbasierte
    #Schreiberpriorit
    #Erl¨auterung
-   #79/132Speicherbasierte
+
+[Previous: #AdvIT-Folien_247](AdvIT-Folien_247.md)
+
+[Next: #AdvIT-Folien_247](AdvIT-Folien_247.md)

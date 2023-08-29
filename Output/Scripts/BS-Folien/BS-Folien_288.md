@@ -6,3 +6,7 @@ Buddy-System:
 
    Tags & Topics:
    #Fit
+
+[Previous: #BS-Folien_289](BS-Folien_289.md)
+
+[Next: #BS-Folien_289](BS-Folien_289.md)

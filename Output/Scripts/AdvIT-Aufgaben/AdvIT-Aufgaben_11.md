@@ -5,5 +5,9 @@ Aufgabe 7
 Aufgabe 7 (Bearbeitungszeit: max. 20 min)
 
    Tags & Topics:
-   #Bearbeitungszeit
    #Prof.
+   #Bearbeitungszeit
+
+[Previous: #AdvIT-Aufgaben_12](AdvIT-Aufgaben_12.md)
+
+[Next: #AdvIT-Aufgaben_12](AdvIT-Aufgaben_12.md)

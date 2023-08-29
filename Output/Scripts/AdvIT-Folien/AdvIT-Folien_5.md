@@ -6,5 +6,9 @@ Sockets
 
    Tags & Topics:
    #Socket
-   #socket
    #Multi
+   #socket
+
+[Previous: #AdvIT-Folien_50](AdvIT-Folien_50.md)
+
+[Next: #AdvIT-Folien_50](AdvIT-Folien_50.md)

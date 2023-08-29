@@ -5,7 +5,11 @@
 •Bei Verwendung einer HPF-Strategie ist ein Aushungern (Starvation ) von Prozessen prinzi-
 
    Tags & Topics:
-   #HPF
    #HPF-Strategie
-   #Aushungern
    #Starvation
+   #Aushungern
+   #HPF
+
+[Previous: #BS-Folien_195](BS-Folien_195.md)
+
+[Next: #BS-Folien_195](BS-Folien_195.md)

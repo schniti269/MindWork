@@ -5,9 +5,13 @@ First-Come-First-Served ( FCFS)
 •Einfache Implementierung →Verwendung einer FIFO-Warteschlange.
 
    Tags & Topics:
-   #Served
-   #FIFO-Warteschlange
-   #•Auswahl
    #Verdr
-   #→Verwendung
+   #Served
    #→verwendung
+   #→Verwendung
+   #•Auswahl
+   #FIFO-Warteschlange
+
+[Previous: #BS-Folien_179](BS-Folien_179.md)
+
+[Next: #BS-Folien_179](BS-Folien_179.md)

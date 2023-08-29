@@ -6,5 +6,9 @@ Hauptspeicherverwaltung und -zuteilung
 
    Tags & Topics:
    #BS–109Speicherverwaltung
-   #bs–109speicherverwaltung
    #Programmtei
+   #bs–109speicherverwaltung
+
+[Previous: #BS-Folien_264](BS-Folien_264.md)
+
+[Next: #BS-Folien_264](BS-Folien_264.md)

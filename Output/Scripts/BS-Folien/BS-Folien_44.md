@@ -5,6 +5,10 @@ Betriebssysteme DHBW Mannheim ©Henning Pagnia Version 4.23 Fr¨uhjahr 2023 BS�
 Komponenten
 
    Tags & Topics:
-   #AAdressbus
    #Architektur
+   #AAdressbus
    #Hardware
+
+[Previous: #BS-Folien_440](BS-Folien_440.md)
+
+[Next: #BS-Folien_440](BS-Folien_440.md)

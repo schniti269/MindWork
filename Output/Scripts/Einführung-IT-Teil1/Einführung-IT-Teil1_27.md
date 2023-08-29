@@ -5,10 +5,14 @@ Elektrische Bauelemente
 •Relais, 1835 –1950, J. Henry, , ein elektromagnetisch wirkender, fernbetätigter Schalter 
 
    Tags & Topics:
+   #Bauelemente
    #alliierter
+   #Enigma
    #Entschlüsselung
    #Nachrichtenverkehrs
-   #Bauelemente
-   #Enigma
-   #Nachrichtenverkehr
    #Alliierten
+   #Nachrichtenverkehr
+
+[Previous: #Einführung-IT-Teil1_28](Einführung-IT-Teil1_28.md)
+
+[Next: #Einführung-IT-Teil1_28](Einführung-IT-Teil1_28.md)

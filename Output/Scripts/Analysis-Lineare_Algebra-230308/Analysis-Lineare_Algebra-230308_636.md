@@ -5,9 +5,13 @@ Im Gegensatz zu anderen gröberen Verfahren können Newton-Iterationen besonders
 Genauigkeit erreichen, wenn die Lösung schon in der Nähe ist.
 
    Tags & Topics:
-   #Näherungsmethode
-   #Näherungsmethoden
    #Sekanten-Verfahren
-   #Newton-Iterationen
-   #Iterationen
    #Newton
+   #Näherungsmethoden
+   #Iterationen
+   #Newton-Iterationen
+   #Näherungsmethode
+
+[Previous: #Analysis-Lineare_Algebra-230308_637](Analysis-Lineare_Algebra-230308_637.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_637](Analysis-Lineare_Algebra-230308_637.md)

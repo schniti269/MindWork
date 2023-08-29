@@ -6,3 +6,7 @@ perspectives and focus. In our next chapter, we’ll do a deeper dive into initi
 
    Tags & Topics:
    #UK17
+
+[Previous: #C-Study22 - Own your transformation_79](C-Study22 - Own your transformation_79.md)
+
+[Next: #C-Study22 - Own your transformation_79](C-Study22 - Own your transformation_79.md)

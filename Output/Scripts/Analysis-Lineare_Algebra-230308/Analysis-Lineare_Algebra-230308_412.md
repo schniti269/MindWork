@@ -6,3 +6,7 @@ f(x)dx+C
 
    Tags & Topics:
    #f(x)dx+C
+
+[Previous: #Analysis-Lineare_Algebra-230308_413](Analysis-Lineare_Algebra-230308_413.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_413](Analysis-Lineare_Algebra-230308_413.md)

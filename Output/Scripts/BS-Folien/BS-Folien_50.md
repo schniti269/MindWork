@@ -5,8 +5,12 @@ Betriebssysteme DHBW Mannheim ©Henning Pagnia Version 4.23 Fr¨uhjahr 2023 BS�
 Speicher
 
    Tags & Topics:
+   #A-Controller
+   #Hardware
    #⋄Kopier
    #⋄kopieren
    #Controller
-   #Hardware
-   #A-Controller
+
+[Previous: #BS-Folien_51](BS-Folien_51.md)
+
+[Next: #BS-Folien_51](BS-Folien_51.md)

@@ -6,3 +6,7 @@ reihenfolge fehler Ref C A Ref C A Ref C A zeiger
 
    Tags & Topics:
    #Second-Chance-Algorithmus
+
+[Previous: #BS-Loesungen_33](BS-Loesungen_33.md)
+
+[Next: #BS-Loesungen_33](BS-Loesungen_33.md)

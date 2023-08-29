@@ -7,3 +7,7 @@ Deadlocks (Forts.)
    Tags & Topics:
    #TPhase
    #tPhase
+
+[Previous: #AdvIT-Folien_121](AdvIT-Folien_121.md)
+
+[Next: #AdvIT-Folien_121](AdvIT-Folien_121.md)

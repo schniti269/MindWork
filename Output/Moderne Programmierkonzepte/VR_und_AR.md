@@ -1,9 +1,16 @@
-# ## #VR und AR 
+### VR und AR
 
- - #Immersion in die #VR 
+- Immersion in die VR
 
-	 - #Vr Brillen #
+	- Vr Brillen
 
- - #Überlagerung #bei AR 
+- Überlagerung bei AR
 
-	 - #Headsup #display #
+	- Headsup display
+
+   Tags & Topics:
+   #Brillen
+   #Immersion
+   #immersion
+   #Überlagerung
+   #Brille

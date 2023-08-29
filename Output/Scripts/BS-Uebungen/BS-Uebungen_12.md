@@ -6,3 +6,7 @@ Tragen Sie in die Tabelle den jeweils nach dem Aufruf vorliegenden Systemzustand
 
    Tags & Topics:
    #Systemzustand
+
+[Previous: #BS-Uebungen_13](BS-Uebungen_13.md)
+
+[Next: #BS-Uebungen_13](BS-Uebungen_13.md)

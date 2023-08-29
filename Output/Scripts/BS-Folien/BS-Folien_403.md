@@ -6,3 +6,7 @@ Anzahl Bl ¨ocke✲
 
    Tags & Topics:
    
+
+[Previous: #BS-Folien_404](BS-Folien_404.md)
+
+[Next: #BS-Folien_404](BS-Folien_404.md)

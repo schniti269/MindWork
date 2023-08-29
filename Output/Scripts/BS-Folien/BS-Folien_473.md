@@ -5,5 +5,9 @@ Unterst¨utzung großer Platten
 symbolische Links und Hardlinks
 
    Tags & Topics:
-   #Unicode
    #Hardlink
+   #Unicode
+
+[Previous: #BS-Folien_474](BS-Folien_474.md)
+
+[Next: #BS-Folien_474](BS-Folien_474.md)

@@ -5,6 +5,10 @@ Sp¨atestens im Hauptprogramm sollten Exceptions behandelt ( gefangen) werden
     } // end try
 
    Tags & Topics:
-   #Sp¨atestens
-   #Programmcode
    #Fehlerbehandlung
+   #Programmcode
+   #Sp¨atestens
+
+[Previous: #AdvIT-Folien_176](AdvIT-Folien_176.md)
+
+[Next: #AdvIT-Folien_176](AdvIT-Folien_176.md)

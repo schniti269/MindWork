@@ -5,6 +5,10 @@
 ⊲Ein Bit-Vektor gibt f ¨ur jeden Block an, ob er frei oder belegt ist.
 
    Tags & Topics:
+   #Stufe
    #Bit-Vektor
    #⋄Vektormethode
-   #Stufe
+
+[Previous: #BS-Folien_403](BS-Folien_403.md)
+
+[Next: #BS-Folien_403](BS-Folien_403.md)

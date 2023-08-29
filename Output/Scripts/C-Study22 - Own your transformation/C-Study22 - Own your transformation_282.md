@@ -6,3 +6,7 @@ Federation. June 2020. https://ibm.co/consumer-2020
 
    Tags & Topics:
    #Why
+
+[Previous: #C-Study22 - Own your transformation_283](C-Study22 - Own your transformation_283.md)
+
+[Next: #C-Study22 - Own your transformation_283](C-Study22 - Own your transformation_283.md)

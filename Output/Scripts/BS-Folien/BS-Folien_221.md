@@ -5,8 +5,12 @@ ioStart
 ⋄Anstoßen bzw. Anmelden der E/A-Operation.
 
    Tags & Topics:
-   #A-Schnittstell
-   #Prozessverwa
-   #⋄Anstoßen
    #Asynchrone
    #Anmelde
+   #⋄Anstoßen
+   #Prozessverwa
+   #A-Schnittstell
+
+[Previous: #BS-Folien_222](BS-Folien_222.md)
+
+[Next: #BS-Folien_222](BS-Folien_222.md)

@@ -5,5 +5,9 @@
 Die fortgesetzte Division einer Dezimalzahl durch Basis B, der Divisionsrest liefert die Koeffizienten a0bis anfür die 
 
    Tags & Topics:
-   #Dezimalzahl
    #Divisionsrest
+   #Dezimalzahl
+
+[Previous: #Einführung-IT-Teil2_32](Einführung-IT-Teil2_32.md)
+
+[Next: #Einführung-IT-Teil2_32](Einführung-IT-Teil2_32.md)

@@ -1,18 +1,30 @@
-# ## Grundsätze und #Prinzipien 
+### Grundsätze und Prinzipien
 
- - #Grundsätze 
+- Grundsätze
 
-	 - #Vollständigkeit 
-	 - #Reinheit #
-	 - #Einheitlichkeit #
-	 - #Wirtschaftlichkeit 
+	- Vollständigkeit
+	- Reinheit
+	- Einheitlichkeit
+	- Wirtschaftlichkeit
 
-		 - Angemessene #qualität #
-		 - #Angemessener #Umfang 
+		- Angemessene qualität
+		- Angemessener Umfang
 
- - #Prinzipien 
+- Prinzipien
 
-	 - #Verursachungsprinzip 
-	 - #Benaspruchungsprinzip 
-	 - #Durchschnittsprinzip 
-	 - #Tragfähigkeitsprinzip 
+	- Verursachungsprinzip
+	- Benaspruchungsprinzip
+	- Durchschnittsprinzip
+	- Tragfähigkeitsprinzip
+
+   Tags & Topics:
+   #Einheitlichkeit
+   #Durchschnittsprinzip
+   #Grundsätze
+   #Prinzip
+   #Benaspruchungsprinzip
+   #Prinzipien
+   #Reinheit
+   #Wirtschaftlichkeit
+   #Verursachungsprinzip
+   #angemessen

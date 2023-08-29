@@ -5,11 +5,15 @@ robusteren Transistoren definiert. Der erste Rechner, 1955, von Bell Laboratorie
 100 Watt Leistungsaufnahme und enthielt 11.000 Dioden und 800 Transistoren 
 
    Tags & Topics:
-   #Watt
-   #Ersatz
+   #Rechner
    #-generationen/2
    #•Zeitalter
+   #Ersatz
+   #Rechners
    #Diod
    #Dioden
-   #Rechner
-   #Rechners
+   #Watt
+
+[Previous: #Einführung-IT-Teil1_36](Einführung-IT-Teil1_36.md)
+
+[Next: #Einführung-IT-Teil1_36](Einführung-IT-Teil1_36.md)

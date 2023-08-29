@@ -5,9 +5,13 @@ Für die Konversion der Nachkommastellen, erhält man die Koeffizienten ( = Ziff
 Multiplikation mit der Basis als den ganzzahligen Teil (d. h. die Vorkommastellen des Multiplikationsergebnisses) 
 
    Tags & Topics:
+   #Multiplikationsergebniß
+   #Dezimalbrüche
+   #dezimalbrüche
    #Dezimalzahl
    #Vorkommastellen
-   #dezimalbrüche
-   #Multiplikationsergebniß
    #27BChex
-   #Dezimalbrüche
+
+[Previous: #Einführung-IT-Teil2_36](Einführung-IT-Teil2_36.md)
+
+[Next: #Einführung-IT-Teil2_36](Einführung-IT-Teil2_36.md)

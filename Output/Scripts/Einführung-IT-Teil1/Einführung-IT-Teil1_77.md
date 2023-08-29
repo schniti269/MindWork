@@ -6,3 +6,7 @@ werden 12, 18 oder 24 Monate als Zeitraum genannt.
 
    Tags & Topics:
    #Computerchip
+
+[Previous: #Einführung-IT-Teil1_78](Einführung-IT-Teil1_78.md)
+
+[Next: #Einführung-IT-Teil1_78](Einführung-IT-Teil1_78.md)

@@ -5,16 +5,20 @@ Kommunikations-mittel
 Kommunikations-träger/-medium4.3. PromotionGrundlegende Begriffe und deren Abgrenzung
 
    Tags & Topics:
-   #Kommunikations-botschaft
-   #Mittel
+   #kommunikation
+   #Werbesendung
+   #Kommunika
    #Bot
    #Kommunikationsbotschaft
-   #Medium
-   #Werbesendung
-   #Begriff
-   #Bot-schaft
-   #Kommunika
-   #Kommunikationsmittel
-   #kommunikation
-   #Kommunikations
    #Begriffe
+   #Kommunikations-botschaft
+   #Begriff
+   #Kommunikations
+   #Mittel
+   #Kommunikationsmittel
+   #Bot-schaft
+   #Medium
+
+[Previous: #2022_Marketing_Skript_98](2022_Marketing_Skript_98.md)
+
+[Next: #2022_Marketing_Skript_98](2022_Marketing_Skript_98.md)

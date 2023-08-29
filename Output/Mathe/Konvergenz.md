@@ -1,3 +1,6 @@
-# ## #Konvergenz 
+### Konvergenz
 
- - #Lim - > x 
+- Lim -> x
+
+   Tags & Topics:
+   #Konvergenz

@@ -6,3 +6,7 @@ benefit of humanity.
 
    Tags & Topics:
    #•IEEE's
+
+[Previous: #Einführung-IT-Teil1_88](Einführung-IT-Teil1_88.md)
+
+[Next: #Einführung-IT-Teil1_88](Einführung-IT-Teil1_88.md)

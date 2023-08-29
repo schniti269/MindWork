@@ -5,5 +5,9 @@ Anforderungen an ein Betriebssystem
 Verwaltung von nebenl ¨auﬁgen Abl ¨aufen
 
    Tags & Topics:
-   #BS–7Einleitung
    #GeräteEditor
+   #BS–7Einleitung
+
+[Previous: #BS-Folien_140](BS-Folien_140.md)
+
+[Next: #BS-Folien_140](BS-Folien_140.md)

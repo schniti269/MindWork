@@ -5,10 +5,14 @@ Aggregierte Funktion:Absatz x
 Preis p321123Absatz xPreis p321123Absatz xPreis p321123Absatz xPreis p321123
 
    Tags & Topics:
-   #Nein
+   #p321123absatz
    #Funktion
    #Fall
    #Menge
    #FallVariable
-   #p321123absatz
    #P321123Absatz
+   #Nein
+
+[Previous: #2022_Marketing_Skript_85](2022_Marketing_Skript_85.md)
+
+[Next: #2022_Marketing_Skript_85](2022_Marketing_Skript_85.md)

@@ -5,6 +5,10 @@ theoretisch max.: 65507 Byte, in der Praxis jedoch oft nicht m ehr als 2 KiB
 Anwendungsfelder
 
    Tags & Topics:
-   #Nutzdat
    #Byte
    #Nutzdaten
+   #Nutzdat
+
+[Previous: #AdvIT-Folien_318](AdvIT-Folien_318.md)
+
+[Next: #AdvIT-Folien_318](AdvIT-Folien_318.md)

@@ -6,3 +6,7 @@ Q. Describe the state of your organization’s digitization efforts today?
 
    Tags & Topics:
    #Describe
+
+[Previous: #C-Study22 - Own your transformation_191](C-Study22 - Own your transformation_191.md)
+
+[Next: #C-Study22 - Own your transformation_191](C-Study22 - Own your transformation_191.md)

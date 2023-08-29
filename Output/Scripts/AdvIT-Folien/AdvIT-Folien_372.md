@@ -7,3 +7,7 @@ Socket-Objekt zur ¨uck,¨uber das mit dem Client kommuniziert werden kann
    Tags & Topics:
    #Objekt
    #Verbindung
+
+[Previous: #AdvIT-Folien_373](AdvIT-Folien_373.md)
+
+[Next: #AdvIT-Folien_373](AdvIT-Folien_373.md)

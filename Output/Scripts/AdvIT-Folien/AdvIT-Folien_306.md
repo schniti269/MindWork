@@ -6,3 +6,7 @@ der Threads warten k ¨onnen (und dabei die Monitorkontrolle aufgeben)
 
    Tags & Topics:
    #Condition
+
+[Previous: #AdvIT-Folien_307](AdvIT-Folien_307.md)
+
+[Next: #AdvIT-Folien_307](AdvIT-Folien_307.md)

@@ -7,3 +7,7 @@ Semaphore wirken hier auf Threads
    Tags & Topics:
    #Semaphor-Konzept
    #Konzept
+
+[Previous: #AdvIT-Folien_181](AdvIT-Folien_181.md)
+
+[Next: #AdvIT-Folien_181](AdvIT-Folien_181.md)

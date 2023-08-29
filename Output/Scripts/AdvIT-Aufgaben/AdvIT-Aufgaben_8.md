@@ -5,12 +5,16 @@ Tipp: Sie k ¨onnen im Shell-Script die auf der Kommandozeile ¨ubergebenen Para
 $1 bezeichnet den ersten, $2 den zweiten, ..., $@ alle Parame ter.
 
    Tags & Topics:
-   #Achten
-   #Papierkorb/
-   #wildcard
-   #Papierkorb
-   #Script
-   #Wildcard
-   #achten
    #Shell
+   #achten
    #Verzeichnisse
+   #wildcard
+   #Script
+   #Papierkorb/
+   #Wildcard
+   #Achten
+   #Papierkorb
+
+[Previous: #AdvIT-Aufgaben_9](AdvIT-Aufgaben_9.md)
+
+[Next: #AdvIT-Aufgaben_9](AdvIT-Aufgaben_9.md)

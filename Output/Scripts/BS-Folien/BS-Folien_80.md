@@ -8,3 +8,7 @@ Sequenzielles Programm
    #Programm
    #BS–33Einleitung
    #Hardware
+
+[Previous: #BS-Folien_81](BS-Folien_81.md)
+
+[Next: #BS-Folien_81](BS-Folien_81.md)

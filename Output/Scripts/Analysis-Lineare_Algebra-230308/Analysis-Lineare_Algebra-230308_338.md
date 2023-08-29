@@ -5,5 +5,9 @@ Satz3.7.Hat eine stetig differenzierbare Funktion f: [a, b]→Ranx∈(a, b)ein l
 oder lokales Maximum so gilt f′(x) = 0.
 
    Tags & Topics:
-   #Maximum
    #Minima
+   #Maximum
+
+[Previous: #Analysis-Lineare_Algebra-230308_339](Analysis-Lineare_Algebra-230308_339.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_339](Analysis-Lineare_Algebra-230308_339.md)

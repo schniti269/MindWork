@@ -5,6 +5,10 @@ Abb. 30 Bef ¨ahigungslistenSubjekt S Objekt
 TU
 
    Tags & Topics:
-   #System
    #Systemen
    #Bef
+   #System
+
+[Previous: #BS-Folien_422](BS-Folien_422.md)
+
+[Next: #BS-Folien_422](BS-Folien_422.md)

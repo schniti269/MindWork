@@ -5,9 +5,13 @@ Basismechanismen (Forts.)
 Spin-Lock mittels TSL
 
    Tags & Topics:
-   #Spin-Lock
-   #exitMutex
    #Spin
    #Integer
-   #exitmutex
+   #Spin-Lock
+   #exitMutex
    #Austrittsprotokoll
+   #exitmutex
+
+[Previous: #AdvIT-Folien_165](AdvIT-Folien_165.md)
+
+[Next: #AdvIT-Folien_165](AdvIT-Folien_165.md)

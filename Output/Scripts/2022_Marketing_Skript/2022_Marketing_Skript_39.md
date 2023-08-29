@@ -5,9 +5,13 @@ z.B. Identifikation der Kundenbedürfnissez.B. Analyse der Kundenloyalitätz.B. 
 62www.dhbw.deMarketing
 
    Tags & Topics:
-   #Wettbewerberz
-   #Kundenbedürfnissez
-   #Kundenloyalitätz
-   #Marktvolumen
    #Kundensegmentez
+   #Kundenbedürfnissez
+   #Marktvolumen
+   #Wettbewerberz
    #Segmente
+   #Kundenloyalitätz
+
+[Previous: #2022_Marketing_Skript_4](2022_Marketing_Skript_4.md)
+
+[Next: #2022_Marketing_Skript_4](2022_Marketing_Skript_4.md)

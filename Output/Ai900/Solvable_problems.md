@@ -1,6 +1,9 @@
-# ## Solvable #problems 
+### Solvable problems
 
- - #ML 
- - #Anomaly detect 
- - #comp #vision 
- - #NLP 
+- ML
+- Anomaly detect
+- comp vision 
+- NLP
+
+   Tags & Topics:
+   #Anomaly

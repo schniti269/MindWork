@@ -6,3 +6,7 @@ Wichtige Methoden
 
    Tags & Topics:
    #125/132Server
+
+[Previous: #AdvIT-Folien_384](AdvIT-Folien_384.md)
+
+[Next: #AdvIT-Folien_384](AdvIT-Folien_384.md)

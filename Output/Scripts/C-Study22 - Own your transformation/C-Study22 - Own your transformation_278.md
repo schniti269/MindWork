@@ -6,3 +6,7 @@ IBM Institute for Business Value. May 2022.
 
    Tags & Topics:
    #Granger
+
+[Previous: #C-Study22 - Own your transformation_279](C-Study22 - Own your transformation_279.md)
+
+[Next: #C-Study22 - Own your transformation_279](C-Study22 - Own your transformation_279.md)

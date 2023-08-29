@@ -5,14 +5,18 @@ Preis pε-ε x,-Multiplikative PAF:x = ap-bwww.dhbw.deMarketing
 4.2. PricePreisbestimmung (Gewinnoptimaler Preis)
 
    Tags & Topics:
-   #Maß
+   #bwww.dhbw.deMarketing
+   #Absatzes
+   #Verhältnis
    #Preis
    #Absatz
-   #bwww.dhbw.deMarketing
-   #Preiselastizität
-   #Verhältnis
-   #Wirkung
+   #Maß
    #Änderung
-   #bpa1b2abaPreis
    #123Lineare
-   #Absatzes
+   #bpa1b2abaPreis
+   #Wirkung
+   #Preiselastizität
+
+[Previous: #2022_Marketing_Skript_9](2022_Marketing_Skript_9.md)
+
+[Next: #2022_Marketing_Skript_9](2022_Marketing_Skript_9.md)

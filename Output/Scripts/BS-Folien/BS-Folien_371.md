@@ -5,7 +5,11 @@ DATEISYSTEME
 ¨Uberblick
 
    Tags & Topics:
+   #Kopien
    #BS–147Dateisystem
    #Kopie
    #bs–147dateisysteme
-   #Kopien
+
+[Previous: #BS-Folien_372](BS-Folien_372.md)
+
+[Next: #BS-Folien_372](BS-Folien_372.md)

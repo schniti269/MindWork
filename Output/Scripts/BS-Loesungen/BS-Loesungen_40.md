@@ -6,3 +6,7 @@ LRU 3 + 5 = 8
 
    Tags & Topics:
    
+
+[Previous: #BS-Loesungen_41](BS-Loesungen_41.md)
+
+[Next: #BS-Loesungen_41](BS-Loesungen_41.md)

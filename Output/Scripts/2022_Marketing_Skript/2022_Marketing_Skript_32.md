@@ -5,25 +5,29 @@ vgl. Homburg 2015, S. 110ff.49www.dhbw.deMarketing
 2.3 KaufentscheidungWiederkehrende Kaufentscheidungen (3/6)Berechnung der Gleichgewichtsmarktanteile in vier Schritten: 1.Bildung der Fluktuationsmatrix durch Ermittlung der Übergangswahrscheinlichkeiten (Kundenloyalität):
 
    Tags & Topics:
-   #Fragestellung
-   #kundenloyalität
-   #KäuferfluktuationKäufer
-   #Gleichgewichtszustand
-   #Zuwanderungen
-   #6)Berechnung
    #Gleichgewichtsmarktanteile
+   #6)Berechnung
+   #KäuferfluktuationKäufer
+   #Abwanderung
+   #Darstellung
    #Zuwanderung
+   #fluktuationsmatrix(enthält
    #Grundannahme
+   #kundenloyalität
+   #Kundenloyalität
+   #Gleichgewichtszustand
    #1.Bildung
+   #Übergangswahrscheinlichkeiten
+   #Käufer
+   #Zuwanderungen
    #Abwanderungen
    #Übergangswahrscheinlichkeiter
-   #Käufer
-   #Darstellung
-   #Übergangswahrscheinlichkeiten
-   #käuferfluktuation
-   #Käuferfluktuation
-   #Abwanderung
-   #Gleichgewichtsmarktanteil
-   #fluktuationsmatrix(enthält
    #1/6)
-   #Kundenloyalität
+   #Fragestellung
+   #käuferfluktuation
+   #Gleichgewichtsmarktanteil
+   #Käuferfluktuation
+
+[Previous: #2022_Marketing_Skript_33](2022_Marketing_Skript_33.md)
+
+[Next: #2022_Marketing_Skript_33](2022_Marketing_Skript_33.md)

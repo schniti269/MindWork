@@ -6,3 +6,7 @@ m[7,255]
 
    Tags & Topics:
    
+
+[Previous: #BS-Uebungen_7](BS-Uebungen_7.md)
+
+[Next: #BS-Uebungen_7](BS-Uebungen_7.md)

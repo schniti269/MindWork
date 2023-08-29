@@ -5,5 +5,9 @@ Der Prozess l ¨auft, bis er den Prozessor von selbst abgibt.
 •Verdr¨angende HPF-Strategie (PHPF) ( →preemptive ):
 
    Tags & Topics:
-   #HPF
    #HPF-Strategie
+   #HPF
+
+[Previous: #BS-Folien_191](BS-Folien_191.md)
+
+[Next: #BS-Folien_191](BS-Folien_191.md)

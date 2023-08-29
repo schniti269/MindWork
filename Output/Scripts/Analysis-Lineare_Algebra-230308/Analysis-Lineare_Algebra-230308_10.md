@@ -5,7 +5,11 @@ zu gruppieren und Aussagen auf in Mengen beschriebenen Klassen zu beschreiben. E
 Mengen zu beschreiben, ist die einfache Aufzählung der Elemente:
 
    Tags & Topics:
-   #Aufzählung
-   #Möglichkeit
    #sieermöglichte
+   #Möglichkeit
    #Sieermöglichtes
+   #Aufzählung
+
+[Previous: #Analysis-Lineare_Algebra-230308_100](Analysis-Lineare_Algebra-230308_100.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_100](Analysis-Lineare_Algebra-230308_100.md)

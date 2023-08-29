@@ -5,8 +5,12 @@
 •Paging Daemon
 
    Tags & Topics:
-   #⇒Verwendung
-   #→Echtzeit
-   #Daemon
    #Unterbrechungsroutin
    #Unterbrechungsroutinen
+   #⇒Verwendung
+   #Daemon
+   #→Echtzeit
+
+[Previous: #BS-Folien_363](BS-Folien_363.md)
+
+[Next: #BS-Folien_363](BS-Folien_363.md)

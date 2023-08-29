@@ -6,3 +6,7 @@ Anforderung
 
    Tags & Topics:
    #Bedienung
+
+[Previous: #BS-Uebungen_18](BS-Uebungen_18.md)
+
+[Next: #BS-Uebungen_18](BS-Uebungen_18.md)

@@ -5,6 +5,10 @@ dividiert; das Resultat, also 0 oder 1, gibt die nächste Binärstelle an, usw. 
 beliebige andere Basis umwandeln.
 
    Tags & Topics:
-   #Dezimalzahl
-   #Resultat
    #man
+   #Resultat
+   #Dezimalzahl
+
+[Previous: #Einführung-IT-Teil2_29](Einführung-IT-Teil2_29.md)
+
+[Next: #Einführung-IT-Teil2_29](Einführung-IT-Teil2_29.md)

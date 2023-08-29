@@ -5,15 +5,19 @@ Aktoren, Agenten und andere), der die Kommunikation der einzelnen Systeme untere
 •Gemeinsame Nutzung von Ressourcen wie Netzwerkdruckern, Servern, Dateien und Datenbanken, sowie die  zentrale Verwaltung 
 
    Tags & Topics:
-   #Netzwerkdrucker
-   #Server
-   #Agent
+   #LibrariesNetzwerke
+   #aktoren
+   #Agenten
+   #Netzwerkdruckern
    #Sensoren
    #Servern
-   #LibrariesNetzwerke
-   #Aktoren
-   #Netzwerkdruckern
    #Sensor
-   #Agenten
-   #aktoren
+   #Agent
    #Datenbanken
+   #Server
+   #Aktoren
+   #Netzwerkdrucker
+
+[Previous: #Einführung-IT-Teil1_72](Einführung-IT-Teil1_72.md)
+
+[Next: #Einführung-IT-Teil1_72](Einführung-IT-Teil1_72.md)

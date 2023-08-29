@@ -8,3 +8,7 @@ Der Wert des Semaphors l ¨asst sich wie folgt interpretieren
    #Aufrufe
    #Aufruf
    #Betrag
+
+[Previous: #AdvIT-Folien_171](AdvIT-Folien_171.md)
+
+[Next: #AdvIT-Folien_171](AdvIT-Folien_171.md)

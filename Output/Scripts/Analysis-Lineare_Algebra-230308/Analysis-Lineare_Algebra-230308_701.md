@@ -8,3 +8,7 @@ esλ1, λ2, λ3∈Raußer λ1=λ2=λ3= 0, so dass
    #Dimension
    #Erzeuger
    #Bild
+
+[Previous: #Analysis-Lineare_Algebra-230308_702](Analysis-Lineare_Algebra-230308_702.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_702](Analysis-Lineare_Algebra-230308_702.md)

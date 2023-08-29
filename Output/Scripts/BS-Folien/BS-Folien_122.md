@@ -8,3 +8,7 @@ Beispiel 1: P1 und P2 rufen gleichzeitig q.get()auf.
    #→fehler
    #•Es
    #→Fehler
+
+[Previous: #BS-Folien_123](BS-Folien_123.md)
+
+[Next: #BS-Folien_123](BS-Folien_123.md)

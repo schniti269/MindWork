@@ -6,8 +6,12 @@ Gestaltung der Verbundenheit
 
    Tags & Topics:
    #Differenzierung
-   #Verbundenheit
-   #Entscheidungsoption
    #Produktprogramm
-   #Produktprogramms
    #Entscheidungsoptionen
+   #Entscheidungsoption
+   #Verbundenheit
+   #Produktprogramms
+
+[Previous: #2022_Marketing_Skript_68](2022_Marketing_Skript_68.md)
+
+[Next: #2022_Marketing_Skript_68](2022_Marketing_Skript_68.md)

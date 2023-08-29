@@ -7,3 +7,7 @@ ein Prozess (Thread) l ¨auft erst bei Verf ¨ugbarkeit aller Betriebsmittel los
    Tags & Topics:
    #Zuteilung
    #⇒B2
+
+[Previous: #AdvIT-Folien_118](AdvIT-Folien_118.md)
+
+[Next: #AdvIT-Folien_118](AdvIT-Folien_118.md)

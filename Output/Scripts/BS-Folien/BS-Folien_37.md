@@ -6,6 +6,10 @@ Betriebssysteme DHBW Mannheim ©Henning Pagnia Version 4.23 Fr¨uhjahr 2023 BS�
 
    Tags & Topics:
    #Betriebsarten
-   #→Notbremsung
-   #Betriebsart
    #Echtzeitanforderung
+   #Betriebsart
+   #→Notbremsung
+
+[Previous: #BS-Folien_370](BS-Folien_370.md)
+
+[Next: #BS-Folien_370](BS-Folien_370.md)

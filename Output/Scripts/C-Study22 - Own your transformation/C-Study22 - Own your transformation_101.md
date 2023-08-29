@@ -6,3 +6,7 @@ help with predictability. These workflows can help
 
    Tags & Topics:
    
+
+[Previous: #C-Study22 - Own your transformation_102](C-Study22 - Own your transformation_102.md)
+
+[Next: #C-Study22 - Own your transformation_102](C-Study22 - Own your transformation_102.md)

@@ -5,11 +5,15 @@ der Hardware-Caches
 Bearbeitung von gemeinsam verwendeten Daten erfordert Sys tem-Call
 
    Tags & Topics:
+   #Nachteile
    #Nachteil
    #Caches
-   #Multi
-   #Nachteile
-   #Sys
+   #Hardware
    #Adressraumwechsel
    #Zeitaufwand
-   #Hardware
+   #Sys
+   #Multi
+
+[Previous: #AdvIT-Folien_49](AdvIT-Folien_49.md)
+
+[Next: #AdvIT-Folien_49](AdvIT-Folien_49.md)

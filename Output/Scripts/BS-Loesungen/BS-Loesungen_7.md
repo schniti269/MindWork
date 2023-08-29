@@ -6,3 +6,7 @@ mutex.p()
 
    Tags & Topics:
    #•Es
+
+[Previous: #BS-Loesungen_8](BS-Loesungen_8.md)
+
+[Next: #BS-Loesungen_8](BS-Loesungen_8.md)

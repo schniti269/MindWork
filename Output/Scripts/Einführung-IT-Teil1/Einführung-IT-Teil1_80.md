@@ -6,3 +6,7 @@ Gates 1981). Today 64 -bit systems can support up to 128GB of memory.
 
    Tags & Topics:
    #noch?Das
+
+[Previous: #Einführung-IT-Teil1_81](Einführung-IT-Teil1_81.md)
+
+[Next: #Einführung-IT-Teil1_81](Einführung-IT-Teil1_81.md)

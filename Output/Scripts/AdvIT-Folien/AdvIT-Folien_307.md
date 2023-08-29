@@ -6,5 +6,9 @@ Methode wait(der Klasse Object)
 
    Tags & Topics:
    #Monitorvariant
-   #Wartebedingungen
    #Monitorvarianten
+   #Wartebedingungen
+
+[Previous: #AdvIT-Folien_308](AdvIT-Folien_308.md)
+
+[Next: #AdvIT-Folien_308](AdvIT-Folien_308.md)

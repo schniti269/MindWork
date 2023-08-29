@@ -6,8 +6,12 @@ schreiben kann, und damit die Parabel das Produkt zweier Linearfaktoren mit eben
 
    Tags & Topics:
    #Nullstelle1.5
-   #Parabel
    #Bezeichnung
-   #Linearfaktor
-   #Nullstelle
    #Linearfaktoren
+   #Parabel
+   #Nullstelle
+   #Linearfaktor
+
+[Previous: #Analysis-Lineare_Algebra-230308_88](Analysis-Lineare_Algebra-230308_88.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_88](Analysis-Lineare_Algebra-230308_88.md)

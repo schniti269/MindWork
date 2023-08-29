@@ -1,17 +1,29 @@
-# ## #Rabatte #
+### Rabatte
 
- - #Nachlässe #bei #kauf werden #nicht erfassst #
- - #Skonti 
+- Nachlässe bei kauf werden nicht erfassst
+- Skonti
 
-	 - Werden #erfasst 
-	 - vorgehen #
+	- Werden erfasst 
+	- vorgehen
 
- - #Nachlässe 
+- Nachlässe
 
-	 - Werden #erfasst #
-	 - #Vorgehen #
+	- Werden erfasst
+	- Vorgehen
 
- - #Gutschriften #
+- Gutschriften 
 
-	 - #Verringern #nachträglich die #UST #Grundlage 
- #anteilig #vorsteuer 
+	- Verringern nachträglich die UST Grundlage 
+anteilig vorsteuer
+
+   Tags & Topics:
+   #Vorgehen
+   #Gutschriften
+   #Skonti
+   #vorgehen
+   #Nachlässe
+   #Grundlage
+   #Rabatt
+   #Gutschrift
+   #Nachläs
+   #Rabatte

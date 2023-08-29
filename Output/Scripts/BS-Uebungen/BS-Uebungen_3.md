@@ -5,8 +5,12 @@ Nichts davon.
 (3 Der vom Prozessor verwaltete Stack
 
    Tags & Topics:
+   #Level
+   #Level-Nummer
    #Nichts
    #Main-Memory
    #Nummer
-   #Level-Nummer
-   #Level
+
+[Previous: #BS-Uebungen_30](BS-Uebungen_30.md)
+
+[Next: #BS-Uebungen_30](BS-Uebungen_30.md)

@@ -6,10 +6,14 @@ Kernel-Level-Threads – leider nicht plattformunabh ¨angig!
 
    Tags & Topics:
    #Vorgehensweisen
-   #Besonderheit
+   #Besonderheiten
+   #⇒Erben
    #Programm
    #Programms
-   #Besonderheiten
    #level
    #Vorgehensweise
-   #⇒Erben
+   #Besonderheit
+
+[Previous: #AdvIT-Folien_97](AdvIT-Folien_97.md)
+
+[Next: #AdvIT-Folien_97](AdvIT-Folien_97.md)

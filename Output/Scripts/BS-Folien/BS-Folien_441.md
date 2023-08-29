@@ -5,7 +5,11 @@ im Hauptspeicher verwendet
 schreiben in den Puﬀer ⇒zeitweise Inkonsistenzen zur Platte
 
    Tags & Topics:
+   #Puﬀerbereiche
+   #•Caching
    #Puﬀerbereich
    #Zugriﬀsgeschwindigkeit
-   #•Caching
-   #Puﬀerbereiche
+
+[Previous: #BS-Folien_442](BS-Folien_442.md)
+
+[Next: #BS-Folien_442](BS-Folien_442.md)

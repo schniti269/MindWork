@@ -6,5 +6,9 @@ Der Ablauf ist um eine Auftragsverwaltung zu erweitern.
 
    Tags & Topics:
    #AufrufnachderAusf
-   #Operat
    #A-Operat
+   #Operat
+
+[Previous: #BS-Folien_224](BS-Folien_224.md)
+
+[Next: #BS-Folien_224](BS-Folien_224.md)

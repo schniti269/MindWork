@@ -6,3 +6,7 @@ Erstellen eines Wartegraphen
 
    Tags & Topics:
    #Wartegraphen
+
+[Previous: #AdvIT-Folien_111](AdvIT-Folien_111.md)
+
+[Next: #AdvIT-Folien_111](AdvIT-Folien_111.md)

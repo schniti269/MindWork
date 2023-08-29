@@ -5,6 +5,10 @@ Deﬁnition: Working Set eines Prozesses
 ⋄1⇒2⇒3⇒1⇒2⇒1⇒4⇒5⇒4⇒5⇒4⇒5⇒6⇒7⇒9⇒...
 
    Tags & Topics:
-   #⋄Meng
    #⋄menge
    #Zeitdauer
+   #⋄Meng
+
+[Previous: #BS-Folien_365](BS-Folien_365.md)
+
+[Next: #BS-Folien_365](BS-Folien_365.md)

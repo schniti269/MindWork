@@ -5,6 +5,10 @@ Die Ausf¨uhrung vonloadRegister stellt den Prozesswechsel dar:
 ⇒Auf diesem Stack liegt die R ¨ucksprungadresse des assign-Aufrufs.
 
    Tags & Topics:
-   #Stackpointer
    #Laden
+   #Stackpointer
    #assign-Aufruf
+
+[Previous: #BS-Folien_165](BS-Folien_165.md)
+
+[Next: #BS-Folien_165](BS-Folien_165.md)

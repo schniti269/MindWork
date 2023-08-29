@@ -7,3 +7,7 @@ private  int readcount  = 0;
    Tags & Topics:
    #problem
    #Leser-Schreiber-Problem
+
+[Previous: #AdvIT-Folien_237](AdvIT-Folien_237.md)
+
+[Next: #AdvIT-Folien_237](AdvIT-Folien_237.md)

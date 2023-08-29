@@ -5,6 +5,10 @@ die Operation readbleibt unver ¨andert
 Prof. Dr. Henning Pagnia (DHBW Mannheim) Advanced IT Herbst 2023 76/132Speicherbasierte Synchronisation Semaphore
 
    Tags & Topics:
-   #¨Anderung
    #Operation
+   #¨Anderung
    #Leserpriorit
+
+[Previous: #AdvIT-Folien_236](AdvIT-Folien_236.md)
+
+[Next: #AdvIT-Folien_236](AdvIT-Folien_236.md)

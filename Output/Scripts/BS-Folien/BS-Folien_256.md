@@ -6,5 +6,9 @@ Speicher wird in (relativ) kleine Bereiche fester L ¨ange aufgeteilt→Abb. 9.
 
    Tags & Topics:
    #benutztProgrammbereich
-   #Hauptspeichers
    #Hauptspeicher
+   #Hauptspeichers
+
+[Previous: #BS-Folien_257](BS-Folien_257.md)
+
+[Next: #BS-Folien_257](BS-Folien_257.md)

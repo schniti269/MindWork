@@ -5,7 +5,11 @@ des Prozessors.
 Bei Einprozessorsystemen f ¨ur die Realisierung von (zeitlich) kurzen kritischen Abschn itten innerhalb des
 
    Tags & Topics:
-   #•Einsatz
    #Fehleranf¨alligkeit
-   #⋄vergisst
+   #•Einsatz
    #fehleranf¨alligkeit
+   #⋄vergisst
+
+[Previous: #BS-Folien_128](BS-Folien_128.md)
+
+[Next: #BS-Folien_128](BS-Folien_128.md)

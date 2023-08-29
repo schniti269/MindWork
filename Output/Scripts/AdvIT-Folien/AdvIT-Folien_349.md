@@ -5,8 +5,12 @@ Datenkomprimierung, Verschl ¨usselung, usw.
 ◮Ebenso f¨ur den Zugriﬀ auf Dateien und verschiedene Ger ¨ate einsetzbar
 
    Tags & Topics:
-   #Ebene
    #Umwandel
+   #Ebene
    #⇒Anwendungsprogrammierung
    #Umwandeln
    #Datenkomprimierung
+
+[Previous: #AdvIT-Folien_35](AdvIT-Folien_35.md)
+
+[Next: #AdvIT-Folien_35](AdvIT-Folien_35.md)

@@ -5,8 +5,12 @@ eine der Voraussetzungen B1, B2 oder B3 wird aufgehoben
 Betriebsmittelverteilung erfolgt nach bestimmten Regeln , so dass B4 nicht
 
    Tags & Topics:
-   #Voraussetzung
+   #Voraussetzungen
    #Betriebsmittelverteilung
+   #Voraussetzung
    #M¨oglichkeiten
    #m¨oglichkeiten
-   #Voraussetzungen
+
+[Previous: #AdvIT-Folien_117](AdvIT-Folien_117.md)
+
+[Next: #AdvIT-Folien_117](AdvIT-Folien_117.md)

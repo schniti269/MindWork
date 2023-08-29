@@ -5,15 +5,19 @@ Nachteile
 • Empfindlichkeit, z.B. gegen Staub, Feuchtigkeit, Temperatur oder magnetische Felder, Verschleiß, Austausch nach mehrfacher B enutzung         
 
    Tags & Topics:
-   #Librarys
-   #-Librarys
-   #Quantum
-   #Felder
-   #Temperatur
+   #Herabfalle
+   #Austausch
    #Verschleiß
    #Bandbibliothek
-   #Austausch
+   #Quantum
    #Feuchtigkeit
-   #Herabfallen
-   #Herabfalle
    #Feld
+   #Temperatur
+   #-Librarys
+   #Felder
+   #Herabfallen
+   #Librarys
+
+[Previous: #Einführung-IT-Teil1_7](Einführung-IT-Teil1_7.md)
+
+[Next: #Einführung-IT-Teil1_7](Einführung-IT-Teil1_7.md)

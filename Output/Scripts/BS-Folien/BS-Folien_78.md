@@ -6,3 +6,7 @@ execve (command, parameters, 0);
 
    Tags & Topics:
    
+
+[Previous: #BS-Folien_79](BS-Folien_79.md)
+
+[Next: #BS-Folien_79](BS-Folien_79.md)

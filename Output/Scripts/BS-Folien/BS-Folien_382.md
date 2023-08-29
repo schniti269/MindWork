@@ -5,10 +5,14 @@ Auf den Oberﬂ ¨achen der einzelnen Scheiben liegen konzentrische Spuren (Trac
 ¨Ubereinanderliegende Spuren aller Scheibenﬂ ¨achen bilden einen Zylinder (Cylinder).
 
    Tags & Topics:
-   #Festplatte
    #Zylinder
-   #Track
+   #Festplatte
+   #Cylinder
    #Plattenstapel
+   #Track
    #Scheibenﬂ
    #Spur
-   #Cylinder
+
+[Previous: #BS-Folien_383](BS-Folien_383.md)
+
+[Next: #BS-Folien_383](BS-Folien_383.md)

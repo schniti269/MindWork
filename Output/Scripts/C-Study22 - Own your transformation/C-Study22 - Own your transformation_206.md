@@ -6,3 +6,7 @@ problem-solving and thinking that come from a cognitively diverse workforce.
 
    Tags & Topics:
    
+
+[Previous: #C-Study22 - Own your transformation_207](C-Study22 - Own your transformation_207.md)
+
+[Next: #C-Study22 - Own your transformation_207](C-Study22 - Own your transformation_207.md)

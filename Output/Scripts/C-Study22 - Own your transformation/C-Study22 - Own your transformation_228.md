@@ -5,5 +5,9 @@ Automation
  –Amp up AI to make workflows smarter
 
    Tags & Topics:
-   #Automation
    #Amp
+   #Automation
+
+[Previous: #C-Study22 - Own your transformation_229](C-Study22 - Own your transformation_229.md)
+
+[Next: #C-Study22 - Own your transformation_229](C-Study22 - Own your transformation_229.md)

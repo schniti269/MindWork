@@ -1,10 +1,22 @@
-# # Methoden #der #Leistungsverrechnung 
+### Methoden der Leistungsverrechnung
 
- - Sukzessive verfahren 
+- Sukzessive verfahren
 
-	 - #Stufenleiterverfahren 
-	 - #Anbauverfahren 
+	- Stufenleiterverfahren
+	- Anbauverfahren
 
- - #Simultatverfahren 
+- Simultatverfahren
 
-	 - #Gleichungsverfahren 
+	- Gleichungsverfahren
+
+   Tags & Topics:
+   #Stufenleiterverfahren
+   #Methode
+   #anbauverfahren
+   #Leistungsverrechnung
+   #Simultatverfahren
+   #Gleichungsverfahren
+   #sukzessive
+   #Simultatverfahr
+   #Anbauverfahren
+   #Stufenleiterverfahr

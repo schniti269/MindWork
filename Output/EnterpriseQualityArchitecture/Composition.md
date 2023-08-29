@@ -1,5 +1,8 @@
-# ## #Composition 
+### Composition
 
- - #Service based ? 
- - #Monolith ? 
- - #Client #server ? 
+- Service based?
+- Monolith?
+- Client server?
+
+   Tags & Topics:
+   

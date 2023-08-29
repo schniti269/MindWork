@@ -6,7 +6,11 @@ Ausgabemöglichkeiten. Eingabe  über Lochkarten war geplant aber nicht vollende
 
    Tags & Topics:
    #Babbage,1822
+   #Entstehung
    #Steuerwerk
    #Rechenmaschin
-   #Entstehung
    #Rechenmaschinen
+
+[Previous: #Einführung-IT-Teil1_26](Einführung-IT-Teil1_26.md)
+
+[Next: #Einführung-IT-Teil1_26](Einführung-IT-Teil1_26.md)

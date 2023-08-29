@@ -5,12 +5,16 @@ Satz6.14.Eine quadratische Matrix A∈Rn×nist genau dann invertierbar und ein L
 b∈Rngegeben und x∈Rngesucht genau dann eindeutig lösbar, wenn detA̸= 0.
 
    Tags & Topics:
+   #Arbeit
    #A−1
+   #a)−1
+   #Satz6.14.Eine
    #det(A−1
    #satz6.14.eine
-   #b∈Rngegeben
-   #Arbeit
-   #Satz6.14.Eine
    #Determinante
-   #a)−1
+   #b∈Rngegeben
    #x∈Rngesucht
+
+[Previous: #Analysis-Lineare_Algebra-230308_72](Analysis-Lineare_Algebra-230308_72.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_72](Analysis-Lineare_Algebra-230308_72.md)

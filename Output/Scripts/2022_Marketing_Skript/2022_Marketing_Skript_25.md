@@ -5,32 +5,36 @@ LebensstilNach außen wahrnehmbare Verhaltensmuster, die durch persönliche und 
 vgl. Homburg 2015, S. 52f.Umfeldfaktoren des KonsumentenverhaltensPhysisches UmfeldSoziales UmfeldKulturelles Umfeld§natürliches Umfeld, z.B. Klima§vom Menschen geschaffenes Umfeld, z.B. Infrastruktur§näheres soziales Umfeld, z.B. Familie§weiteres soziales Umfeld, z.B. soziale Schicht§Werte, Normen, Haltungen, typische Verhaltensweisen§Sprache, Symbole, Religion
 
    Tags & Topics:
-   #Lebenswerte§Werte
-   #KonsumentenverhaltensWerte
-   #umfeldfaktoren
-   #KonsumentenverhaltensUmweltfaktor
-   #Beurteilungsmaßstäbe
-   #Kundensegmenten
-   #Überzeugung
-   #Haltung
-   #Schicht§Werte
-   #Symbol
-   #Umfeldfaktoren
-   #Normen
-   #KonsumentenverhaltensPhysisch
    #Lebensstil
-   #verhalten
-   #Verhaltensmuster
-   #Umfeld
-   #Lebensstile
    #Haltungen
+   #Schicht§Werte
+   #Verhaltensweisen§Sprache
+   #Beurteilungsmaßstäbe
+   #Symbol
+   #Kundensegmenten
+   #verhalten
+   #KonsumentenverhaltensUmweltfaktor
+   #Symbole
+   #umfeldfaktoren
+   #KonsumentenverhaltensPhysisch
+   #KonsumentenverhaltensWerte
+   #Lebensstile
+   #Verhaltensmuster
+   #Norm
+   #Überzeugung
+   #Kundensegment
    #KonsumentenverhaltensUmweltfaktoren
+   #KonsumentenverhaltensPhysisches
+   #Haltung
+   #Lebenswerte§Werte
+   #Normen
    #Religion
    #Schicht§Wert
-   #MacInnis2008
-   #Symbole
-   #Kundensegment
-   #Norm
-   #KonsumentenverhaltensPhysisches
+   #Umfeldfaktoren
    #Lebenswerte§Wert
-   #Verhaltensweisen§Sprache
+   #MacInnis2008
+   #Umfeld
+
+[Previous: #2022_Marketing_Skript_26](2022_Marketing_Skript_26.md)
+
+[Next: #2022_Marketing_Skript_26](2022_Marketing_Skript_26.md)

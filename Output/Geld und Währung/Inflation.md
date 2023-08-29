@@ -1,13 +1,17 @@
-# ## #Inflation 
+### Inflation
 
- - #Wird #verzogen #durch #
+- Wird verzogen durch
 
-	 - #outlet #bias 
-	 - #quality #bias #
-	 - #substitution #bias 
-	 - new #goods #Bias 
-	 - #0,5 - 2 #% 
+	- outlet bias
+	- quality bias
+	- substitution bias
+	- new goods Bias
+	- 0,5-2%
 
- - #wird #gemessen #durch 
+- wird gemessen durch
 
-	 - #Verbraucherpreisindex 
+	- Verbraucherpreisindex
+
+   Tags & Topics:
+   #Inflation
+   #inflation

@@ -5,22 +5,26 @@ Homburg (2014), S. 55f.41www.dhbw.deMarketing
 2.3 KaufentscheidungPhasen des Kaufprozesses (Customer Journey)
 
    Tags & Topics:
-   #Meinung
-   #Meinungen
-   #Vermeidung
-   #Erfahrungen
-   #Mix2.Konsumentenverhalten2.1Zentrale
    #Element
-   #Interpretation
-   #Druck
-   #Konsonanz
    #Informationen!42www.dhbw.deMarketing
+   #Konsonanz
    #1978)
-   #Einstellungsänderung
+   #Interpretation
+   #Meinung
    #Dissonanz
    #Gleichgewicht
-   #Kaufprozeß
-   #Konsumentenverhaltens2.2Informationsverarbeitung2.3
-   #Gleichgewicht.
-   #Individuum
+   #Druck
+   #Einstellungsänderung
+   #Erfahrungen
    #Erfahrung
+   #Gleichgewicht.
+   #Meinungen
+   #Konsumentenverhaltens2.2Informationsverarbeitung2.3
+   #Vermeidung
+   #Mix2.Konsumentenverhalten2.1Zentrale
+   #Individuum
+   #Kaufprozeß
+
+[Previous: #2022_Marketing_Skript_29](2022_Marketing_Skript_29.md)
+
+[Next: #2022_Marketing_Skript_29](2022_Marketing_Skript_29.md)

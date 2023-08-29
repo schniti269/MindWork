@@ -5,10 +5,14 @@ Shell-Programmierung
 Prozesse und Threads
 
    Tags & Topics:
-   #Prozesse
    #VorlesungThemengebieter
-   #Prozeß
-   #VorlesungThemengebiete
-   #132¨Uberblick
-   #Programmierung
    #Shell
+   #VorlesungThemengebiete
+   #Programmierung
+   #132¨Uberblick
+   #Prozeß
+   #Prozesse
+
+[Previous: #AdvIT-Folien_30](AdvIT-Folien_30.md)
+
+[Next: #AdvIT-Folien_30](AdvIT-Folien_30.md)

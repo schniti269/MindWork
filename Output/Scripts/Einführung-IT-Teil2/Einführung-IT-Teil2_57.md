@@ -5,7 +5,11 @@ das MSB:
 Die Bitfolge 10000001 würde die negative Dezimalzahl -1 darstellen, da MSB = 1
 
    Tags & Topics:
-   #Dezimalzahl
-   #Bitfolg
    #•MSB
+   #Dezimalzahl
    #Vorzeichen
+   #Bitfolg
+
+[Previous: #Einführung-IT-Teil2_58](Einführung-IT-Teil2_58.md)
+
+[Next: #Einführung-IT-Teil2_58](Einführung-IT-Teil2_58.md)

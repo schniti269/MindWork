@@ -5,6 +5,10 @@ static float newtonStep ( float a, float y)
 return y * ( 1.5f - a / 2 * y * y ); // y * ( threehalfs - ( x2 * y * y ) );
 
    Tags & Topics:
-   #Iteration
-   #Newton-Iteration
    #Newton
+   #Newton-Iteration
+   #Iteration
+
+[Previous: #Analysis-Lineare_Algebra-230308_63](Analysis-Lineare_Algebra-230308_63.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_63](Analysis-Lineare_Algebra-230308_63.md)

@@ -6,10 +6,14 @@ Geben Sie das Skalenniveau der nebenstehenden Skalen an.www.dhbw.deMarketing
 
    Tags & Topics:
    #Marktforschung4.Marketinginstrumente4.1Product4.2Price4.3Promotion4.4Place85www.dhbw.deMarketing
-   #MarketinginstrumenteVorlesungsinhalte1.Grundlagen1.1
-   #MarktforschungÜbungsaufgabe
    #Skalenniveau
+   #MarketinginstrumenteVorlesungsinhalte1.Grundlagen1.1
    #Skalen
-   #Konsumentenverhaltens2.2Informationsverarbeitung2.3
    #Mix2.Konsumentenverhalten2.1Zentrale
    #Skale
+   #MarktforschungÜbungsaufgabe
+   #Konsumentenverhaltens2.2Informationsverarbeitung2.3
+
+[Previous: #2022_Marketing_Skript_58](2022_Marketing_Skript_58.md)
+
+[Next: #2022_Marketing_Skript_58](2022_Marketing_Skript_58.md)

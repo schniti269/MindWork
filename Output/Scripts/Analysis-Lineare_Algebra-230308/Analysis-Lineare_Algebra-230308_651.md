@@ -5,10 +5,14 @@ ebenfalls eine lineare Abbildung. Ist φumkehrbar, so ist die Umkehrabbildung φ
 Abbildung.
 
    Tags & Topics:
-   #Spiegelungen
+   #Projektionen
    #Spiegelung
-   #Drehun-
    #Umkehrabbildung
    #Komposition
    #Projektion
-   #Projektionen
+   #Spiegelungen
+   #Drehun-
+
+[Previous: #Analysis-Lineare_Algebra-230308_652](Analysis-Lineare_Algebra-230308_652.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_652](Analysis-Lineare_Algebra-230308_652.md)

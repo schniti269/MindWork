@@ -5,6 +5,10 @@ Prozessinteraktion
 •¨Uber diesen Dienst k ¨onnen Prozesse gezielt Informationen austauschen.
 
    Tags & Topics:
-   #Dienst
-   #BS–11Einleitung
    #Dienste
+   #BS–11Einleitung
+   #Dienst
+
+[Previous: #BS-Folien_240](BS-Folien_240.md)
+
+[Next: #BS-Folien_240](BS-Folien_240.md)

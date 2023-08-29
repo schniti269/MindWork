@@ -6,9 +6,13 @@ management, and related services
 
    Tags & Topics:
    #Software
-   #Begriﬀs“Betriebssystem
-   #Betriebsystems
    #Deﬁnitionen
-   #Betriebsystem
    #Begriﬀs
    #Deﬁnitione
+   #Begriﬀs“Betriebssystem
+   #Betriebsystem
+   #Betriebsystems
+
+[Previous: #BS-Folien_170](BS-Folien_170.md)
+
+[Next: #BS-Folien_170](BS-Folien_170.md)

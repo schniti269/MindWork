@@ -5,8 +5,12 @@ Wenn man die Funktion fmit einer Polynomdivision umformt zu f(x) =1
 4x+3
 
    Tags & Topics:
+   #Sollte
+   #Analysetechniken
    #Analysetechnik
    #Zähler-
    #Wenn
-   #Analysetechniken
-   #Sollte
+
+[Previous: #Analysis-Lineare_Algebra-230308_111](Analysis-Lineare_Algebra-230308_111.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_111](Analysis-Lineare_Algebra-230308_111.md)

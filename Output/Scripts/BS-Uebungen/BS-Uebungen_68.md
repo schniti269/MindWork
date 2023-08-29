@@ -6,3 +6,7 @@ m[3,0] .. m[3,255]
 
    Tags & Topics:
    
+
+[Previous: #BS-Uebungen_69](BS-Uebungen_69.md)
+
+[Next: #BS-Uebungen_69](BS-Uebungen_69.md)

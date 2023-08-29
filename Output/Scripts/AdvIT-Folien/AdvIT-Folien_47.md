@@ -5,9 +5,13 @@ Prof. Dr. Henning Pagnia (DHBW Mannheim) Advanced IT Herbst 2023 19/132Prozesse,
 Threads
 
    Tags & Topics:
-   #Nebenl¨auﬁgkeit
-   #Komponente
-   #Input
    #BS-Komponent
-   #Scheduler
    #input
+   #Nebenl¨auﬁgkeit
+   #Input
+   #Komponente
+   #Scheduler
+
+[Previous: #AdvIT-Folien_48](AdvIT-Folien_48.md)
+
+[Next: #AdvIT-Folien_48](AdvIT-Folien_48.md)

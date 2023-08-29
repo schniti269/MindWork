@@ -6,3 +6,7 @@ Prof. Dr. Henning Pagnia (DHBW Mannheim) Advanced IT Herbst 2023 47/132Speicherb
 
    Tags & Topics:
    
+
+[Previous: #AdvIT-Folien_139](AdvIT-Folien_139.md)
+
+[Next: #AdvIT-Folien_139](AdvIT-Folien_139.md)

@@ -5,9 +5,13 @@ kommen, wobei Groß- / Kleinschreibung ignoriert werden sol l.
 Beispieldatei Namenzum Testen:
 
    Tags & Topics:
-   #Bearbeitungszeit
+   #Namenzum
+   #Kleinschreibung
    #Datei
    #Sortieren
-   #Namenzum
    #Sortier
-   #Kleinschreibung
+   #Bearbeitungszeit
+
+[Previous: #AdvIT-Aufgaben_6](AdvIT-Aufgaben_6.md)
+
+[Next: #AdvIT-Aufgaben_6](AdvIT-Aufgaben_6.md)

@@ -5,11 +5,15 @@ First-Fit-, Best-Fit-Verfahren oder Buddy-System
 Betriebssysteme DHBW Mannheim ©Henning Pagnia Version 4.23 Fr¨uhjahr 2023 BS–132Speicherverwaltung Einlagerungsstrategien Speicherver waltung virtueller Systeme
 
    Tags & Topics:
-   #16KiB
-   #Best
-   #4KiB
-   #Heap
-   #Fit-
    #Ein-/Auslagern
    #Best-Fit-Verfahren
    #Fit
+   #4KiB
+   #16KiB
+   #Heap
+   #Fit-
+   #Best
+
+[Previous: #BS-Folien_332](BS-Folien_332.md)
+
+[Next: #BS-Folien_332](BS-Folien_332.md)

@@ -5,7 +5,11 @@ Betriebssysteme DHBW Mannheim ©Henning Pagnia Version 4.23 Fr¨uhjahr 2023 BS�
 •Initiieren :initiate ( context )
 
    Tags & Topics:
-   #Zustandsmodell
    #Auswahlstrategie
-   #•Abgeben
+   #Zustandsmodell
    #auswahlstrategie
+   #•Abgeben
+
+[Previous: #BS-Folien_96](BS-Folien_96.md)
+
+[Next: #BS-Folien_96](BS-Folien_96.md)

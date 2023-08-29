@@ -5,12 +5,16 @@ Quelle: Chernatony& McDonald 1992
 Stated Preferencein Blind TestStated Preferencein Open Test
 
    Tags & Topics:
-   #Lebens
-   #Pepsi-Test
-   #Blind
-   #Macht
-   #ProductEntscheidungsfelder
-   #Produktmanagements
-   #Pepsi
    #Produktmanagement
+   #Blind
+   #ProductEntscheidungsfelder
+   #Pepsi
+   #Macht
+   #Pepsi-Test
+   #Lebens
+   #Produktmanagements
    #Produkte4.1.
+
+[Previous: #2022_Marketing_Skript_73](2022_Marketing_Skript_73.md)
+
+[Next: #2022_Marketing_Skript_73](2022_Marketing_Skript_73.md)

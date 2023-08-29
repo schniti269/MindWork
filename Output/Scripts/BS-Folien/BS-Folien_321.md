@@ -5,13 +5,17 @@ Verwendung von Daten-Caches: log. bzw. phys. Cache
 ⋄Speichern Inhalte von Wortadressen unter deren virt. bzw. r ealer Adressen.
 
    Tags & Topics:
-   #⋄eintr¨age
-   #⋄Eintr¨age
    #Adressen
-   #Inhalt
-   #LRU
+   #⋄Eintr¨age
    #Inhalte
-   #Treﬀerquot
+   #Inhalt
    #Adresse
-   #⋄Speichern
    #Treﬀerquoten
+   #⋄eintr¨age
+   #LRU
+   #Treﬀerquot
+   #⋄Speichern
+
+[Previous: #BS-Folien_322](BS-Folien_322.md)
+
+[Next: #BS-Folien_322](BS-Folien_322.md)

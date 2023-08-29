@@ -5,7 +5,11 @@ ROM(Read Only Memory)
 RAM(Random Access Memory)
 
    Tags & Topics:
-   #Inhalte
-   #Inhalt
    #Bootprogramm
+   #Inhalte
    #RAM(Random
+   #Inhalt
+
+[Previous: #BS-Folien_52](BS-Folien_52.md)
+
+[Next: #BS-Folien_52](BS-Folien_52.md)

@@ -5,6 +5,10 @@ zu diesem Wert:
 Ein anderes Beispiel ist eine Aufstellung von Kosten aus mehreren Komponenten: Eine Firma hat ver-
 
    Tags & Topics:
+   #Anlagebetrag
    #Aufstellung
    #Firma
-   #Anlagebetrag
+
+[Previous: #Analysis-Lineare_Algebra-230308_360](Analysis-Lineare_Algebra-230308_360.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_360](Analysis-Lineare_Algebra-230308_360.md)

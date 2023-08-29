@@ -6,3 +6,7 @@ Fortgesetzte Division durch 16 liefert für die Umwandlung in eine Hexadezimalza
 
    Tags & Topics:
    
+
+[Previous: #Einführung-IT-Teil2_35](Einführung-IT-Teil2_35.md)
+
+[Next: #Einführung-IT-Teil2_35](Einführung-IT-Teil2_35.md)

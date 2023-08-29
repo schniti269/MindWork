@@ -6,3 +6,7 @@ Beispiel: Umwandlung Dez in Gleitkomma
 
    Tags & Topics:
    #Dezimalzahl
+
+[Previous: #Einführung-IT-Teil2_45](Einführung-IT-Teil2_45.md)
+
+[Next: #Einführung-IT-Teil2_45](Einführung-IT-Teil2_45.md)

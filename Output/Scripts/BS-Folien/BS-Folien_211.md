@@ -6,9 +6,13 @@ Durch die Nebenl ¨auﬁgkeit der Prozesse k ¨onnen E/A-Operationen mehrfach au
 
    Tags & Topics:
    #Ein-Ausgabeoperation
-   #•Integration
-   #Endes
-   #A-Endes
-   #A-Operatione
    #⋄Meldung
+   #A-Endes
    #A-Verarbeitung
+   #Endes
+   #•Integration
+   #A-Operatione
+
+[Previous: #BS-Folien_212](BS-Folien_212.md)
+
+[Next: #BS-Folien_212](BS-Folien_212.md)

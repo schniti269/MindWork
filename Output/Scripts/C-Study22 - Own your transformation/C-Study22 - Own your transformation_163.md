@@ -6,3 +6,7 @@ report being substantially more proficient than their
 
    Tags & Topics:
    #next”Chapter
+
+[Previous: #C-Study22 - Own your transformation_164](C-Study22 - Own your transformation_164.md)
+
+[Next: #C-Study22 - Own your transformation_164](C-Study22 - Own your transformation_164.md)

@@ -5,13 +5,17 @@ TLB (Translation Look Aside Buﬀer )
 ⋄Leistet Abbildung: virtuelle Seitennummer →Kachelnummer .
 
    Tags & Topics:
-   #Eintr
-   #Adress
-   #hardware
    #•L¨osung
-   #Translation
-   #→Kachelnummer
    #translation
    #Unterst
+   #Translation
+   #→Kachelnummer
    #⋄Realisiert
+   #Adress
    #Adress-Cach
+   #Eintr
+   #hardware
+
+[Previous: #BS-Folien_321](BS-Folien_321.md)
+
+[Next: #BS-Folien_321](BS-Folien_321.md)

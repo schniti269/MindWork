@@ -5,5 +5,9 @@ darunter,nurwennmandiesenzusätzlichexaktberechnet,bräuchtemansichkeineunnötig
 mehr um Vorteile durch die vereinfachte Darstellung der Approximation zu machen.
 
    Tags & Topics:
-   #bräuchtemansichkeineunnötigenGedanke
    #bräuchtemansichkeineunnötigenGedanken
+   #bräuchtemansichkeineunnötigenGedanke
+
+[Previous: #Analysis-Lineare_Algebra-230308_361](Analysis-Lineare_Algebra-230308_361.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_361](Analysis-Lineare_Algebra-230308_361.md)

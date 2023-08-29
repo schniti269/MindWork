@@ -6,3 +6,7 @@ Die L¨osung ist zun ¨achst auf zwei Prozesse und bestimmte Prozessidentiﬁkat
 
    Tags & Topics:
    #Prozessidentiﬁkation
+
+[Previous: #BS-Folien_135](BS-Folien_135.md)
+
+[Next: #BS-Folien_135](BS-Folien_135.md)

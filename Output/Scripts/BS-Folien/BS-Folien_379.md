@@ -5,8 +5,12 @@ logisches Dateisystem
 Basisdateisystem
 
    Tags & Topics:
-   #Basisdateisystem
-   #Datenbanksystem
-   #Dateisystem
-   #DateisystemsBenutzer
    #Zugriﬀsmethoden
+   #Basisdateisystem
+   #Dateisystem
+   #Datenbanksystem
+   #DateisystemsBenutzer
+
+[Previous: #BS-Folien_38](BS-Folien_38.md)
+
+[Next: #BS-Folien_38](BS-Folien_38.md)

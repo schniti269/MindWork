@@ -6,3 +6,7 @@ Aufgabe 90. Bestimmen Sie die Abbildungsmatrix der linearen Funktion φ:
 
    Tags & Topics:
    
+
+[Previous: #Analysis-Lineare_Algebra-230308_765](Analysis-Lineare_Algebra-230308_765.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_765](Analysis-Lineare_Algebra-230308_765.md)

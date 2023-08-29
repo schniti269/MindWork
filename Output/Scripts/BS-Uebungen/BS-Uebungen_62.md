@@ -6,6 +6,10 @@ Sie dabei folgende Seitenverdr ¨angungsalgorithmen:
 
    Tags & Topics:
    #Hauptspeicherbelegung
-   #Verwenden
    #Referenzreihenfolg
    #Information
+   #Verwenden
+
+[Previous: #BS-Uebungen_63](BS-Uebungen_63.md)
+
+[Next: #BS-Uebungen_63](BS-Uebungen_63.md)

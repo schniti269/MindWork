@@ -5,8 +5,12 @@ entgegennehmen, wobei linenoeine positive ganze Zahl sein muss. Daraufhin wird v
 Dateiﬁlename ge¨oﬀnet, die Zeile linenoausgelesen und zur ¨uckgeschickt. Falls sich im Basisver-
 
    Tags & Topics:
-   #Zeile
-   #Falls
    #a)Der
-   #Auftr
    #Dateiﬁlename
+   #Auftr
+   #Falls
+   #Zeile
+
+[Previous: #AdvIT-Aufgaben_27](AdvIT-Aufgaben_27.md)
+
+[Next: #AdvIT-Aufgaben_27](AdvIT-Aufgaben_27.md)

@@ -6,3 +6,7 @@ else
 
    Tags & Topics:
    #Anweisung
+
+[Previous: #AdvIT-Folien_190](AdvIT-Folien_190.md)
+
+[Next: #AdvIT-Folien_190](AdvIT-Folien_190.md)

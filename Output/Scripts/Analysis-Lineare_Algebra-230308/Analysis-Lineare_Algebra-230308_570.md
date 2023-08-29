@@ -8,3 +8,7 @@ Satz5.14.Ein lineares Gleichungssystem hat entweder genau eine Lösung, unendlic
    #Möglichkeit
    #Gleichungssystem
    #Gleichungssystems
+
+[Previous: #Analysis-Lineare_Algebra-230308_571](Analysis-Lineare_Algebra-230308_571.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_571](Analysis-Lineare_Algebra-230308_571.md)

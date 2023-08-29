@@ -5,13 +5,17 @@ de Gruyter GmbH & Co KG, 2018.
 nung, Mathematische Statistik, Fehler- und Ausgleichsrechnung . Viewegs Fachbücher der Technik. Vieweg+Teubner
 
    Tags & Topics:
-   #Basiswissen
-   #Gert
-   #Fehler-
-   #Vektoranalysis
-   #Fachbücher
-   #Statistik
-   #Vieweg+Teubner
    #Naturwissenschaftler
-   #vektoranalysis
    #Ausgleichsrechnung
+   #Statistik
+   #Gert
+   #Fachbücher
+   #Vieweg+Teubner
+   #Vektoranalysis
+   #Fehler-
+   #vektoranalysis
+   #Basiswissen
+
+[Previous: #Analysis-Lineare_Algebra-230308_778](Analysis-Lineare_Algebra-230308_778.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_778](Analysis-Lineare_Algebra-230308_778.md)

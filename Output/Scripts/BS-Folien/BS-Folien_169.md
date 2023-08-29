@@ -5,5 +5,9 @@ Einsatzgebiete
 innerhalb der Prozessverwaltung:
 
    Tags & Topics:
-   #→Short-Term-Scheduling
    #•Kurzzeitablaufsteuerung
+   #→Short-Term-Scheduling
+
+[Previous: #BS-Folien_17](BS-Folien_17.md)
+
+[Next: #BS-Folien_17](BS-Folien_17.md)

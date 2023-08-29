@@ -6,3 +6,7 @@ Run #1 Run #2 Run #3
 
    Tags & Topics:
    #Eintrag
+
+[Previous: #BS-Folien_478](BS-Folien_478.md)
+
+[Next: #BS-Folien_478](BS-Folien_478.md)

@@ -5,7 +5,11 @@ Multi-Threaded Server
 Dispatcher- und Worker-Threads
 
    Tags & Topics:
+   #128/132Server
    #Multi
    #Antwort
-   #128/132Server
    #antwort
+
+[Previous: #AdvIT-Folien_393](AdvIT-Folien_393.md)
+
+[Next: #AdvIT-Folien_393](AdvIT-Folien_393.md)

@@ -5,6 +5,10 @@ damit echt parallelausgef¨uhrt werden.
 diemaximale Parallelit ¨at, die mit unbegrenzt vielen Prozessoren erreichbar ist
 
    Tags & Topics:
-   #•Nebenl¨auﬁgkeit
    #Programm
    #Mehrprozessorarchitekturk
+   #•Nebenl¨auﬁgkeit
+
+[Previous: #BS-Folien_84](BS-Folien_84.md)
+
+[Next: #BS-Folien_84](BS-Folien_84.md)

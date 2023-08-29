@@ -5,12 +5,16 @@ darstellen. Daten werden in einem Datenmodell mit ihren Beziehungen zueinander a
 werden in Dateien oder Datenbanken gespeichert. Wir kennen verschiedene Datenarten:
 
    Tags & Topics:
+   #Datenart
    #Datenarten
    #Vorgänge
-   #Wir
-   #Angaben
-   #Vorgang
-   #Datenart
    #Angabe
-   #Zeichenvorrat
+   #Vorgang
+   #Angaben
+   #Wir
    #Datenbanken
+   #Zeichenvorrat
+
+[Previous: #Einführung-IT-Teil1_18](Einführung-IT-Teil1_18.md)
+
+[Next: #Einführung-IT-Teil1_18](Einführung-IT-Teil1_18.md)

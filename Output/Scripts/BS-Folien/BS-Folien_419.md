@@ -6,3 +6,7 @@ D
 
    Tags & Topics:
    #ZugriﬀskontrolllisteObjekt
+
+[Previous: #BS-Folien_42](BS-Folien_42.md)
+
+[Next: #BS-Folien_42](BS-Folien_42.md)

@@ -5,11 +5,15 @@ Aufgabe 2 (Bearbeitungszeit: max. 10 min)
 Bildschirm aus: (Tipp: ’man bash’ und dort nach ’echo’ suche n)
 
    Tags & Topics:
-   #Bearbeitungszeit
-   #Prof.
    #text
-   #Befehls
    #¨u–2aufgabe
-   #Befehl
-   #¨U–2Aufgabe
+   #Prof.
    #Text
+   #¨U–2Aufgabe
+   #Befehls
+   #Befehl
+   #Bearbeitungszeit
+
+[Previous: #AdvIT-Aufgaben_30](AdvIT-Aufgaben_30.md)
+
+[Next: #AdvIT-Aufgaben_30](AdvIT-Aufgaben_30.md)

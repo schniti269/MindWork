@@ -5,10 +5,14 @@
 Bei auftretenden Zugriﬀskonﬂikten werden zugreifende Pro zesse ggf. entsprechend verz ¨ogert bis der
 
    Tags & Topics:
-   #Prozesssynchronisation
    #pro
-   #Pro
-   #Speicherbereich
    #⇒IPC
-   #Inter
+   #Speicherbereich
+   #Prozesssynchronisation
+   #Pro
    #prozesssynchronisation
+   #Inter
+
+[Previous: #BS-Folien_250](BS-Folien_250.md)
+
+[Next: #BS-Folien_250](BS-Folien_250.md)

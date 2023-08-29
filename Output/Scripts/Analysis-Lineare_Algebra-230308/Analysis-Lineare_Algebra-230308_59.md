@@ -5,9 +5,13 @@ bei dieser Aufgabe erforderlich:
 Bestimmen Sie alle Lösungen x∈Rmit(x+ 1)2= 9 + x2.1.3. GLEICHUNGEN, UNGLEICHUNGEN UND ÄQUIVALENZUMFORMUNGEN 11
 
    Tags & Topics:
+   #x∈Rmit
+   #Termumformungen
    #Bestimmen
    #Ausdruck
-   #x∈Rmit(x+
-   #Termumformungen
    #Termumformung
-   #x∈Rmit
+   #x∈Rmit(x+
+
+[Previous: #Analysis-Lineare_Algebra-230308_590](Analysis-Lineare_Algebra-230308_590.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_590](Analysis-Lineare_Algebra-230308_590.md)

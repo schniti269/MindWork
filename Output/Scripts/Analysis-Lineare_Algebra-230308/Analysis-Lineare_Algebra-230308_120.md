@@ -6,6 +6,10 @@ Richtungen zeigt.
 
    Tags & Topics:
    #Sinus-
-   #Tangens
    #Umfang
+   #Tangens
    #Cosinus-Funktion
+
+[Previous: #Analysis-Lineare_Algebra-230308_121](Analysis-Lineare_Algebra-230308_121.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_121](Analysis-Lineare_Algebra-230308_121.md)

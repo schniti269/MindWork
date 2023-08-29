@@ -5,10 +5,14 @@ Thread-Funktionen sind als System-Calls implementiert
 ⇒bspw. ist das Erzeugen eines Thread eine teure Operation
 
    Tags & Topics:
+   #Arbeit
    #Thread-Funktion
+   #Calls
+   #Arbeiten
    #erzeugen
    #Erzeugen
    #Operation
-   #Arbeit
-   #Calls
-   #Arbeiten
+
+[Previous: #AdvIT-Folien_84](AdvIT-Folien_84.md)
+
+[Next: #AdvIT-Folien_84](AdvIT-Folien_84.md)

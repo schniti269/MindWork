@@ -6,8 +6,12 @@ Kn+1=Kn+Zn=Kn+Kn·p
 
    Tags & Topics:
    #Zinsen
-   #100=
-   #Kn+1
-   #Zins
    #Kapital
+   #100=
    #Kn+Zn
+   #Zins
+   #Kn+1
+
+[Previous: #Analysis-Lineare_Algebra-230308_166](Analysis-Lineare_Algebra-230308_166.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_166](Analysis-Lineare_Algebra-230308_166.md)

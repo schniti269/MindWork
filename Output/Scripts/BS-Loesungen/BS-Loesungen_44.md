@@ -7,3 +7,7 @@ Rechtevergabe mit minimalen Rechten
    Tags & Topics:
    #Dateischutz
    #Unix-Dateischutz
+
+[Previous: #BS-Loesungen_45](BS-Loesungen_45.md)
+
+[Next: #BS-Loesungen_45](BS-Loesungen_45.md)

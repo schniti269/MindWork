@@ -5,6 +5,10 @@ Interne Fragmentierung des Hauptspeichers:
 ⋄Pro Adressraum geht im Schnitt eine halbe Seite verloren.
 
    Tags & Topics:
-   #Hauptspeichers
-   #Benutzung
    #Hauptspeicher
+   #Benutzung
+   #Hauptspeichers
+
+[Previous: #BS-Folien_319](BS-Folien_319.md)
+
+[Next: #BS-Folien_319](BS-Folien_319.md)

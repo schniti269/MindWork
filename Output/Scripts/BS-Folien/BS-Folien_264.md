@@ -6,3 +6,7 @@ Programm↔belegte Bereiche
 
    Tags & Topics:
    #Falls
+
+[Previous: #BS-Folien_265](BS-Folien_265.md)
+
+[Next: #BS-Folien_265](BS-Folien_265.md)

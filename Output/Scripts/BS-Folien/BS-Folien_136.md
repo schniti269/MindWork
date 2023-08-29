@@ -7,5 +7,9 @@ Das Lesen und nachfolgende Schreiben des Speicherwortes ( busy) wirdatomardurchg
    Tags & Topics:
    #Struktur
    #BS–56Prozessverwaltung
-   #Hardware
    #-Befehl
+   #Hardware
+
+[Previous: #BS-Folien_137](BS-Folien_137.md)
+
+[Next: #BS-Folien_137](BS-Folien_137.md)

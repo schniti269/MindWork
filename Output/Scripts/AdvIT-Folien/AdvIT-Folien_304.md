@@ -5,5 +5,9 @@ Das Java-Monitorkonzept
 Monitore in Java
 
    Tags & Topics:
-   #Welchesignal
    #Welchesignal-Variante
+   #Welchesignal
+
+[Previous: #AdvIT-Folien_305](AdvIT-Folien_305.md)
+
+[Next: #AdvIT-Folien_305](AdvIT-Folien_305.md)

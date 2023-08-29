@@ -5,6 +5,10 @@ umfassende, praxisorientierte Einführung.
 Springer Vieweg, 7. Auflage 2020. Praktische Informatik
 
    Tags & Topics:
-   #Auflage
-   #beneker
    #Informatik
+   #beneker
+   #Auflage
+
+[Previous: #Einführung-IT-Teil1_80](Einführung-IT-Teil1_80.md)
+
+[Next: #Einführung-IT-Teil1_80](Einführung-IT-Teil1_80.md)

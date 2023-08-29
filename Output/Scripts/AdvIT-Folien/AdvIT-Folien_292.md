@@ -5,6 +5,10 @@ Monitorkontrolle (Variante von Hoare)
 Prof. Dr. Henning Pagnia (DHBW Mannheim) Advanced IT Herbst 2023 92/132Speicherbasierte Synchronisation Synchronisation mit dem Monitorkonzept
 
    Tags & Topics:
-   #Variante
    #92/132Speicherbasierte
+   #Variante
    #Aktivierte
+
+[Previous: #AdvIT-Folien_293](AdvIT-Folien_293.md)
+
+[Next: #AdvIT-Folien_293](AdvIT-Folien_293.md)

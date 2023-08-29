@@ -1,1 +1,4 @@
-# ## #Bereitschaft zu #Verhandeln 
+### Bereitschaft zu Verhandeln
+
+   Tags & Topics:
+   #Bereitschaft

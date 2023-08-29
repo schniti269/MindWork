@@ -5,5 +5,9 @@ throws  InterruptedException  {
 mutex2.acquire();
 
    Tags & Topics:
-   #Leser-Schreiber-Problem
    #Problems
+   #Leser-Schreiber-Problem
+
+[Previous: #AdvIT-Folien_244](AdvIT-Folien_244.md)
+
+[Next: #AdvIT-Folien_244](AdvIT-Folien_244.md)

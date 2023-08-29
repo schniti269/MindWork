@@ -5,6 +5,10 @@ Wichtige Methoden der Klasse Socket
     public  InputStream  getInputStream()  throws  IOException
 
    Tags & Topics:
-   #109/132Server
-   #Methode
    #Methoden
+   #Methode
+   #109/132Server
+
+[Previous: #AdvIT-Folien_341](AdvIT-Folien_341.md)
+
+[Next: #AdvIT-Folien_341](AdvIT-Folien_341.md)

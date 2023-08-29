@@ -5,6 +5,10 @@ Implementierung der Prozessverwaltung
 F¨ur eine¨ubersichtliche Beschreibung, gelten die folgenden verein fachenden Annahmen:
 
    Tags & Topics:
-   #Prozessverwaltun
    #Anwendungsprogrammen
+   #Prozessverwaltun
    #Anwendungsprogramm
+
+[Previous: #BS-Folien_153](BS-Folien_153.md)
+
+[Next: #BS-Folien_153](BS-Folien_153.md)

@@ -5,5 +5,9 @@ k¨onnte, dass die Wartebedingung nun wieder gilt
 Bei der 3. Variante
 
    Tags & Topics:
-   #Wartebedingung
    #⇒Verwendung
+   #Wartebedingung
+
+[Previous: #AdvIT-Folien_295](AdvIT-Folien_295.md)
+
+[Next: #AdvIT-Folien_295](AdvIT-Folien_295.md)

@@ -5,41 +5,45 @@ in Anlehnung an Homburg 2016, S. 6773www.dhbw.deMarketing
 Klassisches Experiment zur Wahrnehmung von ProduktenExperimentaufbau►Blindtest: Test der Produkte ohne Kenntlichmachen der Marke►Vanillepuddings wurden unterschiedliche Mengen brauner Farbstoffe zugefügt►Verkostung und anschließende Befragung von 80 StudentenErgebnisse►Alle Teilnehmer nahmen ihn als Schokoladenpudding wahr►Je dunkler der Vanillepudding, desto stärker wurde der Schokoladengeschmack wahrgenommen►Je heller der „Schokoladenpudding“, desto cremiger wurde er empfunden►Hohe Bedeutung der Farbe von Lebensmitteln für die Wahrnehmung des Geschmacks
 
    Tags & Topics:
-   #Versandkost
-   #Link
-   #Fragebogenmailing
-   #Bedeutung
-   #Geschmack
-   #DB*Datenerhebungsmethode
-   #Kostengünstigkeit
-   #Schokoladengeschmack
-   #Mail
-   #Fragebogen
-   #Produkt
-   #Farbstoff
-   #Teilnehmer
-   #befragter
-   #Fragen
-   #befragung?
-   #Datenerhebungsmethode
-   #Test
-   #Festlegung
-   #Experiment
-   #Farbe
-   #Online
-   #MarktforschungSchritt
-   #Online-Befragung
-   #Frage
+   #Befragten
    #test
+   #Systematisierung
+   #Fragebogenmailing
+   #Menge
+   #Versandkost
+   #Studie
+   #Farbstoffe
+   #Produkt
+   #Produkte
+   #Farbe
+   #Schokoladengeschmack
+   #befragter
+   #Teilnehmer
+   #Festlegung
+   #Fragebogen
+   #Fragen
+   #Vanillepuddings
+   #Datenerhebungsmethode
+   #Kostengünstigkeit
+   #Geschmack
+   #Frage
+   #Experiment
+   #MarktforschungSchritt
    #Personenzahl
    #Vanillepudding
    #Interviewerstab
-   #Produkte
-   #Vanillepuddings
-   #Systematisierung
-   #Farbstoffe
-   #Versandkosten
-   #Menge
    #Mengen
-   #Befragten
-   #Studie
+   #Test
+   #Versandkosten
+   #Bedeutung
+   #Link
+   #Online-Befragung
+   #DB*Datenerhebungsmethode
+   #Mail
+   #befragung?
+   #Online
+   #Farbstoff
+
+[Previous: #2022_Marketing_Skript_5](2022_Marketing_Skript_5.md)
+
+[Next: #2022_Marketing_Skript_5](2022_Marketing_Skript_5.md)

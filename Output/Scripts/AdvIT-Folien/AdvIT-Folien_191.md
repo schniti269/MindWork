@@ -6,3 +6,7 @@ private Semaphore  empty;
 
    Tags & Topics:
    
+
+[Previous: #AdvIT-Folien_192](AdvIT-Folien_192.md)
+
+[Next: #AdvIT-Folien_192](AdvIT-Folien_192.md)

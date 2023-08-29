@@ -5,8 +5,12 @@ Prof. Dr. Henning Pagnia (DHBW Mannheim) Advanced IT Herbst 2023 69/132Speicherb
 Betriebsmittelverwaltung
 
    Tags & Topics:
-   #mutex-Semaphor
-   #Frage
-   #Erzeuger
-   #Betriebsmittelverwaltung
    #Verbraucher
+   #Erzeuger
+   #Frage
+   #Betriebsmittelverwaltung
+   #mutex-Semaphor
+
+[Previous: #AdvIT-Folien_209](AdvIT-Folien_209.md)
+
+[Next: #AdvIT-Folien_209](AdvIT-Folien_209.md)

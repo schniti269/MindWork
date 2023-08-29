@@ -7,3 +7,7 @@ AI and intelligent workflows, ecosystems, and sustainability.
    Tags & Topics:
    #Across
    #32Universal
+
+[Previous: #C-Study22 - Own your transformation_161](C-Study22 - Own your transformation_161.md)
+
+[Next: #C-Study22 - Own your transformation_161](C-Study22 - Own your transformation_161.md)

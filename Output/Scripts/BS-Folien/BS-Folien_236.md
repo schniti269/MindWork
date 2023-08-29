@@ -7,3 +7,7 @@ mutex.p(); mutex.p();
    Tags & Topics:
    #-Konzept
    #BS–96Prozessverwaltung
+
+[Previous: #BS-Folien_237](BS-Folien_237.md)
+
+[Next: #BS-Folien_237](BS-Folien_237.md)

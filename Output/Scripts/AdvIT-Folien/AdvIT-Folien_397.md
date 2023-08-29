@@ -5,11 +5,15 @@ Multi-Threaded Server (Forts.)
 Thread-per-Connection
 
    Tags & Topics:
-   #Erzeugen
-   #Multi
    #⇒Vorteile
-   #Beenden
+   #130/132Server
    #Thread-per-Connection
+   #Beenden
+   #Erzeugen
    #⇒Vorteil
    #Zeitaufwand
-   #130/132Server
+   #Multi
+
+[Previous: #AdvIT-Folien_398](AdvIT-Folien_398.md)
+
+[Next: #AdvIT-Folien_398](AdvIT-Folien_398.md)

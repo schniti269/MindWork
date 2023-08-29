@@ -6,3 +6,7 @@ Adresse Seite
 
    Tags & Topics:
    
+
+[Previous: #BS-Uebungen_68](BS-Uebungen_68.md)
+
+[Next: #BS-Uebungen_68](BS-Uebungen_68.md)

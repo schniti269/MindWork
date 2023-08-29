@@ -5,7 +5,11 @@ Gerade wenn in Termen Variablen auftreten, so geht es normalerweise darum, die W
 men, für die die formulierte Gleichung oder Ungleichung wahr oder erfüllt ist. Häufig werden auch
 
    Tags & Topics:
-   #Gleichung
    #Ungleichung
-   #Mythen
    #Mythos
+   #Gleichung
+   #Mythen
+
+[Previous: #Analysis-Lineare_Algebra-230308_500](Analysis-Lineare_Algebra-230308_500.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_500](Analysis-Lineare_Algebra-230308_500.md)

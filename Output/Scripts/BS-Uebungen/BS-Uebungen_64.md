@@ -7,3 +7,7 @@ byte[][] m = newbyte[256][256];
    Tags & Topics:
    #Byte
    #Bytes
+
+[Previous: #BS-Uebungen_65](BS-Uebungen_65.md)
+
+[Next: #BS-Uebungen_65](BS-Uebungen_65.md)

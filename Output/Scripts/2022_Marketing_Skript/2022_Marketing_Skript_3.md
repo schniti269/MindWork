@@ -5,17 +5,21 @@ MarktVirtueller oder realer Ort des Zusammentreffens eines Angebots an Produkten
 Nachfrager(private Verbraucher und organisationale Kunden)
 
    Tags & Topics:
+   #Angebot
+   #Preise
    #Ort
    #Marketing
+   #Verbraucher
+   #Zielobjekte
    #Preis
-   #Nachfrager(private
-   #GrundlagenAkteure
    #Zielobjekt
    #Nachfrager
-   #Angebot
+   #Zusammentreffens
    #Zusammentreffen
    #Angebots
-   #Zusammentreffens
-   #Preise
-   #Zielobjekte
-   #Verbraucher
+   #Nachfrager(private
+   #GrundlagenAkteure
+
+[Previous: #2022_Marketing_Skript_30](2022_Marketing_Skript_30.md)
+
+[Next: #2022_Marketing_Skript_30](2022_Marketing_Skript_30.md)

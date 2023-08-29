@@ -6,3 +6,7 @@ Speicherverwaltung virtueller Systeme
 
    Tags & Topics:
    #b)disk
+
+[Previous: #BS-Folien_33](BS-Folien_33.md)
+
+[Next: #BS-Folien_33](BS-Folien_33.md)

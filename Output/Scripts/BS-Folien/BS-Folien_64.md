@@ -6,6 +6,10 @@ Betriebssysteme DHBW Mannheim ©Henning Pagnia Version 4.23 Fr¨uhjahr 2023 BS�
 
    Tags & Topics:
    #BS–28Einleitung
-   #mm[ic]ic
-   #Befehlsabarbeitung
    #Hardware
+   #Befehlsabarbeitung
+   #mm[ic]ic
+
+[Previous: #BS-Folien_65](BS-Folien_65.md)
+
+[Next: #BS-Folien_65](BS-Folien_65.md)

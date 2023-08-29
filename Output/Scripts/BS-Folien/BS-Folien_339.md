@@ -5,6 +5,10 @@ Implementierung mittels Hardware-m ¨aßig zu setzenden Referenz-Bits (Reference
 if (Kachelzugriﬀ ) referenzbit := 1;
 
    Tags & Topics:
-   #BS–135Speicherverwaltung
-   #bs–135speicherverwaltung
    #Referenz
+   #bs–135speicherverwaltung
+   #BS–135Speicherverwaltung
+
+[Previous: #BS-Folien_34](BS-Folien_34.md)
+
+[Next: #BS-Folien_34](BS-Folien_34.md)

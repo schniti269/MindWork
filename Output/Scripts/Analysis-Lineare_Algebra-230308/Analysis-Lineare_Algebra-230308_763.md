@@ -5,6 +5,10 @@ Relevanz zugeordnet und als beste Ergebnisse angezeigt wurden. Dieses Eigenvekto
 viele Netzwerke auf Basis von gerichteten Graphen anwendbar.84 6. MATRIZEN UND DETERMINANTEN
 
    Tags & Topics:
-   #BasisfürdenSeitenrangeinerdererfolgreichstenInternetsuchmaschinen
    #Eigenvektor-Verfahren
    #BasisfürdenSeitenrangeinerdererfolgreichstenInternetsuchmaschin
+   #BasisfürdenSeitenrangeinerdererfolgreichstenInternetsuchmaschinen
+
+[Previous: #Analysis-Lineare_Algebra-230308_764](Analysis-Lineare_Algebra-230308_764.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_764](Analysis-Lineare_Algebra-230308_764.md)

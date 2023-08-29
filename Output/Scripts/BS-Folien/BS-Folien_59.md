@@ -5,14 +5,18 @@ Steuerregister (Steuer- und Zustandsinformationen)
 ⋄Befehlsregister IR (Instruction Register)
 
    Tags & Topics:
-   #Steuerregister
-   #Adressier
-   #Adressieren
    #Gleitpunktregister
-   #Gleitkommarechnungen
+   #Steuerregister
+   #Mehrzweckregister
+   #mehrzweckregister
    #Steuer-
+   #Zustandsinformation
+   #Gleitkommarechnungen
    #Zustandsinformationen
    #Gleitkommarechnunge
-   #mehrzweckregister
-   #Mehrzweckregister
-   #Zustandsinformation
+   #Adressieren
+   #Adressier
+
+[Previous: #BS-Folien_6](BS-Folien_6.md)
+
+[Next: #BS-Folien_6](BS-Folien_6.md)

@@ -6,3 +6,7 @@ Die Priorit ¨at kann durch das Betriebssystem ver ¨andert werden
 
    Tags & Topics:
    #Falls
+
+[Previous: #BS-Folien_192](BS-Folien_192.md)
+
+[Next: #BS-Folien_192](BS-Folien_192.md)

@@ -5,8 +5,12 @@ hern. Ein einfaches Beispiel für eine Potenzreihe können wir mit der geometris
 Summiert man die Potenzen von x, so erhalten wir nach Satz 2.16
 
    Tags & Topics:
-   #Potenzen
-   #Potenz
-   #Werkzeug
    #Partialsummen
+   #Potenzen
    #Partialsumme
+   #Werkzeug
+   #Potenz
+
+[Previous: #Analysis-Lineare_Algebra-230308_257](Analysis-Lineare_Algebra-230308_257.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_257](Analysis-Lineare_Algebra-230308_257.md)

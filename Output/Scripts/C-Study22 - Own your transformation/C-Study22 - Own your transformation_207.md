@@ -6,3 +6,7 @@ tightrope of managing the present while preparing for the future.
 
    Tags & Topics:
    
+
+[Previous: #C-Study22 - Own your transformation_208](C-Study22 - Own your transformation_208.md)
+
+[Next: #C-Study22 - Own your transformation_208](C-Study22 - Own your transformation_208.md)

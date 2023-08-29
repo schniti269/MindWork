@@ -5,10 +5,14 @@ Dynamische Mehrstufenverfahren: Multilevel-Feedback-Scheduling
 Verwendung mehrererready-Warteschlangen.
 
    Tags & Topics:
-   #Multilevel-Feedback-Scheduling
+   #Multilevel-Scheduling
+   #•Struktur
+   #mehrererready-Warteschlang
    #Feedback
    #Multilevel
+   #Multilevel-Feedback-Scheduling
    #Mehrstufenverfahren
-   #•Struktur
-   #Multilevel-Scheduling
-   #mehrererready-Warteschlang
+
+[Previous: #BS-Folien_197](BS-Folien_197.md)
+
+[Next: #BS-Folien_197](BS-Folien_197.md)

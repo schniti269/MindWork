@@ -6,3 +6,7 @@ driven analysis and a model-based design, the organization creates a
 
    Tags & Topics:
    
+
+[Previous: #C-Study22 - Own your transformation_96](C-Study22 - Own your transformation_96.md)
+
+[Next: #C-Study22 - Own your transformation_96](C-Study22 - Own your transformation_96.md)

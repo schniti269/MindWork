@@ -5,5 +5,9 @@ to react quickly to
 escalating situationsFocus on higher-value 
 
    Tags & Topics:
-   #approachesdevelop
    #approachesDevelop
+   #approachesdevelop
+
+[Previous: #C-Study22 - Own your transformation_216](C-Study22 - Own your transformation_216.md)
+
+[Next: #C-Study22 - Own your transformation_216](C-Study22 - Own your transformation_216.md)

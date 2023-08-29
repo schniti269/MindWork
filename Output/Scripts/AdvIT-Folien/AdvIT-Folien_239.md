@@ -5,6 +5,10 @@ public  int read ( int index, byte[] data )
 throws  InterruptedException  {
 
    Tags & Topics:
+   #Problems
    #77/132Speicherbasierte
    #Leser-Schreiber-Problem
-   #Problems
+
+[Previous: #AdvIT-Folien_24](AdvIT-Folien_24.md)
+
+[Next: #AdvIT-Folien_24](AdvIT-Folien_24.md)

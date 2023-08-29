@@ -5,10 +5,14 @@ Shortest-Processing-Time-First (SPTF)
 blocked /inactive -Zustand (→k¨urzester CPU-Burst ).
 
    Tags & Topics:
-   #Shortest
-   #Prozessorauslastung
-   #Burst
-   #CPU-Burst
    #⇒Jetzt
+   #Burst
+   #Prozessorauslastung
+   #Shortest
    #•Auswahl
+   #CPU-Burst
    #BS–74Prozessverwaltung
+
+[Previous: #BS-Folien_181](BS-Folien_181.md)
+
+[Next: #BS-Folien_181](BS-Folien_181.md)

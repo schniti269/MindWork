@@ -5,6 +5,10 @@ chen rationalen Funktionen. Hier wird der polynomiale Bruch in die Faktoren des 
 Alle ungebrochenen Anteile können direkt integriert werden.
 
    Tags & Topics:
-   #Nenner
    #Anteile
    #Anteil
+   #Nenner
+
+[Previous: #Analysis-Lineare_Algebra-230308_437](Analysis-Lineare_Algebra-230308_437.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_437](Analysis-Lineare_Algebra-230308_437.md)

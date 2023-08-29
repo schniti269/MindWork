@@ -1,4 +1,7 @@
-# ## #matrix multiplikation 
+### matrix multiplikation
 
- - " #zeile * #spalte " 
- - #wenn #ungleich #= > #unmöglich 
+- "zeile * spalte"
+- wenn ungleich => unmöglich
+
+   Tags & Topics:
+   

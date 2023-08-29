@@ -5,9 +5,13 @@ bisweilen auch das Oktalsystem ( 37okt) zur Anwendung.
 reelle Zahlen ( ℝ)
 
    Tags & Topics:
-   #Überblick
+   #Hexadezimalsystem
+   #Binärsystem
+   #2Ahex
    #Oktalsystem
    #Dezimaldarstellung
-   #Hexadezimalsystem
-   #2Ahex
-   #Binärsystem
+   #Überblick
+
+[Previous: #Einführung-IT-Teil2_70](Einführung-IT-Teil2_70.md)
+
+[Next: #Einführung-IT-Teil2_70](Einführung-IT-Teil2_70.md)

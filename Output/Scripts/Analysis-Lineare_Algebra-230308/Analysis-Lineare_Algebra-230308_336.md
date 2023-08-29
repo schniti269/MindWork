@@ -5,5 +5,9 @@ n(x) =nxn−1.Tabelle 1 zeigt die Ableitungen von weiteren Standardfunktion und 
 zeigt die wichtigsten Ableitungsregeln, die man entsprechend aus der Definition der Ableitung herleiten
 
    Tags & Topics:
-   #nxn−1.Tabelle
    #Ableitung
+   #nxn−1.Tabelle
+
+[Previous: #Analysis-Lineare_Algebra-230308_337](Analysis-Lineare_Algebra-230308_337.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_337](Analysis-Lineare_Algebra-230308_337.md)

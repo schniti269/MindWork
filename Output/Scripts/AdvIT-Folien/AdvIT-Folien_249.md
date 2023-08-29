@@ -6,3 +6,7 @@ beide warten vor dem Semaphor r {⇒r.ctr=-2 }
 
    Tags & Topics:
    #f)bevorl1losl¨auft
+
+[Previous: #AdvIT-Folien_25](AdvIT-Folien_25.md)
+
+[Next: #AdvIT-Folien_25](AdvIT-Folien_25.md)

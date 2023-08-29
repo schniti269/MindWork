@@ -5,11 +5,15 @@
 PreisänderungrelativeAbsatzänderungrelativeε=
 
    Tags & Topics:
+   #Absatzes
    #Tellis1991)xpdpdx(p)pdpxdx(p)ε×==
-   #PreisänderungrelativeAbsatzänderungrelativeε=
    #Absatz
-   #Preiselastizität
+   #PreisänderungrelativeAbsatzänderungrelativeε=
    #122Definition
    #Werbeelastizität.(Sethuraman
+   #Preiselastizität
    #8Preis
-   #Absatzes
+
+[Previous: #2022_Marketing_Skript_89](2022_Marketing_Skript_89.md)
+
+[Next: #2022_Marketing_Skript_89](2022_Marketing_Skript_89.md)

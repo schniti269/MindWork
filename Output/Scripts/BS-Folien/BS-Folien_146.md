@@ -5,13 +5,17 @@ beim Betreten des kritischen Abschnittes ¨uberholt wird.
 Grundlage f ¨ur eine Realisierung des gegenseitigen Ausschlusses kurzer kritischer Abschnitte bei Mehr-
 
    Tags & Topics:
-   #Ausschluß
-   #•Verwendung
    #Ausschlusses
-   #Abschnittes
-   #Grundlage
-   #Warten
-   #warten
-   #Starvation
    #starvation
+   #Grundlage
+   #Starvation
+   #warten
+   #Ausschluß
    #Abschnitt
+   #Abschnittes
+   #Warten
+   #•Verwendung
+
+[Previous: #BS-Folien_147](BS-Folien_147.md)
+
+[Next: #BS-Folien_147](BS-Folien_147.md)

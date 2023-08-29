@@ -6,3 +6,7 @@ Prg. 6 Gegenseitiger Ausschluss mit dem Test&Set -Befehlpublic class MutualExclu
 
    Tags & Topics:
    
+
+[Previous: #BS-Folien_14](BS-Folien_14.md)
+
+[Next: #BS-Folien_14](BS-Folien_14.md)

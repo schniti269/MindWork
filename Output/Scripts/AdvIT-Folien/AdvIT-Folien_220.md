@@ -5,7 +5,11 @@ Schreiboperationen writever¨andern diesen Datensatz an beliebigen Stellen
 (und lesen ihn ggf.)
 
    Tags & Topics:
-   #Schreiber
+   #Leseoperatione
    #Leseoperationen
    #Datensatz
-   #Leseoperatione
+   #Schreiber
+
+[Previous: #AdvIT-Folien_221](AdvIT-Folien_221.md)
+
+[Next: #AdvIT-Folien_221](AdvIT-Folien_221.md)

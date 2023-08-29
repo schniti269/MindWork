@@ -6,6 +6,10 @@ Interne Darstellung von Dateien
 
    Tags & Topics:
    #ﬁlespartition
+   #Filesystem
    #ﬁlesPartition
    #physikalischeDisk
-   #Filesystem
+
+[Previous: #BS-Folien_45](BS-Folien_45.md)
+
+[Next: #BS-Folien_45](BS-Folien_45.md)

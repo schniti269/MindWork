@@ -6,3 +6,7 @@ while  [ Bedingung  ] ; do
 
    Tags & Topics:
    #Befehl
+
+[Previous: #AdvIT-Folien_200](AdvIT-Folien_200.md)
+
+[Next: #AdvIT-Folien_200](AdvIT-Folien_200.md)

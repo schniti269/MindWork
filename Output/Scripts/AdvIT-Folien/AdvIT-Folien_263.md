@@ -6,3 +6,7 @@ private boolean printerFree  = true;
 
    Tags & Topics:
    #Programmcode
+
+[Previous: #AdvIT-Folien_264](AdvIT-Folien_264.md)
+
+[Next: #AdvIT-Folien_264](AdvIT-Folien_264.md)

@@ -5,9 +5,13 @@
 •Beispiel: Binäre Addition
 
    Tags & Topics:
-   #Übertrag
-   #0+1
-   #Binärziffern
    #Binärziffer
+   #Übertrag
+   #Binärziffern
+   #0+1
    #Arithmetik
    #1+1
+
+[Previous: #Einführung-IT-Teil2_53](Einführung-IT-Teil2_53.md)
+
+[Next: #Einführung-IT-Teil2_53](Einführung-IT-Teil2_53.md)

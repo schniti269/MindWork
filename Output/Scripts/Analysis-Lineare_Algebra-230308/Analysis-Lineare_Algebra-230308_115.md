@@ -5,7 +5,11 @@ ax=exlnaloga(x) =ln(x)
 ln(a)
 
    Tags & Topics:
-   #Potenzfunktion
    #Potenzfunktionen
-   #Logarithmen
    #Logarithme
+   #Logarithmen
+   #Potenzfunktion
+
+[Previous: #Analysis-Lineare_Algebra-230308_116](Analysis-Lineare_Algebra-230308_116.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_116](Analysis-Lineare_Algebra-230308_116.md)

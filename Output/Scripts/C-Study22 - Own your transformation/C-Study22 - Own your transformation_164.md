@@ -6,3 +6,7 @@ for data-driven organizations focused on innovation
 
    Tags & Topics:
    
+
+[Previous: #C-Study22 - Own your transformation_165](C-Study22 - Own your transformation_165.md)
+
+[Next: #C-Study22 - Own your transformation_165](C-Study22 - Own your transformation_165.md)

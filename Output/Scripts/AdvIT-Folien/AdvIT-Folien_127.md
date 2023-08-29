@@ -7,3 +7,7 @@ Idee
    Tags & Topics:
    #Bereiche
    #Bereich
+
+[Previous: #AdvIT-Folien_128](AdvIT-Folien_128.md)
+
+[Next: #AdvIT-Folien_128](AdvIT-Folien_128.md)

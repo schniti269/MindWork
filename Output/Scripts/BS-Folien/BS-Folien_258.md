@@ -6,3 +6,7 @@ Betriebssystem stellt Speicherbereich in der gew ¨unschten L ¨ange bereit.
 
    Tags & Topics:
    #Speicherbereich
+
+[Previous: #BS-Folien_259](BS-Folien_259.md)
+
+[Next: #BS-Folien_259](BS-Folien_259.md)

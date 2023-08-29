@@ -5,12 +5,16 @@ Stapelbetrieb ( Batch Processing )
 Programme, Daten und Steueranweisungen
 
    Tags & Topics:
-   #Bestandteil
-   #•Anforderung
-   #Bestandteile
-   #Stapelbetrieb
-   #Steueranweisung
    #Job
    #Auftrag
-   #⇒Abarbeitung
    #Steueranweisungen
+   #Bestandteile
+   #Steueranweisung
+   #⇒Abarbeitung
+   #Bestandteil
+   #Stapelbetrieb
+   #•Anforderung
+
+[Previous: #BS-Folien_330](BS-Folien_330.md)
+
+[Next: #BS-Folien_330](BS-Folien_330.md)

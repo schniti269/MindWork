@@ -5,8 +5,12 @@ notwendig
 • Werden Daten zu langsam an das Laufwerk geliefert, kann die Kapazität einiger Medientypen nicht zu 100 % ausgenutzt werd en. 
 
    Tags & Topics:
-   #Band
-   #Zugriffszeit
-   #Zugriffszeiten
-   #Medientype
    #Kapazität
+   #Band
+   #Zugriffszeiten
+   #Zugriffszeit
+   #Medientype
+
+[Previous: #Einführung-IT-Teil1_71](Einführung-IT-Teil1_71.md)
+
+[Next: #Einführung-IT-Teil1_71](Einführung-IT-Teil1_71.md)

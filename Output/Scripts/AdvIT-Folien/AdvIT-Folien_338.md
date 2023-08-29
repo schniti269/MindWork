@@ -5,8 +5,12 @@ public  Socket(String  host, int port)
 ◮Der Hostname hostwird¨uber DNS in die IP-Adresse aufgel ¨ost, ggf. kann eine
 
    Tags & Topics:
-   #standardkonstruktor
    #Hostname
-   #Adresse
    #UnknownHostException
    #Standardkonstruktor
+   #standardkonstruktor
+   #Adresse
+
+[Previous: #AdvIT-Folien_339](AdvIT-Folien_339.md)
+
+[Next: #AdvIT-Folien_339](AdvIT-Folien_339.md)

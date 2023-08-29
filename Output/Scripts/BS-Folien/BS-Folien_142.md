@@ -6,3 +6,7 @@ spin:
 
    Tags & Topics:
    
+
+[Previous: #BS-Folien_143](BS-Folien_143.md)
+
+[Next: #BS-Folien_143](BS-Folien_143.md)

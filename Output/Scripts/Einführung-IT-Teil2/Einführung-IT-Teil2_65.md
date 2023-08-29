@@ -5,12 +5,16 @@ Zweierkomplement. Dies liefert dann eine positive Zahl. Das negative Vorzeichen 
 •Addieren Sie die Binärwörter 01010010 + 01100111.
 
    Tags & Topics:
+   #Ergebnis
+   #Binärwörter
+   #Ergebnisses
    #die
    #Vorzeichen
    #Betrag
    #übungen
-   #Ergebnisses
-   #Betrags
-   #Binärwörter
-   #Ergebnis
    #Übung
+   #Betrags
+
+[Previous: #Einführung-IT-Teil2_66](Einführung-IT-Teil2_66.md)
+
+[Next: #Einführung-IT-Teil2_66](Einführung-IT-Teil2_66.md)

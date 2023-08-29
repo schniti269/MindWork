@@ -8,3 +8,7 @@ Betriebssysteme DHBW Mannheim ©Henning Pagnia Version 4.23 Fr¨uhjahr 2023 BS�
    #Software
    #→Behandlung
    #System-Software
+
+[Previous: #BS-Folien_178](BS-Folien_178.md)
+
+[Next: #BS-Folien_178](BS-Folien_178.md)

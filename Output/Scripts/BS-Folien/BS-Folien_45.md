@@ -5,7 +5,11 @@ f¨uhrt Befehle aus und ver ¨andert Daten
 ⇒arbeitet sequenziell
 
    Tags & Topics:
-   #Befehlsprozessor
    #⇒Daten-
-   #Unit
    #Befehl
+   #Befehlsprozessor
+   #Unit
+
+[Previous: #BS-Folien_450](BS-Folien_450.md)
+
+[Next: #BS-Folien_450](BS-Folien_450.md)

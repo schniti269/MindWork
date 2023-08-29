@@ -5,8 +5,12 @@ Datenhaltung
 •Aufgabe dieses Dienstes ist die langfristige Aufbewahrung von Daten und Programmen
 
    Tags & Topics:
-   #Dienst
-   #•Aufgabe
-   #Aufbewahrung
-   #Dienstes
    #Dienste
+   #Aufbewahrung
+   #Dienst
+   #Dienstes
+   #•Aufgabe
+
+[Previous: #BS-Folien_260](BS-Folien_260.md)
+
+[Next: #BS-Folien_260](BS-Folien_260.md)

@@ -5,7 +5,11 @@ von 32 Bit.(i) Wie viele Seiten umfasst der maximal ausgebaute Adressra um eines
 Aufgabe 7: SeitentauschstrategienEin Programm besteht aus f ¨unf Seiten im virtuellen Adressraum und hat drei Kacheln im Haup tspeicher zur Ausf ¨uhrung
 
    Tags & Topics:
+   #Adres
    #Adr
    #Adressra
    #SeitentabelleBetrachten
-   #Adres
+
+[Previous: #BS-Uebungen_62](BS-Uebungen_62.md)
+
+[Next: #BS-Uebungen_62](BS-Uebungen_62.md)

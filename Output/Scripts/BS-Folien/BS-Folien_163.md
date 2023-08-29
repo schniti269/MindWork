@@ -5,9 +5,13 @@ Die Wartezeit, bis P1den Prozessor wieder erh ¨alt, ist f¨urP1transparent .
 •Durchf¨uhrung des Prozesswechsels:
 
    Tags & Topics:
+   #aufrufe
+   #Wartezeit
+   #Prozesswechsel
+   #f¨urP1transparent
    #•Durchf¨uhrung
    #Prozesswechsels
-   #Prozesswechsel
-   #Wartezeit
-   #aufrufe
-   #f¨urP1transparent
+
+[Previous: #BS-Folien_164](BS-Folien_164.md)
+
+[Next: #BS-Folien_164](BS-Folien_164.md)

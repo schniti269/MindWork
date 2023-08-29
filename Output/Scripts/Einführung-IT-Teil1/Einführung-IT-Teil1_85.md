@@ -5,9 +5,13 @@ Informatik.
 •Digitale Bibliothek
 
    Tags & Topics:
-   #Fachgruppe
-   #fachbereiche
-   #Sprachrohr
    #Politik
-   #Fachgruppen
+   #fachbereiche
    #Fachbereichen
+   #Sprachrohr
+   #Fachgruppen
+   #Fachgruppe
+
+[Previous: #Einführung-IT-Teil1_86](Einführung-IT-Teil1_86.md)
+
+[Next: #Einführung-IT-Teil1_86](Einführung-IT-Teil1_86.md)

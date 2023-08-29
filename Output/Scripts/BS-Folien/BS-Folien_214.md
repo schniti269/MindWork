@@ -5,7 +5,11 @@ ioTransfer
 ioItrHandler
 
    Tags & Topics:
-   #Synchrone
-   #A-OperationProzessverwaltung
    #OperationProzessverwaltung
    #A-Schnittstell
+   #A-OperationProzessverwaltung
+   #Synchrone
+
+[Previous: #BS-Folien_215](BS-Folien_215.md)
+
+[Next: #BS-Folien_215](BS-Folien_215.md)

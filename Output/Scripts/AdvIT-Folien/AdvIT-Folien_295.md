@@ -5,6 +5,10 @@ Wartebedingung wieder gilt
 Prof. Dr. Henning Pagnia (DHBW Mannheim) Advanced IT Herbst 2023 93/132Speicherbasierte Synchronisation Synchronisation mit dem Monitorkonzept
 
    Tags & Topics:
-   #⇒Verwendung
-   #Wartebedingung
    #Chance
+   #Wartebedingung
+   #⇒Verwendung
+
+[Previous: #AdvIT-Folien_296](AdvIT-Folien_296.md)
+
+[Next: #AdvIT-Folien_296](AdvIT-Folien_296.md)

@@ -7,3 +7,7 @@ Inhaltsverzeichnis des Datentr ¨agers (hier: der Platte)
    Tags & Topics:
    #qbl¨ockeblockstatus
    #Inhaltsverzeichnis
+
+[Previous: #BS-Folien_398](BS-Folien_398.md)
+
+[Next: #BS-Folien_398](BS-Folien_398.md)

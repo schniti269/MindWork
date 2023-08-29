@@ -6,3 +6,7 @@ TCP-Sockets (Forts.)
 
    Tags & Topics:
    #112/132Server
+
+[Previous: #AdvIT-Folien_348](AdvIT-Folien_348.md)
+
+[Next: #AdvIT-Folien_348](AdvIT-Folien_348.md)

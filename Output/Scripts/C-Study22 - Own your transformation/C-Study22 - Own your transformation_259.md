@@ -6,3 +6,7 @@ part of the 26th edition of the IBM C-suite Series. All respondents identified
 
    Tags & Topics:
    
+
+[Previous: #C-Study22 - Own your transformation_26](C-Study22 - Own your transformation_26.md)
+
+[Next: #C-Study22 - Own your transformation_26](C-Study22 - Own your transformation_26.md)

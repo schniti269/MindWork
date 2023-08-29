@@ -5,8 +5,12 @@ Diese Operation wird oft durch einen speziellen Prozessorb efehl unterst ¨utzt.
 •initPcb ( Context c )
 
    Tags & Topics:
-   #Registerinhalte
-   #•loadRegist
-   #•loadRegister
    #¨Uberschreiben
+   #•loadRegister
+   #Registerinhalte
    #Context
+   #•loadRegist
+
+[Previous: #BS-Folien_106](BS-Folien_106.md)
+
+[Next: #BS-Folien_106](BS-Folien_106.md)

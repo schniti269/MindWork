@@ -5,10 +5,14 @@
 •1999 bis 2005, Epoche der Multiplattform -Systeme und des FibreChannel SAN und NAS, mehrere TBs
 
    Tags & Topics:
-   #Akronym
-   #Ausfallsicherheit
-   #kapazität
    #Kapazität
-   #TB
-   #Epoche
    #Multiplattform
+   #kapazität
+   #TB
+   #Ausfallsicherheit
+   #Epoche
+   #Akronym
+
+[Previous: #Einführung-IT-Teil1_65](Einführung-IT-Teil1_65.md)
+
+[Next: #Einführung-IT-Teil1_65](Einführung-IT-Teil1_65.md)

@@ -8,3 +8,7 @@ Ein Kredit von K= 80 000 .00Euro soll beispielsweise in 5 Jahren zurückbezahlt 
    #T|{z
    #Zins
    #Zinsen
+
+[Previous: #Analysis-Lineare_Algebra-230308_214](Analysis-Lineare_Algebra-230308_214.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_214](Analysis-Lineare_Algebra-230308_214.md)

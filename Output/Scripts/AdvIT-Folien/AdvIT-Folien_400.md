@@ -6,3 +6,7 @@ Variante: Thread-per-Object (bei Objektorientierung)
 
    Tags & Topics:
    #Objekt
+
+[Previous: #AdvIT-Folien_401](AdvIT-Folien_401.md)
+
+[Next: #AdvIT-Folien_401](AdvIT-Folien_401.md)

@@ -7,3 +7,7 @@ public static InetAddress getByName(String host)
    Tags & Topics:
    #Konstruktor
    #Achtung
+
+[Previous: #AdvIT-Folien_332](AdvIT-Folien_332.md)
+
+[Next: #AdvIT-Folien_332](AdvIT-Folien_332.md)

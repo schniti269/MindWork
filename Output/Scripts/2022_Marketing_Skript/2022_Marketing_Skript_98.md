@@ -5,15 +5,19 @@ in Anlehnung an Homburg 2016, S. 218AttentionInterestDesireActionKategorisierung
 §Hauptbild-komponenten§Ergänzende Bildelemente§Typographie§Farben§Schriftarten, -anordnungen, -größen§Animationen§etc.
 
    Tags & Topics:
-   #komponenten§ergänzende
-   #-größen§Animationen§etc
-   #Maßnahme
-   #AIDA
-   #Potenzial
-   #Modells:4.3
-   #Ziel
    #Ziel(z
    #Hauptbild
+   #Ziel
+   #Modells:4.3
+   #-größen§Animationen§etc
    #Bekanntheit
+   #Potenzial
+   #Maßnahme
    #Maßnahmen
+   #AIDA
+   #komponenten§ergänzende
    #ziele(z
+
+[Previous: #2022_Marketing_Skript_99](2022_Marketing_Skript_99.md)
+
+[Next: #2022_Marketing_Skript_99](2022_Marketing_Skript_99.md)

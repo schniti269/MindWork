@@ -5,9 +5,13 @@ Implementierung:
 (⇒E/V-Problem)
 
    Tags & Topics:
-   #V-Problem
-   #Dispatcher
-   #Dispatchers
    #Problem
+   #Dispatcher
    #Auftr
+   #V-Problem
+   #Dispatchers
    #Implementierung
+
+[Previous: #AdvIT-Folien_89](AdvIT-Folien_89.md)
+
+[Next: #AdvIT-Folien_89](AdvIT-Folien_89.md)

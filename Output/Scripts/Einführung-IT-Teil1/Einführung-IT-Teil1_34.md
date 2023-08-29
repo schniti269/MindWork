@@ -5,9 +5,13 @@ Backus, folgte als erste höhere Programmiersprache.
 Bild: Nachbau des im 2. Weltkrieg 
 
    Tags & Topics:
+   #Nachbau
    #Magnettrommelspeicher
    #Typ
-   #Nachbau
+   #•IBM-Großrechner
    #Typs
    #Programmiert
-   #•IBM-Großrechner
+
+[Previous: #Einführung-IT-Teil1_35](Einführung-IT-Teil1_35.md)
+
+[Next: #Einführung-IT-Teil1_35](Einführung-IT-Teil1_35.md)

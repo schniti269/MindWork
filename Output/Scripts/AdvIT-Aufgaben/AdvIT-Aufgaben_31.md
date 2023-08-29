@@ -6,3 +6,7 @@ Aufgabe 15 (Bearbeitungszeit: max. 90 min)
 
    Tags & Topics:
    #L¨osungsvorschlag
+
+[Previous: #AdvIT-Aufgaben_32](AdvIT-Aufgaben_32.md)
+
+[Next: #AdvIT-Aufgaben_32](AdvIT-Aufgaben_32.md)

@@ -6,3 +6,7 @@ words, what can possibly (or probably) happen next?
 
    Tags & Topics:
    #effective
+
+[Previous: #C-Study22 - Own your transformation_53](C-Study22 - Own your transformation_53.md)
+
+[Next: #C-Study22 - Own your transformation_53](C-Study22 - Own your transformation_53.md)

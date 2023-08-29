@@ -5,8 +5,12 @@ Wirklichkeit zu machen (Validierung) und für eine möglichst fehlerfreie Realis
 durch eine Implementierung als Computerprogramm zu sorgen. 
 
    Tags & Topics:
-   #Modelle
    #Übereinstimmung
-   #Validierung
-   #Modell
    #•Man
+   #Modell
+   #Modelle
+   #Validierung
+
+[Previous: #Einführung-IT-Teil1_21](Einführung-IT-Teil1_21.md)
+
+[Next: #Einführung-IT-Teil1_21](Einführung-IT-Teil1_21.md)

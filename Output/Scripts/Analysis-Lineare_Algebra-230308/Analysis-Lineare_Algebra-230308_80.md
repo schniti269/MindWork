@@ -6,5 +6,9 @@ von5, es gilt dann also f(x) = 5. Hingegen ist z= (f(5))−1der Kehrwert vom Fun
 
    Tags & Topics:
    #B→A
-   #Schreibweise
    #Urbild
+   #Schreibweise
+
+[Previous: #Analysis-Lineare_Algebra-230308_800](Analysis-Lineare_Algebra-230308_800.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_800](Analysis-Lineare_Algebra-230308_800.md)

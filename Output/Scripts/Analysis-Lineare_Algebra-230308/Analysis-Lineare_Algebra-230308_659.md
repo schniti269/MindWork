@@ -7,3 +7,7 @@ a21a22
    Tags & Topics:
    #A∈Rm×nmitmZeilen
    #A·x=
+
+[Previous: #Analysis-Lineare_Algebra-230308_66](Analysis-Lineare_Algebra-230308_66.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_66](Analysis-Lineare_Algebra-230308_66.md)

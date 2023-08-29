@@ -6,3 +6,7 @@ and inclusion initiatives, as well as responsible
 
    Tags & Topics:
    
+
+[Previous: #C-Study22 - Own your transformation_146](C-Study22 - Own your transformation_146.md)
+
+[Next: #C-Study22 - Own your transformation_146](C-Study22 - Own your transformation_146.md)

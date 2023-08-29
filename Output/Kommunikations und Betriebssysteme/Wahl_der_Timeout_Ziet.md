@@ -1,7 +1,11 @@
-# ## #Wahl #der #Timeout #Ziet 
+### Wahl der Timeout Ziet
 
- - #Subtopic 1 
- - #ETT #Timeout #abschätzung 
+- Subtopic 1
+- ETT Timeout abschätzung
 
-	 - #schätzen #mittelwert 
-	 - #schätzen #Standardabweichung 
+	- schätzen mittelwert
+	- schätzen Standardabweichung
+
+   Tags & Topics:
+   #Standardabweichung
+   #Wahl

@@ -5,12 +5,16 @@ Round-Robin ( ⇒Time-Sharing-Verhalten mittels Zeitscheiben)
 Priorit¨aten gesteuert (auch: preemptive )
 
    Tags & Topics:
-   #Multi
-   #sharing
-   #Processing
-   #Echtzeitanforderungen
-   #Scheduling
-   #Round
-   #Robin
    #⇒Time
+   #sharing
+   #Robin
+   #Processing
+   #Multi
+   #Round
    #Abarbeitung
+   #Scheduling
+   #Echtzeitanforderungen
+
+[Previous: #AdvIT-Folien_390](AdvIT-Folien_390.md)
+
+[Next: #AdvIT-Folien_390](AdvIT-Folien_390.md)

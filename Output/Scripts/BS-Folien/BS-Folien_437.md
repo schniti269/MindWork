@@ -5,10 +5,14 @@ Files and directories Root dir I-nodes Super block Free space mgmt Boot block  M
 Betriebssysteme DHBW Mannheim ©Henning Pagnia Version 4.23 Fr¨uhjahr 2023 BS–176Dateisysteme Verwaltung von Dateisystemen
 
    Tags & Topics:
+   #Root
+   #Super
    #Partitionen
    #•Platzierung
-   #DateisystemsEntire
-   #Super
-   #Partition
    #Boot
-   #Root
+   #DateisystemsEntire
+   #Partition
+
+[Previous: #BS-Folien_438](BS-Folien_438.md)
+
+[Next: #BS-Folien_438](BS-Folien_438.md)

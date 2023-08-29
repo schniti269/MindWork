@@ -5,8 +5,12 @@ wird:
 Ein Aufruf von writeDisk wirdsynchron ausgef¨uhrt, d.h. der aufrufende Prozess muss in der Prozesswarte-
 
    Tags & Topics:
-   #Festplatte
    #Zeitscheibenverfahren
+   #Festplatte
    #Semaphorkonzept
-   #Ausgabeoperation
    #mitRound
+   #Ausgabeoperation
+
+[Previous: #BS-Uebungen_11](BS-Uebungen_11.md)
+
+[Next: #BS-Uebungen_11](BS-Uebungen_11.md)

@@ -5,8 +5,12 @@ Unterbrechungen - wie funktioniert’s?
 •Interrupt-Handler-Routine
 
    Tags & Topics:
-   #Handler
    #•Interrupt
    #BS–30Einleitung
-   #Maskierung
    #Hardware
+   #Maskierung
+   #Handler
+
+[Previous: #BS-Folien_71](BS-Folien_71.md)
+
+[Next: #BS-Folien_71](BS-Folien_71.md)

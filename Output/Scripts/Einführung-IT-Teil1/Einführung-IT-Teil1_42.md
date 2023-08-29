@@ -6,3 +6,7 @@ entwickelten die Programmiersprache C.
 
    Tags & Topics:
    
+
+[Previous: #Einführung-IT-Teil1_43](Einführung-IT-Teil1_43.md)
+
+[Next: #Einführung-IT-Teil1_43](Einführung-IT-Teil1_43.md)

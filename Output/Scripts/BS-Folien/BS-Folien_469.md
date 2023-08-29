@@ -5,5 +5,9 @@ Zeit und der Datum der letzten ¨Anderung
 Dateigr¨oße
 
    Tags & Topics:
-   #¨Anderung
    #Datum
+   #¨Anderung
+
+[Previous: #BS-Folien_47](BS-Folien_47.md)
+
+[Next: #BS-Folien_47](BS-Folien_47.md)

@@ -5,8 +5,12 @@ Highest-Priority-First (HPF)
 Jedem Prozess wird eine Priorit ¨at zugeordnet.
 
    Tags & Topics:
-   #HPF
    #priority
-   #•Konzept
+   #HPF
    #BS–78Prozessverwaltung
+   #•Konzept
    #Highest
+
+[Previous: #BS-Folien_19](BS-Folien_19.md)
+
+[Next: #BS-Folien_19](BS-Folien_19.md)

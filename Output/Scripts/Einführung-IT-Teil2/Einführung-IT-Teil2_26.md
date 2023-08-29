@@ -5,5 +5,9 @@ der Ziffern mit ihrem Stellenwert.
 Die Binärzahl 1011,01 hat die dezimale Darstellung
 
    Tags & Topics:
-   #Umrechnung
    #Okt
+   #Umrechnung
+
+[Previous: #Einführung-IT-Teil2_27](Einführung-IT-Teil2_27.md)
+
+[Next: #Einführung-IT-Teil2_27](Einführung-IT-Teil2_27.md)

@@ -5,13 +5,17 @@ Nachfrage4.2. PriceEinflussfaktoren der Preisentscheidung
 „Preisdifferenzierung liegt vor,►wenn ein Anbieter ein Produkt, das hinsichtlich der►räumlichen,►zeitlichen,►leistungs-und►mengenbezogenenDimensionen identisch ist, zu unterschiedlichen Preisen verkauft oder►wenn ein Anbieter Varianten eines Produktes, die sich zumindest in einer der vier Dimensionen unterscheiden, ohne daßdabei andere Produkte entstehen, zu unterschiedlichen Preisen verkauft.“Faßnacht1996, S. 25
 
    Tags & Topics:
-   #“Faßnacht1996
+   #mengenbezogenenDimensionen
+   #PriceEinflussfaktoren
    #Kosten
    #mengenbezogenenDimension
-   #Dimensionen
+   #“Faßnacht1996
    #Dimension
-   #mengenbezogenenDimensionen
-   #Preisdifferenzierung
    #PriceEinflussfaktor
+   #Preisdifferenzierung
+   #Dimensionen
    #Preisentscheidung
-   #PriceEinflussfaktoren
+
+[Previous: #2022_Marketing_Skript_93](2022_Marketing_Skript_93.md)
+
+[Next: #2022_Marketing_Skript_93](2022_Marketing_Skript_93.md)

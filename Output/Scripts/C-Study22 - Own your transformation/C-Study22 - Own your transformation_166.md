@@ -5,5 +5,9 @@ their peers in 2021, and reported outperforming their peers in
 planning, cybersecurity, and agility over the past 3 years.
 
    Tags & Topics:
-   #metric
    #Metric
+   #metric
+
+[Previous: #C-Study22 - Own your transformation_167](C-Study22 - Own your transformation_167.md)
+
+[Next: #C-Study22 - Own your transformation_167](C-Study22 - Own your transformation_167.md)

@@ -5,12 +5,16 @@ BB1 bb;
 public Cons(BB1  bb){
 
    Tags & Topics:
-   #cons(bb1
-   #Erzeuger-Verbraucher-Problem
-   #Semaphor-Konzept
-   #L¨osung
-   #Erzeuger
    #Verbraucher
-   #Problems
-   #Konzept
    #Fort
+   #Erzeuger
+   #Konzept
+   #cons(bb1
+   #Problems
+   #L¨osung
+   #Semaphor-Konzept
+   #Erzeuger-Verbraucher-Problem
+
+[Previous: #AdvIT-Folien_202](AdvIT-Folien_202.md)
+
+[Next: #AdvIT-Folien_202](AdvIT-Folien_202.md)

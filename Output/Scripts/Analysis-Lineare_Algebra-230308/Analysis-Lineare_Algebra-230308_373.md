@@ -5,9 +5,13 @@ verschwindet ein Gradient auch in Sattelpunkt en.3.5. AUFGABEN 49
 3.5. Aufgaben
 
    Tags & Topics:
-   #Anstiegs
    #Indiz
-   #Gradient
    #Nullvektor
+   #Anstiegs
    #oderMinimum
+   #Gradient
    #Null-Gradient
+
+[Previous: #Analysis-Lineare_Algebra-230308_374](Analysis-Lineare_Algebra-230308_374.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_374](Analysis-Lineare_Algebra-230308_374.md)

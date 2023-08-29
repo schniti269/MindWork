@@ -1,176 +1,223 @@
-# ## #IP 
+### IP
 
- - #Ip #Adressen 
+- Ip Adressen
 
-	 - #besondere #Adressen #
+	- besondere Adressen
 
-		 - #0.0.0.0 
+		- 0.0.0.0
 
-			 - #dieser #Host #
+			- dieser Host
 
-		 - 0.0.Host 
+		- 0.0.Host
 
-			 - Unterknoten 1 
+			- Unterknoten 1
 
-		 - #netz.255.255 
+		- netz.255.255
 
-			 - Broadcast #adresse 
+			- Broadcast adresse
 
-	 - NAT #protokoll #
+	- NAT protokoll
 
-		 - Private #Adressen #über eine Internetfähige #Adresse 
-		 - #Internetfähiger #Router #übernimmt #zugriff 
-		 - #Router #MAppt #Private #Adressen #auf #eine #Netzadresse 
+		- Private Adressen über eine Internetfähige Adresse
+		- Internetfähiger Router übernimmt zugriff
+		- Router MAppt Private Adressen auf eine Netzadresse
 
-	 - #Subnetting 
+	- Subnetting
 
-		 - #CIDR #
+		- CIDR
 
-			 - #Notation 
+			- Notation
 
-				 - /24 #= 255.255.255.0 #
-				 - #/"anzahl der #1er " 
+				- /24 =255.255.255.0
+				- /"anzahl der 1er"
 
-			 - Routing tabelle 
+			- Routing tabelle 
 
-				 - #IP #adresse #ist mit NEtzmaske #bereits #gespeichert 
-				 - #ergebnis einer #gültigen " #rechnung #" sit mit #einem ausgangsinterface verknüpft 
+				- IP adresse ist mit NEtzmaske bereits gespeichert
+				- ergebnis einer gültigen "rechnung" sit mit einem ausgangsinterface verknüpft
 
-			 - #verfahren 
+			- verfahren
 
-				 - #Adresse #AND #subnetzmaske #
-				 - #ergibt #netzadresse 
+				- Adresse AND subnetzmaske
+				- ergibt netzadresse
 
- - #IP #routing #
+- IP routing
 
-	 - Open Shortest #path first 
+	- Open Shortest path first
 
-		 - #Benefits #
+		- Benefits
 
-			 - #Schnelle #konvergenz #
-			 - #Loop #frei #
-			 - #VLSM und #CIDR subnetting 
+			- Schnelle konvergenz
+			- Loop frei
+			- VLSM und CIDR subnetting
 
-		 - #Characteristics 
+		- Characteristics
 
-			 - #SPF alogrythmus #
-			 - #Link #state #routing #
+			- SPF alogrythmus
+			- Link state routing
 
-		 - Features 
+		- Features
 
-			 - #Gruppenkonzept #zum #simplifizieren #
-			 - #möglichkeit #BFD #Protokoll #zu #nutzen 
+			- Gruppenkonzept zum simplifizieren
+			- möglichkeit BFD Protokoll zu nutzen
 
-	 - #BGP ( #Border #Gateway Protocol #) #
+	- BGP ( Border Gateway Protocol)
 
-		 - #Typ 
+		- Typ
 
-			 - Exterior #Gateway routing 
-			 - #modifiziertes #distance #vector routing 
+			- Exterior Gateway routing
+			- modifiziertes distance vector routing
 
-				 - " #behebt " #count to infinity #
+				- "behebt" count to infinity
 
-		 - #Eigenschaften #
+		- Eigenschaften
 
-			 - #sehr #große #routing tabellen 
-			 - #Manuelle #Regeln 
+			- sehr große routing tabellen
+			- Manuelle Regeln
 
-				 - #konfiguration #von routing #" #nogos #" #
+				- konfiguration von routing "nogos"
 
-		 - #Netze #werden #verschaltet #
+		- Netze werden verschaltet
 
-	 - #ICMP ( #Internet #Control #Message #Protocol #) 
+	- ICMP ( Internet Control Message Protocol)
 
-		 - #Internet #Control #Message #Protocol 
-		 - #Nutzen 
+		- Internet Control Message Protocol
+		- Nutzen
 
-			 - #Pings 
-			 - #Fehler 
-			 - Status 
+			- Pings
+			- Fehler
+			- Status
 
-		 - #Erkennen von #ICMP #Paketen 
+		- Erkennen von ICMP Paketen
 
-			 - #wenn ein #Paket verloren #geht wird #nocht #reagiert 
-			 - #der #Sender #" wartet " #bis etwas #ankommt 
+			- wenn ein Paket verloren geht wird nocht reagiert
+			- der Sender "wartet" bis etwas ankommt
 
-				 - #mit #timeout 
+				- mit timeout
 
-	 - ARP #
+	- ARP
 
-		 - #Adress Resolution #Protokol #
-		 - #Nutzen 
+		- Adress Resolution Protokol
+		- Nutzen
 
-			 - #Aufschlüsseln #von #MAC #und #IP #i m #" heim"Netz 
+			- Aufschlüsseln von MAC und IP im "heim"Netz
 
-		 - #ARP #Request #
+		- ARP Request
 
-			 - #Aufbau 
+			- Aufbau
 
-				 - #Frage 
+				- Frage
 
-					 - Who has " adresse " #
-					 - #broadcast 
+					- Who has "adresse"
+					- broadcast
 
-				 - Antwort 
+				- Antwort
 
-					 - #der #Besitzer #der #adresse #Antwortet 
+					- der Besitzer der adresse Antwortet
 
-		 - #ARP #Erkennen #
+		- ARP Erkennen
 
-			 - #Schicht 2 Header ( #Mac ) 
+			- Schicht 2 Header ( Mac)
 
-		 - #ARP Spoofing 
+		- ARP Spoofing
 
-			 - der #falsche #antwortet #absichtlich #dass er die #Adresse #hat 
-			 - #Interner #Angriff 
+			- der falsche antwortet absichtlich dass er die Adresse hat
+			- Interner Angriff
 
-	 - #IPv6 
+	- IPv6
 
-		 - #Aufbau 
+		- Aufbau
 
-			 - #Adressen #
+			- Adressen
 
-				 - #Hexadezimal #ziffern #
+				- Hexadezimal ziffern
 
-					 - : : - > #00en #1x pro adressse #für #kürzung 
+					- :: -> 00en 1x pro adressse für kürzung
 
-				 - 16 Byte gesamt 
-				 - global unicast ( #GUA ) 
-				 - #site local 
+				- 16 Byte gesamt
+				- global unicast ( GUA)
+				- site local
 
-			 - #paket #
+			- paket
 
-				 - #Class 
+				- Class
 
-					 - #label #
+					- label
 
-				 - #header 
-				 - #Destination 
-				 - #source 
+				- header
+				- Destination
+				- source 
 
-		 - #Header 
+		- Header
 
-			 - #wurde möglichst #klein gehalten 
-			 - #keine #TTL 
+			- wurde möglichst klein gehalten 
+			- keine TTL
 
-		 - Features #
+		- Features
 
-			 - #jumbo pakete ( #4 #gb ) #
-			 - kleinere #Routing tabellen 
-			 - #mehr #sicherheit 
-			 - QoS #
-			 - #Anycast 
+			- jumbo pakete ( 4gb)
+			- kleinere Routing tabellen
+			- mehr sicherheit
+			- QoS
+			- Anycast
 
-				 - #an #eine Gruppe 
-				 - geringere #Netzlast #als #Broadcast 
-				 - #Nachricht #wird #vom #schnellsten #geantwortet 
+				- an eine Gruppe 
+				- geringere Netzlast als Broadcast
+				- Nachricht wird vom schnellsten geantwortet
 
-			 - #Multicast 
+			- Multicast
 
-				 - #Gruppen #kommunikation 
+				- Gruppen kommunikation
 
-			 - #Stateless #Adress #autoconfig ( slaac ) #
+			- Stateless Adress autoconfig (slaac)
 
-				 - #fe80 : : #MAC : 
-				 - #test #auf neigbour #solicitation   #anstelle #von #ARP 
-				 - #Anschließend #des #generieren #einer ( global #unicast #) 
+				- fe80:: MAC:
+				- test auf neigbour solicitation  anstelle von ARP
+				- Anschließend des generieren einer (global unicast)
+
+   Tags & Topics:
+   #Broadcast
+   #Netz
+   #Host
+   #Antwort
+   #Border
+   #gültig
+   #Erkennen
+   #Paketen
+   #Netzlast
+   #Netze
+   #Besitzer
+   #Unterknoten
+   #Gruppen
+   #Eigenschaft
+   #Erkenn
+   #Sender
+   #Aufschlüsseln
+   #Typ
+   #Routing
+   #Protokoll
+   #Gruppenkonzept
+   #kürzung
+   #Notation
+   #Frage
+   #Anycast
+   #Angriff
+   #Router
+   #Schicht
+   #Eigenschaften
+   #Status
+   #request
+   #Unterknot
+   #Manuelle
+   #Exterior
+   #möglichkeit
+   #Paket
+   #Multicast
+   #Gruppe
+   #IPv6
+   #Fehler
+   #Request
+   #benefit
+   #VLSM
+   #Adresse
+   #Aufbau

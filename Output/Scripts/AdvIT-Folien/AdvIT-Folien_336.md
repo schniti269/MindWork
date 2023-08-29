@@ -5,7 +5,11 @@ eingerichtet, ¨uber den nun Daten ausgetauscht werden k ¨onnen
 (5)Wenn alle Daten ausgetauscht wurden, schließen im Allg. bei de Parteien die
 
    Tags & Topics:
-   #Verbindung
    #Ausgabest
-   #Eingabestrom
    #Partei
+   #Verbindung
+   #Eingabestrom
+
+[Previous: #AdvIT-Folien_337](AdvIT-Folien_337.md)
+
+[Next: #AdvIT-Folien_337](AdvIT-Folien_337.md)

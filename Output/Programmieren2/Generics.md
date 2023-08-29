@@ -1,25 +1,35 @@
-# ## #Generics 
+### Generics
 
- - #Nutzen 
+- Nutzen
 
-	 - #< #PLACEHOLDER > 
+	- <PLACEHOLDER>
 
-		 - Bei #angebe #wird #es auf 
- angegebenen #Typ #Konkretisiert 
-		 - #typecast auf angegebenen #typ #auch #Möglich 
-		 - #Wrapperklassen nutzen 
+		- Bei angebe wird es auf
+angegebenen Typ Konkretisiert
+		- typecast auf angegebenen typ auch Möglich
+		- Wrapperklassen nutzen
 
-	 - #< > 
+	- <>
 
-		 - Behandlung wie #Object 
+		- Behandlung wie Object
 
- - #Wrapperklasse 
+- Wrapperklasse
 
-	 - #für #alle elementaren #Datentypen 
-	 - #datentyp in #objekt #kapselm 
+	- für alle elementaren Datentypen
+	- datentyp in objekt kapselm
 
-		 - autoUnboxing 
+		- autoUnboxing
 
-	 - eigene #Methoden 
+	- eigene Methoden
 
-		 - #parse 
+		- parse
+
+   Tags & Topics:
+   #Methode
+   #Behandlung
+   #Wrapperklassen
+   #Datentype
+   #Wrapperklasse
+   #Methoden
+   #Datentypen
+   #Wrapperklas

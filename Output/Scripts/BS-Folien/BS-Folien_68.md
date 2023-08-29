@@ -5,12 +5,16 @@ Welcher Code wird ausgef ¨uhrt?
 ⇒DerInterrupt-Vektor enth¨alt Einsprungadressen der Behandlungsroutinen
 
    Tags & Topics:
-   #Timer-Interrupt
+   #⋄Disk
+   #⇒DerInterrupt-Vektor
    #Timer
    #Programm
    #Behandlungsrouti
-   #⇒DerInterrupt-Vektor
    #Programms
-   #⋄Disk
-   #Unterbrechung
    #•Wirkung
+   #Unterbrechung
+   #Timer-Interrupt
+
+[Previous: #BS-Folien_69](BS-Folien_69.md)
+
+[Next: #BS-Folien_69](BS-Folien_69.md)

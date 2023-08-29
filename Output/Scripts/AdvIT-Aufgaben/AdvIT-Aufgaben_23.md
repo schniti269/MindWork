@@ -5,10 +5,14 @@ Aufgabe 13 (Bearbeitungszeit: max. 60 min)
 Client und einem Server bestehen. Jeder Client liest von der Tastatur eine Eingabezeile in Form eines
 
    Tags & Topics:
+   #Eingabezeile
+   #Chat
    #Prof.
    #Programm
-   #Server
-   #Chat
    #Progra
    #udp
-   #Eingabezeile
+   #Server
+
+[Previous: #AdvIT-Aufgaben_24](AdvIT-Aufgaben_24.md)
+
+[Next: #AdvIT-Aufgaben_24](AdvIT-Aufgaben_24.md)

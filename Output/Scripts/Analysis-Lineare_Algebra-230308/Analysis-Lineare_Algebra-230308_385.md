@@ -5,5 +5,9 @@ x2
 2+ 1.
 
    Tags & Topics:
-   #Gradienten
    #Gradiente
+   #Gradienten
+
+[Previous: #Analysis-Lineare_Algebra-230308_386](Analysis-Lineare_Algebra-230308_386.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_386](Analysis-Lineare_Algebra-230308_386.md)

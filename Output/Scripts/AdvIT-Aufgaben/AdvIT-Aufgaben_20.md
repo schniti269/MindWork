@@ -6,13 +6,17 @@ jeweils als Threads implementieren sollten.
 
    Tags & Topics:
    #Java
-   #Semaphorkonzepts
-   #Gabel
-   #entwerfen
    #Synchronisationsbedingung
-   #Entwerfen
-   #Gabeln
+   #Semaphorkonzepts
+   #Synchronisationsbedingungen
    #Semaphorkonzept
    #Abschnitte
-   #Synchronisationsbedingungen
+   #Gabel
+   #Entwerfen
    #Abschnitt
+   #entwerfen
+   #Gabeln
+
+[Previous: #AdvIT-Aufgaben_21](AdvIT-Aufgaben_21.md)
+
+[Next: #AdvIT-Aufgaben_21](AdvIT-Aufgaben_21.md)

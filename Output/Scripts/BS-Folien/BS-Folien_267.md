@@ -5,5 +5,9 @@ Programm erstreckt sich ¨ubermehrere Bereiche fester L ¨ange.
 durch Verschieben von Programmen ( →¨außerst aufw ¨andig).
 
    Tags & Topics:
-   #⋄Zuteilungsstrategie
    #⊲Auftragsverwaltung
+   #⋄Zuteilungsstrategie
+
+[Previous: #BS-Folien_268](BS-Folien_268.md)
+
+[Next: #BS-Folien_268](BS-Folien_268.md)

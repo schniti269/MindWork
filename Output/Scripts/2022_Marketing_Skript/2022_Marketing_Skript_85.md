@@ -7,3 +7,7 @@
    Tags & Topics:
    #Funktion§Stückweise
    #Preistheorie
+
+[Previous: #2022_Marketing_Skript_86](2022_Marketing_Skript_86.md)
+
+[Next: #2022_Marketing_Skript_86](2022_Marketing_Skript_86.md)

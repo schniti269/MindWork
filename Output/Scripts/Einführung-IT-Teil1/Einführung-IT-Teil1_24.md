@@ -7,3 +7,7 @@ https://commons.wikimedia.org/w/index.php?curid=647101
    Tags & Topics:
    #Arithmetik
    #Infos
+
+[Previous: #Einführung-IT-Teil1_25](Einführung-IT-Teil1_25.md)
+
+[Next: #Einführung-IT-Teil1_25](Einführung-IT-Teil1_25.md)

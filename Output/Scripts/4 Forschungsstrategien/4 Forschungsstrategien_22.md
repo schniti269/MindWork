@@ -5,8 +5,12 @@ Biologielehrkräfte tendenziell besser ab, als die Diplompädagogen. Dies impliz
 dass mit den entwickelten Tests biologielehrerspezifisches fachdidaktisches Wissen 
 
    Tags & Topics:
-   #Diplompädagoge
-   #Testwerte
-   #Biologielehrkraft
    #Biologielehrkräft
+   #Biologielehrkraft
+   #Testwerte
    #Biologielehrkräfte
+   #Diplompädagoge
+
+[Previous: #4 Forschungsstrategien_23](4 Forschungsstrategien_23.md)
+
+[Next: #4 Forschungsstrategien_23](4 Forschungsstrategien_23.md)

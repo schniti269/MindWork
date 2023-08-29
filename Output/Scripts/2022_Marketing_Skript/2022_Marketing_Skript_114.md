@@ -5,19 +5,23 @@ Gestaltung der Verkaufs-aktivitätenGestaltungder Beziehungen zu den Vertriebs-p
 Entscheidungsfelder4.4. PlaceEntscheidungsfelder akquisitorischer Aktivitäten
 
    Tags & Topics:
-   #aktivitätenGestaltungder
    #Probleme
+   #Vertriebssystem
+   #KundenKnow-how
    #Problem
-   #Bedeutung
+   #KundenProaktive
+   #Entscheidungsfelder4.4.
    #Verkaufs
-   #StatusWirtschaftliches
+   #Bedeutung
+   #aktivitätenGestaltungder
+   #KundenKnow
+   #Vertriebs
+   #Vertriebssystems
    #partnernundKey
    #AccountForderung
    #Image
-   #Vertriebssystems
-   #Vertriebs
-   #Entscheidungsfelder4.4.
-   #KundenKnow
-   #KundenProaktive
-   #Vertriebssystem
-   #KundenKnow-how
+   #StatusWirtschaftliches
+
+[Previous: #2022_Marketing_Skript_115](2022_Marketing_Skript_115.md)
+
+[Next: #2022_Marketing_Skript_115](2022_Marketing_Skript_115.md)

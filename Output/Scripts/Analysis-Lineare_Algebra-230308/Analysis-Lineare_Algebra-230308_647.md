@@ -8,3 +8,7 @@ F={x= (0,0,1)⊤+λ(1,1,1)⊤+µ(2,1,1)⊤, λ, µ ∈R}
    #E&F
    #E={x∈R3:x1−x3=
    #Schnittgerade
+
+[Previous: #Analysis-Lineare_Algebra-230308_648](Analysis-Lineare_Algebra-230308_648.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_648](Analysis-Lineare_Algebra-230308_648.md)

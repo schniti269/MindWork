@@ -5,9 +5,13 @@ Hauptspeicherorganisation
 •Einteilung des Hauptspeichers in Kacheln (Page Frames ) fester Gr ¨oße
 
    Tags & Topics:
-   #Pages
+   #Hauptspeicher
+   #Hauptspeichers
+   #seiten(page
    #•Einteilung
    #Paging
-   #Hauptspeichers
-   #Hauptspeicher
-   #seiten(page
+   #Pages
+
+[Previous: #BS-Folien_298](BS-Folien_298.md)
+
+[Next: #BS-Folien_298](BS-Folien_298.md)

@@ -5,17 +5,21 @@ KonsumentenverhaltenAlle beobachtbaren Handlungen von Individuen im Zusammenhang
 Informations-verarbeitung
 
    Tags & Topics:
+   #Begriffe
    #Handlungen
+   #Marktforschung4.Marketinginstrumente4.1Product4.2Price4.3Promotion4.4Place19www.dhbw.deMarketing
    #Konsumentenverhalten
    #Handlung
-   #Informations
-   #Konsumentenverhaltens2.2Informationsverarbeitung2.3
    #Konsum
-   #Güter.vgl
-   #Begriff
-   #KonsumentenverhaltensGrundlegende
-   #Marketingmanagement
-   #Marktforschung4.Marketinginstrumente4.1Product4.2Price4.3Promotion4.4Place19www.dhbw.deMarketing
    #Informations-verarbeitung
    #Mix2.Konsumentenverhalten2.1Zentrale
-   #Begriffe
+   #Marketingmanagement
+   #Informations
+   #Güter.vgl
+   #KonsumentenverhaltensGrundlegende
+   #Begriff
+   #Konsumentenverhaltens2.2Informationsverarbeitung2.3
+
+[Previous: #2022_Marketing_Skript_14](2022_Marketing_Skript_14.md)
+
+[Next: #2022_Marketing_Skript_14](2022_Marketing_Skript_14.md)

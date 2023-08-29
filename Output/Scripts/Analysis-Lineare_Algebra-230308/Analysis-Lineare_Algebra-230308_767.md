@@ -6,3 +6,7 @@ Aufgabe 93. Bestimmen Sie Kern und Bild der Abbildung
 
    Tags & Topics:
    #R3→R2
+
+[Previous: #Analysis-Lineare_Algebra-230308_768](Analysis-Lineare_Algebra-230308_768.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_768](Analysis-Lineare_Algebra-230308_768.md)

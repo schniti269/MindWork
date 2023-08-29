@@ -5,12 +5,16 @@ werden im Log persistent festgehalten
 ⋄einige Journal Dateisysteme: JFS, XFS, ZFS, ext3FS, ext4FS , NTFS
 
    Tags & Topics:
-   #⋄alle¨Anderungsoperationen
+   #ext3FS
+   #Argumente
+   #ext3fs
+   #Freispeicherliste
+   #Logs(Journals
+   #Dat
    #Meta
    #Argument
-   #ext3fs
-   #Logs(Journals
-   #Argumente
-   #ext3FS
-   #Dat
-   #Freispeicherliste
+   #⋄alle¨Anderungsoperationen
+
+[Previous: #BS-Folien_445](BS-Folien_445.md)
+
+[Next: #BS-Folien_445](BS-Folien_445.md)

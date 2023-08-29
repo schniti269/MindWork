@@ -5,8 +5,12 @@ geln.⇒Dateien eines bestimmten Projekts k ¨onnen ineinemVerzeichnis gespeiche
 •Abb. 31 auf der n ¨achsten Seite zeigt die Struktur hierarchischer Dateiverze ichnisse.
 
    Tags & Topics:
-   #Projekts
-   #Organisationsstruktur
-   #Projekt
-   #Dateiverze
    #Verzeichnisstruktur
+   #Projekt
+   #Organisationsstruktur
+   #Dateiverze
+   #Projekts
+
+[Previous: #BS-Folien_427](BS-Folien_427.md)
+
+[Next: #BS-Folien_427](BS-Folien_427.md)

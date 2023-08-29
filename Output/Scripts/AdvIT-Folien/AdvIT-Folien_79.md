@@ -5,6 +5,10 @@ KL Threads werden vom BS verwaltet ( ⇒System Calls)
 Prof. Dr. Henning Pagnia (DHBW Mannheim) Advanced IT Herbst 2023 26/132Prozesse, Threads und Actors Nebenl¨auﬁgkeit
 
    Tags & Topics:
-   #Calls
    #Thread-Tabelle
    #Call
+   #Calls
+
+[Previous: #AdvIT-Folien_8](AdvIT-Folien_8.md)
+
+[Next: #AdvIT-Folien_8](AdvIT-Folien_8.md)

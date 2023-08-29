@@ -5,5 +5,9 @@ log2(x) = log2(1.m m . . . m bin·2e e ... e bin−B)
 =δ+ log2(2e e ... e bin−B)
 
    Tags & Topics:
-   #Abschätzung
    #Exponent
+   #Abschätzung
+
+[Previous: #Analysis-Lineare_Algebra-230308_624](Analysis-Lineare_Algebra-230308_624.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_624](Analysis-Lineare_Algebra-230308_624.md)

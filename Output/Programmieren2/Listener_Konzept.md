@@ -1,27 +1,35 @@
-# ## #Listener #Konzept 
+### Listener Konzept
 
- - #event 
+- event
 
-	 - #event #source 
+	- event source 
 
-		 - wirft evet #objekte 
+		- wirft evet objekte
 
-			 - #auslösen 
+			- auslösen
 
-		 - #Es #wird #immer #ein #Event ausgelöst #wenn #etws getan #wird 
-		 - #immer #das #objekt mit #dem #das #event passiert 
+		- Es wird immer ein Event ausgelöst wenn etws getan wird
+		- immer das objekt mit dem das event passiert
 
-	 - arten 
+	- arten
 
-		 - #Action 
-		 - #item 
+		- Action 
+		- item
 
-			 - selectieren 
-			 - deselectieren 
+			- selectieren
+			- deselectieren
 
-		 - #Focus event 
+		- Focus event
 
- - #listener 
+- listener
 
-	 - #listener ist an bestimmten #event regisstriert 
-	 - #ist #interface mit #welchen moethoden verabeitet #wird 
+	- listener ist an bestimmten event regisstriert
+	- ist interface mit welchen moethoden verabeitet wird
+
+   Tags & Topics:
+   #ausl�sen
+   #Focus
+   #Action
+   #action
+   #Event
+   #auslöse

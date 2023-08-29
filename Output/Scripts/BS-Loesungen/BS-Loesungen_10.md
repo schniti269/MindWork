@@ -6,3 +6,7 @@ queue
 
    Tags & Topics:
    
+
+[Previous: #BS-Loesungen_11](BS-Loesungen_11.md)
+
+[Next: #BS-Loesungen_11](BS-Loesungen_11.md)

@@ -6,3 +6,7 @@ Konstruktoren
 
    Tags & Topics:
    #UDP-Socket
+
+[Previous: #AdvIT-Folien_378](AdvIT-Folien_378.md)
+
+[Next: #AdvIT-Folien_378](AdvIT-Folien_378.md)

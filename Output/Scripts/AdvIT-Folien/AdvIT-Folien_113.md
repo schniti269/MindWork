@@ -7,3 +7,7 @@ B1Exklusivit ¨at(mutual exclusion condition )
    Tags & Topics:
    #wartesituation
    #Wartesituation
+
+[Previous: #AdvIT-Folien_114](AdvIT-Folien_114.md)
+
+[Next: #AdvIT-Folien_114](AdvIT-Folien_114.md)

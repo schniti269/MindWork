@@ -5,9 +5,13 @@ Datei A Datei C 10 3 13Datei B 5 9 12 Verzeichniseintrag
 Nummer des ersten BlocksDatumZeitReservierter BereichAttributeErweiterungDateinameFile Allocation Table (FAT) Plattengroesse
 
    Tags & Topics:
-   #Plattengroesse
-   #DOS
-   #BlocksDatumZeitReservierter
    #BS–188Dateisystem
-   #Nummer
+   #Plattengroesse
+   #BlocksDatumZeitReservierter
    #bs–188dateisysteme
+   #DOS
+   #Nummer
+
+[Previous: #BS-Folien_471](BS-Folien_471.md)
+
+[Next: #BS-Folien_471](BS-Folien_471.md)

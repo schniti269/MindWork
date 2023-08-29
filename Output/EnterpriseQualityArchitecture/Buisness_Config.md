@@ -1,3 +1,6 @@
-# ## #Buisness #Config 
+### Buisness Config
 
- - How Adaptable to #Changes 
+- How Adaptable to Changes
+
+   Tags & Topics:
+   

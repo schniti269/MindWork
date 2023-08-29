@@ -5,8 +5,12 @@ UNIX - Dateisubsystem
 Logischer Dateibaum
 
    Tags & Topics:
+   #Fallbeispiel
+   #BS–179Dateisystem
    #BS–179Dateisysteme
    #Dateibaum
-   #BS–179Dateisystem
-   #Fallbeispiel
    #Fallbeispiele
+
+[Previous: #BS-Folien_447](BS-Folien_447.md)
+
+[Next: #BS-Folien_447](BS-Folien_447.md)

@@ -6,3 +6,7 @@ performance (see Figure 7). Extended role,
 
    Tags & Topics:
    #Consequently
+
+[Previous: #C-Study22 - Own your transformation_77](C-Study22 - Own your transformation_77.md)
+
+[Next: #C-Study22 - Own your transformation_77](C-Study22 - Own your transformation_77.md)

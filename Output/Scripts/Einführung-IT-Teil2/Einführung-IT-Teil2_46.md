@@ -6,3 +6,7 @@ Beispiel: 148,625 ist in eine binäre Gleitkommazahl umzuwandeln.
 
    Tags & Topics:
    
+
+[Previous: #Einführung-IT-Teil2_47](Einführung-IT-Teil2_47.md)
+
+[Next: #Einführung-IT-Teil2_47](Einführung-IT-Teil2_47.md)

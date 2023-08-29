@@ -8,3 +8,7 @@ openness, innovation, and sustained growth.”
    #Enterprise
    #Foster
    #Report
+
+[Previous: #C-Study22 - Own your transformation_285](C-Study22 - Own your transformation_285.md)
+
+[Next: #C-Study22 - Own your transformation_285](C-Study22 - Own your transformation_285.md)

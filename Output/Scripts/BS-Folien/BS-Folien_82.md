@@ -5,7 +5,11 @@ Nebenl¨auﬁges Programm
 •Auf der Ebene der Programmiersprache werden mehrere Kontro llﬂ¨usse deﬁniert.
 
    Tags & Topics:
-   #Kontro
-   #Programm
    #Programmiersprachen
+   #Programm
+   #Kontro
    #Programmiersprache
+
+[Previous: #BS-Folien_83](BS-Folien_83.md)
+
+[Next: #BS-Folien_83](BS-Folien_83.md)

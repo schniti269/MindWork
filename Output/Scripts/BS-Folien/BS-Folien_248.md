@@ -6,5 +6,9 @@ Betriebssysteme DHBW Mannheim ©Henning Pagnia Version 4.23 Fr¨uhjahr 2023 BS�
 
    Tags & Topics:
    #bs–101prozessverwaltung
-   #BS–101Prozessverwaltung
    #IdenticalPrinter
+   #BS–101Prozessverwaltung
+
+[Previous: #BS-Folien_249](BS-Folien_249.md)
+
+[Next: #BS-Folien_249](BS-Folien_249.md)

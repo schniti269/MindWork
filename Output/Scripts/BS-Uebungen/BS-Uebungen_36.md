@@ -6,3 +6,7 @@
 
    Tags & Topics:
    
+
+[Previous: #BS-Uebungen_37](BS-Uebungen_37.md)
+
+[Next: #BS-Uebungen_37](BS-Uebungen_37.md)

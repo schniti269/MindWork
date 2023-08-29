@@ -5,10 +5,14 @@ dass der Server parallele Requests ausf ¨uhrt! Was passiert mit Ihren Dateien b
 Advanced IT DHBW Mannheim ©Prof. Dr. Henning Pagnia Version 1.2a Herbst 2023 ¨U–19Aufgabe 15
 
    Tags & Topics:
-   #File
-   #umsetzt!Zeigen
-   #Thread-per-Request
    #Thread
-   #File-Server
-   #Implementierung
+   #umsetzt!Zeigen
    #Aufrufen
+   #File-Server
+   #File
+   #Thread-per-Request
+   #Implementierung
+
+[Previous: #AdvIT-Aufgaben_33](AdvIT-Aufgaben_33.md)
+
+[Next: #AdvIT-Aufgaben_33](AdvIT-Aufgaben_33.md)

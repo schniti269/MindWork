@@ -7,3 +7,7 @@ Handhabung sehr großer Partitionen
    Tags & Topics:
    #Partitio
    #Rechner
+
+[Previous: #BS-Folien_443](BS-Folien_443.md)
+
+[Next: #BS-Folien_443](BS-Folien_443.md)

@@ -5,6 +5,10 @@ public class MyThread1  extends Thread {  private int id;    // Thread ID  publi
   public static void main( String[] args ) {      for (int i=1; i<10; i++){  Thread t = new MyThread1(  i );  t.start();      }  } // main
 
    Tags & Topics:
-   #Konstruktor
    #Thread.sleep
+   #Konstruktor
    #Exception
+
+[Previous: #AdvIT-Folien_94](AdvIT-Folien_94.md)
+
+[Next: #AdvIT-Folien_94](AdvIT-Folien_94.md)

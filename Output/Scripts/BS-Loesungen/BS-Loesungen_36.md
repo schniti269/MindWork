@@ -6,3 +6,7 @@ reihenfolge fehler Ref C A Ref C A Ref C A zeiger
 
    Tags & Topics:
    
+
+[Previous: #BS-Loesungen_37](BS-Loesungen_37.md)
+
+[Next: #BS-Loesungen_37](BS-Loesungen_37.md)

@@ -5,8 +5,12 @@ Zahlenbereich von der Basis und vor allem vom Exponenten.Gleitkommazahlen nach I
 •Nach dem Standard3 IEEE 754 ist eine binäre Gleitkommazahl z mit Vorzeichenbit s, binärer Mantisse 1, f (in 
 
    Tags & Topics:
-   #Zahldarstellung
-   #Zahlenbereich
    #Standard3
+   #Zahldarstellung
    #Gleitkommazahl
+   #Zahlenbereich
    #Ziffer
+
+[Previous: #Einführung-IT-Teil2_43](Einführung-IT-Teil2_43.md)
+
+[Next: #Einführung-IT-Teil2_43](Einführung-IT-Teil2_43.md)

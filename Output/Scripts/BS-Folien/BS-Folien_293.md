@@ -5,5 +5,9 @@ mechanismus
 (Hardware)
 
    Tags & Topics:
-   #hardware
    #Hardware
+   #hardware
+
+[Previous: #BS-Folien_294](BS-Folien_294.md)
+
+[Next: #BS-Folien_294](BS-Folien_294.md)

@@ -7,3 +7,7 @@ PCB 0 PCB 1 PCB 2 PCB 3 PCB 4 PCB kWarteschlangenk ¨opfe
    Tags & Topics:
    #Warteschlangenkopf
    #BS–47Prozessverwaltung
+
+[Previous: #BS-Folien_112](BS-Folien_112.md)
+
+[Next: #BS-Folien_112](BS-Folien_112.md)

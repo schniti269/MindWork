@@ -6,3 +6,7 @@ positive ganze
 
    Tags & Topics:
    
+
+[Previous: #Einführung-IT-Teil2_80](Einführung-IT-Teil2_80.md)
+
+[Next: #Einführung-IT-Teil2_80](Einführung-IT-Teil2_80.md)

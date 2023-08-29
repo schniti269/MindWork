@@ -6,3 +6,7 @@ f(x, y) =x3−x·sin(x·y2).
 
    Tags & Topics:
    
+
+[Previous: #Analysis-Lineare_Algebra-230308_385](Analysis-Lineare_Algebra-230308_385.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_385](Analysis-Lineare_Algebra-230308_385.md)

@@ -6,6 +6,10 @@ http://openbook.rheinwerk-verlag.de/shell_programmi erung/index.htm
 
    Tags & Topics:
    #Beispiel
-   #END{print
-   #Filter
    #Filtern
+   #Filter
+   #END{print
+
+[Previous: #AdvIT-Folien_310](AdvIT-Folien_310.md)
+
+[Next: #AdvIT-Folien_310](AdvIT-Folien_310.md)

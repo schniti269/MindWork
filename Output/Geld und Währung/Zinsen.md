@@ -1,9 +1,14 @@
-# ## #Zinsen 
+### Zinsen
 
- - Nominal #
+- Nominal
 
-	 - #genannte #Zinsen 
+	- genannte Zinsen
 
- - Real #
+- Real
 
-	 - #Nominal- #Inflation 
+	- Nominal- Inflation
+
+   Tags & Topics:
+   #Zins
+   #Inflation
+   #Zinsen

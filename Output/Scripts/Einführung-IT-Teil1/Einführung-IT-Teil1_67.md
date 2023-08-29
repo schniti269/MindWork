@@ -6,3 +6,7 @@ Vorteile
 
    Tags & Topics:
    #Zugriffszeit
+
+[Previous: #Einführung-IT-Teil1_68](Einführung-IT-Teil1_68.md)
+
+[Next: #Einführung-IT-Teil1_68](Einführung-IT-Teil1_68.md)

@@ -6,8 +6,12 @@ First-Fit
 
    Tags & Topics:
    #•Zuteilungsstrategien
-   #First-Fit
-   #Heap
-   #BS–112Speicherverwaltung
    #Fit
+   #Heap
    #dieFreispeicherverwaltung
+   #First-Fit
+   #BS–112Speicherverwaltung
+
+[Previous: #BS-Folien_272](BS-Folien_272.md)
+
+[Next: #BS-Folien_272](BS-Folien_272.md)

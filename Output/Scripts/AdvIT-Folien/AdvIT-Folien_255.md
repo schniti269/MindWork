@@ -7,3 +7,7 @@ Prof. Dr. Henning Pagnia (DHBW Mannheim) Advanced IT Herbst 2023 82/132Speicherb
    Tags & Topics:
    #Verklemmung
    #Programmstruktur
+
+[Previous: #AdvIT-Folien_256](AdvIT-Folien_256.md)
+
+[Next: #AdvIT-Folien_256](AdvIT-Folien_256.md)

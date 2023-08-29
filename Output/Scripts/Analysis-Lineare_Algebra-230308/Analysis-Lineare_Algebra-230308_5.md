@@ -6,6 +6,10 @@ Kapitel 3. Differenzialrechnung 41
 
    Tags & Topics:
    #Ableitungsregel
+   #Differenzialquotient
    #3.1.
    #differenzialquotient
-   #Differenzialquotient
+
+[Previous: #Analysis-Lineare_Algebra-230308_50](Analysis-Lineare_Algebra-230308_50.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_50](Analysis-Lineare_Algebra-230308_50.md)

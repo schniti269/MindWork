@@ -5,5 +5,9 @@ Lesen und gleichzeitiges Schreiben desselben Datensatzes ist
 verboten ⇒warten
 
    Tags & Topics:
-   #Datensatz
    #Datensatzes
+   #Datensatz
+
+[Previous: #AdvIT-Folien_297](AdvIT-Folien_297.md)
+
+[Next: #AdvIT-Folien_297](AdvIT-Folien_297.md)

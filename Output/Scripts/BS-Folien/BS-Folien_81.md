@@ -7,6 +7,10 @@ schine.
    Tags & Topics:
    #Entwederbxwird
    #Programm
-   #Quellprogramms
-   #Anweisung
    #Anweisungen
+   #Anweisung
+   #Quellprogramms
+
+[Previous: #BS-Folien_82](BS-Folien_82.md)
+
+[Next: #BS-Folien_82](BS-Folien_82.md)

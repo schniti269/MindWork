@@ -5,11 +5,15 @@ Beobachtung beim Ringpuﬀer:
 ◮EundVgreifen nie gleichzeitig auf dasselbe Puﬀerelement zu:
 
    Tags & Topics:
-   #Erzeuger-Verbraucher-Problem
    #EundVgreifen
-   #L¨osung
-   #Erzeuger
    #Verbraucher
+   #Fort
+   #Erzeuger
    #Problems
    #EundVgreif
-   #Fort
+   #L¨osung
+   #Erzeuger-Verbraucher-Problem
+
+[Previous: #AdvIT-Folien_207](AdvIT-Folien_207.md)
+
+[Next: #AdvIT-Folien_207](AdvIT-Folien_207.md)

@@ -5,8 +5,12 @@ Hierzu geh ¨oren insbesondere auch alle Register, auf die nur im privilegierten
 zugegriﬀen werden kann.
 
    Tags & Topics:
-   #Abspeicher
    #Registerwerte
-   #•storeRegister
    #Abspeichern
    #PCB
+   #•storeRegister
+   #Abspeicher
+
+[Previous: #BS-Folien_105](BS-Folien_105.md)
+
+[Next: #BS-Folien_105](BS-Folien_105.md)

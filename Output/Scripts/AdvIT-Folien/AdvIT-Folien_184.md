@@ -5,10 +5,14 @@ der Erzeuger legt die generierten Daten in einem Puﬀer ab
 oft wird hierbei ein Ringpuﬀer ( bounded buﬀer ) verwendet:
 
    Tags & Topics:
-   #Erzeuger-Verbraucher-Problem
    #Problem
-   #problem
-   #L¨osung
-   #Erzeuger
-   #Ringpuﬀer
    #Verbraucher
+   #Erzeuger
+   #problem
+   #Ringpuﬀer
+   #L¨osung
+   #Erzeuger-Verbraucher-Problem
+
+[Previous: #AdvIT-Folien_185](AdvIT-Folien_185.md)
+
+[Next: #AdvIT-Folien_185](AdvIT-Folien_185.md)

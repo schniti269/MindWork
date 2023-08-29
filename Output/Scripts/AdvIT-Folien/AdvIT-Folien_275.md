@@ -5,10 +5,14 @@ Nachteile
 Korekte L ¨osungen f ¨ur komplexe Aufgabenstellungen sind oft sehr schwierig
 
    Tags & Topics:
-   #Erzeuger-Verbraucher-Problem
    #Betriebsmittelverwaltungs-
-   #Erzeuger
-   #Aufgabenstellungen
    #Probleme
    #Aufgabenstellung
    #Verbraucher
+   #Erzeuger
+   #Aufgabenstellungen
+   #Erzeuger-Verbraucher-Problem
+
+[Previous: #AdvIT-Folien_276](AdvIT-Folien_276.md)
+
+[Next: #AdvIT-Folien_276](AdvIT-Folien_276.md)

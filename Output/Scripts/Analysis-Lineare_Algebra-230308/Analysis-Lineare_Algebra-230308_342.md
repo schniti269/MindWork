@@ -5,6 +5,10 @@ Ist keine Nullstelle in der Nähe kann der Verfahren sehr schnell ohne Lösung a
 Neben der Analyse von Funktionen, der Optimierung von Zielfunktionen zum Maximum oder Minimum
 
    Tags & Topics:
-   #Optimierung
    #Newton
+   #Optimierung
    #3.2.1
+
+[Previous: #Analysis-Lineare_Algebra-230308_343](Analysis-Lineare_Algebra-230308_343.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_343](Analysis-Lineare_Algebra-230308_343.md)

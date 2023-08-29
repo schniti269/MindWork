@@ -7,3 +7,7 @@ Nach der R ¨uckkehr aus der ioWait-Operation ist sichergestellt, dass die E/A-O
    Tags & Topics:
    #Prozessblockiert
    #Ger¨at
+
+[Previous: #BS-Folien_223](BS-Folien_223.md)
+
+[Next: #BS-Folien_223](BS-Folien_223.md)

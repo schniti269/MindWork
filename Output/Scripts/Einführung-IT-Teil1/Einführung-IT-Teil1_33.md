@@ -5,11 +5,15 @@ genutzte Speicher.
 und IBM, die ab 1948 gebaut wurden. die auch schon für kommerzielle Zwecke eingesetzt wurden.
 
    Tags & Topics:
-   #Generation
-   #•zu
-   #generation
    #Firmen
    #Rechner
    #•Zu
-   #Firma
+   #generation
+   #•zu
    #Abarbeitung
+   #Generation
+   #Firma
+
+[Previous: #Einführung-IT-Teil1_34](Einführung-IT-Teil1_34.md)
+
+[Next: #Einführung-IT-Teil1_34](Einführung-IT-Teil1_34.md)

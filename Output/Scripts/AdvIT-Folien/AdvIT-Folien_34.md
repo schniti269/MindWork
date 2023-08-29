@@ -5,9 +5,13 @@ System, das mehrere Prozesse gleichzeitig laden kann
 ◮Adressraumtrennung
 
    Tags & Topics:
-   #Multi
    #Adressraum
-   #Multi-Processing
-   #Running
    #Prozesszust
+   #Running
+   #Multi-Processing
+   #Multi
    #Ready
+
+[Previous: #AdvIT-Folien_340](AdvIT-Folien_340.md)
+
+[Next: #AdvIT-Folien_340](AdvIT-Folien_340.md)

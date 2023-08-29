@@ -1,3 +1,6 @@
-# ## #Accountability 
+### Accountability
 
- - who is liable 
+- who is liable
+
+   Tags & Topics:
+   

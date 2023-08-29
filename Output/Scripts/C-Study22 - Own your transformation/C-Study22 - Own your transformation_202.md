@@ -6,3 +6,7 @@ disruptions. According to the study, 47% of attacks
 
    Tags & Topics:
    
+
+[Previous: #C-Study22 - Own your transformation_203](C-Study22 - Own your transformation_203.md)
+
+[Next: #C-Study22 - Own your transformation_203](C-Study22 - Own your transformation_203.md)

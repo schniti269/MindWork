@@ -6,3 +6,7 @@ Statische Priorit ¨aten:
 
    Tags & Topics:
    
+
+[Previous: #BS-Folien_193](BS-Folien_193.md)
+
+[Next: #BS-Folien_193](BS-Folien_193.md)

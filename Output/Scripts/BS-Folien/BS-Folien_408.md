@@ -5,12 +5,16 @@ Bereitstellung der Dateioperationen:Einrichten /¨Oﬀnen/Lesen/Schreiben /Schli
 Menge von logischen Datenbl ¨ockenmit logischen Blocknummern.
 
    Tags & Topics:
-   #Einricht
-   #Einrichten
-   #Blocknummer
-   #umbenennen
-   #Dateioperationen
    #/Schließe
-   #Umbenennen
-   #/Schließen
+   #Einrichten
+   #umbenennen
+   #Blocknummer
+   #Einricht
    #dateioperatione
+   #Dateioperationen
+   #/Schließen
+   #Umbenennen
+
+[Previous: #BS-Folien_409](BS-Folien_409.md)
+
+[Next: #BS-Folien_409](BS-Folien_409.md)

@@ -5,8 +5,12 @@ E: Ausf¨uhren (Execute)
 D: L¨oschen (Delete)
 
    Tags & Topics:
-   #Execut
-   #Execute
    #Delet
-   #Ausf¨uhren
    #Delete
+   #Execut
+   #Ausf¨uhren
+   #Execute
+
+[Previous: #BS-Folien_415](BS-Folien_415.md)
+
+[Next: #BS-Folien_415](BS-Folien_415.md)

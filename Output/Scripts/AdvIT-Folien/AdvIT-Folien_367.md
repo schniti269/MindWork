@@ -6,3 +6,7 @@ Socket-InputStream sitzt
 
    Tags & Topics:
    #einemInputStreamReader
+
+[Previous: #AdvIT-Folien_368](AdvIT-Folien_368.md)
+
+[Next: #AdvIT-Folien_368](AdvIT-Folien_368.md)

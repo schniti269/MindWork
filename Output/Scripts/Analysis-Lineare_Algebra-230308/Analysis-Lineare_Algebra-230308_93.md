@@ -6,3 +6,7 @@ y-Wert das Polynom dann annimmt, hier y=−9
 
    Tags & Topics:
    #Scheitelpunkt
+
+[Previous: #Analysis-Lineare_Algebra-230308_94](Analysis-Lineare_Algebra-230308_94.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_94](Analysis-Lineare_Algebra-230308_94.md)

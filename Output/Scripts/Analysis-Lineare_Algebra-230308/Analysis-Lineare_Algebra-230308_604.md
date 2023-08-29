@@ -8,3 +8,7 @@ long i;
    #Algorithmus
    #Aufmerksamkeit
    #Arena
+
+[Previous: #Analysis-Lineare_Algebra-230308_605](Analysis-Lineare_Algebra-230308_605.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_605](Analysis-Lineare_Algebra-230308_605.md)

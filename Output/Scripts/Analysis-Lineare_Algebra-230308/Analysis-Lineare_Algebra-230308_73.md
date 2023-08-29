@@ -5,8 +5,12 @@ DerGraph einer Funktion hilft wichtige Eigenschaften der Funktion auf einen Blic
 Abbildung 1.4.1 zeigt den Graphen der Quadratfunktion fin einem Achsenkreuz.
 
    Tags & Topics:
-   #Graph
    #Graphen
-   #Wertebereich
-   #Achsenkreuz
    #Quadratfunktion
+   #Achsenkreuz
+   #Graph
+   #Wertebereich
+
+[Previous: #Analysis-Lineare_Algebra-230308_730](Analysis-Lineare_Algebra-230308_730.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_730](Analysis-Lineare_Algebra-230308_730.md)

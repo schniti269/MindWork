@@ -5,10 +5,14 @@ Beispiel 3.4.Ein Alltagsbeispiel ist dafür die Abschnittskontrolle: Wenn ein Au
 beweist uns nun, dass das Auto nicht nur im Durchschnitt sondern mindestens einmal im Tunnel exakt
 
    Tags & Topics:
-   #Tunnel
    #Auto
-   #Abschnittskontrolle
    #Mittelwertsatz
+   #Abschnittskontrolle
+   #Tunnel
+   #Alltagsbeispiel
    #Wenn
    #Zwischenstelle
-   #Alltagsbeispiel
+
+[Previous: #Analysis-Lineare_Algebra-230308_326](Analysis-Lineare_Algebra-230308_326.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_326](Analysis-Lineare_Algebra-230308_326.md)

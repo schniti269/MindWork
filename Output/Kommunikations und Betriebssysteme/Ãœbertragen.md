@@ -1,518 +1,674 @@
-# ## #Übertragen 
+### Übertragen
 
- - pysical #Layer 
+- pysical Layer
 
-	 - Nyquist 
-	 - #Übertragungsmedium 
+	- Nyquist
+	- Übertragungsmedium
 
-		 - #Kabel 
+		- Kabel
 
-			 - Coax 
-			 - #Twisted #Pair 
+			- Coax
+			- Twisted Pair
 
-		 - #Kabellos 
+		- Kabellos
 
-			 - #Bluetooth 
-			 - #Wifi 
+			- Bluetooth
+			- Wifi
 
- - #Regelungen 
+- Regelungen
 
-	 - #Protokolle 
+	- Protokolle
 
-		 - #Header 
-		 - #Trailer 
-		 - #Modelle 
+		- Header
+		- Trailer
+		- Modelle
 
-			 - #OSI 
+			- OSI
 
-				 - 7 #Application #Layer 
-				 - 6 #Darstellung 
-				 - 5 #Session 
-				 - 4 #Transport #Layer 
-				 - 3 #Network #Layer 
-				 - 2 #Datalink #Layer 
-				 - 1 Pysical #Layer 
+				- 7 Application Layer
+				- 6 Darstellung
+				- 5 Session
+				- 4 Transport Layer
+				- 3 Network Layer
+				- 2 Datalink Layer
+				- 1 Pysical Layer
 
-			 - #TCP #IP 
+			- TCP IP
 
-				 - #Anwendung 
-				 - #Transport 
-				 - #Internet 
-				 - Netz 
+				- Anwendung
+				- Transport
+				- Internet
+				- Netz
 
-			 - #Vorlesung 
+			- Vorlesung
 
-				 - 5 #Application #Layer 
-				 - 4 #Transport #Layer 
-				 - 3 #Network #Layer 
-				 - 2 #Datalink #Layer 
-				 - 1 #Pysical #Layer 
+				- 5 Application Layer
+				- 4 Transport Layer
+				- 3 Network Layer
+				- 2 Datalink Layer
+				- 1 Pysical Layer
 
-	 - #Flow #control 
+	- Flow control
 
-		 - #Datenstruktur 
+		- Datenstruktur
 
-			 - #Header 
-			 - #payload 
-			 - #Trailer 
+			- Header
+			- payload
+			- Trailer
 
-		 - Sliding #window 
+		- Sliding window
 
-			 - #Empfangsfenser ändert sich #laufend 
-			 - #Beschädigte #frames bleiden stehen #bis #sie korrigiert #wurden 
-			 - #Puffer #beider seiten 
-			 - Bestätigt #wird #immer #das #höchtse #element aus #dem gesamten #block 
+			- Empfangsfenser ändert sich laufend
+			- Beschädigte frames bleiden stehen bis sie korrigiert wurden
+			- Puffer beider seiten 
+			- Bestätigt wird immer das höchtse element aus dem gesamten block
 
-		 - Schnittstellen 
+		- Schnittstellen
 
-			 - #Abholen 
+			- Abholen
 
-				 - #Networklayer 
-				 - #Ack ( #acknowledge ) 
+				- Networklayer
+				- Ack ( acknowledge)
 
-			 - #Weitergeben 
+			- Weitergeben
 
-				 - Physical #layer 
-				 - Wait for #event 
+				- Physical layer
+				- Wait for event
 
-		 - Sequenznummern 
+		- Sequenznummern
 
-			 - #Nummer des pakets 
-			 - #Nummer #des #„trys“ 
+			- Nummer des pakets
+			- Nummer des „trys“
 
-		 - nummerierte pakete 
+		- nummerierte pakete
 
-			 - #Nicht angekommene #werden #erneut angefordert 
+			- Nicht angekommene werden erneut angefordert
 
-		 - Go #back #n 
-		 - Selective #repeat 
+		- Go back n
+		- Selective repeat
 
-	 - #Netzwerkschicht 
+	- Netzwerkschicht
 
-		 - #Probleme 
+		- Probleme
 
-			 - Eindeutige #Bezeichner 
-			 - #Pakete #Weiterleiten 
+			- Eindeutige Bezeichner
+			- Pakete Weiterleiten
 
-		 - #Routing 
+		- Routing
 
-			 - #Welche #route ist i m #MOMENT die #beste 
-			 - #Flooding 
+			- Welche route ist im MOMENT die beste
+			- Flooding
 
-				 - An Alle schicken 
-				 - Alle leiten an alle #weiter 
-				 - #Unendlich viele #Nachhrichten 
+				- An Alle schicken
+				- Alle leiten an alle weiter
+				- Unendlich viele Nachhrichten
 
-					 - Lösen #durch 
+					- Lösen durch
 
-						 - #TTL 
+						- TTL
 
-							 - #Runterzählen #eines counters #für #jede #weiterleitung 
-							 - #Bei 0 #wird #gelöscht 
+							- Runterzählen eines counters für jede weiterleitung
+							- Bei 0 wird gelöscht
 
-						 - #Speichern was #bereits gesehn #wurde 
+						- Speichern was bereits gesehn wurde
 
-			 - #Minimaler #spannbaum 
+			- Minimaler spannbaum
 
-				 - #Von #sich ausgehend #eien baum bilden #durch den #gesendet #wird 
-				 - Dijkstra #algorythmus 
+				- Von sich ausgehend eien baum bilden durch den gesendet wird
+				- Dijkstra algorythmus
 
-					 - Aller #erreichabren knoten gewichten 
-					 - Jeder #bringt #nachricht näher an #das #zeil # 
+					- Aller erreichabren knoten gewichten
+					- Jeder bringt nachricht näher an das zeil#
 
-			 - #DISTANCE #vector routing 
+			- DISTANCE vector routing
 
-				 - #Jeder #veröffentlicht #regelmäßig seine Kosten #zum #erreichen 
-				 - #Kleinste #kombination wird #genutzt 
-				 - #Count to #infinity #problem 
+				- Jeder veröffentlicht regelmäßig seine Kosten zum erreichen 
+				- Kleinste kombination wird genutzt
+				- Count to infinity problem
 
-					 - #Wenn ein eingegliederter Konten #ausfällt 
-					 - #Gegenseitiges #hochzählen weil #gewichtungsprozess #nicht #vollständig #synchron 
+					- Wenn ein eingegliederter Konten ausfällt
+					- Gegenseitiges hochzählen weil gewichtungsprozess nicht vollständig synchron
 
-			 - #Link #state #routing 
+			- Link state routing
 
-				 - Broadcastinfos in #Teilnetz 
+				- Broadcastinfos in Teilnetz
 
-					 - #Flooding 
-					 - link #state #Paket 
+					- Flooding
+					- link state Paket
 
-						 - #Welche #Kosten 
-						 - #Welche nachbarn 
+						- Welche Kosten
+						- Welche nachbarn
 
-				 - Spannbaum bilden 
+				- Spannbaum bilden
 
-					 - #Dijkstra 
+					- Dijkstra
 
-				 - #Schnelle #Konvergenz 
+				- Schnelle Konvergenz
 
-			 - #Hirarchisches routing 
+			- Hirarchisches routing
 
-				 - Verfahren skalieren nicht mit #wachsender Größe #des #netzes 
-				 - Routing tabellen sind #zu #groß 
-				 - #Mehrstufiges routing 
+				- Verfahren skalieren nicht mit wachsender Größe des netzes
+				- Routing tabellen sind zu groß
+				- Mehrstufiges routing 
 
-					 - Unterteilen in #Regionen 
-					 - Routen bis #zur #region 
-					 - #Simplifizieren #der #Struktur 
+					- Unterteilen in Regionen
+					- Routen bis zur region
+					- Simplifizieren der Struktur 
 
-	 - #Transportschicht 
+	- Transportschicht
 
-		 - #ziel 
+		- ziel
 
-			 - einheitliche #dienste für #einheitliche #vorgänge 
-			 - #anwendungen schnittstelle liefern 
+			- einheitliche dienste für einheitliche vorgänge
+			- anwendungen schnittstelle liefern 
 
-				 - #System calls 
+				- System calls
 
-		 - #adressierung 
+		- adressierung
 
-			 - #TSAP 
+			- TSAP
 
-				 - #Transport #service #ACcess #Point 
-				 - Kommunikation #zwischen #2 prozessen 
-				 - #kommunikationsendpunkt #= #Socket 
+				- Transport service ACcess Point
+				- Kommunikation zwischen 2 prozessen
+				- kommunikationsendpunkt = Socket
 
-					 - Socket #adtesse = ( Ip #adresse #, #port #nummer ) 
+					- Socket adtesse = ( Ip adresse, port nummer)
 
-			 - #Unterknoten 2 
+			- Unterknoten 2
 
-		 - #verbindungsorientiere #kommunikation 
+		- verbindungsorientiere kommunikation
 
-			 - #CR : #Erster Versuch zum #verbindungsaufbau 
-			 - #DR : #Disconnect #request 
-			 - #Ack #: #bestätigung 
-			 - #Data 
-			 - was bei #fehlern : 
+			- CR: Erster Versuch zum verbindungsaufbau
+			- DR: Disconnect request
+			- Ack: bestätigung
+			- Data
+			- was bei fehlern:
 
-				 - Anforderung geht #verloren 
+				- Anforderung geht verloren
 
-					 - nochmal senden 
+					- nochmal senden
 
-				 - bestätigung ging #verloren 
+				- bestätigung ging verloren
 
-					 - weitere verbindung #aufbauen #( unnötige last ) 
+					- weitere verbindung aufbauen ( unnötige last)
 
-				 - eins #von #beidem wird #verzögert 
+				- eins von beidem wird verzögert
 
-					 - in timeout #laufen #und erneut #aufbauen 
+					- in timeout laufen und erneut aufbauen
 
-			 - #Sequenznummern 
- #Dreifacher #Handshake 
+			- Sequenznummern 
+Dreifacher Handshake
 
-				 - immer #eindeutige sequenznummern #verwenden 
-				 - #ISN : #Initiale #Sequenznummer 
-				 - Beide nehmen seperate #zähler #für #ihre #nachrichten #x , #y 
-				 - nicht #passsende werden #verworfen 
+				- immer eindeutige sequenznummern verwenden
+				- ISN : Initiale Sequenznummer
+				- Beide nehmen seperate zähler für ihre nachrichten x,y
+				- nicht passsende werden verworfen
 
-			 - #Verbindungsabbau 
+			- Verbindungsabbau
 
-				 - #problem #der #2 #Armeen 
- ( distributed #consensus ) 
+				- problem der 2 Armeen
+(distributed consensus)
 
-					 - #kann #man wirklich #wissen #ob #die verbindung #abgebaut #werden #soll 
-					 - wir wissen #von der letzten #nachricht #nicht ob sie #ankam 
+					- kann man wirklich wissen ob die verbindung abgebaut werden soll
+					- wir wissen von der letzten nachricht nicht ob sie ankam
 
-				 - lösung per #Timeout 
+				- lösung per Timeout
 
-					 - #server werden " ungeduldig " 
- #brechen #dann schneller #ab 
-					 - #hosts #führen #relesase connection nach #fehlender antwort #durch 
-					 - auch #nicht #optimalm , weil #problem unlösbar 
+					- server werden "ungeduldig"
+brechen dann schneller ab
+					- hosts führen relesase connection nach fehlender antwort durch
+					- auch nicht optimalm, weil problem unlösbar
 
-			 - #Flusskontrolle 
+			- Flusskontrolle
 
-				 - #Ziel 
+				- Ziel
 
-					 - #Speichersparsam #weil sliding window zu ville #puffer #bräuchte 
+					- Speichersparsam weil sliding window zu ville puffer bräuchte
 
-				 - #TPDUs 
+				- TPDUs
 
-					 - #segmente 
+					- segmente
 
-				 - #puffer 
+				- puffer
 
-					 - #nur noch #nicht bestätigte TPDUs werden #gepuffert 
-					 - es #ist sinnvoll #große #puffer #zu haben für #schnelle #übertragung 
- #aber #wenigersinnvoll #für #speicher 
-					 - #sobald #freigegeen #wird nachricht #aus #puffer entfernt 
-					 - #sender weis #wie viele pufferplätze empfänger #hat , #wenn er #keine #merh hat #sendet er nicht #bis empfänger #verarbeitet #hat 
-					 - #bestimmung #der #Größe 
+					- nur noch nicht bestätigte TPDUs werden gepuffert
+					- es ist sinnvoll große puffer zu haben für schnelle übertragung
+aber wenigersinnvoll für speicher
+					- sobald freigegeen wird nachricht aus puffer entfernt
+					- sender weis wie viele pufferplätze empfänger hat, wenn er keine merh hat sendet er nicht bis empfänger verarbeitet hat
+					- bestimmung der Größe
 
-						 - #c*r = #" übertragungsgeschwindigkeit " 
-						 - #wie #viele können wir in #einer RTT senden 
+						- c*r = "übertragungsgeschwindigkeit"
+						- wie viele können wir in einer RTT senden 
 
-		 - #TCP 
+		- TCP
 
-			 - #Transmissuin #Control #Protocolll 
-			 - #TCP= #zuverlässige #end to #end #verbindung 
-			 - #segmente 
+			- Transmissuin Control Protocolll
+			- TCP= zuverlässige end to end verbindung
+			- segmente 
 
-				 - #TPDUs 
-				 - #Fragmentierung wenn #zu #groß 
+				- TPDUs
+				- Fragmentierung wenn zu groß
 
-			 - #Sockets 
+			- Sockets
 
-				 - streamorientiert #aus #sicht #der #anwendung 
-				 - #socket #adresse 
+				- streamorientiert aus sicht der anwendung
+				- socket adresse
 
-					 - #ip #adresse 
-					 - #port #nummer 
+					- ip adresse
+					- port nummer
 
-			 - #ablauf #einer #kommunikation 
-			 - #TCP #Handshake 
-			 - #Sillywindow #Syndrom 
+			- ablauf einer kommunikation 
+			- TCP Handshake
+			- Sillywindow Syndrom
 
-				 - #wenn #puffer #voll #und #immer nur in #kleinen stücken #geleert 
-				 - #viele pakete #senden #weil #immer #wieder etwas #frei #wird 
-				 - #Eigener Puffer #i m #programm #implementieren 
+				- wenn puffer voll und immer nur in kleinen stücken geleert
+				- viele pakete senden weil immer wieder etwas frei wird
+				- Eigener Puffer im programm implementieren
 
-					 - flush befehl 
- #sendet dann #den #eigenen #Puffer dann wieder #an #TCP #puffer #
+					- flush befehl
+sendet dann den eigenen Puffer dann wieder an TCP puffer
 
- - #Anwendungsschicht 
+- Anwendungsschicht
 
-	 - was 
+	- was 
 
-		 - #verarbeitungsschicht #
-		 - #Dienste #
+		- verarbeitungsschicht
+		- Dienste
 
-	 - #DNS #
+	- DNS
 
-		 - #aufgabe 
+		- aufgabe
 
-			 - #auflösen IP #, #zu #Dienst #
-			 - #Domains #auflösen #
+			- auflösen IP, zu Dienst
+			- Domains auflösen
 
-		 - #Server 
+		- Server
 
-			 - #verteilte #Datenbank 
-			 - #leistet die #umsetzung 
-			 - #kaskadierend #von Top level #Domain aus 
+			- verteilte Datenbank
+			- leistet die umsetzung
+			- kaskadierend von Top level Domain aus
 
-				 - rekursiv #
+				- rekursiv
 
-					 - #cache 
+					- cache
 
-				 - #iterativ 
+				- iterativ
 
-					 - #kein #cache #
+					- kein cache
 
-		 - #CACHE 
+		- CACHE
 
-			 - speichern #bereits aufgelöster #ung #benutzter #adressen #
+			- speichern bereits aufgelöster ung benutzter adressen
 
-	 - #WWW 
+	- WWW
 
-		 - #html 
-		 - #hypermedia 
-		 - #http #
-		 - #Subtopic 4 #
+		- html
+		- hypermedia
+		- http
+		- Subtopic 4
 
-	 - #Komprimierung #
+	- Komprimierung
 
-		 - #Daten lassen sich #reduzieren #
-		 - #nachteil 
-		 - #Prinzipielle #Verfahren #
-		 - #Entropie 
+		- Daten lassen sich reduzieren
+		- nachteil
+		- Prinzipielle Verfahren
+		- Entropie
 
-			 - Verlustfrei 
-			 - #lauflängen #
+			- Verlustfrei
+			- lauflängen
 
-				 - #AAAA - > #4A 
+				- AAAA -> 4A
 
-			 - #Statistisch 
+			- Statistisch
 
-				 - wörterbuch #der Codes #wird #mitgesendet #
-				 - #huffman #
+				- wörterbuch der Codes wird mitgesendet
+				- huffman
 
-					 - #allg 
-					 - #baum #
+					- allg
+					- baum
 
-		 - #Quellkodierung #
+		- Quellkodierung
 
-			 - #Color #lookup #table 
+			- Color lookup table
 
-				 - #wiederholende farben #werden #gespeichert #
+				- wiederholende farben werden gespeichert
 
-			 - #differenzialkodierung 
+			- differenzialkodierung
 
-				 - #nur differenzen #übertragen #bei #zb . #video #
+				- nur differenzen übertragen bei zb. video
 
-			 - #Transformationskodierung #
+			- Transformationskodierung
 
-				 - #DCT #
-				 - #Fourier 
+				- DCT
+				- Fourier
 
-			 - #vectorquantisierung #
+			- vectorquantisierung
 
-				 - zweidimensionaleBilder #werden in quadrate #gerastert 
+				- zweidimensionaleBilder werden in quadrate gerastert
 
-			 - #Verlustbehaftet #
-			 - #jpeg #
+			- Verlustbehaftet
+			- jpeg
 
-	 - #Datensicherheit #
+	- Datensicherheit
 
-		 - #Ziele #
+		- Ziele
 
-			 - #Schutz #Vertraulicher #Daten #
-			 - #Sicheres ermitteln verfasser #
-			 - #Integrität #
+			- Schutz Vertraulicher Daten
+			- Sicheres ermitteln verfasser
+			- Integrität
 
-		 - #Symetrisch 
+		- Symetrisch
 
-			 - 
-			 - #kennt #man #wirklich #den #sender ? 
+			- 
+			- kennt man wirklich den sender?
 
-		 - #Asymetrisch 
+		- Asymetrisch
 
-			 - #
-			 - 2 #schlüssel #
+			- 
+			- 2 schlüssel
 
-		 - #Datenschutz unterschied #
+		- Datenschutz unterschied
 
-			 - datenschutz #= #personenbezogen #
+			- datenschutz = personenbezogen
 
-		 - #TSL #
+		- TSL
 
-			 - #Name , #Schlüssel = zertifikat 
-			 - #nicht jeder #kann #zertifizieren #
-			 - #Sitzung #
+			- Name, Schlüssel = zertifikat
+			- nicht jeder kann zertifizieren
+			- Sitzung
 
- - #Store #and #Forward #Prinzip #
+- Store and Forward Prinzip
 
-	 - Einpacken #und #Versenden #
-	 - #Puffern , Auspacken , auswerten , verschicken #
+	- Einpacken und Versenden
+	- Puffern, Auspacken, auswerten, verschicken
 
- - #Frame #
+- Frame
 
-	 - #anfang #
+	- anfang
 
-		 - #DLE #STX #
+		- DLE STX
 
-	 - #Ende #
+	- Ende
 
-		 - #DLE #ETX #
+		- DLE ETX
 
-	 - #Fehler #Korrektur #
+	- Fehler Korrektur
 
-		 - Crc #
+		- Crc
 
-	 - #Bit #stuffing 
+	- Bit stuffing
 
-		 - #Erkläten 
+		- Erkläten
 
- - #Mac #Sublayer #
+- Mac Sublayer
 
-	 - #ALOHA #
+	- ALOHA
 
-		 - Timeout #wird #genutzt #
-		 - #Kollisionen #
+		- Timeout wird genutzt
+		- Kollisionen
 
-			 - #Poisson #verteilung #
+			- Poisson verteilung
 
-				 - #T #Frame #Zufallsvariable 
+				- T Frame Zufallsvariable
 
-					 - #Neu #eingetroffene #Frames #
+					- Neu eingetroffene Frames
 
-				 - #Parameter #N #
+				- Parameter N 
 
-					 - #Wahrscheinlichkeit #i m #Mittel #dass #gesendet #wird 
+					- Wahrscheinlichkeit im Mittel dass gesendet wird
 
-				 - #Parameter #G 
+				- Parameter G
 
-					 - > #= #N 
-					 - #Zusätzlich also kollisionen 
-					 - #Kanalbeslastung 
-					 - #P0 #= #E^-2 #G 
+					- >= N
+					- Zusätzlich also kollisionen
+					- Kanalbeslastung
+					- P0=E^-2G
 
-				 - #Durchsatz #S #
+				- Durchsatz S
 
-					 - #G*p0 
+					- G*p0
 
-	 - #CSMA #
+	- CSMA
 
-		 - #Carrier #sense multiple #Access 
-		 - 1 persistent 
+		- Carrier sense multiple Access
+		- 1 persistent
 
-			 - #Warten bis kanal fri 
+			- Warten bis kanal fri
 
-				 - #Erst #hören #dann #senden 
+				- Erst hören dann senden
 
-		 - #Nicht persistent 
+		- Nicht persistent
 
-			 - #Wenn kanal #belegt #warte #zufällige #zeit 
+			- Wenn kanal belegt warte zufällige zeit
 
-		 - #P persistent #
+		- P persistent
 
-			 - #Falls #slot #frei #sende #mit #wahrscheinlichkeit #p 
+			- Falls slot frei sende mit wahrscheinlichkeit p
 
-	 - #CSMA / #CD #
+	- CSMA/CD
 
-		 - #Carrier #sense multiple #access collision #detection 
-		 - #Kanal #lauschen #  #bie #übertragung 
-		 - #Beginen #sobald #kanal #frei #
-		 - #Lausche #auch während #übertragung 
-		 - Wenn kollision #brich #ab #und #warte #mit #wahrscheinlichkeit #p 
+		- Carrier sense multiple access collision detection
+		- Kanal lauschen  bie übertragung
+		- Beginen sobald kanal frei
+		- Lausche auch während übertragung
+		- Wenn kollision brich ab und warte mit wahrscheinlichkeit p
 
-	 - #Bit #map #
+	- Bit map
 
-		 - Reservierden 
-		 - „Connection slots“ 
+		- Reservierden
+		- „Connection slots“
 
-			 - #Konkurenzphase #
+			- Konkurenzphase
 
-		 - 
+		- 
 
-	 - Binäre #countdown 
+	- Binäre countdown
 
-		 - #Station #bekommt #i #d 
+		- Station bekommt id
 
-			 - I #d = #> prio 
+			- Id => prio
 
-		 - #Eigene #ID #als #binärzahl senden in #konkurenzphase 
-		 - #Kanal verknüft #oder schritt für #schritt 
-		 - #I #d #die nicht #übereinstimmt #hört #nichtmehr #zu 
-		 - #Einsatz i m canbus #
+		- Eigene ID als binärzahl senden in konkurenzphase
+		- Kanal verknüft oder schritt für schritt 
+		- Id die nicht übereinstimmt hört nichtmehr zu
+		- Einsatz im canbus 
 
-			 - #Steuergeräte i m #auto 
+			- Steuergeräte im auto
 
-		 - Mok #und Ward 
+		- Mok und Ward
 
-			 - #Wenn #gesendet #hat #wird #prio #auf #0 #gesetzt 
+			- Wenn gesendet hat wird prio auf 0 gesetzt
 
-	 - #Ethernet #
+	- Ethernet
 
-		 - #Frame #layout 
+		- Frame layout
 
-			 - #Preamble 
-			 - #Frame #delimiter #
-			 - #Destination #
-			 - #Source #
-			 - #Length of #data #
-			 - #Padding 
+			- Preamble
+			- Frame delimiter
+			- Destination
+			- Source
+			- Length of data
+			- Padding
 
-				 - #Zufällg für #mindestlänge 
+				- Zufällg für mindestlänge
 
-			 - #Checksum #crc 
-			 - #Freitext 
+			- Checksum crc
+			- Freitext
 
-		 - #Csma / cd 
+		- Csma/cd
 
-			 - Binary exponential backoff 
+			- Binary exponential backoff
 
-				 - #Zufallszeit #warten nach #ersteer kollision 
+				- Zufallszeit warten nach ersteer kollision
 
-					 - Nach 1 #kollision #jetzt oder i m nächsten #frame 
-					 - Nach 2 #jetzt #oder #bis #zum #4ten 
+					- Nach 1 kollision jetzt oder im nächsten frame
+					- Nach 2 jetzt oder bis zum 4ten
 
-				 - #Immer #verdoppeln nach weiterer #kollision 
-				 - Nicht #mehr als #10 
+				- Immer verdoppeln nach weiterer kollision
+				- Nicht mehr als 10
 
-		 - Fast #ethernet #
+		- Fast ethernet
 
-			 - #Mehr #datenrate 
+			- Mehr datenrate
 
-		 - #Gigabit #ethernet #
+		- Gigabit ethernet
 
-			 - #Keine #kollisionserkennung 
-			 - #Nur noch switches 
+			- Keine kollisionserkennung 
+			- Nur noch switches
+
+   Tags & Topics:
+   #Nyquist
+   #Beide
+   #Frame
+   #Komprimierung
+   #session
+   #Simplifizier
+   #Übertragungsmedium
+   #Ziele
+   #Regelung
+   #Unterteilen
+   #Durchsatz
+   #Darstellung
+   #TCP=
+   #Bezeichner
+   #Konkurenzphase
+   #hör
+   #Begin
+   #gel�scht
+   #Routing
+   #Gegenseitiges
+   #Schnittstelle
+   #gelöscht
+   #Problem
+   #Entropie
+   #Kanal
+   #Empfangsfenser
+   #Station
+   #Transport
+   #Kollision
+   #Konkurenzphas
+   #zähler
+   #Regelungen
+   #entropie
+   #Fehler
+   #„Connection
+   #f�hren
+   #Vorlesung
+   #Konten
+   #Protokolle
+   #Sichere
+   #empfänger
+   #übertragung
+   #aufgelöst
+   #Color
+   #Warten
+   #Anforderung
+   #bestätigung
+   #Nummer
+   #Bestätigt
+   #Code
+   #hören
+   #Transportschicht
+   #Anwendung
+   #Anwendungsschicht
+   #veröffentlicht
+   #Verbindungsabbau
+   #Modell
+   #Abholen
+   #Schutz
+   #Dienst
+   #Konto
+   #übertrag
+   #Lösen
+   #Abhole
+   #Routen
+   #Session
+   #socket
+   #Paket
+   #Domains
+   #hört
+   #E^-2
+   #Kollisionen
+   #Weitergeben
+   #Internet
+   #Verfahren
+   #Lausche
+   #Datenschutz
+   #�bertragen
+   #Domain
+   #Minimaler
+   #Weiterleiten
+   #Unterteile
+   #auflösen
+   #Unterknoten
+   #Codes
+   #Name
+   #Protokoll
+   #Armee
+   #Kanalbeslastung
+   #Parameter
+   #Lausch
+   #Probleme
+   #zweidimensionaleBilder
+   #Modelle
+   #Beginen
+   #auspacken
+   #verzögert
+   #Sequenznummer
+   #Fourier
+   #warten
+   #Freitext
+   #Wahrscheinlichkeit
+   #Nicht
+   #Speicher
+   #Route
+   #Unterknot
+   #Flusskontrolle
+   #Struktur
+   #Erkläten
+   #lösung
+   #während
+   #Gegenseitige
+   #Sequenznummern
+   #Zufallszeit
+   #Application
+   #Frames
+   #Konvergenz
+   #Kosten
+   #unnötige
+   #Simplifizieren
+   #Datensicherheit
+   #Socket
+   #Syndrom
+   #versend
+   #Netz
+   #Netzwerkschicht
+   #Padding
+   #internet
+   #Dienste
+   #Sitzung
+   #Spannbaum
+   #Einpacke
+   #Auspacken
+   #gigabit
+   #Puffer
+   #vorgänge
+   #Versenden
+   #Ende
+   #Armeen
+   #Datenstruktur
+   #Gigabit
+   #übertragen
+   #laufl�ngen
+   #Versuch
+   #führen
+   #System
+   #höchtse
+   #Speichersparsam
+   #Broadcastinfos
+   #Ziel
+   #Speichern
+   #Quellkodierung
+   #padding
+   #Kommunikation

@@ -5,9 +5,13 @@ bilden.Meier geh ¨oren die Programmdatei p1und die Textdatei d1. Schmidt geh ¨
 die Textdatei d2. Das Programm p1schreibt in die Datei d1. Das Programm p2liest aus d1und schreibt in d2. Das
 
    Tags & Topics:
-   #Benutzergruppe
-   #Programmdatei
    #Dateischutz
-   #Unix-Dateischutz
-   #Programmdateien
    #Textdatei
+   #Programmdateien
+   #Programmdatei
+   #Unix-Dateischutz
+   #Benutzergruppe
+
+[Previous: #BS-Uebungen_72](BS-Uebungen_72.md)
+
+[Next: #BS-Uebungen_72](BS-Uebungen_72.md)

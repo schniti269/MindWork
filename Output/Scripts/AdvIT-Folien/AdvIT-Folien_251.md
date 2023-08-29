@@ -6,3 +6,7 @@ Einf¨uhrung von mutex3l¨ost das Problem wie folgt:
 
    Tags & Topics:
    
+
+[Previous: #AdvIT-Folien_252](AdvIT-Folien_252.md)
+
+[Next: #AdvIT-Folien_252](AdvIT-Folien_252.md)

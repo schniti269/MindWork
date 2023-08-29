@@ -6,6 +6,10 @@ Betriebssysteme DHBW Mannheim ©Henning Pagnia Version 4.23 Fr¨uhjahr 2023 BS�
 
    Tags & Topics:
    #Angeforderter
-   #Hauptspeichers
-   #Hauptspeicher
    #a)Anforderung
+   #Hauptspeicher
+   #Hauptspeichers
+
+[Previous: #BS-Folien_261](BS-Folien_261.md)
+
+[Next: #BS-Folien_261](BS-Folien_261.md)

@@ -5,5 +5,9 @@ Vorteile
 Semaphore sind relativ einfache, ﬂexibel nutzbare Objekte
 
    Tags & Topics:
-   #Semaphorkonzept
    #Semaphorkonzepts
+   #Semaphorkonzept
+
+[Previous: #AdvIT-Folien_275](AdvIT-Folien_275.md)
+
+[Next: #AdvIT-Folien_275](AdvIT-Folien_275.md)

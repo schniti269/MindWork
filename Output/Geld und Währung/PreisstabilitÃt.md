@@ -1,5 +1,9 @@
-# ## #Preisstabilität 
+### Preisstabilität
 
- - #Ezb 
+- Ezb
 
-	 - anstieg #von #Verbraucherpreisindex #von #2 #oder #weniger #% #vorjahr 
+	- anstieg von Verbraucherpreisindex von 2 oder weniger % vorjahr
+
+   Tags & Topics:
+   #ezb
+   #Ezb

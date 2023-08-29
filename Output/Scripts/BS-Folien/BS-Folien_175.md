@@ -5,9 +5,13 @@ Klassiﬁkation von Scheduling-Verfahren
 Dieschedule -Operation kann nur ausgef ¨uhrt werden, wenn ein Prozess von sich aus den Prozessor
 
    Tags & Topics:
+   #-Operation
    #Klassiﬁkation
-   #Scheduling-Verfahr
+   #BS–72Prozessverwaltung
    #bs–72prozessverwaltung
    #-operation
-   #BS–72Prozessverwaltung
-   #-Operation
+   #Scheduling-Verfahr
+
+[Previous: #BS-Folien_176](BS-Folien_176.md)
+
+[Next: #BS-Folien_176](BS-Folien_176.md)

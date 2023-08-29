@@ -7,3 +7,7 @@ Prof. Dr. Henning Pagnia (DHBW Mannheim) Advanced IT Herbst 2023 63/132Speicherb
    Tags & Topics:
    #Thread.currentThread().getName
    #InterruptedException
+
+[Previous: #AdvIT-Folien_184](AdvIT-Folien_184.md)
+
+[Next: #AdvIT-Folien_184](AdvIT-Folien_184.md)

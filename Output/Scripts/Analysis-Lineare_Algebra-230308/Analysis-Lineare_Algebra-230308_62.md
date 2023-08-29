@@ -5,8 +5,12 @@ als Arbeitsanweisungen auf beiden Seiten angewendet werden.
 Für die Lösung von Ungleichungen muss bei Multiplikation oder Division mit negativen Werten die
 
    Tags & Topics:
+   #Quadratfunktion
    #−3)2
    #Wenn
    #Fallunterscheidung
    #Fallunterscheidungen
-   #Quadratfunktion
+
+[Previous: #Analysis-Lineare_Algebra-230308_620](Analysis-Lineare_Algebra-230308_620.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_620](Analysis-Lineare_Algebra-230308_620.md)

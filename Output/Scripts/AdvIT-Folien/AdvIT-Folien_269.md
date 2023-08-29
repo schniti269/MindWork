@@ -7,3 +7,7 @@ Private Semaphore (Forts.)
    Tags & Topics:
    #Drucken
    #privsem[threadId].acquire
+
+[Previous: #AdvIT-Folien_27](AdvIT-Folien_27.md)
+
+[Next: #AdvIT-Folien_27](AdvIT-Folien_27.md)

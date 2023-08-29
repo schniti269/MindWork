@@ -5,10 +5,14 @@ Prompts als Hilfestel lung bei der Anwendung einer neuen Lerntechnik sehr wohl
 positive Effekte haben.  
 
    Tags & Topics:
-   #Effekt
-   #Lernenden
-   #Lernende
-   #Effekte
-   #Lerntechnik
    #Verfügbarkeit
+   #Lernenden
+   #Effekt
+   #Effekte
+   #Lernende
    #Studie
+   #Lerntechnik
+
+[Previous: #4 Forschungsstrategien_8](4 Forschungsstrategien_8.md)
+
+[Next: #4 Forschungsstrategien_8](4 Forschungsstrategien_8.md)

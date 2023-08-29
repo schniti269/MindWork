@@ -6,3 +6,7 @@ perspectives into credible, inspiring, and actionable insights. 
 
    Tags & Topics:
    
+
+[Previous: #C-Study22 - Own your transformation_266](C-Study22 - Own your transformation_266.md)
+
+[Next: #C-Study22 - Own your transformation_266](C-Study22 - Own your transformation_266.md)

@@ -5,49 +5,53 @@ Skalierungmeint die Entwicklung eines Maßstabs (Skala) zur Messung der Merkmals
 * Die Studie und sämtliche Werte sind frei erfunden79www.dhbw.deMarketing
 
    Tags & Topics:
-   #Erhebungsinstrument
-   #Eigenschaften
-   #Skalennullpunkt
-   #Schwester
-   #Datenerhebung
-   #mMarketingleiter
-   #Schulnote
-   #mF&E-Leiter
-   #Probanden
-   #Leiter
-   #Stichprobenauswahl
-   #Informationsgehalt
-   #möglichWie
-   #KategorisierungFunktion
-   #Einheit
-   #Mail
-   #-Link
-   #Fragebogen
-   #mF&E
-   #Erhebungsinstrumentes
-   #2.Nachfassaktion
-   #Rangordnung
-   #Skalennullpunktes
-   #Probande
-   #verhältnisangaben
-   #Schulnoten
-   #78Unterscheidung
-   #skalenniveaubestimmt
-   #Merkmalsausprägungen
-   #Online
-   #mGeschäftsführer
-   #Maßstab
-   #DB*1.E
    #Wahl
-   #Einheiten
+   #mGeschäftsführer
+   #Skalennullpunkt
+   #Eigenschaften
+   #Informationsgehalt
+   #Erhebungsinstrument
+   #Grad.“§Ratioskalierung
+   #Maßstabs
+   #-Link
    #Studie
    #Merkmalsausprägunge
-   #MGeschäftsführer
-   #unzufrieden§Intervallskalierung
-   #Verhältnisangaben
-   #Grad.“§Ratioskalierung
-   #unzufrieden§intervallskalierung
-   #Maßstabs
-   #Skalenniveaubestimmt
    #Eigenschaft
+   #unzufrieden§intervallskalierung
+   #mF&E-Leiter
+   #78Unterscheidung
+   #Schwester
+   #möglichWie
+   #MGeschäftsführer
+   #skalenniveaubestimmt
+   #Fragebogen
+   #Rangordnung
+   #verhältnisangaben
+   #Probande
+   #Einheit
+   #2.Nachfassaktion
+   #unzufrieden§Intervallskalierung
    #Messniveau
+   #Skalenniveaubestimmt
+   #Leiter
+   #Verhältnisangaben
+   #Schulnote
+   #Skalennullpunktes
+   #Erhebungsinstrumentes
+   #Probanden
+   #Merkmalsausprägungen
+   #mF&E
+   #Schulnoten
+   #Maßstab
+   #Stichprobenauswahl
+   #DB*1.E
+   #Einheiten
+   #Mail
+   #Online
+   #mMarketingleiter
+   #Datenerhebung
+   #KategorisierungFunktion
+
+[Previous: #2022_Marketing_Skript_55](2022_Marketing_Skript_55.md)
+
+[Next: #2022_Marketing_Skript_55](2022_Marketing_Skript_55.md)

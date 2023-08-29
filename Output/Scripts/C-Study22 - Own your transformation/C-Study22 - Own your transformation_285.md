@@ -6,3 +6,7 @@ The CEO Study. https://ibm.co/c-suite-study-ceo
 
    Tags & Topics:
    #Ibid
+
+[Previous: #C-Study22 - Own your transformation_286](C-Study22 - Own your transformation_286.md)
+
+[Next: #C-Study22 - Own your transformation_286](C-Study22 - Own your transformation_286.md)

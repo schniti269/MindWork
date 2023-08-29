@@ -6,6 +6,10 @@ Beispiel: Client/Server-Architektur mit sequenziellem S erver
 
    Tags & Topics:
    #Architektur
-   #Programmierer
    #Nebenl¨auﬁgkeit
+   #Programmierer
    #Server-Architektur
+
+[Previous: #AdvIT-Folien_360](AdvIT-Folien_360.md)
+
+[Next: #AdvIT-Folien_360](AdvIT-Folien_360.md)

@@ -7,3 +7,7 @@ zugeh¨origen Zugriﬀsrechte.
    Tags & Topics:
    #Subjekt
    #Zugriﬀskontrollliste
+
+[Previous: #BS-Folien_419](BS-Folien_419.md)
+
+[Next: #BS-Folien_419](BS-Folien_419.md)

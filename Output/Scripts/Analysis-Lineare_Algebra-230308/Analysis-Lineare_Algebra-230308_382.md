@@ -6,3 +6,7 @@ g(x) =x3−2x .
 
    Tags & Topics:
    
+
+[Previous: #Analysis-Lineare_Algebra-230308_383](Analysis-Lineare_Algebra-230308_383.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_383](Analysis-Lineare_Algebra-230308_383.md)

@@ -5,6 +5,10 @@ Betriebssysteme DHBW Mannheim ©Henning Pagnia Version 4.23 Fr¨uhjahr 2023 BS�
 Prg. 10 Implementierung der Dispatcher-Operationen – Teil 3private void deblock ( ProcessQueue q ) {
 
    Tags & Topics:
+   #ProcessQueue
    #Prozessverwaltun
    #Dispatcher-Operation
-   #ProcessQueue
+
+[Previous: #BS-Folien_161](BS-Folien_161.md)
+
+[Next: #BS-Folien_161](BS-Folien_161.md)

@@ -5,5 +5,9 @@ Mengenoperation Ohnebzw. „ \“ beschreiben:
 A\B={x|x∈A∧x̸∈B}
 
    Tags & Topics:
-   #Dezimalzahl
    #R={x|xist
+   #Dezimalzahl
+
+[Previous: #Analysis-Lineare_Algebra-230308_200](Analysis-Lineare_Algebra-230308_200.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_200](Analysis-Lineare_Algebra-230308_200.md)

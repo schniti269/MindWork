@@ -5,8 +5,12 @@ x: Recht, das Verzeichnis zum Arbeitsverzeichnis machen
 Betriebssysteme DHBW Mannheim ©Henning Pagnia Version 4.23 Fr¨uhjahr 2023 BS–184Dateisysteme UNIX - Dateisubsystem Fallbeispiele
 
    Tags & Topics:
-   #Anlegen
-   #Verzeichnisinhalts
+   #bs–184dateisysteme
    #Verzeichnisinhalt
    #BS–184Dateisystem
-   #bs–184dateisysteme
+   #Anlegen
+   #Verzeichnisinhalts
+
+[Previous: #BS-Folien_459](BS-Folien_459.md)
+
+[Next: #BS-Folien_459](BS-Folien_459.md)

@@ -6,3 +6,7 @@ if (referenzbit == 1)
 
    Tags & Topics:
    #BS–138Speicherverwaltung
+
+[Previous: #BS-Folien_348](BS-Folien_348.md)
+
+[Next: #BS-Folien_348](BS-Folien_348.md)

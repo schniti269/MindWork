@@ -5,6 +5,10 @@ Verweis auf Wurzelverzeichnis
 ⋄1 Eintrag (Gr ¨oße: 1 KiB) pro Datei bzw. Verzeichnis:
 
    Tags & Topics:
-   #⋄Verweis
    #Eintrag
+   #⋄Verweis
    #Verweis
+
+[Previous: #BS-Folien_476](BS-Folien_476.md)
+
+[Next: #BS-Folien_476](BS-Folien_476.md)

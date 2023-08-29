@@ -5,7 +5,11 @@
 •WLANs im Infrastruktur -Modus, das heißt mit Schnittstelle zu einem leitungsgebundenen Netz mittels Basisstation.
 
    Tags & Topics:
+   #Ring
    #•Funknetze
    #•Mobilfunknetze
-   #Ring
    #•WLANs
+
+[Previous: #Einführung-IT-Teil1_75](Einführung-IT-Teil1_75.md)
+
+[Next: #Einführung-IT-Teil1_75](Einführung-IT-Teil1_75.md)

@@ -8,3 +8,7 @@ https://hbr.org/2021/06/circular-supply-chains-
    #Rare
    #Federation
    #Why
+
+[Previous: #C-Study22 - Own your transformation_276](C-Study22 - Own your transformation_276.md)
+
+[Next: #C-Study22 - Own your transformation_276](C-Study22 - Own your transformation_276.md)

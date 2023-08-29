@@ -5,10 +5,14 @@ Wort zu speichern, entscheidet die Hardware, welche Speich eroperation
 zuerst ausgef ¨uhrt wird ⇒Busarbitrierung
 
    Tags & Topics:
-   #Wert
-   #abspeichern
-   #Speicheroperationen
    #Abspeichern
-   #⇒Busarbitrierung
-   #Speicheroperation
+   #abspeichern
    #Hardware
+   #⇒Busarbitrierung
+   #Wert
+   #Speicheroperationen
+   #Speicheroperation
+
+[Previous: #AdvIT-Folien_162](AdvIT-Folien_162.md)
+
+[Next: #AdvIT-Folien_162](AdvIT-Folien_162.md)

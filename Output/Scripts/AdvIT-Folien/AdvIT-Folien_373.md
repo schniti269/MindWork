@@ -5,7 +5,11 @@ Beispiel: TCP Server
 DaytimeServer
 
    Tags & Topics:
-   #Verbindungsanfrag
-   #Falls
    #121/132Server
+   #Falls
    #Verbindungsanfragen
+   #Verbindungsanfrag
+
+[Previous: #AdvIT-Folien_374](AdvIT-Folien_374.md)
+
+[Next: #AdvIT-Folien_374](AdvIT-Folien_374.md)

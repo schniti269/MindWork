@@ -5,6 +5,10 @@ First-Fit Best-Fit
 aktuelle Listen 90 35 60 45 90 35 60 45
 
    Tags & Topics:
+   #Freispeicherliste
    #Fit
    #Best
-   #Freispeicherliste
+
+[Previous: #BS-Loesungen_14](BS-Loesungen_14.md)
+
+[Next: #BS-Loesungen_14](BS-Loesungen_14.md)

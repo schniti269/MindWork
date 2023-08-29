@@ -5,12 +5,16 @@ möglich (Vierspeziesrechner). Erste Ansätze binäre Zahlencodes, wie sie heute
 Programmierungen von Computersystemen verwendet werden, mit den Prinzipien der 
 
    Tags & Topics:
+   #Zahlencod
+   #Vierspeziesrechner
+   #Ansatz
+   #Technik
+   #Techniken
+   #Ansätze
+   #Zahlencodes
    #Grundrechenart
    #Grundrechenarten
-   #Techniken
-   #Zahlencodes
-   #Zahlencod
-   #Ansatz
-   #Ansätze
-   #Vierspeziesrechner
-   #Technik
+
+[Previous: #Einführung-IT-Teil1_24](Einführung-IT-Teil1_24.md)
+
+[Next: #Einführung-IT-Teil1_24](Einführung-IT-Teil1_24.md)

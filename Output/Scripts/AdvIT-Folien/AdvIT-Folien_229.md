@@ -5,6 +5,10 @@ Zweites Leser-Schreiber-Problem: Schreiberpriorit ¨at
 ◮ein wartender Schreiber beginnt, wenn der letzte aktive Les er fertig ist
 
    Tags & Topics:
-   #Schreiber
-   #Schreiberpriorit
    #Les
+   #Schreiberpriorit
+   #Schreiber
+
+[Previous: #AdvIT-Folien_23](AdvIT-Folien_23.md)
+
+[Next: #AdvIT-Folien_23](AdvIT-Folien_23.md)

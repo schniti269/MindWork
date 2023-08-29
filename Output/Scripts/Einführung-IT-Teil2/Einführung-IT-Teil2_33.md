@@ -6,3 +6,7 @@ Ergebnis: 10172dez= 10011110111100bin.
 
    Tags & Topics:
    
+
+[Previous: #Einführung-IT-Teil2_34](Einführung-IT-Teil2_34.md)
+
+[Next: #Einführung-IT-Teil2_34](Einführung-IT-Teil2_34.md)

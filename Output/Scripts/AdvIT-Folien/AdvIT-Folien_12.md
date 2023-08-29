@@ -5,9 +5,13 @@ textbasierte Benutzungsschnittstelle
 Programm, das vom login-Prozess gestartet wird, Kommandos entgegen
 
    Tags & Topics:
-   #6/132Unix
-   #Programm
    #Arbeit
-   #Kommando
    #Arbeiten
+   #Programm
+   #Kommando
+   #6/132Unix
    #Kommandos
+
+[Previous: #AdvIT-Folien_120](AdvIT-Folien_120.md)
+
+[Next: #AdvIT-Folien_120](AdvIT-Folien_120.md)

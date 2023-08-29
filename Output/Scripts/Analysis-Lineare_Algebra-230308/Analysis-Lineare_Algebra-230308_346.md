@@ -6,3 +6,7 @@ x→12x
 
    Tags & Topics:
    
+
+[Previous: #Analysis-Lineare_Algebra-230308_347](Analysis-Lineare_Algebra-230308_347.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_347](Analysis-Lineare_Algebra-230308_347.md)

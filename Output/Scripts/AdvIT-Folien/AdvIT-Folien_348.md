@@ -5,6 +5,10 @@ ausgetauscht werden
 Hierzu leitet man die rohen Daten am besten durch geeignete Filter-Streams ,
 
    Tags & Topics:
-   #Austausch
-   #Filter
    #undSocket
+   #Filter
+   #Austausch
+
+[Previous: #AdvIT-Folien_349](AdvIT-Folien_349.md)
+
+[Next: #AdvIT-Folien_349](AdvIT-Folien_349.md)

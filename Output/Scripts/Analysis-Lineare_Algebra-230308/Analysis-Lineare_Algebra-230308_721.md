@@ -5,6 +5,10 @@ Definition 6.15.SeiA∈Rn×neine quadratische Matrix. Dann ist λ∈ReinEigenwer
 wenn es einen zugehörigen Eigenvektor u∈V\{0}gibt mit Au=λu.
 
    Tags & Topics:
-   #Projektionsrichtung
    #Eigenvektor
+   #Projektionsrichtung
    #λ∈ReinEigenwert
+
+[Previous: #Analysis-Lineare_Algebra-230308_722](Analysis-Lineare_Algebra-230308_722.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_722](Analysis-Lineare_Algebra-230308_722.md)

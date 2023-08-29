@@ -6,10 +6,14 @@ Naturwissenschaften. [...] Im Rahmen der vorliegenden Studie wird die Validität
 
    Tags & Topics:
    #Studien
-   #Professionswissens
-   #Professionswissen
-   #Forschungsarbeit
-   #Validität
    #Forschungsarbeiten
    #Studie
+   #Forschungsarbeit
+   #Professionswissens
+   #Professionswissen
+   #Validität
    #Naturwissenschaft
+
+[Previous: #4 Forschungsstrategien_21](4 Forschungsstrategien_21.md)
+
+[Next: #4 Forschungsstrategien_21](4 Forschungsstrategien_21.md)

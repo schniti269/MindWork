@@ -5,20 +5,24 @@ t-1tGleichgewichtszustandProdukt AProdukt BProdukt CMarkenanteil in %Zeit54www.d
 2.3 KaufentscheidungÜbungsaufgabe 2: Kundenfluktuation (1/3)Ihnen als Marketingleiter des Unternehmens „WellFit“ werden die aktuellen Ergebnisseeiner Marktstudie vorgelegt. Sie sind im Geschäftsbereich Freizeitsport tätig und beschäftigen sich zur Zeit intensiv mit der Entwicklung des zukunftsträchtigen Segmentes „Entspannung und Wellness“. Für das zurückliegende Jahr x1 schauen Sie auf folgende Verteilung der verkauften Yogamatten auf die drei Wettbewerber im Markt:
 
    Tags & Topics:
+   #Sie
    #Wellness
-   #Segment
+   #1/3)Ihnen
+   #Segmentes
+   #t-1tGleichgewichtszustandProdukt
+   #Unternehmen
    #Yogamatt
    #Kundenfluktuation
-   #Abbildung
-   #Unternehmen
-   #Segmentes
-   #Markenanteile
-   #Sie
-   #Unternehmens
    #Ergebnisseeiner
+   #Segment
+   #Unternehmens
+   #6/6)4
+   #Yogamatten
+   #Markenanteile
+   #Abbildung
    #3)Ih
    #Markenanteil
-   #1/3)Ihnen
-   #t-1tGleichgewichtszustandProdukt
-   #Yogamatten
-   #6/6)4
+
+[Previous: #2022_Marketing_Skript_35](2022_Marketing_Skript_35.md)
+
+[Next: #2022_Marketing_Skript_35](2022_Marketing_Skript_35.md)

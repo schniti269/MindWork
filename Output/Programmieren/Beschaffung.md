@@ -1,19 +1,28 @@
-# ## #Beschaffung 
+### Beschaffung 
 
- - #Manuelle eingabe 
- - Datenbanken 
- - #DOE 
- - #Tools 
+- Manuelle eingabe
+- Datenbanken
+- DOE
+- Tools
 
-	 - #Sprache 
+	- Sprache
 
-		 - #Julia 
-		 - #Python 
-		 - #Kothlin 
+		- Julia
+		- Python
+		- Kothlin
 
-	 - Bilblotheken 
+	- Bilblotheken
 
-		 - #Pandas #py 
-		 - #Numpy 
+		- Pandas py
+		- Numpy
 
-	 - #Webscraper 
+	- Webscraper
+
+   Tags & Topics:
+   #Beschaffung
+   #Sprache
+   #Numpy
+   #Webscraper
+   #Tools
+   #Manuelle
+   #bilblotheken

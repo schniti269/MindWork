@@ -5,8 +5,12 @@ g(x) =2x2+ 2x−24
 x2−x−2.
 
    Tags & Topics:
-   #Asymptoten
    #Untersuchen
-   #Pole
    #Ergänzbarkeit
+   #Asymptoten
+   #Pole
    #Asymptot
+
+[Previous: #Analysis-Lineare_Algebra-230308_305](Analysis-Lineare_Algebra-230308_305.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_305](Analysis-Lineare_Algebra-230308_305.md)

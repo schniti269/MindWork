@@ -5,7 +5,11 @@ RBn=r·q−1
 1. Zahlung+r·q−2
 
    Tags & Topics:
-   #Renten
-   #RBnnachschüssiger
    #Rente
+   #RBnnachschüssiger
+   #Renten
    #Rentenendwertfaktor
+
+[Previous: #Analysis-Lineare_Algebra-230308_208](Analysis-Lineare_Algebra-230308_208.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_208](Analysis-Lineare_Algebra-230308_208.md)

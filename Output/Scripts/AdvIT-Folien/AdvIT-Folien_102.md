@@ -6,3 +6,7 @@ nebenl¨auﬁge Zugriﬀe gef ¨ahrden i.Allg. die Datenkonsistenz
 
    Tags & Topics:
    #Datenkonsistenz
+
+[Previous: #AdvIT-Folien_103](AdvIT-Folien_103.md)
+
+[Next: #AdvIT-Folien_103](AdvIT-Folien_103.md)

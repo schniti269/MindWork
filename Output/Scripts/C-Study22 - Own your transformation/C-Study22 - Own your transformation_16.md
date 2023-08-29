@@ -6,3 +6,7 @@ sure your foundation is solid and that you’re managing
 
    Tags & Topics:
    
+
+[Previous: #C-Study22 - Own your transformation_160](C-Study22 - Own your transformation_160.md)
+
+[Next: #C-Study22 - Own your transformation_160](C-Study22 - Own your transformation_160.md)

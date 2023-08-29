@@ -1,12 +1,20 @@
-# ## #Verarbeitung 
+### Verarbeitung 
 
- - Filtern 
+- Filtern
 
-	 - #Ausreißer 
-	 - #Relevanz 
+	- Ausreißer 
+	- Relevanz 
 
- - #Aufbereitung 
+- Aufbereitung 
 
-	 - #Metadaten 
+	- Metadaten
 
- - #Normalisieren 
+- Normalisieren
+
+   Tags & Topics:
+   #Verarbeitung
+   #Filter
+   #Aufbereitung
+   #Normalisieren
+   #Normalisier
+   #Ausreißer

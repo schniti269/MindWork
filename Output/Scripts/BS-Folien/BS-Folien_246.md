@@ -6,3 +6,7 @@ Verwendung einer gemeinsam genutzten Tabelle, um die Zuordnung
 
    Tags & Topics:
    #BS–100Prozessverwaltung
+
+[Previous: #BS-Folien_247](BS-Folien_247.md)
+
+[Next: #BS-Folien_247](BS-Folien_247.md)

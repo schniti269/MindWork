@@ -5,9 +5,13 @@ Atomare Speicheroperationen
 Falls mehrere Prozessoren gleichzeitig versuchen, je eine n Wert in dasselbe Speicherwort zu speichern,
 
    Tags & Topics:
-   #Falls
-   #abspeichern
-   #•Beobachtung
-   #Speicheroperationen
    #Abspeichern
+   #abspeichern
+   #Speicheroperationen
+   #Falls
+   #•Beobachtung
    #Speicheroperation
+
+[Previous: #BS-Folien_129](BS-Folien_129.md)
+
+[Next: #BS-Folien_129](BS-Folien_129.md)

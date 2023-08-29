@@ -5,12 +5,16 @@
 /dev/urandom Ger¨atedatei: liefert eine endlose Folge von Zufalls-Bits
 
    Tags & Topics:
-   #Folge
-   #Umleitung
    #Pipe
    #Null
-   #Standardfehlerausgabe
    #Zufalls
+   #Standardfehlerausgabe
+   #Folge
    #pipe
+   #Umleitung
    #Ger¨atedatei
    #Kanal
+
+[Previous: #AdvIT-Folien_170](AdvIT-Folien_170.md)
+
+[Next: #AdvIT-Folien_170](AdvIT-Folien_170.md)

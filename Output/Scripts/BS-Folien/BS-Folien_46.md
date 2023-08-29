@@ -7,3 +7,7 @@ Speicherkapazit ¨at:
    Tags & Topics:
    #Speicherzelle
    #Feld
+
+[Previous: #BS-Folien_460](BS-Folien_460.md)
+
+[Next: #BS-Folien_460](BS-Folien_460.md)

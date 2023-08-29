@@ -6,3 +6,7 @@ Wichtige Methoden (Forts.)
 
    Tags & Topics:
    #Puﬀerinhalt
+
+[Previous: #AdvIT-Folien_387](AdvIT-Folien_387.md)
+
+[Next: #AdvIT-Folien_387](AdvIT-Folien_387.md)

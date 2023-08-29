@@ -5,6 +5,10 @@
   1. DatagramSocket  auf festem
 
    Tags & Topics:
-   #Antwort
    #Zielinformation
+   #Antwort
    #antwort
+
+[Previous: #AdvIT-Folien_391](AdvIT-Folien_391.md)
+
+[Next: #AdvIT-Folien_391](AdvIT-Folien_391.md)

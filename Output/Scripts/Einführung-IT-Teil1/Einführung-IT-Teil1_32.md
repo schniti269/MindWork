@@ -5,6 +5,10 @@ arbeitende Computer, enthielt über 18.000 Röhren und war 30 Tonnen schwer. ENI
 •Die Computer -Wissenschaft wesentlich durch John von Neumann (1903 –1957) beeinflusst. 
 
    Tags & Topics:
+   #MARK1
    #MARK1.
    #-Wissenschaft
-   #MARK1
+
+[Previous: #Einführung-IT-Teil1_33](Einführung-IT-Teil1_33.md)
+
+[Next: #Einführung-IT-Teil1_33](Einführung-IT-Teil1_33.md)

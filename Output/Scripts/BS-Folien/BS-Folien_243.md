@@ -7,3 +7,7 @@ Prg. 15 Zugriﬀ auf identische Druckerpublic class IdenticalPrinter1 {
    Tags & Topics:
    #BS–99Prozessverwaltung
    #Druckerverwaltungsproblem
+
+[Previous: #BS-Folien_244](BS-Folien_244.md)
+
+[Next: #BS-Folien_244](BS-Folien_244.md)

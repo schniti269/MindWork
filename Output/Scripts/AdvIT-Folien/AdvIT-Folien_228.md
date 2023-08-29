@@ -5,5 +5,9 @@ Einf¨uhrung von Priorit ¨aten
 Erstes Leser-Schreiber-Problem: Leserpriorit ¨at
 
    Tags & Topics:
-   #Schreiber
    #Leserpriorit
+   #Schreiber
+
+[Previous: #AdvIT-Folien_229](AdvIT-Folien_229.md)
+
+[Next: #AdvIT-Folien_229](AdvIT-Folien_229.md)

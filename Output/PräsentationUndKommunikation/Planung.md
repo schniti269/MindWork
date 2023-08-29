@@ -1,4 +1,10 @@
-# ## #Planung 
+### Planung
 
- - #Sachverhalt 
- - #Ziele 
+- Sachverhalt
+- Ziele
+
+   Tags & Topics:
+   #Planung
+   #Ziel
+   #Sachverhalt
+   #Ziele

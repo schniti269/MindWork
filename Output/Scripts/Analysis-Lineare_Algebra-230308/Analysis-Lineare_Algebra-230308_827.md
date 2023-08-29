@@ -8,3 +8,7 @@ trigonometrische Funktion, 19U
    #Tilgungsrechnung
    #Transposition
    #19U
+
+[Previous: #Analysis-Lineare_Algebra-230308_828](Analysis-Lineare_Algebra-230308_828.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_828](Analysis-Lineare_Algebra-230308_828.md)

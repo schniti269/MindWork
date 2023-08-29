@@ -5,7 +5,11 @@ Durchführung extern (z.B. Marktforschungsinstitute)3.2. Prozess der Marktforsch
 Durchführung extern (z.B. Marktforschungsinstitute)3.2. Prozess der MarktforschungSchritt 3: Bestimmung der Durchführenden (Beispiel DB*)
 
    Tags & Topics:
+   #durchführende
    #marktforschungsinstitute)3.2
    #Durchführenden
-   #durchführende
    #MarktforschungSchritt
+
+[Previous: #2022_Marketing_Skript_46](2022_Marketing_Skript_46.md)
+
+[Next: #2022_Marketing_Skript_46](2022_Marketing_Skript_46.md)

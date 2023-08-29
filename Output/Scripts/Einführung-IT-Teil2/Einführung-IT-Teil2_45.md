@@ -7,3 +7,7 @@ der Exponent positiv, so hat das führende Bit von c den Wert 1, sonst hat es de
    Tags & Topics:
    #Komma
    #Vorzeichen
+
+[Previous: #Einführung-IT-Teil2_46](Einführung-IT-Teil2_46.md)
+
+[Next: #Einführung-IT-Teil2_46](Einführung-IT-Teil2_46.md)

@@ -5,6 +5,10 @@ Aufgabe 15. Untersuchen Sie die Folge (an)auf Monotonie und Beschränktheit:
 an=1−n+n2
 
    Tags & Topics:
-   #Beschränktheit
    #Untersuchen
    #Partialsummen2.5.
+   #Beschränktheit
+
+[Previous: #Analysis-Lineare_Algebra-230308_298](Analysis-Lineare_Algebra-230308_298.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_298](Analysis-Lineare_Algebra-230308_298.md)

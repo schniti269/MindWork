@@ -5,9 +5,13 @@ Prof. Dr. Henning Pagnia (DHBW Mannheim) Advanced IT Herbst 2023 11/132Unix Arbe
 Unix-Befehle (Forts.)
 
    Tags & Topics:
-   #tailAusgebe
    #Arbeit
-   #tailAusgeben
    #Dateiend
-   #Dateiendes
+   #tailAusgebe
    #Arbeiten
+   #Dateiendes
+   #tailAusgeben
+
+[Previous: #AdvIT-Folien_260](AdvIT-Folien_260.md)
+
+[Next: #AdvIT-Folien_260](AdvIT-Folien_260.md)

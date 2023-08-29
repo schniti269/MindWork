@@ -8,3 +8,7 @@ Aufgabe 83. Bestimmen Sie Schnittgerade und -winkel der Ebenen E&F:
    #E&F
    #Parameter-
    #Schnittgerade
+
+[Previous: #Analysis-Lineare_Algebra-230308_647](Analysis-Lineare_Algebra-230308_647.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_647](Analysis-Lineare_Algebra-230308_647.md)

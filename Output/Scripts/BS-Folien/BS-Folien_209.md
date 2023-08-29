@@ -5,10 +5,14 @@ Parallelarbeit von CPU und E/A-Ger ¨aten notwendig.
 Ein-/Ausgabe wird auf Hardware-Ebene fast immer asynchron ausgef¨uhrt.
 
    Tags & Topics:
-   #•L¨osungskonzept
-   #¨aten⇒Faktor
-   #Ein-/Ausgab
-   #Parallelarbeit
    #Geschwindigkeitsunterschiede
+   #Ein-/Ausgab
+   #•L¨osungskonzept
    #Hardware
+   #Parallelarbeit
+   #¨aten⇒Faktor
    #Ein-/Ausgabe
+
+[Previous: #BS-Folien_21](BS-Folien_21.md)
+
+[Next: #BS-Folien_21](BS-Folien_21.md)

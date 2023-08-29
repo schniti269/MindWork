@@ -7,3 +7,7 @@ x1−x2−2x3= 1
    Tags & Topics:
    #Gleichungssystem
    #Gleichungssystems
+
+[Previous: #Analysis-Lineare_Algebra-230308_646](Analysis-Lineare_Algebra-230308_646.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_646](Analysis-Lineare_Algebra-230308_646.md)

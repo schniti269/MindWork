@@ -6,3 +6,7 @@ k=0i2k
 
    Tags & Topics:
    #k!xk=∞X
+
+[Previous: #Analysis-Lineare_Algebra-230308_28](Analysis-Lineare_Algebra-230308_28.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_28](Analysis-Lineare_Algebra-230308_28.md)

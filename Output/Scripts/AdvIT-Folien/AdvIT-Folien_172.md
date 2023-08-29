@@ -5,9 +5,13 @@ unterbrechen.
 Eigene Exceptions deﬁnieren und werfen
 
    Tags & Topics:
-   #Exception
    #Ausnahme
-   #Wenn
-   #Exceptions
-   #Ausnahmen
    #Programmﬂuss
+   #Exception
+   #Exceptions
+   #Wenn
+   #Ausnahmen
+
+[Previous: #AdvIT-Folien_173](AdvIT-Folien_173.md)
+
+[Next: #AdvIT-Folien_173](AdvIT-Folien_173.md)

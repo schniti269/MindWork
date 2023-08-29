@@ -1,13 +1,20 @@
-# ## #Gleichungsverfahren 
+### Gleichungsverfahren
 
- - #Gleichungen aufstellen 
+- Gleichungen aufstellen
 
-	 - #EMPFANGENE #LEISUNGEN 
- ( #matrix #spaltenweise lesen ) 
+	- EMPFANGENE LEISUNGEN
+(matrix spaltenweise lesen)
 
-		 - #verhältnis #ist #somit erstellt 
+		- verhältnis ist somit erstellt
 
- - #problem #beo #übertragung von unwirtschaftlichkeiten 
+- problem beo übertragung von unwirtschaftlichkeiten
 
-	 - #oder als #indikator , #dass etwas vorliegt 
-	 - Vergleich #nicht sinnvoll 
+	- oder als indikator, dass etwas vorliegt
+	- Vergleich nicht sinnvoll
+
+   Tags & Topics:
+   #Gleichungen
+   #Gleichungsverfahren
+   #Verhältnis
+   #verhältnis
+   #Gleichung

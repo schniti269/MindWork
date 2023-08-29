@@ -6,7 +6,11 @@ DieArmbewegung stellt eine vergleichsweise langsame und deshalb teure Operation 
 
    Tags & Topics:
    #K¨opfe
+   #Schreib−/Lesekopf
    #BS–152Dateisysteme
    #DieArmbewegung
    #bs–152dateisysteme
-   #Schreib−/Lesekopf
+
+[Previous: #BS-Folien_385](BS-Folien_385.md)
+
+[Next: #BS-Folien_385](BS-Folien_385.md)

@@ -5,8 +5,12 @@ Auftragsverwaltung (→bei Großrechnerbetriebssystemen)
 ⋄Aus dieser werden je nach Last Auftr ¨age ausgew ¨ahlt und Prozessen zugeordnet.
 
    Tags & Topics:
-   #⋄Aus
-   #Prozessumgebung
-   #⋄aus
-   #Auftragsverwaltung
    #⋄Bei¨Uberlastzust
+   #⋄aus
+   #Prozessumgebung
+   #⋄Aus
+   #Auftragsverwaltung
+
+[Previous: #BS-Folien_172](BS-Folien_172.md)
+
+[Next: #BS-Folien_172](BS-Folien_172.md)

@@ -6,3 +6,7 @@ public Bmv (int anz) {
 
    Tags & Topics:
    #Wir
+
+[Previous: #AdvIT-Folien_211](AdvIT-Folien_211.md)
+
+[Next: #AdvIT-Folien_211](AdvIT-Folien_211.md)

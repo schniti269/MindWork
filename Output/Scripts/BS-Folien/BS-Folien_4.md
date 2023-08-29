@@ -5,10 +5,14 @@ Hauptspeicherverwaltung und -zuteilung................. .......110
 Virtueller Speicher.................................. ...........117
 
    Tags & Topics:
-   #Semaphor-Konzept
-   #Hauptspeichers
-   #Hauptspeicher
-   #A-Operatione
-   #Speicher
-   #Hauptspeicherverwaltung
    #93Speicherverwaltung
+   #Hauptspeicher
+   #Speicher
+   #Hauptspeichers
+   #Hauptspeicherverwaltung
+   #Semaphor-Konzept
+   #A-Operatione
+
+[Previous: #BS-Folien_40](BS-Folien_40.md)
+
+[Next: #BS-Folien_40](BS-Folien_40.md)

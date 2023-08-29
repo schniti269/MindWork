@@ -6,3 +6,7 @@ k=-m
 
    Tags & Topics:
    #Informationsgehalt
+
+[Previous: #Einführung-IT-Teil2_60](Einführung-IT-Teil2_60.md)
+
+[Next: #Einführung-IT-Teil2_60](Einführung-IT-Teil2_60.md)

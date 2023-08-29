@@ -5,9 +5,13 @@ DHBW MannheimDarstellung von Zahlen
 geläufigsten ist das Dezimalsystem. Für die digitale Datenverarbeitung sind jedoch Ziffernsysteme günstiger, 
 
    Tags & Topics:
-   #Ziffernsystem
-   #Codierungen
-   #•Für
-   #MannheimDarstellung
-   #Ziffernsysteme
    #Dezimalsystem
+   #•Für
+   #Ziffernsysteme
+   #Codierungen
+   #Ziffernsystem
+   #MannheimDarstellung
+
+[Previous: #Einführung-IT-Teil2_20](Einführung-IT-Teil2_20.md)
+
+[Next: #Einführung-IT-Teil2_20](Einführung-IT-Teil2_20.md)

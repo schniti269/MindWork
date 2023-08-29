@@ -6,3 +6,7 @@ Navigating uncertainties—and managing supply chain challenges accordingly—ha
 
    Tags & Topics:
    
+
+[Previous: #C-Study22 - Own your transformation_140](C-Study22 - Own your transformation_140.md)
+
+[Next: #C-Study22 - Own your transformation_140](C-Study22 - Own your transformation_140.md)

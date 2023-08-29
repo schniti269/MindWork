@@ -6,3 +6,7 @@ public class MyThread2  implements  Runnable {  private int id;  public MyThread
 
    Tags & Topics:
    #Exception
+
+[Previous: #AdvIT-Folien_95](AdvIT-Folien_95.md)
+
+[Next: #AdvIT-Folien_95](AdvIT-Folien_95.md)

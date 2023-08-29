@@ -5,7 +5,11 @@ Thread-IDs die Anzahl der Threads fest vorgegeben ist
 Parameter der print-Operation
 
    Tags & Topics:
-   #IDs
-   #Referenz
    #Thread-ID
    #print-Operation
+   #Referenz
+   #IDs
+
+[Previous: #AdvIT-Folien_262](AdvIT-Folien_262.md)
+
+[Next: #AdvIT-Folien_262](AdvIT-Folien_262.md)

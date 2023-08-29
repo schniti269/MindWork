@@ -5,9 +5,13 @@ erg¨anzt.
 ⋄Folge: Das Programm muss nicht vollst ¨andigim Hauptspeicher liegen.
 
    Tags & Topics:
-   #⋄Folge
    #speicher
-   #BereichaufFestplatte
    #Speicher
-   #→Swap-BereichaufFestplatte
    #Hintergrundspeicher
+   #→Swap-BereichaufFestplatte
+   #BereichaufFestplatte
+   #⋄Folge
+
+[Previous: #BS-Folien_291](BS-Folien_291.md)
+
+[Next: #BS-Folien_291](BS-Folien_291.md)

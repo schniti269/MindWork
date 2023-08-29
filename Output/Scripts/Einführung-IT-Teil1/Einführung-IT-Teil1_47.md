@@ -5,9 +5,13 @@ einem einzigen Chip. Es handelt sich also um mehrere (weitgehend) vollständige,
 voneinander unabhängige CPU -Kerne inklusive eigener Registersätze und arithmetisch -logischer 
 
    Tags & Topics:
-   #Merkmal
-   #Mikroprozessoren
    #Mikroprozessor
+   #-kerne
    #Abkehr
    #-Kerne
-   #-kerne
+   #Mikroprozessoren
+   #Merkmal
+
+[Previous: #Einführung-IT-Teil1_48](Einführung-IT-Teil1_48.md)
+
+[Next: #Einführung-IT-Teil1_48](Einführung-IT-Teil1_48.md)

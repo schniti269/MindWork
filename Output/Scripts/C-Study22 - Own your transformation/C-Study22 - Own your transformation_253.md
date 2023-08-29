@@ -5,5 +5,9 @@ planet, purpose, and profit impact.
  –Experiment with open innovation and scientific 
 
    Tags & Topics:
-   #experiment
    #Experiment
+   #experiment
+
+[Previous: #C-Study22 - Own your transformation_254](C-Study22 - Own your transformation_254.md)
+
+[Next: #C-Study22 - Own your transformation_254](C-Study22 - Own your transformation_254.md)

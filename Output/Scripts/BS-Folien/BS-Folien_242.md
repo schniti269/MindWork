@@ -5,7 +5,11 @@ public abstract int read (int index, byte[] data);public int length() { // L¨an
 return content.length;
 
    Tags & Topics:
-   #//Schreiboperation
    #Byt
-   #Bytes
    #L¨ange
+   #Bytes
+   #//Schreiboperation
+
+[Previous: #BS-Folien_243](BS-Folien_243.md)
+
+[Next: #BS-Folien_243](BS-Folien_243.md)

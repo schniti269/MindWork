@@ -7,3 +7,7 @@ Chain Really Is.” The Atlantic. September 21, 2021. https://
    Tags & Topics:
    #Have
    #Amanda
+
+[Previous: #C-Study22 - Own your transformation_287](C-Study22 - Own your transformation_287.md)
+
+[Next: #C-Study22 - Own your transformation_287](C-Study22 - Own your transformation_287.md)

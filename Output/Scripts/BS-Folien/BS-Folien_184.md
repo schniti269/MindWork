@@ -5,10 +5,14 @@ Prg. 11 Implementierung des Timer-Interrupt-Handlerpublic void timerInterruptHan
 enterMutex();
 
    Tags & Topics:
-   #Zeitscheibenunterbrechung
-   #Handler
-   #Handlerpublic
-   #Zeitgeberregister
-   #Dieassign
    #timerInterruptHandler
    #Zeitgeberregisters
+   #Dieassign
+   #Handlerpublic
+   #Zeitscheibenunterbrechung
+   #Zeitgeberregister
+   #Handler
+
+[Previous: #BS-Folien_185](BS-Folien_185.md)
+
+[Next: #BS-Folien_185](BS-Folien_185.md)

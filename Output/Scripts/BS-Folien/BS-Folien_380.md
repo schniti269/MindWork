@@ -6,7 +6,11 @@ Ger¨atestrategie
 
    Tags & Topics:
    #Dateipuﬀer
-   #Dateiorganisation
-   #Ger¨atestrategie
    #Dateiverzeichnisse
    #Dateiverzeichniß
+   #Ger¨atestrategie
+   #Dateiorganisation
+
+[Previous: #BS-Folien_381](BS-Folien_381.md)
+
+[Next: #BS-Folien_381](BS-Folien_381.md)

@@ -8,3 +8,7 @@ Ein Objekt der Klasse Context enth¨alt alle daf¨ur ben¨otigten Informationen.
    #Objekt
    #Maschinenprogramm
    #Dateiname
+
+[Previous: #BS-Folien_107](BS-Folien_107.md)
+
+[Next: #BS-Folien_107](BS-Folien_107.md)

@@ -5,6 +5,10 @@ Produkt Ein Produkt ist ein Bündel von Eigenschaften, das auf die Schaffung von
 ... generischen Produktbegriff
 
    Tags & Topics:
+   #Definitionsversuche
    #Bündel
    #Produktbegriff
-   #Definitionsversuche
+
+[Previous: #2022_Marketing_Skript_59](2022_Marketing_Skript_59.md)
+
+[Next: #2022_Marketing_Skript_59](2022_Marketing_Skript_59.md)

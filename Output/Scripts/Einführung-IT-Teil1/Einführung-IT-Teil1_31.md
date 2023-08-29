@@ -5,8 +5,12 @@ berechnen. Programme wurden über Lochstreifen eingegeben.
 •MARK1, 1944, eine von Howard A. Aiken (1900 –1973) entwickelte Maschine auf 
 
    Tags & Topics:
-   #•MARK1
-   #Wurzeln
-   #Grundrechenarten
    #Wurzel
+   #Wurzeln
    #Grundrechenart
+   #•MARK1
+   #Grundrechenarten
+
+[Previous: #Einführung-IT-Teil1_32](Einführung-IT-Teil1_32.md)
+
+[Next: #Einführung-IT-Teil1_32](Einführung-IT-Teil1_32.md)

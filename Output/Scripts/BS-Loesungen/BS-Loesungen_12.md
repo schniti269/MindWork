@@ -6,3 +6,7 @@
 
    Tags & Topics:
    
+
+[Previous: #BS-Loesungen_13](BS-Loesungen_13.md)
+
+[Next: #BS-Loesungen_13](BS-Loesungen_13.md)

@@ -5,5 +5,9 @@ Random
 •Lagere eine zuf ¨allig ausgew ¨ahlte Seite aus.
 
    Tags & Topics:
-   #BS–134Speicherverwaltung
    #•Lagere
+   #BS–134Speicherverwaltung
+
+[Previous: #BS-Folien_337](BS-Folien_337.md)
+
+[Next: #BS-Folien_337](BS-Folien_337.md)

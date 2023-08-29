@@ -5,7 +5,11 @@ Key:
 :Main Memory
 
    Tags & Topics:
+   #Lines
    #Anleg
    #anlegen
    #Cache-Line
-   #Lines
+
+[Previous: #BS-Folien_54](BS-Folien_54.md)
+
+[Next: #BS-Folien_54](BS-Folien_54.md)

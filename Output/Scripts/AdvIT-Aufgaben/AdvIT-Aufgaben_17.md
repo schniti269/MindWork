@@ -6,16 +6,20 @@ get().
 
    Tags & Topics:
    #put(String
-   #Erzeugen
-   #Erzeug
-   #Methoden
-   #Threads
-   #sowiestring
-   #Implementieren
-   #sowieString
-   #Thread
-   #String
-   #Implementier
-   #Methode
    #Klasse
+   #Thread
+   #Implementieren
    #FifoQueue
+   #sowiestring
+   #Methoden
+   #Methode
+   #sowieString
+   #Erzeugen
+   #Implementier
+   #Threads
+   #Erzeug
+   #String
+
+[Previous: #AdvIT-Aufgaben_18](AdvIT-Aufgaben_18.md)
+
+[Next: #AdvIT-Aufgaben_18](AdvIT-Aufgaben_18.md)

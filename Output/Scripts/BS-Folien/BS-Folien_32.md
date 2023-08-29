@@ -6,12 +6,16 @@ Betriebsarten eines Rechensystems
 
    Tags & Topics:
    #Oﬄine-Modus
-   #Modus
-   #⋄App
-   #Betriebsart
-   #Oﬄine
    #Betriebsarten
-   #Tablet
    #Tablets
+   #Modus
+   #Betriebsart
    #Energieverwaltung
    #⋄App-Konzept
+   #Tablet
+   #⋄App
+   #Oﬄine
+
+[Previous: #BS-Folien_320](BS-Folien_320.md)
+
+[Next: #BS-Folien_320](BS-Folien_320.md)

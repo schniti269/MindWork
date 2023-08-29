@@ -5,10 +5,14 @@ Zeitschrift für Didaktik der Naturwissenschaften, 19 , 31-49.
 
    Tags & Topics:
    #Zeitschrift
-   #Naturwissenschaften
-   #Professionswissen
-   #Biologen
-   #Pädagogen
    #Biologe
+   #Naturwissenschaften
    #Pädagoge
+   #Biologen
+   #Professionswissen
+   #Pädagogen
    #Naturwissenschaft
+
+[Previous: #4 Forschungsstrategien_19](4 Forschungsstrategien_19.md)
+
+[Next: #4 Forschungsstrategien_19](4 Forschungsstrategien_19.md)

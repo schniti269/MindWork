@@ -6,3 +6,7 @@ Einmal den Fall, dass der Term 0ist, und die Lösung für diesen Fall berechnen,
 
    Tags & Topics:
    #Wenn
+
+[Previous: #Analysis-Lineare_Algebra-230308_572](Analysis-Lineare_Algebra-230308_572.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_572](Analysis-Lineare_Algebra-230308_572.md)

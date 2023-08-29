@@ -1,4 +1,11 @@
-# ## Semi #Grafiken #60er 
+### Semi Grafiken 60er
 
- - Prozessleitung #häufig " lichtgriffel " #
- - #Auswahl #von #Objekten und #Funktionen #
+- Prozessleitung häufig "lichtgriffel"
+- Auswahl von Objekten und Funktionen
+
+   Tags & Topics:
+   #Funktion
+   #Grafik
+   #Auswahl
+   #Grafiken
+   #Prozessleitung

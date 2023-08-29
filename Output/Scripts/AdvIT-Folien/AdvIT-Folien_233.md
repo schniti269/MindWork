@@ -7,3 +7,7 @@ w.acquire();
    Tags & Topics:
    #problem
    #Leser-Schreiber-Problem
+
+[Previous: #AdvIT-Folien_234](AdvIT-Folien_234.md)
+
+[Next: #AdvIT-Folien_234](AdvIT-Folien_234.md)

@@ -6,3 +6,7 @@ printer = new Semaphore (n);
 
    Tags & Topics:
    
+
+[Previous: #BS-Folien_245](BS-Folien_245.md)
+
+[Next: #BS-Folien_245](BS-Folien_245.md)

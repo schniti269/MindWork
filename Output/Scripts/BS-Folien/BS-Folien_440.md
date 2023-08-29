@@ -6,7 +6,11 @@ Betriebssysteme DHBW Mannheim ©Henning Pagnia Version 4.23 Fr¨uhjahr 2023 BS�
 
    Tags & Topics:
    #bs–177dateisysteme
-   #Verwaltungsinformationen
-   #verwaltungsinformationen
    #BS–177Dateisystem
+   #verwaltungsinformationen
+   #Verwaltungsinformationen
    #⊲Typ
+
+[Previous: #BS-Folien_441](BS-Folien_441.md)
+
+[Next: #BS-Folien_441](BS-Folien_441.md)

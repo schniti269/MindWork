@@ -5,6 +5,10 @@ Aufgabe 10 (Bearbeitungszeit: max. 120 min)
 Beim nebenl ¨auﬁgen Zugriﬀ auf gemeinsam genutzte Datenstrukturen kann e s zu Inkonsistenzen kommen.
 
    Tags & Topics:
-   #Bearbeitungszeit
    #Prof.
    #Ergebnis
+   #Bearbeitungszeit
+
+[Previous: #AdvIT-Aufgaben_17](AdvIT-Aufgaben_17.md)
+
+[Next: #AdvIT-Aufgaben_17](AdvIT-Aufgaben_17.md)

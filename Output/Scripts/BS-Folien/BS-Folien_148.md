@@ -5,5 +5,9 @@ Prg. 7 Gegenseitiger Ausschlussprivate void enterMutex () {
 Processor.interruptsOff();
 
    Tags & Topics:
-   #An-
    #undexitMutex
+   #An-
+
+[Previous: #BS-Folien_149](BS-Folien_149.md)
+
+[Next: #BS-Folien_149](BS-Folien_149.md)

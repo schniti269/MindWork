@@ -5,6 +5,10 @@ soviele Zeichen wie m ¨oglich in den Puﬀer eingelesen
 Prof. Dr. Henning Pagnia (DHBW Mannheim) Advanced IT Herbst 2023 116/132Server-Programmierung Sockets in Java
 
    Tags & Topics:
-   #Falls
    #Strom
    #116/132Server
+   #Falls
+
+[Previous: #AdvIT-Folien_359](AdvIT-Folien_359.md)
+
+[Next: #AdvIT-Folien_359](AdvIT-Folien_359.md)

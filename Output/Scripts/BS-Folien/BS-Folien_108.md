@@ -5,10 +5,14 @@ Prg. 2 Operationen auf einer Prozesswarteschlangepublic abstract class ProcessQu
 // Definition einer geeigneten Datenstrukturpublic abstract void put ( Pcb process );public abstract Pcb get ();
 
    Tags & Topics:
-   #InnerhalbderProzessverwaltungwirddie
-   #derdemProzesszugeordnet
-   #Referenz
-   #aufdenPCBverwendet
-   #ProcessQueue
-   #Datenstrukturpublic
    #•Prg
+   #Datenstrukturpublic
+   #aufdenPCBverwendet
+   #InnerhalbderProzessverwaltungwirddie
+   #ProcessQueue
+   #Referenz
+   #derdemProzesszugeordnet
+
+[Previous: #BS-Folien_109](BS-Folien_109.md)
+
+[Next: #BS-Folien_109](BS-Folien_109.md)

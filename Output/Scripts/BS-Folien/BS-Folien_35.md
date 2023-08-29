@@ -5,5 +5,9 @@ Deﬁnition von Teilaufgaben durch den Benutzer
 Antwort des Systems
 
    Tags & Topics:
-   #Dialogbetrieb
    #Betrieb
+   #Dialogbetrieb
+
+[Previous: #BS-Folien_350](BS-Folien_350.md)
+
+[Next: #BS-Folien_350](BS-Folien_350.md)

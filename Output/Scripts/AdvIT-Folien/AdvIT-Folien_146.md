@@ -5,6 +5,10 @@
 Maximalanforderung noch erf ¨ullen
 
    Tags & Topics:
-   #Maximalanforderung
    #b)p2fordert
    #c)p5fordert
+   #Maximalanforderung
+
+[Previous: #AdvIT-Folien_147](AdvIT-Folien_147.md)
+
+[Next: #AdvIT-Folien_147](AdvIT-Folien_147.md)

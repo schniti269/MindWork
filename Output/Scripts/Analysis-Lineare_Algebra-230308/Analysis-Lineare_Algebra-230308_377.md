@@ -6,3 +6,7 @@ f(x) =x4
 
    Tags & Topics:
    
+
+[Previous: #Analysis-Lineare_Algebra-230308_378](Analysis-Lineare_Algebra-230308_378.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_378](Analysis-Lineare_Algebra-230308_378.md)

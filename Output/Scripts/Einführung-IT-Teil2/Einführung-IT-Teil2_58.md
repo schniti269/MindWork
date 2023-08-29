@@ -5,7 +5,11 @@
 •Wird gebildet durch Addition von 1 zum Einerkomplement
 
    Tags & Topics:
-   #Einerkomplement
-   #-87dez(einerkomplement)zweierkomplement
-   #Zweierkomplement
    #Rückführung
+   #Zweierkomplement
+   #-87dez(einerkomplement)zweierkomplement
+   #Einerkomplement
+
+[Previous: #Einführung-IT-Teil2_59](Einführung-IT-Teil2_59.md)
+
+[Next: #Einführung-IT-Teil2_59](Einführung-IT-Teil2_59.md)

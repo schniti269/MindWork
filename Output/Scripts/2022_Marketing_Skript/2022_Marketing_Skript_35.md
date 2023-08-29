@@ -5,34 +5,38 @@ www.dhbw.deMarketing
 57www.dhbw.deMarketing
 
    Tags & Topics:
-   #Kundenloyalitätsindex
-   #Unternehmen
-   #Dezimalstellen.c)Ermitteln
-   #Unternehmens
-   #Wachstumsmarkt
-   #Kundenzahl
-   #Absatzzahl
-   #Produktes
-   #Jahres
-   #2/3)Sie
-   #Gleichgewichtsmarktanteile
-   #Produkt
-   #Yogamatt
-   #Absatzmenge
-   #Zahl
-   #Übergangswahrscheinlichkeiter
-   #Jahr
    #verteilen.b)Erstellen
-   #Übergangswahrscheinlichkeiten
-   #haben.•Ergebnis
-   #Notiz
-   #Matrix
-   #Absatzzahlen
-   #Markentreue.d)Ermitteln
-   #Gleichgewichtsmarktanteil
-   #Kundenfluktuation
+   #Gleichgewichtsmarktanteile
+   #Absatzzahl
    #Sechstel
-   #Bild
-   #gekauft.•Wir
-   #Index
+   #Produkt
+   #Markentreue.d)Ermitteln
    #Hälfte
+   #Matrix
+   #Absatzmenge
+   #Kundenfluktuation
+   #Produktes
+   #Bild
+   #Dezimalstellen.c)Ermitteln
+   #Absatzzahlen
+   #Index
+   #Wachstumsmarkt
+   #gekauft.•Wir
+   #Kundenzahl
+   #Kundenloyalitätsindex
+   #Übergangswahrscheinlichkeiten
+   #Notiz
+   #Jahr
+   #Zahl
+   #Yogamatt
+   #Unternehmen
+   #Übergangswahrscheinlichkeiter
+   #2/3)Sie
+   #haben.•Ergebnis
+   #Gleichgewichtsmarktanteil
+   #Unternehmens
+   #Jahres
+
+[Previous: #2022_Marketing_Skript_36](2022_Marketing_Skript_36.md)
+
+[Next: #2022_Marketing_Skript_36](2022_Marketing_Skript_36.md)

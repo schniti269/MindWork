@@ -6,3 +6,7 @@ available in every country in which IBM operates.
 
    Tags & Topics:
    
+
+[Previous: #C-Study22 - Own your transformation_302](C-Study22 - Own your transformation_302.md)
+
+[Next: #C-Study22 - Own your transformation_302](C-Study22 - Own your transformation_302.md)

@@ -6,7 +6,11 @@ zusammenh ¨angender Bereich der L ¨ange 100 .
 
    Tags & Topics:
    #Speicheradresse
-   #Listenanfang
    #Speicherzuteilung
-   #Block
    #Speicheradreß
+   #Block
+   #Listenanfang
+
+[Previous: #BS-Uebungen_2](BS-Uebungen_2.md)
+
+[Next: #BS-Uebungen_2](BS-Uebungen_2.md)

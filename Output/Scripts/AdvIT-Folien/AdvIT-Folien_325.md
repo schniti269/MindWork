@@ -6,7 +6,11 @@ TCP-Header
 
    Tags & Topics:
    #Header
-   #TCP-Header
-   #104/132Server
-   #Byte
    #Sequenznummer
+   #Byte
+   #104/132Server
+   #TCP-Header
+
+[Previous: #AdvIT-Folien_326](AdvIT-Folien_326.md)
+
+[Next: #AdvIT-Folien_326](AdvIT-Folien_326.md)

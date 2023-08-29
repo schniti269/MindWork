@@ -6,3 +6,7 @@ Implementierung als Schnittstellenoperation der Prozess verwaltung: siehe Prg. 1
 
    Tags & Topics:
    #⋄pundvsindatomar(Einsatz
+
+[Previous: #BS-Folien_23](BS-Folien_23.md)
+
+[Next: #BS-Folien_23](BS-Folien_23.md)

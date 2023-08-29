@@ -5,10 +5,14 @@ Vielfachheit jeweils für jede Ordnung einen Bruch mit einzelnen Koeffizienten.5
 (4) Die Partialbrüche werden durch Erweitern addiert und der Koeffiziententerm wird mit dem
 
    Tags & Topics:
-   #Anteil
    #Koeffiziententerm
-   #Anteile
+   #Anteil
    #Partialbrüche
-   #Partialbruch
-   #Partialbrüch
    #Partialbruch-Ansatz
+   #Anteile
+   #Partialbrüch
+   #Partialbruch
+
+[Previous: #Analysis-Lineare_Algebra-230308_438](Analysis-Lineare_Algebra-230308_438.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_438](Analysis-Lineare_Algebra-230308_438.md)

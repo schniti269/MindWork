@@ -5,10 +5,14 @@ Shortest-Remaining-Time-First (SRTF)
 ⇒Verdr¨angende Variante der SPTF-Strategie.
 
    Tags & Topics:
-   #Gesamtwartezeit
-   #Shortest
+   #SPTF-Strategie
+   #Job
+   #•Strategie
    #Burst
    #CPU-Burst
-   #Job
-   #SPTF-Strategie
-   #•Strategie
+   #Shortest
+   #Gesamtwartezeit
+
+[Previous: #BS-Folien_182](BS-Folien_182.md)
+
+[Next: #BS-Folien_182](BS-Folien_182.md)

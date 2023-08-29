@@ -5,13 +5,17 @@ Nichts davon.
 Aufgabe 2: 2-aus-3-Problem (Semaphorkonzept)Geg. seien 3 exkl. benutzbare Betriebsmittel Platte, Druck er, Bandger ¨at sowie 3 kritische Abschnitte csA,csBundcsC:
 
    Tags & Topics:
-   #Rechenkern
-   #Nichts
-   #Druck
-   #Semaphorkonzept
-   #Semaphorkonzept)Geg
-   #re-Prozessoren
-   #Rechenkerne
-   #hyperthreading
    #Level
+   #Semaphorkonzept)Geg
+   #Semaphorkonzept
+   #Druck
    #First-Level-Cache
+   #re-Prozessoren
+   #Nichts
+   #Rechenkern
+   #hyperthreading
+   #Rechenkerne
+
+[Previous: #BS-Uebungen_50](BS-Uebungen_50.md)
+
+[Next: #BS-Uebungen_50](BS-Uebungen_50.md)

@@ -5,7 +5,11 @@ UL Threads sind dem BS nicht bekannt
 Kernel-Level (KL) Threads
 
    Tags & Topics:
-   #Thread-Tabell
-   #Level
-   #Threadwechsel
    #User-Prozess
+   #Level
+   #Thread-Tabell
+   #Threadwechsel
+
+[Previous: #AdvIT-Folien_79](AdvIT-Folien_79.md)
+
+[Next: #AdvIT-Folien_79](AdvIT-Folien_79.md)

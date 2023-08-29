@@ -5,5 +5,9 @@ Z
 x2cosx dxu=x2u′=2x
 
    Tags & Topics:
-   #Monoms
    #Monom
+   #Monoms
+
+[Previous: #Analysis-Lineare_Algebra-230308_451](Analysis-Lineare_Algebra-230308_451.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_451](Analysis-Lineare_Algebra-230308_451.md)

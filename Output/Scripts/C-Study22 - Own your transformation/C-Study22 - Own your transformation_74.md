@@ -6,3 +6,7 @@ planning, manufacturing, and distributing the enterprise’s products
 
    Tags & Topics:
    
+
+[Previous: #C-Study22 - Own your transformation_75](C-Study22 - Own your transformation_75.md)
+
+[Next: #C-Study22 - Own your transformation_75](C-Study22 - Own your transformation_75.md)

@@ -5,5 +5,9 @@
 •Thin Client sind Rechner, die nur in Zusammenarbeit mit einem größeren Rechner, meist Server, richtig funktionieren.
 
    Tags & Topics:
-   #•Einplatinencomputer
    #Arbeitsplatzrechner
+   #•Einplatinencomputer
+
+[Previous: #Einführung-IT-Teil1_52](Einführung-IT-Teil1_52.md)
+
+[Next: #Einführung-IT-Teil1_52](Einführung-IT-Teil1_52.md)

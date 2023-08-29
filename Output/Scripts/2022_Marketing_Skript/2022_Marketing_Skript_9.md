@@ -5,9 +5,13 @@ Führungsorientierte Definition
 1.1. Begriffliche GrundlagenHistorische Entwicklung des Marketing 
 
    Tags & Topics:
-   #Entwicklung
-   #Betonung
-   #Unternehmen
    #Rahmenbedingungenfür
    #Definition
+   #Unternehmen
+   #Entwicklung
    #Unternehmens
+   #Betonung
+
+[Previous: #2022_Marketing_Skript_90](2022_Marketing_Skript_90.md)
+
+[Next: #2022_Marketing_Skript_90](2022_Marketing_Skript_90.md)

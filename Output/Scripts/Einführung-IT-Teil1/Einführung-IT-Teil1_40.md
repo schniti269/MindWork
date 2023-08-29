@@ -5,10 +5,14 @@
 •Gründung von Intel, 1968
 
    Tags & Topics:
+   #•Gründung
    #Betriebsmittel
    #Fernsehsendung
-   #Mondlandung
    #Betriebsmittels
-   #Rechnerarchitekturen
-   #•Gründung
+   #Mondlandung
    #Live
+   #Rechnerarchitekturen
+
+[Previous: #Einführung-IT-Teil1_41](Einführung-IT-Teil1_41.md)
+
+[Next: #Einführung-IT-Teil1_41](Einführung-IT-Teil1_41.md)

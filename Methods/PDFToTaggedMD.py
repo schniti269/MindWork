@@ -50,14 +50,14 @@ def add_backlinks(file_list):
     for idx, file in enumerate(file_list):
         if idx > 0:
             with open(file_list[idx - 1], "a", encoding="utf-8") as f:
-                f.write(f"\n\n[Previous: #{os.path.basename(file_list[idx])[:-3]}]({os.path.basename(file_list[idx])})")
+                f.write(f"\n\n[Next: #{os.path.basename(file_list[idx])[:-3] }]({os.path.basename(file_list[idx])})")
         if idx < len(file_list) - 1:
             with open(file, "a", encoding="utf-8") as f:
-                f.write(f"\n\n[Next: #{os.path.basename(file_list[idx + 1])[:-3]}]({os.path.basename(file_list[idx + 1])})")
+                f.write(f"\n\n[Previous: #{os.path.basename(file_list[idx + 1])[:-3] }]({os.path.basename(file_list[idx + 1])})")
 
 def backlink(output_folder):
     for root, _, files in os.walk(output_folder):
-        md_files = [os.path.join(root, file) for file in files if file.endswith(".md")]
+        md_files = sorted([os.path.join(root, file) for file in files if file.endswith(".md")])
         add_backlinks(md_files)
 
 def main(input_folder, output_folder):

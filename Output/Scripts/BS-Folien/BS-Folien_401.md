@@ -6,3 +6,7 @@
 
    Tags & Topics:
    #⋄Listenmethode
+
+[Previous: #BS-Folien_402](BS-Folien_402.md)
+
+[Next: #BS-Folien_402](BS-Folien_402.md)

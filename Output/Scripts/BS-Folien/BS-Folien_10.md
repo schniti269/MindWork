@@ -7,5 +7,9 @@ lage, 2019, ISBN 978-3486582116.
    Tags & Topics:
    #Systemprogrammi
    #BS–5Einleitung
-   #EduardGlatzl
    #⋄Dateischutz
+   #EduardGlatzl
+
+[Previous: #BS-Folien_100](BS-Folien_100.md)
+
+[Next: #BS-Folien_100](BS-Folien_100.md)

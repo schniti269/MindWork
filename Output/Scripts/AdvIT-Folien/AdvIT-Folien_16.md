@@ -5,8 +5,12 @@ Ein- Ausgabeumleitungen
 > Umleitung der Standardausgabe stdout (Kanal 1); auch >>
 
    Tags & Topics:
-   #Umleitung
    #Ausgabeumleitung
-   #Standardeingabe
+   #Umleitung
    #Zeichen
+   #Standardeingabe
    #Kanal
+
+[Previous: #AdvIT-Folien_160](AdvIT-Folien_160.md)
+
+[Next: #AdvIT-Folien_160](AdvIT-Folien_160.md)

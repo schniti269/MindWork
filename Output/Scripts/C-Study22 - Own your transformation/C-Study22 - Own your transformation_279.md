@@ -6,3 +6,7 @@ software-technology/article/22289170/apqc-adopt-planning-
 
    Tags & Topics:
    
+
+[Previous: #C-Study22 - Own your transformation_28](C-Study22 - Own your transformation_28.md)
+
+[Next: #C-Study22 - Own your transformation_28](C-Study22 - Own your transformation_28.md)

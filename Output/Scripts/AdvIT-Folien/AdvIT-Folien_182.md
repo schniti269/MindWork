@@ -6,5 +6,9 @@ Java-Beispiel f ¨ur gegenseitigen Ausschluss
 
    Tags & Topics:
    #Semaphor-Konzept
-   #InterruptedException
    #Konzept
+   #InterruptedException
+
+[Previous: #AdvIT-Folien_183](AdvIT-Folien_183.md)
+
+[Next: #AdvIT-Folien_183](AdvIT-Folien_183.md)

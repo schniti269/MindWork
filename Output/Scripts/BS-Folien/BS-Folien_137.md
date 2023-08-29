@@ -5,8 +5,12 @@ public boolean value = false;
 } // GlobalVariablepublic class SyncStatement {
 
    Tags & Topics:
-   #Mikroprozessor
-   #Referenz
    #-befehlpublic
-   #Bef
+   #Mikroprozessor
    #-Befehlpublic
+   #Bef
+   #Referenz
+
+[Previous: #BS-Folien_138](BS-Folien_138.md)
+
+[Next: #BS-Folien_138](BS-Folien_138.md)

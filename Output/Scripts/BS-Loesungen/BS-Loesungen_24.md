@@ -6,5 +6,9 @@ reihenfolge im Hauptspeicher
 
    Tags & Topics:
    #First-In-First-Out
-   #Seitentauschstrategie
    #Seitentauschstrategien
+   #Seitentauschstrategie
+
+[Previous: #BS-Loesungen_25](BS-Loesungen_25.md)
+
+[Next: #BS-Loesungen_25](BS-Loesungen_25.md)

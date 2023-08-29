@@ -5,8 +5,12 @@ Initialisierung der Prozessumgebung mit den Werten aus context .
 Der laufende Prozess gibt den Prozessor ab, da die Programma usf¨uhrung beendet ist.
 
    Tags & Topics:
-   #¨Uberf¨uhrung
-   #Prozessumgebung
    #Initialisierung
+   #¨Uberf¨uhrung
    #Programma
    #•Terminieren
+   #Prozessumgebung
+
+[Previous: #BS-Folien_97](BS-Folien_97.md)
+
+[Next: #BS-Folien_97](BS-Folien_97.md)

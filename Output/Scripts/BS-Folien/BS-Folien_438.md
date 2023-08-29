@@ -6,3 +6,7 @@ Master Boot Record (MBR)
 
    Tags & Topics:
    
+
+[Previous: #BS-Folien_439](BS-Folien_439.md)
+
+[Next: #BS-Folien_439](BS-Folien_439.md)

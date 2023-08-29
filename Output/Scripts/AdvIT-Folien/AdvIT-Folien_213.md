@@ -7,3 +7,7 @@ int anz = -1;
    Tags & Topics:
    #L¨osung
    #Betriebsmittelverwaltung
+
+[Previous: #AdvIT-Folien_214](AdvIT-Folien_214.md)
+
+[Next: #AdvIT-Folien_214](AdvIT-Folien_214.md)

@@ -5,9 +5,13 @@ Betriebssysteme DHBW Mannheim ©Henning Pagnia Version 4.23 Fr¨uhjahr 2023 BS�
 •L¨osungskonzepte:
 
    Tags & Topics:
-   #•L¨osungskonzept
-   #Wiederherstellung
-   #•L¨osungskonzepte
-   #bs–178dateisysteme
    #BS–178Dateisystem
+   #Wiederherstellung
+   #•L¨osungskonzept
+   #•L¨osungskonzepte
    #Skalierbarkeit
+   #bs–178dateisysteme
+
+[Previous: #BS-Folien_444](BS-Folien_444.md)
+
+[Next: #BS-Folien_444](BS-Folien_444.md)

@@ -1,32 +1,48 @@
-# ## #Unterschiede #und #Gemeinsamkeiten zu #AWT 
+### Unterschiede und Gemeinsamkeiten zu AWT
 
- - Awt 
+- Awt
 
-	 - #Heavyweight 
+	- Heavyweight
 
-		 - #schnell 
+		- schnell
 
-	 - #Fenster aus betriebssystem nehmen 
-	 - #Peer klassen #werden gesteuert 
-	 - #Klasse #selbst ist betriebssystem #spezifisch 
-	 - Rendering AUS #BETRIEBSSYSTEM 
+	- Fenster aus betriebssystem nehmen
+	- Peer klassen werden gesteuert
+	- Klasse selbst ist betriebssystem spezifisch
+	- Rendering AUS BETRIEBSSYSTEM
 
- - #SWING 
+- SWING
 
-	 - #lightweight 
+	- lightweight
 
-		 - #langsam 
+		- langsam
 
-	 - eigene #Komponenten 
-	 - #mehr #plattformunabh채ngigkeit 
-	 - #alle klassen #fangen mit #J an 
-	 - Rendering AUS JAVA #SELBST 
+	- eigene Komponenten
+	- mehr plattformunabh채ngigkeit
+	- alle klassen fangen mit J an
+	- Rendering AUS JAVA SELBST
 
- - #Swing und #AWT 
+- Swing und AWT
 
-	 - #Main #Takeaway : 
- #Swing erbt aus #AWT 
- + eigene #implementierung 
+	- Main Takeaway:
+Swing erbt aus AWT
++ eigene implementierung
 
- #abstraktion #체ber #component 
- - #> #schachtelung 
+abstraktion 체ber component 
+-> schachtelung
+
+   Tags & Topics:
+   #swing
+   #Gemeinsamkeit
+   #Awt
+   #Komponenten
+   #Unterschied
+   #Komponente
+   #plattformunabh채ngigkeit
+   #unterschiede
+   #Rendering
+   #Swing
+   #plattformunabh蝨ngigkeit
+   #SWING
+   #Gemeinsamkeiten
+   #Fenster

@@ -6,3 +6,7 @@ ausgef¨uhrt
 
    Tags & Topics:
    #Monitordat
+
+[Previous: #AdvIT-Folien_28](AdvIT-Folien_28.md)
+
+[Next: #AdvIT-Folien_28](AdvIT-Folien_28.md)

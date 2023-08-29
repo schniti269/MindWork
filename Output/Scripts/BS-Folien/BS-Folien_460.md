@@ -5,10 +5,14 @@ Vornehmen einer Rechte ¨ubertragung
 ⋄Beispiel:shutdown mit SUID root
 
    Tags & Topics:
-   #Besonderheit
-   #Vornehmen
    #Recht
-   #Dauer
-   #Programmdatei
+   #Vornehmen
    #Besitzers
    #Besitzer
+   #Besonderheit
+   #Programmdatei
+   #Dauer
+
+[Previous: #BS-Folien_461](BS-Folien_461.md)
+
+[Next: #BS-Folien_461](BS-Folien_461.md)

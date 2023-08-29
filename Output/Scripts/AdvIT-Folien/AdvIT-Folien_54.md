@@ -6,5 +6,9 @@ Kernel
 
    Tags & Topics:
    #Textverarbeitung
-   #Funktionszustand
    #Nebenl¨auﬁgkeit
+   #Funktionszustand
+
+[Previous: #AdvIT-Folien_55](AdvIT-Folien_55.md)
+
+[Next: #AdvIT-Folien_55](AdvIT-Folien_55.md)

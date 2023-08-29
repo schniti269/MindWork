@@ -6,3 +6,7 @@ Q. What do you expect will be the greatest challenges for your organization over
 
    Tags & Topics:
    
+
+[Previous: #C-Study22 - Own your transformation_43](C-Study22 - Own your transformation_43.md)
+
+[Next: #C-Study22 - Own your transformation_43](C-Study22 - Own your transformation_43.md)

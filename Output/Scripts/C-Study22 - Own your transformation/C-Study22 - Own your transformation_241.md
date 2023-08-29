@@ -5,5 +5,9 @@ innovations.
 practices of tomorrow. 
 
    Tags & Topics:
-   #redefine
    #Redefine
+   #redefine
+
+[Previous: #C-Study22 - Own your transformation_242](C-Study22 - Own your transformation_242.md)
+
+[Next: #C-Study22 - Own your transformation_242](C-Study22 - Own your transformation_242.md)

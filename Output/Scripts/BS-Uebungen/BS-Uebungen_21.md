@@ -5,6 +5,10 @@
 20−
 
    Tags & Topics:
+   #A15
    #A37
    #First-Fit-Strategie
-   #A15
+
+[Previous: #BS-Uebungen_22](BS-Uebungen_22.md)
+
+[Next: #BS-Uebungen_22](BS-Uebungen_22.md)

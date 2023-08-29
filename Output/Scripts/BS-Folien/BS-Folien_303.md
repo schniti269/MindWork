@@ -5,8 +5,12 @@ Betriebssysteme DHBW Mannheim ©Henning Pagnia Version 4.23 Fr¨uhjahr 2023 BS�
 Abb. 18 Struktur eines SeitentabelleneintragesKP-Bit Ref-Bit C-Bit R-Bit W-Bit E-Bit Hintergrundadresse
 
    Tags & Topics:
-   #Paging
-   #Ref
-   #•Aufbau
    #Hintergrundadres
+   #Ref
+   #Paging
    #Seitentabelleneintrag
+   #•Aufbau
+
+[Previous: #BS-Folien_304](BS-Folien_304.md)
+
+[Next: #BS-Folien_304](BS-Folien_304.md)

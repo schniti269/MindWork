@@ -8,3 +8,7 @@ Stack
    #Running
    #Program-Counter
    #Ready
+
+[Previous: #AdvIT-Folien_54](AdvIT-Folien_54.md)
+
+[Next: #AdvIT-Folien_54](AdvIT-Folien_54.md)

@@ -5,14 +5,18 @@ Erzeuger-Verbraucher-Problem (Forts.)
 L¨osung des einfachen Erzeuger-Verbraucher-Problems (Fort s.)
 
    Tags & Topics:
-   #Erzeuger-Verbraucher-Problem
-   #Programm
    #Problem
-   #L¨osung
-   #Frage
-   #Erzeuger
    #Verbraucher
-   #Problems
-   #frage
-   #Java-Programm
    #Fort
+   #frage
+   #Programm
+   #Erzeuger
+   #Frage
+   #Problems
+   #L¨osung
+   #Java-Programm
+   #Erzeuger-Verbraucher-Problem
+
+[Previous: #AdvIT-Folien_19](AdvIT-Folien_19.md)
+
+[Next: #AdvIT-Folien_19](AdvIT-Folien_19.md)

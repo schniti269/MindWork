@@ -5,9 +5,13 @@ Tipp:Richten Sie f ¨ur die Philosophen und den Monitor jeweils eine eigene Klas
 Achten Sie insbesondere darauf, dass alle Philosophen dens elben Monitor verwenden!
 
    Tags & Topics:
-   #Bearbeitungszeit
    #Java
+   #Klasse
    #Monitor
    #Monitorkonz
-   #Klasse
    #philosophenproblem
+   #Bearbeitungszeit
+
+[Previous: #AdvIT-Aufgaben_23](AdvIT-Aufgaben_23.md)
+
+[Next: #AdvIT-Aufgaben_23](AdvIT-Aufgaben_23.md)

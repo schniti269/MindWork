@@ -5,5 +5,9 @@ Prof. Dr. Henning Pagnia (DHBW Mannheim) Advanced IT Herbst 2023 118/132Server-P
 Beispiel: TCP Client
 
    Tags & Topics:
-   #Strom
    #118/132Server
+   #Strom
+
+[Previous: #AdvIT-Folien_365](AdvIT-Folien_365.md)
+
+[Next: #AdvIT-Folien_365](AdvIT-Folien_365.md)

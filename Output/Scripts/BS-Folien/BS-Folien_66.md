@@ -5,10 +5,14 @@ spezielles Signal , meist von E/A-Ger ¨aten an den Prozessor
 Betriebssysteme DHBW Mannheim ©Henning Pagnia Version 4.23 Fr¨uhjahr 2023 BS–29Einleitung Hardware-Grundlagen
 
    Tags & Topics:
-   #Festplatte
-   #Signal
    #Netzwerkkart
+   #Festplatte
    #BS–29Einleitung
-   #Netzwerkkarte
-   #Hardware
    #Festplatt
+   #Hardware
+   #Netzwerkkarte
+   #Signal
+
+[Previous: #BS-Folien_67](BS-Folien_67.md)
+
+[Next: #BS-Folien_67](BS-Folien_67.md)

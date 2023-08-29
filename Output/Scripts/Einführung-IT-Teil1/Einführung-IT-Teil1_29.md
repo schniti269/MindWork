@@ -5,12 +5,16 @@ elektronische Schaltung, immer höhere Packungsdichte, auch Very Large Scale Int
 •Intel 80186, 1982, 55.000 Transistoren
 
    Tags & Topics:
-   #Millimeter
-   #Plättch
-   #Packungsdichte
    #Mikrometer
-   #Schaltung
    #•Intel
    #Plättchen
+   #Schaltung
    #10−6
+   #Packungsdichte
+   #Millimeter
+   #Plättch
    #Packungsdicht
+
+[Previous: #Einführung-IT-Teil1_3](Einführung-IT-Teil1_3.md)
+
+[Next: #Einführung-IT-Teil1_3](Einführung-IT-Teil1_3.md)

@@ -6,5 +6,9 @@ Intelligent workflows for
 
    Tags & Topics:
    #Automation
-   #Intelligent
    #automation
+   #Intelligent
+
+[Previous: #C-Study22 - Own your transformation_94](C-Study22 - Own your transformation_94.md)
+
+[Next: #C-Study22 - Own your transformation_94](C-Study22 - Own your transformation_94.md)

@@ -7,3 +7,7 @@ Run #m+1 Run n
    Tags & Topics:
    #BS–192Dateisystem
    #bs–192dateisysteme
+
+[Previous: #BS-Folien_48](BS-Folien_48.md)
+
+[Next: #BS-Folien_48](BS-Folien_48.md)

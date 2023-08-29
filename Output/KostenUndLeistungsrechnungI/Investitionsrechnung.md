@@ -1,6 +1,8 @@
-# ## Investitionsrechnung 
+### Investitionsrechnung
 
- - #Dynamisch #
- - #Statisch #
+- Dynamisch
+- Statisch
 
- #
+   Tags & Topics:
+   #Investitionsrechnung
+   #Statisch

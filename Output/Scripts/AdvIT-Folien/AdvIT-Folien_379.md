@@ -7,3 +7,7 @@ Prof. Dr. Henning Pagnia (DHBW Mannheim) Advanced IT Herbst 2023 124/132Server-P
    Tags & Topics:
    #124/132Server
    #DatagramPacket
+
+[Previous: #AdvIT-Folien_38](AdvIT-Folien_38.md)
+
+[Next: #AdvIT-Folien_38](AdvIT-Folien_38.md)

@@ -5,5 +5,9 @@ Deadlocks (Forts.)
 Vermeidung von Deadlocks – Prozessfortschrittsdiagramm
 
    Tags & Topics:
-   #Speicherplatz
    #Vermeidung
+   #Speicherplatz
+
+[Previous: #AdvIT-Folien_127](AdvIT-Folien_127.md)
+
+[Next: #AdvIT-Folien_127](AdvIT-Folien_127.md)

@@ -5,36 +5,40 @@ Integrative MarketingdefinitionMarketing hat eine unternehmensexterne und eine u
 Aufbau, Erhalt und Stärkung vonKundenbeziehungen→ Hervorhebung von   Kundenbeziehungen
 
    Tags & Topics:
-   #Voraussetzung
-   #Marketing
-   #Durchführung
-   #Definition
-   #Unternehmen
-   #Ansatzpunkt
-   #Marketingmix.§Unternehmensinterne
-   #Unternehmens
-   #Konzeption
-   #Hervorhebung
-   #Facette.§Unternehmensexterne
-   #integrativ
-   #Voraussetzungen
-   #Bündel
-   #Produkt
-   #Marktorientierung
-   #Informationsgewinnung
-   #Führung
-   #Marketingmix
-   #Marketingmix.§Unternehmensintern
    #Erhalt
-   #Unternehmensziele
-   #Anbieter
-   #Stärkung
+   #Durchführung
+   #Marketingmix
+   #Ansatzpunkte
+   #Ansatzpunkt
+   #Führung
+   #Produkt
+   #Produkte
+   #Marketing
+   #Informationsgewinnung
+   #Voraussetzung
+   #Marktorientierung
+   #Aufbau
+   #Marketingmix.§Unternehmensinterne
+   #Definition
    #Marketings
+   #Voraussetzungen
+   #Facette.§Unternehmensexterne
+   #Konzeption
    #Facette
    #Betonung
+   #Bündel
    #Integrative
+   #Unternehmensziele
+   #Stärkung
+   #Unternehmen
    #Gestaltung
-   #Aufbau
-   #Ansatzpunkte
-   #Produkte
+   #Marketingmix.§Unternehmensintern
+   #Hervorhebung
+   #integrativ
    #Schaffung
+   #Anbieter
+   #Unternehmens
+
+[Previous: #2022_Marketing_Skript_80](2022_Marketing_Skript_80.md)
+
+[Next: #2022_Marketing_Skript_80](2022_Marketing_Skript_80.md)

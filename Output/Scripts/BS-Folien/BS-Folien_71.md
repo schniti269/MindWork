@@ -5,10 +5,14 @@ sofort weitere Unterbrechungen sperren ( ⇒WIESO?)
 Maschinenzustand retten:
 
    Tags & Topics:
-   #Maschinenzustand
    #Umschalten
    #Modus
-   #SYSTEM
-   #umschalten
    #⇒Unterbrechungsbehandlungsroutinen
+   #SYSTEM
+   #Maschinenzustand
+   #umschalten
    #Unterbrechung
+
+[Previous: #BS-Folien_72](BS-Folien_72.md)
+
+[Next: #BS-Folien_72](BS-Folien_72.md)

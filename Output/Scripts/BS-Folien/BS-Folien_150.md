@@ -5,9 +5,13 @@ vermeiden.
 Ein Prozess hat eine Schnittstellenoperation der Prozessv erwaltung aufgerufen.
 
    Tags & Topics:
+   #Prozessv
+   #Gef
+   #Schnittstellenoperation
    #Endlosschleifenproblematik
    #Endlosschleife
    #•Verwendung
-   #Gef
-   #Prozessv
-   #Schnittstellenoperation
+
+[Previous: #BS-Folien_151](BS-Folien_151.md)
+
+[Next: #BS-Folien_151](BS-Folien_151.md)

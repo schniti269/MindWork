@@ -6,3 +6,7 @@ business objective of their sustainability initiatives. Innovators and sustainab
 
    Tags & Topics:
    
+
+[Previous: #C-Study22 - Own your transformation_195](C-Study22 - Own your transformation_195.md)
+
+[Next: #C-Study22 - Own your transformation_195](C-Study22 - Own your transformation_195.md)

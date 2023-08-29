@@ -6,3 +6,7 @@ sollen.
 
    Tags & Topics:
    #-Konzept
+
+[Previous: #BS-Folien_233](BS-Folien_233.md)
+
+[Next: #BS-Folien_233](BS-Folien_233.md)

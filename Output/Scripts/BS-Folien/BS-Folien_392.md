@@ -6,5 +6,9 @@ Abbildung der physikalischen Blocknummern auf physikalis che Blockadressen.
 
    Tags & Topics:
    #Blocknummern
-   #Blocknummer
    #Dateibezeichner
+   #Blocknummer
+
+[Previous: #BS-Folien_393](BS-Folien_393.md)
+
+[Next: #BS-Folien_393](BS-Folien_393.md)

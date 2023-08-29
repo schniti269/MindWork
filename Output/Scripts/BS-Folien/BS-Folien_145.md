@@ -5,6 +5,10 @@ m¨oglich.
 •Nachteile:
 
    Tags & Topics:
-   #⋄Beachte
    #Diﬀerenzierung
    #Variablenka
+   #⋄Beachte
+
+[Previous: #BS-Folien_146](BS-Folien_146.md)
+
+[Next: #BS-Folien_146](BS-Folien_146.md)

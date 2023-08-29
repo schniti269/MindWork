@@ -6,3 +6,7 @@ mindset, challenges create opportunities within the enterprise—and visibility.
 
    Tags & Topics:
    
+
+[Previous: #C-Study22 - Own your transformation_150](C-Study22 - Own your transformation_150.md)
+
+[Next: #C-Study22 - Own your transformation_150](C-Study22 - Own your transformation_150.md)

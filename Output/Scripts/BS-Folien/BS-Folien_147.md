@@ -7,5 +7,9 @@ Realisierung des gegenseitigen Ausschlusses f ¨ur Einprozessorsysteme
    Tags & Topics:
    #Ausschluß
    #Ausschlusses
-   #Locks
    #Einprozessorsysteme
+   #Locks
+
+[Previous: #BS-Folien_148](BS-Folien_148.md)
+
+[Next: #BS-Folien_148](BS-Folien_148.md)

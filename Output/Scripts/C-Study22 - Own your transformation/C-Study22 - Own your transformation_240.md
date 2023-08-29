@@ -6,3 +6,7 @@ can achieve in light of new science- and data-led
 
    Tags & Topics:
    #Invest
+
+[Previous: #C-Study22 - Own your transformation_241](C-Study22 - Own your transformation_241.md)
+
+[Next: #C-Study22 - Own your transformation_241](C-Study22 - Own your transformation_241.md)

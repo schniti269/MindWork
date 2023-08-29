@@ -1,47 +1,56 @@
-# ## Relevante #Interfaces 
+### Relevante Interfaces
 
- - #Comparable #Interface 
+- Comparable Interface
 
-	 - #Methode 
+	- Methode
 
-		 - #CompareTo ( ) ; 
-		 - #vergleich 
+		- CompareTo();
+		- vergleich
 
-			 - #< 0 
+			- <0
 
-				 - vor 
+				- vor
 
-			 - = 0 
+			- =0
 
-				 - #Gleich 
+				- Gleich
 
-			 - > 0 
+			- >0
 
-				 - hinter 
+				- hinter
 
-	 - #Sinn 
+	- Sinn
 
-		 - #Vergleichsoperation #muss implementiert 
- sein um #eine #reihenfolge #möglich #zu machen 
-		 - #Ordnungsrelation #möglich machen 
-		 - #Vergleichsoperation #wird #auch zur #überprüfung auf #Dopplung genutzt 
+		- Vergleichsoperation muss implementiert 
+sein um eine reihenfolge möglich zu machen
+		- Ordnungsrelation möglich machen
+		- Vergleichsoperation wird auch zur überprüfung auf Dopplung genutzt
 
-	 - #Sonst 
+	- Sonst 
 
-		 - #Class #cast #exception 
+		- Class cast exception
 
-	 - #Equals , #compareTo , #hashCode sollten sich konsistent verhalten 
+	- Equals , compareTo, hashCode sollten sich konsistent verhalten
 
- - eignene #Comparator #Klasse 
+- eignene Comparator Klasse
 
-	 - #implements #Comparator #< #Typ > 
-	 - #methode 
+	- implements Comparator<Typ>
+	- methode
 
-		 - Compare 
-		 - eigene #Logik #für eigenes #Sortieren 
-		 - Auch als #Lambda #funktion 
+		- Compare
+		- eigene Logik für eigenes Sortieren
+		- Auch als Lambda funktion
 
-	 - #Einsatz 
+	- Einsatz
 
-		 - set #< > #x #= new Treeset<>(new #* eigene #sort #klasse ( ) ) ; 
-		 - ( geht auch mit Listen etc ) 
+		- set<> x = new Treeset<>(new *eigene sort klasse());
+		- (geht auch mit Listen etc)
+
+   Tags & Topics:
+   #Vergleichsoperation
+   #Ordnungsrelation
+   #interface
+   #Logik
+   #Interfaces
+   #CompareTo
+   #Comparator

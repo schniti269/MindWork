@@ -6,3 +6,7 @@ aside—navigating market shifts, consumer demographics, regulatory issues, and
 
    Tags & Topics:
    
+
+[Previous: #C-Study22 - Own your transformation_46](C-Study22 - Own your transformation_46.md)
+
+[Next: #C-Study22 - Own your transformation_46](C-Study22 - Own your transformation_46.md)

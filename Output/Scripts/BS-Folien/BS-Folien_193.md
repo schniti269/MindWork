@@ -6,3 +6,7 @@ Dynamische Priorit ¨aten:
 
    Tags & Topics:
    #A-Nutzung
+
+[Previous: #BS-Folien_194](BS-Folien_194.md)
+
+[Next: #BS-Folien_194](BS-Folien_194.md)

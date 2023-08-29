@@ -5,9 +5,13 @@ Betriebssysteme DHBW Mannheim ©Henning Pagnia Version 4.23 Fr¨uhjahr 2023 BS�
 Speicherverwaltung
 
    Tags & Topics:
-   #Dienst
-   #Arbeitseinheit
    #⇒Abstraktion
    #Dienste
    #Prozessor
    #Auslastung
+   #Dienst
+   #Arbeitseinheit
+
+[Previous: #BS-Folien_210](BS-Folien_210.md)
+
+[Next: #BS-Folien_210](BS-Folien_210.md)

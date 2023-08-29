@@ -6,3 +6,7 @@
 
    Tags & Topics:
    #70−
+
+[Previous: #BS-Uebungen_23](BS-Uebungen_23.md)
+
+[Next: #BS-Uebungen_23](BS-Uebungen_23.md)

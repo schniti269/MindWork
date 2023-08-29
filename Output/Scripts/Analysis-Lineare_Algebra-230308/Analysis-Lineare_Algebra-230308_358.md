@@ -5,8 +5,12 @@ Diese Abschätzungen bei der Approximation durch Taylorpolynome auf [0,2]sind in
 dargestellt. Die Abschätzung der Abweichung ist jeweils am Entwicklungspunkt erwartungsgemäß 0und3.4. FUNKTIONEN IN MEHREREN VARIABLEN 47
 
    Tags & Topics:
-   #|rn(x,1)|=|(x−1)n+1
-   #Abschätzung
    #Abschätzungen
-   #Abweichung
    #FUNKTIONEN
+   #|rn(x,1)|=|(x−1)n+1
+   #Abweichung
+   #Abschätzung
+
+[Previous: #Analysis-Lineare_Algebra-230308_359](Analysis-Lineare_Algebra-230308_359.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_359](Analysis-Lineare_Algebra-230308_359.md)

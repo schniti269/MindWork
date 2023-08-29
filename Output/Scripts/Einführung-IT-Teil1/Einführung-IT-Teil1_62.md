@@ -6,13 +6,17 @@
 
    Tags & Topics:
    #Sektorkennzeichnung
-   #anfangsepoch
-   #Suchzeit
-   #Mikroprogramm
+   #Wechselplatten
    #Schlüssel
-   #Winchester
    #-Format
+   #anfangsepoch
+   #Mikroprogramm
+   #Winchester
+   #Epoche
+   #Suchzeit
    #Anfangsepoche
    #Wechselplatt
-   #Epoche
-   #Wechselplatten
+
+[Previous: #Einführung-IT-Teil1_63](Einführung-IT-Teil1_63.md)
+
+[Next: #Einführung-IT-Teil1_63](Einführung-IT-Teil1_63.md)

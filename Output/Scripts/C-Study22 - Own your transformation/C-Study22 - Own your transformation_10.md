@@ -6,3 +6,7 @@ functional and cross-industry executives tackle
 
    Tags & Topics:
    
+
+[Previous: #C-Study22 - Own your transformation_100](C-Study22 - Own your transformation_100.md)
+
+[Next: #C-Study22 - Own your transformation_100](C-Study22 - Own your transformation_100.md)

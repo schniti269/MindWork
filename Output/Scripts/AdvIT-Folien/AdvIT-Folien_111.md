@@ -6,10 +6,14 @@ Beispiele f ¨ur Wartegraphen
 
    Tags & Topics:
    #Wartegraphen
+   #Belegungen
+   #Belegung
    #Kant
    #c)t
-   #Kanten
-   #Belegungen
    #Wartesituationen
-   #Belegung
+   #Kanten
    #Wartesituatione
+
+[Previous: #AdvIT-Folien_112](AdvIT-Folien_112.md)
+
+[Next: #AdvIT-Folien_112](AdvIT-Folien_112.md)

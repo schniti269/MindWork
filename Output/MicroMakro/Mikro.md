@@ -1,4 +1,9 @@
-# ## #Mikro 
+### Mikro
 
- - #Einzelne #Sektoren 
- - z.b #. #erneuerbare #energie #
+- Einzelne Sektoren
+- z.b. erneuerbare energie
+
+   Tags & Topics:
+   #Sektoren
+   #Mikro
+   #Sektor

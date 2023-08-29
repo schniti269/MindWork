@@ -5,5 +5,9 @@ g(x1, x2) =sin(x2)·x1
 Aufgabe 61. Bestimmen Sie Nullstellen des Gradienten von
 
    Tags & Topics:
-   #Gradienten
    #Gradiente
+   #Gradienten
+
+[Previous: #Analysis-Lineare_Algebra-230308_387](Analysis-Lineare_Algebra-230308_387.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_387](Analysis-Lineare_Algebra-230308_387.md)

@@ -5,6 +5,10 @@ DaioTransfer von mehreren Prozessen nebenl ¨auﬁg aufgerufen werden kann, muss
 zus¨atzlich eine Auftragswarteschlange angelegt werden.
 
    Tags & Topics:
-   #DaioTransfer
    #A-Auftr
+   #DaioTransfer
    #-Warteschlange
+
+[Previous: #BS-Folien_22](BS-Folien_22.md)
+
+[Next: #BS-Folien_22](BS-Folien_22.md)

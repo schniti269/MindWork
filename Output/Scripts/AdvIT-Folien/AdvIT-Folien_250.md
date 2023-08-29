@@ -5,7 +5,11 @@ Leser-Schreiber-Problem (Forts.)
 Schreiberpriorit ¨at – Erl¨auterung des Codes (Forts.)
 
    Tags & Topics:
+   #L1l¨auft
    #L2frei
    #g)L1l¨auft
-   #L1l¨auft
    #Erl¨auterung
+
+[Previous: #AdvIT-Folien_251](AdvIT-Folien_251.md)
+
+[Next: #AdvIT-Folien_251](AdvIT-Folien_251.md)

@@ -5,6 +5,10 @@ dev etc lib usr home
 bin bin lp0tty
 
    Tags & Topics:
-   #BS–180Dateisystem
-   #bs–180dateisysteme
    #Dateibaumsymbolic
+   #bs–180dateisysteme
+   #BS–180Dateisystem
+
+[Previous: #BS-Folien_449](BS-Folien_449.md)
+
+[Next: #BS-Folien_449](BS-Folien_449.md)

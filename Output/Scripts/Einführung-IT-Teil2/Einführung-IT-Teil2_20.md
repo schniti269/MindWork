@@ -6,3 +6,7 @@ Dez Bin Hex Dez Bin Hex
 
    Tags & Topics:
    #-teNachkommastelle
+
+[Previous: #Einführung-IT-Teil2_21](Einführung-IT-Teil2_21.md)
+
+[Next: #Einführung-IT-Teil2_21](Einführung-IT-Teil2_21.md)

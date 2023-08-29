@@ -6,3 +6,7 @@ I come back to digital transformation. For me, it’s
 
    Tags & Topics:
    
+
+[Previous: #C-Study22 - Own your transformation_87](C-Study22 - Own your transformation_87.md)
+
+[Next: #C-Study22 - Own your transformation_87](C-Study22 - Own your transformation_87.md)

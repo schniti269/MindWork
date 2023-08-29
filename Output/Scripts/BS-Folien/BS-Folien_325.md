@@ -5,9 +5,13 @@ Verwaltung des Hintergrundspeichers
 •Swap Space
 
    Tags & Topics:
-   #Hash-Tabelle
    #Eﬃzienz
-   #Seitennr
    #Hash
    #BS–130Speicherverwaltung
    #⋄Nachteil
+   #Hash-Tabelle
+   #Seitennr
+
+[Previous: #BS-Folien_326](BS-Folien_326.md)
+
+[Next: #BS-Folien_326](BS-Folien_326.md)

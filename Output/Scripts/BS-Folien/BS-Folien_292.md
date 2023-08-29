@@ -5,6 +5,10 @@ Inhalte
 ⇐⇒
 
    Tags & Topics:
+   #Inhalte
    #Austausch
    #Inhalt
-   #Inhalte
+
+[Previous: #BS-Folien_293](BS-Folien_293.md)
+
+[Next: #BS-Folien_293](BS-Folien_293.md)

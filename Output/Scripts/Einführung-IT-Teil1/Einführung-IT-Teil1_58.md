@@ -8,3 +8,7 @@ Realität meistens deutlich weniger).
    #Haltbarkeit
    #-Formate
    #Folie
+
+[Previous: #Einführung-IT-Teil1_59](Einführung-IT-Teil1_59.md)
+
+[Next: #Einführung-IT-Teil1_59](Einführung-IT-Teil1_59.md)

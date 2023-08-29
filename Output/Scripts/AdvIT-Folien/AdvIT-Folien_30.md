@@ -5,8 +5,12 @@ Tutorium: https://tty1.net/sed-tutorium/index.html
 awk∗interpretierte Skriptsprache mit C- ¨ahnlicher Syntax
 
    Tags & Topics:
-   #Advanced/
-   #Tutorium
-   #Skriptsprache
-   #Skriptsprach
    #Verzeichnisse
+   #Skriptsprache
+   #Tutorium
+   #Skriptsprach
+   #Advanced/
+
+[Previous: #AdvIT-Folien_300](AdvIT-Folien_300.md)
+
+[Next: #AdvIT-Folien_300](AdvIT-Folien_300.md)

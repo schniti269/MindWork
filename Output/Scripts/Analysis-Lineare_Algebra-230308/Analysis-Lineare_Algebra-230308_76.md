@@ -6,5 +6,9 @@ sichhdem Wert −2an, also kann man die Vorschrift entsprechend ergänzen:
 
    Tags & Topics:
    #→rsein
-   #Quadratfunktion
    #→Rsein
+   #Quadratfunktion
+
+[Previous: #Analysis-Lineare_Algebra-230308_760](Analysis-Lineare_Algebra-230308_760.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_760](Analysis-Lineare_Algebra-230308_760.md)

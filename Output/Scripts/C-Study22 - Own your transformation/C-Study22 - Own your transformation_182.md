@@ -6,3 +6,7 @@ AI and cognitive insights will be an ongoing essential component of successful
 
    Tags & Topics:
    #modeling
+
+[Previous: #C-Study22 - Own your transformation_183](C-Study22 - Own your transformation_183.md)
+
+[Next: #C-Study22 - Own your transformation_183](C-Study22 - Own your transformation_183.md)

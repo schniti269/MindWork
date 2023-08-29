@@ -6,6 +6,10 @@ Unterbrechungen sind erzwungene Unterprogrammaufrufe.
 
    Tags & Topics:
    #InterruptsBitte
-   #Antwort
    #Rechnerarchitektur
    #Unterprogrammaufrufe
+   #Antwort
+
+[Previous: #BS-Uebungen_10](BS-Uebungen_10.md)
+
+[Next: #BS-Uebungen_10](BS-Uebungen_10.md)

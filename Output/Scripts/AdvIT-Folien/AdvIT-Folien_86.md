@@ -6,8 +6,12 @@ vonWorker-Threads .
 
    Tags & Topics:
    #vonWorker
-   #DerDispatcher
    #Worker-Thread-Pool
-   #vonWorker-Threads
    #Poolmit
    #Pool
+   #DerDispatcher
+   #vonWorker-Threads
+
+[Previous: #AdvIT-Folien_87](AdvIT-Folien_87.md)
+
+[Next: #AdvIT-Folien_87](AdvIT-Folien_87.md)

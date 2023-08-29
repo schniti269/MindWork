@@ -1,4 +1,9 @@
-# ## #Aggregation 
+### Aggregation
 
- - #Zusammenfassung 
- - #idr #numerisch #
+- Zusammenfassung
+- idr numerisch
+
+   Tags & Topics:
+   #Aggregation
+   #Zusammenfassung
+   #aggregation

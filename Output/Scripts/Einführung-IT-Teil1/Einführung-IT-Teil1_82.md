@@ -5,9 +5,13 @@ https://amturing.acm.org/byyear.cfm.Informatik Fachzeitschriften/1
 •ACM, the world's largest educational and scientific computing society, delivers 
 
    Tags & Topics:
-   #Field
-   #Preisträger
    #-Medaille
    #Fields
    #•Liste
    #Nobelpreis
+   #Field
+   #Preisträger
+
+[Previous: #Einführung-IT-Teil1_83](Einführung-IT-Teil1_83.md)
+
+[Next: #Einführung-IT-Teil1_83](Einführung-IT-Teil1_83.md)

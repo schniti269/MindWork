@@ -6,5 +6,9 @@ Ausschluss durchlaufen
 
    Tags & Topics:
    #Objekt
-   #-Methode
    #Objekts
+   #-Methode
+
+[Previous: #AdvIT-Folien_306](AdvIT-Folien_306.md)
+
+[Next: #AdvIT-Folien_306](AdvIT-Folien_306.md)

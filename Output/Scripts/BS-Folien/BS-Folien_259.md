@@ -5,5 +5,9 @@ hohe Adressefreifreifrei
 belegtbelegtbelegtbelegt
 
    Tags & Topics:
-   #L¨angeProgramm
    #Adressefreifreifrei
+   #L¨angeProgramm
+
+[Previous: #BS-Folien_26](BS-Folien_26.md)
+
+[Next: #BS-Folien_26](BS-Folien_26.md)

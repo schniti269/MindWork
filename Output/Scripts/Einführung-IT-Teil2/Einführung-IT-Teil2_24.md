@@ -6,3 +6,7 @@ Dez Bin Hex
 
    Tags & Topics:
    #20–27
+
+[Previous: #Einführung-IT-Teil2_25](Einführung-IT-Teil2_25.md)
+
+[Next: #Einführung-IT-Teil2_25](Einführung-IT-Teil2_25.md)

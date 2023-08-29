@@ -5,5 +5,9 @@ ctr = initValue;q = new (ProcessQueue);
 }public void p () { public void v () {
 
    Tags & Topics:
-   #Semaphor-Konzept
    #ProcessQueue
+   #Semaphor-Konzept
+
+[Previous: #BS-Folien_231](BS-Folien_231.md)
+
+[Next: #BS-Folien_231](BS-Folien_231.md)

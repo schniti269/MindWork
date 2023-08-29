@@ -6,3 +6,7 @@ r ∈ ℚ
 
    Tags & Topics:
    
+
+[Previous: #Einführung-IT-Teil2_12](Einführung-IT-Teil2_12.md)
+
+[Next: #Einführung-IT-Teil2_12](Einführung-IT-Teil2_12.md)

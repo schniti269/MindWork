@@ -6,6 +6,10 @@ des Ziffernsystems ist und k die Position, also z. B. 1 für die erste und 2 fü
 
    Tags & Topics:
    #Stellenwerte
-   #binHexadezimalsystem
    #Ziffernsystem
+   #binHexadezimalsystem
    #Ziffernsystems
+
+[Previous: #Einführung-IT-Teil2_19](Einführung-IT-Teil2_19.md)
+
+[Next: #Einführung-IT-Teil2_19](Einführung-IT-Teil2_19.md)

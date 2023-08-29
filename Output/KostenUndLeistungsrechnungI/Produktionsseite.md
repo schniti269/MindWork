@@ -1,16 +1,29 @@
-# ## #Produktionsseite 
+### Produktionsseite
 
- - #Wirtschaftlichkeit 
- - einsatzsteuerung #der #Produktionsfaktoren 
+- Wirtschaftlichkeit
+- einsatzsteuerung der Produktionsfaktoren
 
-	 -   #Gegeben = #Input #Menge 
+	-  Gegeben = Input Menge
 
-		 - Maximaler #Output 
+		- Maximaler Output
 
-	 - gegeben= Output #Menge 
+	- gegeben= Output Menge
 
-		 - Ininmaler #Input 
+		- Ininmaler Input
 
- - #Leistungserstellung 
+- Leistungserstellung
 
-	 - Aktivierbare eigenleistung 
+	- Aktivierbare eigenleistung
+
+   Tags & Topics:
+   #Gegebe
+   #Output
+   #Produktionsseit
+   #Gegeben
+   #Menge
+   #Produktionsfaktor
+   #Aktivierbare
+   #Wirtschaftlichkeit
+   #Leistungserstellung
+   #Produktionsfaktoren
+   #produktionsseite

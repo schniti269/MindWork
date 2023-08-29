@@ -5,27 +5,31 @@ Vergleichsstandard(Soll-Leistung)WahrgenommeneLeistung(Ist-Leistung)Vergleichspr
 48www.dhbw.deMarketing
 
    Tags & Topics:
-   #Diskonfirmation(Ist
+   #Eckpfeiler
+   #Vergleichsstandard(Soll
+   #Konfirmation
+   #ZufriedenheitunterKonfirmationsniveau
+   #Weiterempfehlungsabsicht
+   #Diskonfirmation
    #leistung)wahrgenommeneleistung(ist
-   #Buying
+   #Soll)Positive
+   #Wiederkaufsabsicht
+   #Kundenverhalt
+   #Unzufriedenheit
+   #Soll)ZufriedenheitunterKonfirmationsniveau(Unzufriedenheit)Zufriedenheitauf
    #Mittal
    #Unternehmensführung
    #hoheZufriedenheit)2.3
-   #Kundenverhalt
-   #Bereitschaft
-   #KaufentscheidungConfirmation
-   #Vergleichsstandard(Soll
-   #Diskonfirmation
-   #Kamakura2001)
-   #Konfirmation
-   #Soll)ZufriedenheitunterKonfirmationsniveau(Unzufriedenheit)Zufriedenheitauf
-   #Ist-Leistung
-   #Wiederkaufsabsicht
-   #Soll)Positive
-   #Absicht
-   #Kundenverhalten
-   #Unzufriedenheit
-   #ZufriedenheitunterKonfirmationsniveau
-   #Weiterempfehlungsabsicht
    #DisconfirmationParadigma
-   #Eckpfeiler
+   #Diskonfirmation(Ist
+   #Kamakura2001)
+   #Buying
+   #KaufentscheidungConfirmation
+   #Kundenverhalten
+   #Absicht
+   #Ist-Leistung
+   #Bereitschaft
+
+[Previous: #2022_Marketing_Skript_32](2022_Marketing_Skript_32.md)
+
+[Next: #2022_Marketing_Skript_32](2022_Marketing_Skript_32.md)

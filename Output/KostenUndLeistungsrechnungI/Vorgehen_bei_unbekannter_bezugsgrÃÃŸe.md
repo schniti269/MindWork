@@ -1,7 +1,15 @@
-# ## #Vorgehen bei unbekannter #bezugsgröße 
+### Vorgehen bei unbekannter bezugsgröße
 
- - #Herstellkostrn 
+- Herstellkostrn
 
-	 - #Umgang be Bestandsänderungen 
+	- Umgang be Bestandsänderungen
 
- - Selbstskosten 
+- Selbstskosten
+
+   Tags & Topics:
+   #Vorgehen
+   #vorgehen
+   #Selbstskoste
+   #Herstellkostrn
+   #Selbstskosten
+   #Umgang

@@ -5,7 +5,11 @@ internen Liste verwaltet
 ✪
 
    Tags & Topics:
-   #Druckauftrag
-   #Semaphorreferenz
    #Druckauftrags
+   #Semaphorreferenz
    #Dateireferenz
+   #Druckauftrag
+
+[Previous: #AdvIT-Folien_263](AdvIT-Folien_263.md)
+
+[Next: #AdvIT-Folien_263](AdvIT-Folien_263.md)

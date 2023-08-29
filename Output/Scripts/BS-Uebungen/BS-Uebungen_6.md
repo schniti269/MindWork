@@ -5,8 +5,12 @@ a) Beschreiben Sie, welche Ausschlussbeziehungen zwischen d en drei kritischen A
 diese graﬁsch dar.
 
    Tags & Topics:
-   #•incsAwerden
-   #Ausschlussbeziehung
-   #•incsAwerde
    #Beschreiben
+   #•incsAwerde
+   #Ausschlussbeziehung
+   #•incsAwerden
    #Ausschlussbeziehungen
+
+[Previous: #BS-Uebungen_60](BS-Uebungen_60.md)
+
+[Next: #BS-Uebungen_60](BS-Uebungen_60.md)

@@ -5,8 +5,12 @@ Eigenwerte und Eigenvektoren sind sehr wichtige Charakterisierungen linearer Abb
 nis eines Eigenwerts λkönnen zugehörige Eigenvektoren uaus der Eigenschaft Au=λuberechnet
 
    Tags & Topics:
-   #Eigenwerts
    #Charakterisierungen
-   #Eigenwert
    #A∈Cn×n
+   #Eigenwert
    #Charakterisierung
+   #Eigenwerts
+
+[Previous: #Analysis-Lineare_Algebra-230308_723](Analysis-Lineare_Algebra-230308_723.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_723](Analysis-Lineare_Algebra-230308_723.md)

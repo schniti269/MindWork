@@ -5,8 +5,12 @@ Besitzer: pagniaRechte:rw–→lesen und schreiben
 Gruppe: kursRechte:r––→lesen
 
    Tags & Topics:
+   #Besitzer
+   #kursrechte
    #11:03
    #kursRechte
    #pagniaRechte
-   #kursrechte
-   #Besitzer
+
+[Previous: #BS-Folien_46](BS-Folien_46.md)
+
+[Next: #BS-Folien_46](BS-Folien_46.md)

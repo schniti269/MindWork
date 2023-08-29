@@ -5,6 +5,10 @@ y1(0) = 0.
 Ein Polynom zweiter Ordnung wird Parabel genannt und kann bis zu zwei reelle Nullstellen besitzen:
 
    Tags & Topics:
+   #a0denAchsenabschnitt
    #Parabel
    #Steigung
-   #a0denAchsenabschnitt
+
+[Previous: #Analysis-Lineare_Algebra-230308_87](Analysis-Lineare_Algebra-230308_87.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_87](Analysis-Lineare_Algebra-230308_87.md)

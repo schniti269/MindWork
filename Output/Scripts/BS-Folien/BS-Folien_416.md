@@ -5,5 +5,9 @@ Zugriﬀsmatrix
 Abb. 28 Das Zugriﬀsmatrix-ModellSubjekt 1Subjekt 2
 
    Tags & Topics:
-   #Zugriﬀsmatrix-ModellSubjekt
    #ModellSubjekt
+   #Zugriﬀsmatrix-ModellSubjekt
+
+[Previous: #BS-Folien_417](BS-Folien_417.md)
+
+[Next: #BS-Folien_417](BS-Folien_417.md)

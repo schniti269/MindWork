@@ -5,5 +5,9 @@ handoff _work(&buf); look_for_ page _in_cache(&buf, &page);
 } if(page _not_in_ cache(&page))
 
    Tags & Topics:
-   #Code
    #Worker-Code
+   #Code
+
+[Previous: #AdvIT-Folien_71](AdvIT-Folien_71.md)
+
+[Next: #AdvIT-Folien_71](AdvIT-Folien_71.md)

@@ -6,3 +6,7 @@ aufrufende Benutzer die entsprechenden Zugriﬀsrechte f¨ur alleben¨otigten Da
 
    Tags & Topics:
    #Vergeben
+
+[Previous: #BS-Uebungen_73](BS-Uebungen_73.md)
+
+[Next: #BS-Uebungen_73](BS-Uebungen_73.md)

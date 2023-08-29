@@ -1,36 +1,53 @@
-# ## Wagnisse 
+### Wagnisse
 
- - #ARBEITS 
+- ARBEITS
 
-	 - #Krankheit 
-	 - #Streik 
+	- Krankheit
+	- Streik
 
- - #FERTIGUNGS #
+- FERTIGUNGS
 
-	 - #Verarbeitungsfehler #
-	 - #Gefährleistung #
+	- Verarbeitungsfehler
+	- Gefährleistung
 
- - #BESTÄNDE 
+- BESTÄNDE
 
-	 - #Verderb #
-	 - #Veralterung #
+	- Verderb
+	- Veralterung
 
-		 - #Technisch #
-		 - #Modisch #
+		- Technisch 
+		- Modisch
 
- - #ANLAGEN #
+- ANLAGEN
 
-	 - #Störungen 
-	 - #Fehleinschätzung 
+	- Störungen
+	- Fehleinschätzung
 
- - #Vertriebs 
+- Vertriebs
 
-	 - Währungsverluste #Forderungsausfälle 
+	- Währungsverluste Forderungsausfälle
 
- - #Forschungs 
+- Forschungs
 
-	 - #Fehlgeschlagene /abgebrochene #entwicklung 
+	- Fehlgeschlagene /abgebrochene entwicklung
 
- - #Sonstige #
+- Sonstige
 
-	 - #Schiffs verluste etc 
+	- Schiffs verluste etc
+
+   Tags & Topics:
+   #Forschungs
+   #Krankheit
+   #Verderb
+   #Vertriebs
+   #Sonstige
+   #Forschung
+   #Veralterung
+   #Fehleinschätzung
+   #sonstige
+   #Fehlgeschlagene
+   #BESTÄNDE
+   #Währungsverluste
+   #Verarbeitungsfehler
+   #Gefährleistung
+   #Streik

@@ -6,3 +6,7 @@ investment criteria.
 
    Tags & Topics:
    #Emphasize
+
+[Previous: #C-Study22 - Own your transformation_255](C-Study22 - Own your transformation_255.md)
+
+[Next: #C-Study22 - Own your transformation_255](C-Study22 - Own your transformation_255.md)

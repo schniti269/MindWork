@@ -5,17 +5,21 @@ Im Frühjahr 2015 war die Bahn von vielzähligen GDL-Streiks betroffen, darunter
 * Die Studie und sämtliche Werte sind frei erfunden67www.dhbw.deMarketing
 
    Tags & Topics:
+   #Chef
+   #erfunden67www.dhbw.deMarketing
+   #Kundenzufriedenheitsstudie
+   #Bahn-Chef
+   #Bahnfahrer-Streik
+   #Bahnfahrer
+   #Marketing1
+   #expert
+   #Annahme
+   #GDL
+   #Studie
    #Streik
    #Kundenzufriedenheitsstudi
-   #GDL
-   #Bahn-Chef
-   #Marketing1
-   #Chef
-   #Bahnfahrer
-   #Bahnfahrer-Streik
-   #Annahme
-   #expert
    #Streiks
-   #Kundenzufriedenheitsstudie
-   #erfunden67www.dhbw.deMarketing
-   #Studie
+
+[Previous: #2022_Marketing_Skript_43](2022_Marketing_Skript_43.md)
+
+[Next: #2022_Marketing_Skript_43](2022_Marketing_Skript_43.md)

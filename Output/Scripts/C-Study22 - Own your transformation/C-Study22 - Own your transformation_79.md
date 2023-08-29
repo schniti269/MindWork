@@ -6,3 +6,7 @@ for 20 years. But then we had a major tremor—and now they
 
    Tags & Topics:
    
+
+[Previous: #C-Study22 - Own your transformation_8](C-Study22 - Own your transformation_8.md)
+
+[Next: #C-Study22 - Own your transformation_8](C-Study22 - Own your transformation_8.md)

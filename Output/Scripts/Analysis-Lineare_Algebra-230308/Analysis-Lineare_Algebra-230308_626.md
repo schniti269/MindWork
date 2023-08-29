@@ -6,3 +6,7 @@ sich die Näherung der Funktion r(a), hier in Java unter Verwendung von 127·223
 
    Tags & Topics:
    
+
+[Previous: #Analysis-Lineare_Algebra-230308_627](Analysis-Lineare_Algebra-230308_627.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_627](Analysis-Lineare_Algebra-230308_627.md)

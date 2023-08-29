@@ -5,8 +5,12 @@
 •DVD (etwa 1996), Video + Daten, 4,7 GB, Versionen: DVD -ROM, DVD -R, DVD -RW, Datenrate 11 MBit/s 
 
    Tags & Topics:
+   #Massenspeicher
+   #MBit
    #Audio
    #Video
-   #MBit
-   #Massenspeicher
    #Folie
+
+[Previous: #Einführung-IT-Teil1_57](Einführung-IT-Teil1_57.md)
+
+[Next: #Einführung-IT-Teil1_57](Einführung-IT-Teil1_57.md)

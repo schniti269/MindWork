@@ -5,11 +5,15 @@ String data=””;
 try{
 
    Tags & Topics:
-   #Erzeuger-Verbraucher-Problem
-   #Semaphor-Konzept
-   #L¨osung
-   #Erzeuger
    #Verbraucher
-   #Problems
-   #Konzept
    #Fort
+   #Erzeuger
+   #Konzept
+   #Problems
+   #L¨osung
+   #Semaphor-Konzept
+   #Erzeuger-Verbraucher-Problem
+
+[Previous: #AdvIT-Folien_197](AdvIT-Folien_197.md)
+
+[Next: #AdvIT-Folien_197](AdvIT-Folien_197.md)

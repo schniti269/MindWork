@@ -7,3 +7,7 @@ Referenz 0 1 2 3 (Fehler)
    Tags & Topics:
    #•strategie
    #•Strategie
+
+[Previous: #BS-Folien_352](BS-Folien_352.md)
+
+[Next: #BS-Folien_352](BS-Folien_352.md)

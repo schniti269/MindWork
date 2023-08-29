@@ -5,6 +5,10 @@ Freigabe aller Betriebsmittel am Ende einer Laufphase
 jede Laufphase wird wie ein neuer Auftrag angesehen
 
    Tags & Topics:
-   #dynamisch
    #Dynamische
+   #dynamisch
    #Laufphase
+
+[Previous: #AdvIT-Folien_12](AdvIT-Folien_12.md)
+
+[Next: #AdvIT-Folien_12](AdvIT-Folien_12.md)

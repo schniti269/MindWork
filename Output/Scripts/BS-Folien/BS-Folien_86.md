@@ -5,11 +5,15 @@ das (sequenzielle) Maschinenprogramm , das im Adressraum abgelegt ist
 einAktivit¨atstr¨ager, der das Programm ausf ¨uhrt→Prozessorkern
 
    Tags & Topics:
-   #Bestandteil
    #Maschinenprogramm
-   #¨uhrt→Prozessorkern
-   #Programm
-   #Ausf¨uhrungsumgebung
-   #Bestandteile
-   #einAktivit¨atstr¨ager
    #einAdressraum
+   #Ausf¨uhrungsumgebung
+   #Programm
+   #einAktivit¨atstr¨ager
+   #¨uhrt→Prozessorkern
+   #Bestandteil
+   #Bestandteile
+
+[Previous: #BS-Folien_87](BS-Folien_87.md)
+
+[Next: #BS-Folien_87](BS-Folien_87.md)

@@ -6,3 +6,7 @@ reihenfolge ben¨otigte Seite
 
    Tags & Topics:
    #15-
+
+[Previous: #BS-Loesungen_22](BS-Loesungen_22.md)
+
+[Next: #BS-Loesungen_22](BS-Loesungen_22.md)

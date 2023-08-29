@@ -1,122 +1,170 @@
-# ## #Zuschlagskalulationen 
+### Zuschlagskalulationen
 
- - summarische #zuschlags 
+- summarische zuschlags
 
-	 - #probleme 
+	- probleme 
 
-		 - ungenau 
-		 - #keine #unterscheidung 
+		- ungenau
+		- keine unterscheidung
 
-	 - 
+	- 
 
-		 - #Reihenfolge so wie es #der #kunde bezahlt #bzw #rabattiert bekommt 
-		 - #Vorsicht bei #% wie #Skonto , #Rabatt 
+		- Reihenfolge so wie es der kunde bezahlt bzw rabattiert bekommt
+		- Vorsicht bei % wie Skonto,Rabatt
 
- bei #2%- > #preis/.98 
+bei 2%-> preis/.98
 
-	 - #Summe gk/ #summe EK #= #zuschlagssatz #
+	- Summe gk/ summe EK =zuschlagssatz
 
-		 - #Unterknoten #1 
+		- Unterknoten 1
 
- - #Differenzierende #Zuschlags #
+- Differenzierende Zuschlags
 
-	 - Schritt #für #schritt 
+	- Schritt für schritt
 
-		 - #Herstell #
-		 - #Zuschläge auf hilfsgröße #herstell 
+		- Herstell
+		- Zuschläge auf hilfsgröße herstell
 
-	 - #Unterschiedliche #kostenstruktur #für #verschiedene bereiche #
-	 - #Sondereinzekosten #nicht #bezuschlagen 
-	 - #Rückwärtskalkulation #
+	- Unterschiedliche kostenstruktur für verschiedene bereiche
+	- Sondereinzekosten nicht bezuschlagen
+	- Rückwärtskalkulation
 
-		 - #Gewinn = #differenz #( #nettobarverkauf #-selbstkosten #) 
-		 - #Kunde #gibt zahlungsobergrenze #vor 
-		 - #Reihenfolge #
+		- Gewinn = differenz( nettobarverkauf -selbstkosten)
+		- Kunde gibt zahlungsobergrenze vor
+		- Reihenfolge
 
-			 - #Brutto #Angebot #
-			 - #Netto #angebot #
-			 - #Netto #zielverkauf 
-			 - #Netto #barverkauf 
+			- Brutto Angebot
+			- Netto angebot
+			- Netto zielverkauf
+			- Netto barverkauf
 
-				 - #Hiervon selbstkostenabziehen abziehen 
+				- Hiervon selbstkostenabziehen abziehen
 
- - #Maschienenstundensatz #
+- Maschienenstundensatz
 
-	 - 
+	- 
 
-		 - #Nettomaschlaufzeit #
+		- Nettomaschlaufzeit
 
-			 - Die #sie #tatsächlich #läuft 
-			 - 
+			- Die sie tatsächlich läuft
+			- 
 
-		 - #Machienenabhängige gk #
+		- Machienenabhängige gk
 
-			 - #Unterknoten #1 
+			- Unterknoten 1
 
-		 - #Vorgehen #
+		- Vorgehen
 
-			 - 
+			- 
 
-	 - #Ziel #: #weniger #zuschlagssatz - > #weniger #fehler #
-	 - #Maschienenabhängige GK/ #Netto - #Maschienenlaufzeit 
-	 - Mögliche aufgaben 
+	- Ziel: weniger zuschlagssatz -> weniger fehler
+	- Maschienenabhängige GK/ Netto-Maschienenlaufzeit
+	- Mögliche aufgaben
 
-		 - #Maschienenkosten 
+		- Maschienenkosten 
 
-			 - Zb #Stundensatz auf sekunden rechnen 
-			 - #* Stück 
+			- Zb Stundensatz auf sekunden rechnen
+			- *Stück
 
- - #Kuppelkalkulation 
+- Kuppelkalkulation
 
- #Nicht vollständing #rel 
+Nicht vollständing rel
 
-	 - #Wann 
+	- Wann
 
-		 - #Mehrere #Produkte entstehen 
-		 - #Produkte #sind #nebenprodukte 
-		 - #Wenn andere #Methoden #nicht #mebhr gehen 
+		- Mehrere Produkte entstehen
+		- Produkte sind nebenprodukte
+		- Wenn andere Methoden nicht mebhr gehen
 
-	 - Was 
+	- Was
 
-		 - #Restwertmethode 
-		 - #Marktwertgutschrift 
+		- Restwertmethode
+		- Marktwertgutschrift
 
-			 - #Kann auch #negativ #sein 
-			 - #Z.b nebenprodukt #Müll 
+			- Kann auch negativ sein
+			- Z.b nebenprodukt Müll
 
-	 - #Wie 
+	- Wie
 
-		 - #Hauptkalkulationstrang 
+		- Hauptkalkulationstrang
 
-			 - #Wird durch #zusatzprodukte 
+			- Wird durch zusatzprodukte
 
-				 - Belastet 
-				 - Entlastet 
+				- Belastet
+				- Entlastet
 
-			 - #Kuppelprodukte #ergäzen #rechnung 
+			- Kuppelprodukte ergäzen rechnung
 
-	 - #Sidenotes 
+	- Sidenotes
 
-		 - #Kuppel - > #gekuppelt- > #kupplung 
-		 - #Es geht um #das gebundene , #nicht um die " #Kuppel " 
+		- Kuppel -> gekuppelt- >kupplung
+		- Es geht um das gebundene, nicht um die "Kuppel"
 
- - #Mischkalkulation 
+- Mischkalkulation
 
-	 - #Wann 
+	- Wann
 
-		 - #Keine exakte #kostenrechnung 
-		 - #Branche #Gastro 
+		- Keine exakte kostenrechnung
+		- Branche Gastro
 
-	 - Was 
+	- Was
 
-		 - #Vereilungsrechnung 
+		- Vereilungsrechnung
 
-	 - #Wie 
+	- Wie
 
-		 - #Durchschnittliche kosten ermitteln 
-		 - #Statistik #zb all you can eat 
+		- Durchschnittliche kosten ermitteln
+		- Statistik zb all you can eat
 
-			 - #Nicht #alle essen #gleich #viel 
-			 - I m #schnitt #aber ... 
+			- Nicht alle essen gleich viel
+			- Im schnitt aber...
 
-		 - Gesamtkosten #durch #die #menge 
+		- Gesamtkosten durch die menge
+
+   Tags & Topics:
+   #Methode
+   #Restwertmethode
+   #Z.b
+   #Summe
+   #vorgehen
+   #kunde
+   #Produkte
+   #Maschienenkosten
+   #Nettomaschlaufzeit
+   #Branche
+   #Vorgehen
+   #ziel
+   #Sondereinzekost
+   #Kunde
+   #Sidenotes
+   #unterschiedlich
+   #Netto-Maschienenlaufzeit
+   #Methoden
+   #mischkalkulation
+   #Sondereinzekosten
+   #Vereilungsrechnung
+   #Rabatt
+   #Durchschnittliche
+   #Gesamtkoste
+   #Produkt
+   #Kuppelprodukte
+   #Kuppelprodukt
+   #Schritt
+   #Müll
+   #Zuschlagskalulatione
+   #Maschienenkost
+   #Nicht
+   #Kuppel
+   #Vorsicht
+   #zuschlagskalulationen
+   #Marktwertgutschrift
+   #Statistik
+   #Durchschnittlich
+   #Ziel
+   #Gewinn
+   #Maschienenstundensatz
+   #Belastet
+   #Mischkalkulation
+   #Maschienenlaufzeit
+   #Sidenot
+   #GK/

@@ -5,13 +5,17 @@ Die Zustands ¨ubergangsfunktionen sind interneOperationen der Prozessverwaltung
 •Schnittstellenoperationen der Prozessverwaltung (d.h. nach außen sichtbare System Calls ) sind z.B.:
 
    Tags & Topics:
-   #•Operation
-   #interneoperationen
-   #•schnittstellenoperationen
-   #•Operationen
-   #→geheimnisprinzip
    #Struktur
-   #Call
-   #interneOperation
    #→Geheimnisprinzip
+   #•Operation
    #•Schnittstellenoperation
+   #•schnittstellenoperationen
+   #interneoperationen
+   #•Operationen
+   #interneOperation
+   #→geheimnisprinzip
+   #Call
+
+[Previous: #BS-Folien_155](BS-Folien_155.md)
+
+[Next: #BS-Folien_155](BS-Folien_155.md)

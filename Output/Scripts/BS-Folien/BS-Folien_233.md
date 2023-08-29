@@ -5,7 +5,11 @@ Jeder der kritischen Abschnitte wird mit einem Eintritts- und einem Austrittspro
 ⋄v-Operation: Austrittsprotokoll
 
    Tags & Topics:
-   #Eintritts-
    #⋄v-Operation
-   #•Verwendung
    #⋄p-Operation
+   #Eintritts-
+   #•Verwendung
+
+[Previous: #BS-Folien_234](BS-Folien_234.md)
+
+[Next: #BS-Folien_234](BS-Folien_234.md)

@@ -5,9 +5,13 @@ Auslagerungsstrategien
 •Die Gesamtleistung eines Computersystems h ¨angt wesentlich von der Wahl der Auslagerungsstrategie ab!
 
    Tags & Topics:
+   #Auslagerungsstrategie
    #Gesamtleistung
+   #BS–133Speicherverwaltung
    #Paging
    #Computersystem
-   #BS–133Speicherverwaltung
-   #Auslagerungsstrategie
    #Computersystems
+
+[Previous: #BS-Folien_335](BS-Folien_335.md)
+
+[Next: #BS-Folien_335](BS-Folien_335.md)

@@ -5,6 +5,10 @@ F A 3
 2 E 4    
 
    Tags & Topics:
-   #Nullen
    #Nulle
+   #Nullen
    #2E4hex=
+
+[Previous: #Einführung-IT-Teil2_4](Einführung-IT-Teil2_4.md)
+
+[Next: #Einführung-IT-Teil2_4](Einführung-IT-Teil2_4.md)

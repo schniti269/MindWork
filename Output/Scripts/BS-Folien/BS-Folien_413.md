@@ -6,7 +6,11 @@ W: Allgemeinheit aller Benutzer ( World)
 
    Tags & Topics:
    #Systemverwalter
-   #Owner
    #Besitzers
-   #Allgemeinheit
    #Besitzer
+   #Allgemeinheit
+   #Owner
+
+[Previous: #BS-Folien_414](BS-Folien_414.md)
+
+[Next: #BS-Folien_414](BS-Folien_414.md)

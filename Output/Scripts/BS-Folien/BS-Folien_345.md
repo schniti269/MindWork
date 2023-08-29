@@ -8,3 +8,7 @@ lauflauf3. Durch-
    #BS–137Speicherverwaltung
    #Durch-1
    #Durch-2
+
+[Previous: #BS-Folien_346](BS-Folien_346.md)
+
+[Next: #BS-Folien_346](BS-Folien_346.md)

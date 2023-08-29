@@ -5,7 +5,11 @@ zum Wert in der komplexen Ebene zur positiven reellen Achse.
 Die bisher eingeführten speziellen Zahlenmengen wurden immer erweitert: Die natürlichen Zahlen sind
 
    Tags & Topics:
-   #Zahlenmengen
-   #Zahlenmeng
    #Argument
+   #Zahlenmeng
+   #Zahlenmengen
    #Winkel
+
+[Previous: #Analysis-Lineare_Algebra-230308_290](Analysis-Lineare_Algebra-230308_290.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_290](Analysis-Lineare_Algebra-230308_290.md)

@@ -5,9 +5,13 @@ L¨osung des allgemeinen Erzeuger-Verbraucher-Problems
 mehrere Erzeuger und mehrere Verbraucher
 
    Tags & Topics:
-   #Erzeuger-Verbraucher-Problem
-   #problem
-   #L¨osung
-   #Erzeuger
-   #verbraucher
    #Verbraucher
+   #Erzeuger
+   #problem
+   #verbraucher
+   #L¨osung
+   #Erzeuger-Verbraucher-Problem
+
+[Previous: #AdvIT-Folien_208](AdvIT-Folien_208.md)
+
+[Next: #AdvIT-Folien_208](AdvIT-Folien_208.md)

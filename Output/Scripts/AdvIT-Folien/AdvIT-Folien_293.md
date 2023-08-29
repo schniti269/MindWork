@@ -6,6 +6,10 @@ Bei den Varianten 1 und 2
 
    Tags & Topics:
    #Wartebedingung
+   #Unterschied
    #Unterschiede
    #signal-Variant
-   #Unterschied
+
+[Previous: #AdvIT-Folien_294](AdvIT-Folien_294.md)
+
+[Next: #AdvIT-Folien_294](AdvIT-Folien_294.md)

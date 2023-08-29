@@ -5,11 +5,15 @@ bildet eine wesentliche Grundlage der „digitalen Revolution“.
 Beobachtung zurückgeht. 
 
    Tags & Topics:
-   #Revolution
-   #Schaltkreiskomponenten
-   #Integrationsdichte
-   #Schaltkreiskomponent
    #Naturgesetz
-   #Rede
    #Grundlage
+   #Schaltkreiskomponenten
+   #Rede
    #Faustregel
+   #Revolution
+   #Schaltkreiskomponent
+   #Integrationsdichte
+
+[Previous: #Einführung-IT-Teil1_79](Einführung-IT-Teil1_79.md)
+
+[Next: #Einführung-IT-Teil1_79](Einführung-IT-Teil1_79.md)

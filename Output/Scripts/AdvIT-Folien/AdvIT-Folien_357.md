@@ -5,7 +5,11 @@ Wichtige Methoden
 enth¨alt keine Zeilenendezeichen; R ¨uckgabewert nullkennzeichnet Stream-Ende
 
    Tags & Topics:
-   #Zeile
+   #Zeilenendezeiche
    #Zeilenendezeichen
    #Stream-Ende
-   #Zeilenendezeiche
+   #Zeile
+
+[Previous: #AdvIT-Folien_358](AdvIT-Folien_358.md)
+
+[Next: #AdvIT-Folien_358](AdvIT-Folien_358.md)

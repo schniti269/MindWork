@@ -6,3 +6,7 @@ k ykrel. Fehler
 
    Tags & Topics:
    #Newton
+
+[Previous: #Analysis-Lineare_Algebra-230308_632](Analysis-Lineare_Algebra-230308_632.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_632](Analysis-Lineare_Algebra-230308_632.md)

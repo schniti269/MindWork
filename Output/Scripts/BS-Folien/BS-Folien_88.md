@@ -5,7 +5,11 @@ Das Zustandsmodell
 Abb. 1 Zustands ¨uberg¨ange von Prozesseninactive ready running
 
    Tags & Topics:
-   #Abb
    #Zustandsmodell
-   #Abb.
+   #Abb
    #BS–37Prozessverwaltung
+   #Abb.
+
+[Previous: #BS-Folien_89](BS-Folien_89.md)
+
+[Next: #BS-Folien_89](BS-Folien_89.md)

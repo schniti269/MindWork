@@ -1,4 +1,10 @@
-# ## Wiederbeschaffungskosten 
+### Wiederbeschaffungskosten
 
- - #Gleiches #gut #später neu #beschaffen #
- - #Idr #> anschaffungskosten 
+- Gleiches gut später neu beschaffen
+- Idr > anschaffungskosten
+
+   Tags & Topics:
+   #Gleiches
+   #gleiche
+   #Wiederbeschaffungskost
+   #Idr

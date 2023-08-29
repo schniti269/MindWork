@@ -5,10 +5,14 @@ Erzeugen eines Adressraums
 (Def.: virtueller Speicher eines Prozesses)
 
    Tags & Topics:
-   #Erzeugen
-   #Hauptspeichers
    #Hauptspeicher
-   #•Verwaltung
-   #Def
    #Speicher
+   #Def
+   #Hauptspeichers
+   #•Verwaltung
+   #Erzeugen
    #Erzeug
+
+[Previous: #BS-Folien_220](BS-Folien_220.md)
+
+[Next: #BS-Folien_220](BS-Folien_220.md)

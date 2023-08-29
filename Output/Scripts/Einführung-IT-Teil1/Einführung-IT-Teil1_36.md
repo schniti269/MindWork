@@ -5,5 +5,9 @@ Business Oriented Language) einsatzfähig.
 •Ebenfalls 1960 wurde ALGOL ( Algorithmic Language) als Alternative zu FORTRAN (John Backus) 
 
    Tags & Topics:
-   #ALGOL
    #Ferritkernspeicher
+   #ALGOL
+
+[Previous: #Einführung-IT-Teil1_37](Einführung-IT-Teil1_37.md)
+
+[Next: #Einführung-IT-Teil1_37](Einführung-IT-Teil1_37.md)

@@ -5,5 +5,9 @@ Beispiel:  π = 3.141.. = 3 x 100+ 1 x 10-1+ 4 x 10-2+ 1 x 10-3..
 Bemerkung: ℝ \ℚ steht für die Menge der irrationalen ZahlenDualsystem
 
    Tags & Topics:
-   #ℝ\ℚ
    #ZahlenDualsystem
+   #ℝ\ℚ
+
+[Previous: #Einführung-IT-Teil2_14](Einführung-IT-Teil2_14.md)
+
+[Next: #Einführung-IT-Teil2_14](Einführung-IT-Teil2_14.md)

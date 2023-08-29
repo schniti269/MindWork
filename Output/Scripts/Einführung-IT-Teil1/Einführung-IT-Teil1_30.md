@@ -5,10 +5,14 @@ Fläche, max. 15 SMT8 Cores, bis zu 4,0 GHz
 •Energieverbrauch soll gesenkt werden
 
    Tags & Topics:
-   #Turbo
-   #Mrd.
-   #GHz
+   #•Energieverbrauch
    #Cores
+   #GHz
+   #Mrd.
    #Mio
    #Core
-   #•Energieverbrauch
+   #Turbo
+
+[Previous: #Einführung-IT-Teil1_31](Einführung-IT-Teil1_31.md)
+
+[Next: #Einführung-IT-Teil1_31](Einführung-IT-Teil1_31.md)

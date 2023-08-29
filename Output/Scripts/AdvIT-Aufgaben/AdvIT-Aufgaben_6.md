@@ -5,7 +5,11 @@ Aufgabe 4 (Bearbeitungszeit: max. 15 min)
 Finden Sie die am h ¨auﬁgsten auftretende Zeile einer Datei (ohne Ber ¨ucksichtigung der Groß- / Kleinschrei-
 
    Tags & Topics:
-   #Bearbeitungszeit
    #Prof.
    #Kleinschrei-
    #Zeile
+   #Bearbeitungszeit
+
+[Previous: #AdvIT-Aufgaben_7](AdvIT-Aufgaben_7.md)
+
+[Next: #AdvIT-Aufgaben_7](AdvIT-Aufgaben_7.md)

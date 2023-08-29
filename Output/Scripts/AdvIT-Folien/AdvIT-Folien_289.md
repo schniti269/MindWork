@@ -5,8 +5,12 @@ wartenden Thread nicht mehr besteht
 Wirkungsweise des Aufrufes cond.signal() :
 
    Tags & Topics:
-   #Aufruf
-   #signal-Operation
    #Wartebedingung
-   #Aufrufes
+   #signal-Operation
    #Semantik
+   #Aufruf
+   #Aufrufes
+
+[Previous: #AdvIT-Folien_29](AdvIT-Folien_29.md)
+
+[Next: #AdvIT-Folien_29](AdvIT-Folien_29.md)

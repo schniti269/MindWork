@@ -6,3 +6,7 @@ free =2.
 
    Tags & Topics:
    
+
+[Previous: #BS-Uebungen_27](BS-Uebungen_27.md)
+
+[Next: #BS-Uebungen_27](BS-Uebungen_27.md)

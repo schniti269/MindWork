@@ -1,6 +1,12 @@
-# # #Audio #und #spracheingabe 80er #
+### Audio und spracheingabe 80er
 
- - #Sprechen #von Kommandos #
- - 1981 #erster #Pc 
+- Sprechen von Kommandos
+- 1981 erster Pc
 
-	 - #IBM #1 86 #
+	- IBM 1 86
+
+   Tags & Topics:
+   #Audio
+   #Sprechen
+   #audio
+   #sprechen

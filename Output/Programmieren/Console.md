@@ -1,13 +1,17 @@
-# ## #Console 
+### Console
 
- - #Powershell 
+- Powershell
 
-	 - #Ps1 
+	- Ps1
 
- - #Cmd 
+- Cmd
 
-	 - #Bat 
+	- Bat
 
- - #Linux #terminal 
+- Linux terminal 
 
-	 - #Bash 
+	- Bash
+
+   Tags & Topics:
+   #powershell
+   #Powershell

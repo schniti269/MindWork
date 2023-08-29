@@ -6,3 +6,7 @@ and enterprise’s workflows while achieving
 
    Tags & Topics:
    
+
+[Previous: #C-Study22 - Own your transformation_256](C-Study22 - Own your transformation_256.md)
+
+[Next: #C-Study22 - Own your transformation_256](C-Study22 - Own your transformation_256.md)

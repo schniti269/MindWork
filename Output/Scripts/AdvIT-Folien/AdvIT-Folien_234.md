@@ -8,3 +8,7 @@ Leserpriorit ¨at – Erl¨auterung des Codes
    #Code
    #Leserpriorit
    #Erl¨auterung
+
+[Previous: #AdvIT-Folien_235](AdvIT-Folien_235.md)
+
+[Next: #AdvIT-Folien_235](AdvIT-Folien_235.md)

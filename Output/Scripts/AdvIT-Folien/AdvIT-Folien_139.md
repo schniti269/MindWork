@@ -6,3 +6,7 @@ Annahmen
 
    Tags & Topics:
    #Banker
+
+[Previous: #AdvIT-Folien_14](AdvIT-Folien_14.md)
+
+[Next: #AdvIT-Folien_14](AdvIT-Folien_14.md)

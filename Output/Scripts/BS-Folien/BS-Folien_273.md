@@ -5,9 +5,13 @@ Betriebssysteme DHBW Mannheim ©Henning Pagnia Version 4.23 Fr¨uhjahr 2023 BS�
 •Buddy-System:
 
    Tags & Topics:
+   #•best
+   #Bereich
    #•Buddy
    #Finde
-   #Bereich
    #fit
    #Bereichs
-   #•best
+
+[Previous: #BS-Folien_274](BS-Folien_274.md)
+
+[Next: #BS-Folien_274](BS-Folien_274.md)

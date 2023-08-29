@@ -5,9 +5,13 @@ Abgrenzung der Grundgesamtheit
 Vollerhebung
 
    Tags & Topics:
-   #experiment
-   #Experiment
-   #Geschmackstest
+   #Geschmackstests
    #MarktforschungBeispiel
    #Grundgesamtheit
-   #Geschmackstests
+   #experiment
+   #Geschmackstest
+   #Experiment
+
+[Previous: #2022_Marketing_Skript_51](2022_Marketing_Skript_51.md)
+
+[Next: #2022_Marketing_Skript_51](2022_Marketing_Skript_51.md)

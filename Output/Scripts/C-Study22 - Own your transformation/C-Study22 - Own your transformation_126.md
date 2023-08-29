@@ -6,3 +6,7 @@ connections; end-to-end workflows across partner
 
    Tags & Topics:
    
+
+[Previous: #C-Study22 - Own your transformation_127](C-Study22 - Own your transformation_127.md)
+
+[Next: #C-Study22 - Own your transformation_127](C-Study22 - Own your transformation_127.md)

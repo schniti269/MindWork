@@ -5,10 +5,14 @@ Spin-Lock mittels TSL (Pseudocode)
 public class MutualExclusionTSL  {  // Eintrittsprotokoll  public static void enterMutex  ( Integer busy) {  // busy should initially be set to 0    Integer local;    do       local = TSL (busy);    while ( local = = 1 );  }
 
    Tags & Topics:
+   #Spin
+   #Inhalte
+   #Integer
    #Spin-Lock
    #Inhalt
-   #Inhalte
-   #Spin
-   #Integer
-   #Speicherworte
    #Speicherwort
+   #Speicherworte
+
+[Previous: #AdvIT-Folien_164](AdvIT-Folien_164.md)
+
+[Next: #AdvIT-Folien_164](AdvIT-Folien_164.md)

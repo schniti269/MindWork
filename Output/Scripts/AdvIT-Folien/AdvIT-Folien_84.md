@@ -6,3 +6,7 @@ on a kernel thread
 
    Tags & Topics:
    #Hybrid
+
+[Previous: #AdvIT-Folien_85](AdvIT-Folien_85.md)
+
+[Next: #AdvIT-Folien_85](AdvIT-Folien_85.md)

@@ -1,273 +1,362 @@
-# ## Aufgaben 
+### Aufgaben
 
- - Prozesse 
- - #Speicher 
+- Prozesse
+- Speicher
 
-	 - Speicherverwaltung 
+	- Speicherverwaltung
 
-		 - Working #set 
+		- Working set
 
-			 - #Von einem #programm #wird working set erstellt #
-			 - Einzelne #teile des programms #werden #ausgelagert 
-			 - Quasi #: #Ungenutzte #routinen #bleiben #ungeladen 
+			- Von einem programm wird working set erstellt
+			- Einzelne teile des programms werden ausgelagert
+			- Quasi: Ungenutzte routinen bleiben ungeladen
 
-		 - Paging #Daemon 
+		- Paging Daemon
 
-			 - Regelmäßig #kacheln #freiräumen 
-			 - #Kacheln sind schon #frei , #dass nichts extra #ausgelaget #wird #wenn #es was #zu tun #gibt 
+			- Regelmäßig kacheln freiräumen
+			- Kacheln sind schon frei, dass nichts extra ausgelaget wird wenn es was zu tun gibt
 
-		 - #Gemeinsam #Verwendete seiten #
+		- Gemeinsam Verwendete seiten
 
-			 - Copy on write 
+			- Copy on write
 
-				 - #Fork kopiert #den #elternprozess 
-				 - #Effizienter 
+				- Fork kopiert den elternprozess
+				- Effizienter
 
-					 - #Nur #seitentabelle #kopieren 
-					 - #Eltern und kindprozesse #verwenden #selbe seiten #
-					 - #Alle seiten #sind read #only 
-					 - Bei #schreibzugriff 
+					- Nur seitentabelle kopieren
+					- Eltern und kindprozesse verwenden selbe seiten
+					- Alle seiten sind read only
+					- Bei schreibzugriff
 
-						 - #Schutzverletzung 
+						- Schutzverletzung
 
-							 - #Interrupt 
+							- Interrupt
 
-					 - #Seite #wird #erst #bei #schreiboperationen #wirklich #kopiert 
+					- Seite wird erst bei schreiboperationen wirklich kopiert 
 
- - #Dateisystem 
+- Dateisystem
 
-	 - #Datei 
+	- Datei
 
-		 - Dateiarten 
+		- Dateiarten
 
-			 - #Programme 
-			 - #Makros 
-			 - Objektprogramme 
-			 - #Binärprogramme #
+			- Programme
+			- Makros
+			- Objektprogramme
+			- Binärprogramme
 
-				 - ausführbar #
+				- ausführbar
 
-			 - #auftragsprotokolldateien 
-			 - #System #protokoll #dateien 
-			 - #archivdatei #
+			- auftragsprotokolldateien
+			- System protokoll dateien
+			- archivdatei
 
-		 - #Namensverwaltung #
+		- Namensverwaltung
 
-			 - #hirarchisch 
+			- hirarchisch
 
-				 - #Selber #name in #verschiedenen #Verzeichen #möglich #
-				 - #Verzeichnisoperationen #möglich 
-				 - #Dateibaum 
+				- Selber name in verschiedenen Verzeichen möglich
+				- Verzeichnisoperationen möglich
+				- Dateibaum
 
-					 - #user #directories 
-					 - #Verzeichnisse 
+					- user directories
+					- Verzeichnisse
 
-			 - Dateiverzeichniseintrag 
+			- Dateiverzeichniseintrag
 
-				 - #attribute 
-				 - #Werte 
+				- attribute
+				- Werte
 
-			 - #Dateiverzeichnis unabhängig 
+			- Dateiverzeichnis unabhängig
 
-				 - #verweis #auf #Verwaltungsstruktur 
+				- verweis auf Verwaltungsstruktur
 
-			 - #links 
+			- links
 
-				 - #hardlinks #
+				- hardlinks
 
-					 - " #pointer " 
-					 - kein #baum #mehr 
+					- "pointer"
+					- kein baum mehr
 
-						 - #mögliche #Zyklen #
-						 - #keine #hardlinks #auf verzeichnisse #
+						- mögliche Zyklen
+						- keine hardlinks auf verzeichnisse
 
-					 - #zähler #von #verweisen 
+					- zähler von verweisen
 
-				 - symbolic #link 
+				- symbolic link
 
-					 - #verweis auf #pfad 
+					- verweis auf pfad
 
-	 - Aufgaben #
+	- Aufgaben
 
-		 - #einheitlicher #zugriff egal #wie #oder #wo gespeichert 
-		 - #Organisieren #vom #Speicherplatz 
-		 - #Logische #zugriffsoperationen 
-		 - Schutzmechanismen 
+		- einheitlicher zugriff egal wie oder wo gespeichert
+		- Organisieren vom Speicherplatz
+		- Logische zugriffsoperationen
+		- Schutzmechanismen
 
-	 - #Schichtenmodell 
+	- Schichtenmodell
 
-		 - #Hardware 
+		- Hardware
 
-			 - #Festplatte #
+			- Festplatte
 
-				 - #Einteilung in #Spuren->sektoren- #> blöcke 
-				 - Langsame #zugrifsszeiten 
+				- Einteilung in Spuren->sektoren-> blöcke
+				- Langsame zugrifsszeiten
 
-			 - #Solid #State #Drive #
+			- Solid State Drive
 
-				 - #Flash speicher 
-				 - #schnelle #zugrifsszeiten 
+				- Flash speicher
+				- schnelle zugrifsszeiten
 
-		 - Controller #
+		- Controller
 
-			 - #zugriffsoperationen regeln 
-			 - gezieltes Speichern #und #löschen 
+			- zugriffsoperationen regeln
+			- gezieltes Speichern und löschen 
 
-	 - #Physikalisches #Dateisystem 
+	- Physikalisches Dateisystem
 
-		 - #begriffe 
+		- begriffe
 
-			 - #Datei 
+			- Datei
 
-				 - #menge #von #zusammengehörigen blöcken 
+				- menge von zusammengehörigen blöcken 
 
-			 - #Block 
+			- Block
 
-				 - zusammenhängender #speicherbereich 
+				- zusammenhängender speicherbereich
 
-			 - #Plattendateiverzeichnis 
+			- Plattendateiverzeichnis
 
-				 - #inhaltsverzeichnis 
+				- inhaltsverzeichnis
 
-			 - #Dateideskriptor 
+			- Dateideskriptor
 
-				 - Dateityp 
-				 - #Position 
-				 - #länge #
+				- Dateityp
+				- Position
+				- länge
 
-		 - aufgaben #
+		- aufgaben
 
-			 - #organisation #auf #externen #Datenträgern #
-			 - #verwaltung #der #Dateien 
-			 - #parallele #zum #Virtuellen speicher #
+			- organisation auf externen Datenträgern
+			- verwaltung der Dateien
+			- parallele zum Virtuellen speicher
 
-		 - #verwaltung #des #Dateisystems 
+		- verwaltung des Dateisystems
 
-			 - #partitionen 
+			- partitionen 
 
-				 - #boot 
-				 - super #
-				 - #freespace 
-				 - I - #Nodes 
-				 - #root #
+				- boot
+				- super
+				- freespace
+				- I-Nodes
+				- root
 
-			 - #Probleme von caching 
+			- Probleme von caching
 
-				 - #möglicher #verlust von #Baumteilen 
-				 - 
+				- möglicher verlust von Baumteilen
+				- 
 
-			 - Journaling 
+			- Journaling
 
-				 - #log 
+				- log 
 
-					 - #infos über #was #getan wurde 
-					 - wird sofort #geschrieben 
-					 - wiederherstellung 
+					- infos über was getan wurde
+					- wird sofort geschrieben
+					- wiederherstellung
 
-				 - änderungen #von #Metadaten #persistent #machen 
+				- änderungen von Metadaten persistent machen
 
-			 - anforderungen an #ei #Modernes System #
+			- anforderungen an ei Modernes System
 
-				 - #große #partitionen 
-				 - schnell #
-				 - #sicher #vor crashes 
+				- große partitionen
+				- schnell
+				- sicher vor crashes
 
-	 - Freier #Speicher 
+	- Freier Speicher
 
-		 - Listenmethode 
+		- Listenmethode
 
-			 - verkettete #liste 
+			- verkettete liste
 
-		 - #Index methode #
+		- Index methode
 
-			 - #freie blöcke #werden indexiert #verwaltet 
-			 - #baum #struktur 
+			- freie blöcke werden indexiert verwaltet
+			- baum struktur
 
-				 - blatt #= index 
-				 - #ast #= #weitere liste 
+				- blatt = index
+				- ast = weitere liste
 
-			 - #bitvektor 
+			- bitvektor
 
-				 - #fibt an #ob #belegt #oder #nicht 
+				- fibt an ob belegt oder nicht
 
-		 - vektor #methode 
+		- vektor methode
 
-	 - Strategien #
+	- Strategien
 
-		 - zusammenhängend 
-		 - #Gestreut 
+		- zusammenhängend
+		- Gestreut
 
-			 - #wenn #datei #zu #groß #, 
- weiteren #deskriptor #nutzen 
+			- wenn datei zu groß,
+weiteren deskriptor nutzen
 
-	 - Schutz 
+	- Schutz
 
-		 - #Discretionary #Access Control 
+		- Discretionary Access Control
 
-			 - #Zugriffsrechte 
+			- Zugriffsrechte
 
-				 - read 
-				 - #write 
-				 - #exec #
-				 - delete 
+				- read
+				- write
+				- exec
+				- delete
 
-			 - #Benutzerkategorien 
+			- Benutzerkategorien
 
-				 - #System 
-				 - #Subtopic 2 
+				- System
+				- Subtopic 2
 
-			 - #Schutzmatrix , #
- wer #von #wem 
-			 - #Benutzerverwaltung 
-			 - #Anwendung 
+			- Schutzmatrix,
+wer von wem
+			- Benutzerverwaltung
+			- Anwendung
 
-				 - #unix #hat #das konzept #ohne #löschen 
+				- unix hat das konzept ohne löschen
 
-		 - #Allgemeine #Zugriffsmatrix 
+		- Allgemeine Zugriffsmatrix
 
-			 - #Nutzer in #reihen 
-			 - #Dateien in #Spalten #
-			 - #Wert #= #Zugriff 
-			 - Nachteil #
+			- Nutzer in reihen
+			- Dateien in Spalten
+			- Wert = Zugriff
+			- Nachteil
 
-				 - #viel speicher #
+				- viel speicher
 
-		 - acess control list 
+		- acess control list
 
-			 - #Auflösen #der #Zugriffsmatrix in für #ein #Objekt #alle #Subjekte 
-			 - #leere fallen #weg 
-			 - #probleme 
+			- Auflösen der Zugriffsmatrix in für ein Objekt alle Subjekte
+			- leere fallen weg
+			- probleme
 
-				 - benutzerlöschen 
+				- benutzerlöschen
 
-		 - #capability list 
+		- capability list
 
-			 - #Auflösen #der matrix pro #benutzer ( subjekte #) 
-			 - #leere #rechte fallen #weg 
-			 - #probleme 
+			- Auflösen der matrix pro benutzer ( subjekte)
+			- leere rechte fallen weg
+			- probleme
 
-				 - #benutzer hatte #mal #rechte , #aber #sie sind weg 
-				 - #altesTicket #wird #genutzt 
-				 - #löschen #einer #Datei 
+				- benutzer hatte mal rechte, aber sie sind weg
+				- altesTicket wird genutzt
+				- löschen einer Datei
 
-		 - Mandatory acess #control 
+		- Mandatory acess control
 
-			 - #Bell #Lapardula 
+			- Bell Lapardula
 
-				 - #Subjekte und #Objekte #Klassifizieren 
-				 - #Zugriffsrechte #von #System #entschieden 
-				 - #Klassifikation 
+				- Subjekte und Objekte Klassifizieren
+				- Zugriffsrechte von System entschieden
+				- Klassifikation
 
-					 - geheim 
-					 - #vertraulich 
-					 - #öffentlich #
+					- geheim
+					- vertraulich
+					- öffentlich
 
-			 - #Rollenbasiert 
+			- Rollenbasiert
 
-				 - #Benutzern werden rollen #zugeordnet 
-				 - #Rechte #aus #Kontext und #Rolle 
-				 - #viel #administration #nötig 
+				- Benutzern werden rollen zugeordnet
+				- Rechte aus Kontext und Rolle
+				- viel administration nötig
 
-			 - #probleme 
+			- probleme
 
-				 - #Komplex und #Unhändlich #
+				- Komplex und Unhändlich
+
+   Tags & Topics:
+   #Schutzmechanismen
+   #Recht
+   #Zugriffsrecht
+   #Index
+   #Subjekt
+   #Rolle
+   #Dateityp
+   #Objektprogramm
+   #Dateisystem
+   #Problem
+   #Verzeichnisoperationen
+   #Drive
+   #Dateibaum
+   #Seite
+   #zähler
+   #Freiräumen
+   #Verzeichnisoperation
+   #Organisier
+   #zusammengehörigen
+   #Rechte
+   #Proze�
+   #Programme
+   #Auflösen
+   #Benutzer
+   #Controller
+   #Datei
+   #Aufgabe
+   #Benutzerkategorien
+   #Plattendateiverzeichnis
+   #Klassifiziere
+   #Benutzerverwaltung
+   #l�nge
+   #Logische
+   #Schutz
+   #Zugriff
+   #länge
+   #Programm
+   #Listenmethode
+   #Zyklen
+   #Makro
+   #Schutzmechanisme
+   #bin�rprogramme
+   #Dateiverzeichnis
+   #Klassifikation
+   #Benutzern
+   #Langsame
+   #Fork
+   #Probleme
+   #Zugriffsmatrix
+   #I-Node
+   #Working
+   #Speicher
+   #Dateisystems
+   #Paging
+   #Verzeichnisse
+   #Quasi
+   #Strategien
+   #Block
+   #Dateideskriptor
+   #Prozesse
+   #Makros
+   #altesTicket
+   #Objekt
+   #Nodes
+   #Benutzerkategorie
+   #Einteilung
+   #Komplex
+   #Nachteil
+   #Dateiart
+   #Dateiverzeichniseintrag
+   #Objektprogramme
+   #Festplatte
+   #Schutzverletzung
+   #Namensverwaltung
+   #Eltern
+   #Speicherverwaltung
+   #Effizienter
+   #Zugriffsrechte
+   #Objekte
+   #Strategie
+   #Binärprogramme
+   #Position
+   #löschen
+   #Nutzer
+   #Dateien
+   #Organisieren
+   #Wert

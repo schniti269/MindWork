@@ -5,8 +5,12 @@ Jedes Programm muss so geschrieben sein, dass es in einen – zu mindest den gr 
 zwingend zusammenh ¨angend sein!
 
    Tags & Topics:
-   #Hauptspeichers
    #Hauptspeicher
-   #⋄Aufgrund
+   #Hauptspeichers
    #BS–104Speicherverwaltung
    #Abarbeitung
+   #⋄Aufgrund
+
+[Previous: #BS-Folien_255](BS-Folien_255.md)
+
+[Next: #BS-Folien_255](BS-Folien_255.md)

@@ -6,3 +6,7 @@ evolved the role. Supply chains do drive the enterprise. And when
 
    Tags & Topics:
    
+
+[Previous: #C-Study22 - Own your transformation_74](C-Study22 - Own your transformation_74.md)
+
+[Next: #C-Study22 - Own your transformation_74](C-Study22 - Own your transformation_74.md)

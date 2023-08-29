@@ -7,8 +7,12 @@ Prof. Dr. Henning Pagnia (DHBW Mannheim) Advanced IT Herbst 2023 106/132Server-P
    Tags & Topics:
    #Namensauﬂ
    #106/132Server
-   #unknownhostexception
-   #Adresse
    #UnknownHostException
    #DNS-Rechneradresse
+   #Adresse
    #Rechneradresse
+   #unknownhostexception
+
+[Previous: #AdvIT-Folien_333](AdvIT-Folien_333.md)
+
+[Next: #AdvIT-Folien_333](AdvIT-Folien_333.md)

@@ -5,5 +5,9 @@
 Betriebssysteme – L ¨osungsvorschl ¨age Fr¨uhjahr 2023 ©Henning Pagnia/J ¨org Baumgart L¨OS–8(AUF-7) Seitentauschstrategien
 
    Tags & Topics:
-   #Seitentauschstrategie
    #Seitentauschstrategien
+   #Seitentauschstrategie
+
+[Previous: #BS-Loesungen_28](BS-Loesungen_28.md)
+
+[Next: #BS-Loesungen_28](BS-Loesungen_28.md)

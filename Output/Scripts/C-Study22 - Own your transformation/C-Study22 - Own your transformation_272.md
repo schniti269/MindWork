@@ -6,3 +6,7 @@ supply-chain-ecosystems-revised-2018
 
    Tags & Topics:
    #Hinish
+
+[Previous: #C-Study22 - Own your transformation_273](C-Study22 - Own your transformation_273.md)
+
+[Next: #C-Study22 - Own your transformation_273](C-Study22 - Own your transformation_273.md)

@@ -6,8 +6,12 @@ if (referenzbit == 1) { // (in Software)
 
    Tags & Topics:
    #⇒Z¨ahler
-   #⋄Verwaltung
    #Referenzbit
-   #⋄Verwendung
-   #Intervallanfang
+   #⋄Verwaltung
    #Referenzbits
+   #Intervallanfang
+   #⋄Verwendung
+
+[Previous: #BS-Folien_341](BS-Folien_341.md)
+
+[Next: #BS-Folien_341](BS-Folien_341.md)

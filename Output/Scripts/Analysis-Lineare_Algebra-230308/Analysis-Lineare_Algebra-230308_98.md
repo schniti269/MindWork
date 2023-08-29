@@ -6,3 +6,7 @@ und dann den Grad des Polynoms durch eine Polynomdivision um eine Ordnung zu red
 
    Tags & Topics:
    #Polynoms
+
+[Previous: #Analysis-Lineare_Algebra-230308_99](Analysis-Lineare_Algebra-230308_99.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_99](Analysis-Lineare_Algebra-230308_99.md)

@@ -5,11 +5,15 @@ push IC // auf den Stack
 IC := <Adresse des ersten Befehls><Prozedur-Befehle abarbeiten>
 
    Tags & Topics:
-   #Methodenaufruf
-   #•Sprungbefehl
-   #Adresse
-   #•sprungbefehl
    #•Prozedur-/
    #Jump):IC
-   #Befehls><Prozedur-Befehle
+   #•Sprungbefehl
+   #•sprungbefehl
+   #Adresse
    #jump):ic
+   #Befehls><Prozedur-Befehle
+   #Methodenaufruf
+
+[Previous: #BS-Folien_66](BS-Folien_66.md)
+
+[Next: #BS-Folien_66](BS-Folien_66.md)

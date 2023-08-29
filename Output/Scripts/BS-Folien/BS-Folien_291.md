@@ -5,13 +5,17 @@ Betriebssysteme DHBW Mannheim ©Henning Pagnia Version 4.23 Fr¨uhjahr 2023 BS�
 Abb. 13 Konzeptuelle Struktur des virtuellen Speichers...Hauptspeicher
 
    Tags & Topics:
-   #Programmadressen
    #Adressen
-   #inrealeHauptspeicheradressen
+   #Speicher
    #speicher
    #Programmteile
+   #Programmadressen
+   #inrealeHauptspeicheradressen
    #Adresse
    #BS–117Speicherverwaltung
-   #Programmteil
    #Programmadresse
-   #Speicher
+   #Programmteil
+
+[Previous: #BS-Folien_292](BS-Folien_292.md)
+
+[Next: #BS-Folien_292](BS-Folien_292.md)

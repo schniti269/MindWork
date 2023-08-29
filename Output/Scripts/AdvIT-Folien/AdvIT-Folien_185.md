@@ -7,3 +7,7 @@ Datenelemente
    Tags & Topics:
    #Datenelement
    #Verbraucher
+
+[Previous: #AdvIT-Folien_186](AdvIT-Folien_186.md)
+
+[Next: #AdvIT-Folien_186](AdvIT-Folien_186.md)

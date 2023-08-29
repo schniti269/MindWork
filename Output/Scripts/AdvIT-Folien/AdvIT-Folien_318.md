@@ -6,7 +6,11 @@ Multicasts sowie Broadcasts
 
    Tags & Topics:
    #Multicast
-   #anwendungen
-   #Multicasts
    #Anwendung
    #Anwendungen
+   #anwendungen
+   #Multicasts
+
+[Previous: #AdvIT-Folien_319](AdvIT-Folien_319.md)
+
+[Next: #AdvIT-Folien_319](AdvIT-Folien_319.md)

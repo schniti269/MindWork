@@ -5,14 +5,18 @@ kein Defragmentierungs-Tool (Workaround: tar –c |tar –x)
 •seit 2008: ext4FS (bis zu 1 EiB Datei- und Dateisystemgr ¨oße, verbesserte Performance, ...)
 
    Tags & Topics:
-   #Sicherheitskopien
-   #Metadaten
-   #Defragmentierungs
-   #Performance
-   #Superblock
-   #Verzeichniseintr
-   #Kopfposit
-   #Sicherheitskopie
    #Metadat
+   #Sicherheitskopien
+   #Superblock
+   #Kopfposit
+   #Metadaten
+   #Performance
+   #Defragmentierungs
    #Workaround
+   #Verzeichniseintr
    #Defragmentierungs-Tool
+   #Sicherheitskopie
+
+[Previous: #BS-Folien_464](BS-Folien_464.md)
+
+[Next: #BS-Folien_464](BS-Folien_464.md)

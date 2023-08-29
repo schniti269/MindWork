@@ -5,5 +5,9 @@ free = 01.
 0−
 
    Tags & Topics:
-   #80−
    #90−
+   #80−
+
+[Previous: #BS-Uebungen_24](BS-Uebungen_24.md)
+
+[Next: #BS-Uebungen_24](BS-Uebungen_24.md)

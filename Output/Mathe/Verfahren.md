@@ -1,39 +1,59 @@
-# ## #Verfahren 
+### Verfahren
 
- - #Dierektintegrieren 
- - #Logarythmisches #Integral #
+- Dierektintegrieren
+- Logarythmisches Integral
 
-	 - #Int(f'x / #fx)=ln(abs(fx))+c 
+	- Int(f'x/fx)=ln(abs(fx))+c
 
- - #Integration #durch #subsittion #
+- Integration durch subsittion
 
-	 - #Satz 
+	- Satz
 
-		 - #Etwas #haben was #integrierbar #ist 
-		 - Finden #was #drinne 
-		 - #Finde #ich in #der #äußeren #fnktion die #ableitung 
+		- Etwas haben was integrierbar ist
+		- Finden was drinne
+		- Finde ich in der äußeren fnktion die ableitung 
 
- - #Partielle #Integration 
+- Partielle Integration
 
-	 - Satz 
+	- Satz
 
- - #Partialbruchzerlegung 
+- Partialbruchzerlegung
 
-	 - #Wenn #grad #zähler #größer #nenner #
+	- Wenn grad zähler größer nenner
 
-		 - #Polynomdivision #
+		- Polynomdivision
 
-			 - #Ergebnis #integrieren mit #rest #fortfahren #
+			- Ergebnis integrieren mit rest fortfahren
 
-	 - #Nenner in #Nullstellen #oder #quadratische #Anteile #faktorisieren #
-	 - Partialbruch #ansatz mit #Unbekannten #aufstellen #
+	- Nenner in Nullstellen oder quadratische Anteile faktorisieren
+	- Partialbruch ansatz mit Unbekannten aufstellen
 
-		 - #Ax+B #zähler 
-		 - Für #grad #des #nenners Unbekannten 
-		 - Lgs #der unbekannten lösen #
+		- Ax+B zähler
+		- Für grad des nenners Unbekannten
+		- Lgs der unbekannten lösen
 
-			 - 
-			 - #Unterknoten 2 #
+			- 
+			- Unterknoten 2
 
-		 - #Einsetzen in originales 
-		 - #Jetzt #integrierbar 
+		- Einsetzen in originales
+		- Jetzt integrierbar
+
+   Tags & Topics:
+   #Einsetze
+   #Int(f'x
+   #Finden
+   #Integration
+   #Polynomdivision
+   #Dierektintegrier
+   #Lgs
+   #Einsetzen
+   #Satz
+   #Partialbruch
+   #Verfahren
+   #Dierektintegrieren
+   #Ergebnis
+   #Anteile
+   #zähler
+   #Finde
+   #Anteil
+   #lösen

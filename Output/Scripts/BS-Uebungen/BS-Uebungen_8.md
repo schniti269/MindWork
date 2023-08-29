@@ -5,11 +5,15 @@ tape.p();disk.p();// csB;tape.v();disk.v();
 } // getTapeDiskpublic void getPrinterTape(){
 
    Tags & Topics:
-   #csb;tape.v();disk.v
    #getTapeDisk
+   #getdiskprinter
+   #gettapedisk
    #getDiskPrinterpublic
    #csB;tape.v();disk.v
-   #gettapedisk
+   #csb;tape.v();disk.v
    #csA;disk.v();printer.v
    #getDiskPrinter
-   #getdiskprinter
+
+[Previous: #BS-Uebungen_9](BS-Uebungen_9.md)
+
+[Next: #BS-Uebungen_9](BS-Uebungen_9.md)

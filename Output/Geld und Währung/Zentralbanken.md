@@ -1,18 +1,30 @@
-# ## #Zentralbanken 
+### Zentralbanken
 
- - #EZB 
+- EZB
 
-	 - #Ziel 
+	- Ziel
 
-		 - #Preisstabilität 
-		 - #Danach weitere #Wirtschftliche - #Ziele #
+		- Preisstabilität
+		- Danach weitere Wirtschftliche-Ziele
 
- - #FED #
+- FED
 
-	 - #Ziel #
+	- Ziel
 
-		 - #Prosarität #der #Wirtschaft #
-		 - #Produktion #Fördern #
-		 - #Preisstab i m Hintergrund #
+		- Prosarität der Wirtschaft
+		- Produktion Fördern
+		- Preisstab im Hintergrund
 
- - #Makroökonomische #Zielgrößen #
+- Makroökonomische Zielgrößen
+
+   Tags & Topics:
+   #Wirtschftliche
+   #Wirtschftliche-Ziele
+   #Ziel
+   #Preisstab
+   #makro�konomische
+   #Wirtschaft
+   #Zentralbanken
+   #Ziele
+   #Produktion
+   #Zentralbank

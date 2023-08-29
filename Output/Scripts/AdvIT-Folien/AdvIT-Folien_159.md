@@ -5,9 +5,13 @@
 ⇒Programmierer k ¨onnte vergessen, die Unterbrechungen wieder zuzulassen
 
    Tags & Topics:
-   #Verlust
-   #Maschinenbefehl
-   #A-Operatione
-   #System-Call
    #Mode
    #System-Mode
+   #System-Call
+   #Maschinenbefehl
+   #Verlust
+   #A-Operatione
+
+[Previous: #AdvIT-Folien_16](AdvIT-Folien_16.md)
+
+[Next: #AdvIT-Folien_16](AdvIT-Folien_16.md)

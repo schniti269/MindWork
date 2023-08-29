@@ -5,8 +5,12 @@ Thread Thread
 Kernel KernelProcess 1 Process 1 Process 1 Process
 
    Tags & Topics:
-   #Multi
+   #Nebenl¨auﬁgkeit
    #Threading
    #Processing
-   #Nebenl¨auﬁgkeit
+   #Multi
    #Multi-Threading
+
+[Previous: #AdvIT-Folien_52](AdvIT-Folien_52.md)
+
+[Next: #AdvIT-Folien_52](AdvIT-Folien_52.md)

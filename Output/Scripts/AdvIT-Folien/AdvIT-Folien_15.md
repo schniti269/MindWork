@@ -5,7 +5,11 @@ freie Unix-Shell mit vielen Funktionen
 Platzhalter
 
    Tags & Topics:
+   #Arbeit
+   #Arbeiten
    #Again
    #Bourne
-   #Arbeiten
-   #Arbeit
+
+[Previous: #AdvIT-Folien_150](AdvIT-Folien_150.md)
+
+[Next: #AdvIT-Folien_150](AdvIT-Folien_150.md)

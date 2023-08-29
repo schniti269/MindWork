@@ -7,3 +7,7 @@ pid = fork ()
    Tags & Topics:
    #call
    #⋄Stattdessen:⇒System
+
+[Previous: #BS-Folien_75](BS-Folien_75.md)
+
+[Next: #BS-Folien_75](BS-Folien_75.md)

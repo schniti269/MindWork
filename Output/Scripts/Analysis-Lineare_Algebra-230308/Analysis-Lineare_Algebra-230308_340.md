@@ -7,3 +7,7 @@ Beispiel 3.9.Ein wichtiges Verfahren zur Nullstellensuche, und allgemein zum Lö
    Tags & Topics:
    #Newton
    #3.2.1
+
+[Previous: #Analysis-Lineare_Algebra-230308_341](Analysis-Lineare_Algebra-230308_341.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_341](Analysis-Lineare_Algebra-230308_341.md)

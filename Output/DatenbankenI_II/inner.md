@@ -1,17 +1,25 @@
-# ## inner 
+### inner
 
- - Cross 
+- Cross
 
-	 - #Karthesisches #Produkt 
+	- Karthesisches Produkt
 
- - #Theta 
+- Theta
 
-	 - #Cross join #mit #filter 
+	- Cross join mit filter 
 
- - Natural 
+- Natural
 
-	 - #nur #wenn #beide #Tabellen #gleichnamige #Attribute 
-	 - #Filter #sind automatisch 
+	- nur wenn beide Tabellen gleichnamige Attribute
+	- Filter sind automatisch
 
-		 - #Cross vs Natural 
-		 - #Aus #erster Tabelle wird #attribut #genutzt #
+		- Cross vs Natural
+		- Aus erster Tabelle wird attribut genutzt
+
+   Tags & Topics:
+   #Filter
+   #Tabell
+   #Attribute
+   #attribut
+   #Tabellen
+   #Produkt

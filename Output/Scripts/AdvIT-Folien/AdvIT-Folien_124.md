@@ -7,3 +7,7 @@ entgegen, puﬀert sie und teilt sukzessive Ressourcen zu
    Tags & Topics:
    #Spooling
    #Auftr
+
+[Previous: #AdvIT-Folien_125](AdvIT-Folien_125.md)
+
+[Next: #AdvIT-Folien_125](AdvIT-Folien_125.md)

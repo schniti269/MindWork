@@ -6,3 +6,7 @@ Abbildung 2.2.1. Eine stückweise definierte Funktion mit Sprung an x= 1
 
    Tags & Topics:
    #FUNKTIONEN
+
+[Previous: #Analysis-Lineare_Algebra-230308_181](Analysis-Lineare_Algebra-230308_181.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_181](Analysis-Lineare_Algebra-230308_181.md)

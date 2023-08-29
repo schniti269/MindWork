@@ -1,53 +1,78 @@
-# ## Bäume 
+### Bäume
 
- - #Knoten 
+- Knoten
 
-	 - #Wurzel 
+	- Wurzel
 
-		 - #Ursprung 
+		- Ursprung
 
-	 - Wenn #knoten keine #unterknoten #mehr hat- #> #BLATT 
+	- Wenn knoten keine unterknoten mehr hat-> BLATT
 
- - #Vorraussetzung 
+- Vorraussetzung
 
-	 - #I m baum #definiert wie was #einzuordnen #ist 
-	 - #EINE #transitiv #gültige relation #für #gesamten #baum #
+	- Im baum definiert wie was einzuordnen ist
+	- EINE transitiv gültige relation für gesamten baum
 
- - #Arten #
+- Arten
 
-	 - Binärbaum #
+	- Binärbaum
 
-		 - #Node #
+		- Node
 
-			 - Left #
-			 - #Data #
-			 - #Right #
+			- Left
+			- Data
+			- Right
 
-		 - Spezial 
+		- Spezial
 
-			 - maximal 2 #Kanten pro #node #
-			 - Suche #Komplexität #von #O(log(n ) ) 
-			 - #Einfügen #Komplexität #von #O(log(n ) #) 
+			- maximal 2 Kanten pro node
+			- Suche Komplexität von O(log(n))
+			- Einfügen Komplexität von O(log(n))
 
-		 - #Balancieren 
+		- Balancieren
 
-	 - #AVL #TREE 
+	- AVL TREE
 
-		 - Adelson - #velski #landis 
-		 - #Eigenschaften 
+		- Adelson-velski landis
+		- Eigenschaften
 
-			 - #Balanciert #sich #selbst 
-			 - #Cs.usfca.edu 
+			- Balanciert sich selbst
+			- Cs.usfca.edu
 
-		 - #Balancieren #
+		- Balancieren
 
-			 - #Differenz #der #Tiefe / #Höhe #der #beiden #Kinder #mehr #als 1 #
-			 - Rechts #zu viel 
+			- Differenz der Tiefe/Höhe der beiden Kinder mehr als 1
+			- Rechts zu viel 
 
-				 - #Linksrotation 
+				- Linksrotation
 
-			 - #Links #zu viel 
+			- Links zu viel 
 
-				 - #Rechtsrotation 
+				- Rechtsrotation
 
-			 - #Rekursiv #so #tief runtergehen #, #dass #man irgendwo die #Differenz weg null #Node #hat 
+			- Rekursiv so tief runtergehen, dass man irgendwo die Differenz weg null Node hat
+
+   Tags & Topics:
+   #Left
+   #Rechtsrotation
+   #Suche
+   #Höhe
+   #Kanten
+   #Kind
+   #Wurzel
+   #Art
+   #Kinder
+   #Arten
+   #balancieren
+   #Differenz
+   #Vorraussetzung
+   #Bäume
+   #Tiefe
+   #Node
+   #Knoten
+   #Binärbaum
+   #Linksrotation
+   #Balancieren
+   #Kant
+   #Ursprung
+   #O(log(n

@@ -5,16 +5,20 @@ Folgen steuert, die auch potentiell gefährlich sein können.Geschichte und Ents
 •1614 publizierte John Napier seine Logarithmentafel. Mitentdecker ist Jost Bürgi.
 
    Tags & Topics:
-   #Ablauf
    #Verantwortung
+   #Tafel
+   #Entstehung
+   #Dezimalsystem
    #Abläufe
-   #Informatiker
-   #Grundrechenarten
+   #•Abakus
+   #Logarithmentafel
    #Entstehung/1
    #Restunsicherheit
-   #Entstehung
-   #Logarithmentafel
-   #Dezimalsystem
    #Grundrechenart
-   #•Abakus
-   #Tafel
+   #Ablauf
+   #Informatiker
+   #Grundrechenarten
+
+[Previous: #Einführung-IT-Teil1_22](Einführung-IT-Teil1_22.md)
+
+[Next: #Einführung-IT-Teil1_22](Einführung-IT-Teil1_22.md)

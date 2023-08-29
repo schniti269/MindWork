@@ -5,5 +5,9 @@ Swap area
 (a)0
 
    Tags & Topics:
-   #21Pag
    #21page
+   #21Pag
+
+[Previous: #BS-Folien_328](BS-Folien_328.md)
+
+[Next: #BS-Folien_328](BS-Folien_328.md)

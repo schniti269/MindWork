@@ -6,3 +6,7 @@ technology and of technical professionals in improving global conditions.
 
    Tags & Topics:
    #•Publikationen
+
+[Previous: #Einführung-IT-Teil1_89](Einführung-IT-Teil1_89.md)
+
+[Next: #Einführung-IT-Teil1_89](Einführung-IT-Teil1_89.md)

@@ -5,5 +5,9 @@ Weiterer Konstruktor
 public  Socket(InetAddress  host, int port)
 
    Tags & Topics:
-   #Verbindung
    #TCP-Verbindung
+   #Verbindung
+
+[Previous: #AdvIT-Folien_34](AdvIT-Folien_34.md)
+
+[Next: #AdvIT-Folien_34](AdvIT-Folien_34.md)

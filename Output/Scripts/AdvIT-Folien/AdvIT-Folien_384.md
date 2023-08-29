@@ -5,8 +5,12 @@ bzw. des Empf ¨angers (falls zu senden)
 bzw. des Empf ¨angers (falls zu senden)
 
    Tags & Topics:
+   #Sender
+   #getPort
    #Senders
    #Adresse
    #Nummer
-   #Sender
-   #getPort
+
+[Previous: #AdvIT-Folien_385](AdvIT-Folien_385.md)
+
+[Next: #AdvIT-Folien_385](AdvIT-Folien_385.md)

@@ -6,3 +6,7 @@ K0=
 
    Tags & Topics:
    #100nwirdAufzinsfaktor
+
+[Previous: #Analysis-Lineare_Algebra-230308_169](Analysis-Lineare_Algebra-230308_169.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_169](Analysis-Lineare_Algebra-230308_169.md)

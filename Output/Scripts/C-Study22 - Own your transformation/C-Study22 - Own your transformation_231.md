@@ -6,3 +6,7 @@ personalized action roadmap toward data-led innovation.
 
    Tags & Topics:
    
+
+[Previous: #C-Study22 - Own your transformation_232](C-Study22 - Own your transformation_232.md)
+
+[Next: #C-Study22 - Own your transformation_232](C-Study22 - Own your transformation_232.md)

@@ -5,7 +5,11 @@ Abbildungsmatrix
 Aφ=
 
    Tags & Topics:
-   #Dimension
-   #Bild
-   #Hülle
    #Bildes
+   #Dimension
+   #Hülle
+   #Bild
+
+[Previous: #Analysis-Lineare_Algebra-230308_695](Analysis-Lineare_Algebra-230308_695.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_695](Analysis-Lineare_Algebra-230308_695.md)

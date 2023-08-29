@@ -6,3 +6,7 @@ data = buﬀer[nextfull];
 
    Tags & Topics:
    
+
+[Previous: #AdvIT-Folien_198](AdvIT-Folien_198.md)
+
+[Next: #AdvIT-Folien_198](AdvIT-Folien_198.md)

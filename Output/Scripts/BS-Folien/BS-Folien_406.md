@@ -7,3 +7,7 @@ Betriebssysteme DHBW Mannheim ©Henning Pagnia Version 4.23 Fr¨uhjahr 2023 BS�
    Tags & Topics:
    #Dat
    #Basisdateisystem
+
+[Previous: #BS-Folien_407](BS-Folien_407.md)
+
+[Next: #BS-Folien_407](BS-Folien_407.md)

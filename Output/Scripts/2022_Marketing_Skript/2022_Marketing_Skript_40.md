@@ -5,22 +5,26 @@ Homburg 2016, S. 63f.
 Objektivität§Ergebnisse des Messvorgangs sind unabhängig vom Durchführenden.§Mehrere Personen, die unabhängig voneinander die Messergebnisse registrieren, kommen zum gleichen Ergebnis.
 
    Tags & Topics:
-   #Messe
-   #Merkmale§Ergebnis
-   #Objektivität§Ergebnisse
-   #Messergebnisse
-   #Symbol
-   #Variable
-   #Symbolen
-   #Merkmalsausprägung
-   #Merkmalsausprägungen
-   #Messvorgang
    #GrundlagenMessung
-   #Zuordnung
-   #Messung
+   #Variable
+   #Symbol
    #Messwerte
-   #Sachverhalten§Ergebnis
    #Merkmals)3.1.
+   #Messung
+   #Messen
+   #Merkmale§Ergebnis
+   #Messe
+   #Messvorgang
    #Aufzeichnungvon
    #Messvorgangs
-   #Messen
+   #Messergebnisse
+   #Merkmalsausprägungen
+   #Zuordnung
+   #Symbolen
+   #Objektivität§Ergebnisse
+   #Merkmalsausprägung
+   #Sachverhalten§Ergebnis
+
+[Previous: #2022_Marketing_Skript_41](2022_Marketing_Skript_41.md)
+
+[Next: #2022_Marketing_Skript_41](2022_Marketing_Skript_41.md)

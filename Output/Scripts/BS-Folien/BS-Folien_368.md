@@ -7,3 +7,7 @@ Vorteil: Speicherplatzersparnis, Zeitersparnis
    Tags & Topics:
    #Zeitersparnis
    #Code-Seite
+
+[Previous: #BS-Folien_369](BS-Folien_369.md)
+
+[Next: #BS-Folien_369](BS-Folien_369.md)

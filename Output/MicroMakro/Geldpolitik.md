@@ -1,19 +1,37 @@
-# ## #Geldpolitik 
+### Geldpolitik
 
- - #euro & #EZB 
+- euro & EZB
 
-	 - #EZB #Rat 
+	- EZB Rat
 
-		 - wählt #EZB #Vorsitzenden 
-		 - Indirekter #Einfluss #da #Mitglieder von #EU #Parlament bestimmt werden 
+		- wählt EZB Vorsitzenden
+		- Indirekter Einfluss da Mitglieder von EU Parlament bestimmt werden
 
- - #Dollar und #Fed 
+- Dollar und Fed
 
-	 - auf #Fed #wird INDIREKT #Einfluss genommen 
+	- auf Fed wird INDIREKT Einfluss genommen 
 
- - #Zinsen 
+- Zinsen
 
-	 - #Einwirkungen 
+	- Einwirkungen
 
- - #Geldmenge 
- - #Eine #Geldpolitik geht von #der #Notenbank aus 
+- Geldmenge
+- Eine Geldpolitik geht von der Notenbank aus
+
+   Tags & Topics:
+   #Geldpolitik
+   #Einwirkung
+   #Zinsen
+   #Dollar
+   #vorsitzend
+   #Geldmenge
+   #Mitglied
+   #Vorsitzenden
+   #Fed
+   #Mitglieder
+   #geldpolitik
+   #Zins
+   #Rat
+   #Einwirkungen
+   #INDIREKT
+   #Parlament

@@ -1,14 +1,19 @@
-# ## Try with #Recource 
+### Try with Recource
 
- - in #die #klammer hinter try kommt die #ressource 
- - benötight #kein finally mehr 
- - #bspw cloasable #interface 
- - Try With #resource 
+- in die klammer hinter try kommt die ressource
+- benötight kein finally mehr 
+- bspw cloasable interface
+- Try With resource
 
-	 - Pro 
+	- Pro
 
-		 - #Vermeiden von schachtelnden 
+		- Vermeiden von schachtelnden
 
-	 - #Con 
+	- Con
 
-		 - #Aber #andere reinholte 
+		- Aber andere reinholte
+
+   Tags & Topics:
+   #benötight
+   #vermeiden
+   #Vermeiden

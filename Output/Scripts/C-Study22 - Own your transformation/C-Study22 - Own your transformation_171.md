@@ -6,3 +6,7 @@ uncertainty and the ability to
 
    Tags & Topics:
    
+
+[Previous: #C-Study22 - Own your transformation_172](C-Study22 - Own your transformation_172.md)
+
+[Next: #C-Study22 - Own your transformation_172](C-Study22 - Own your transformation_172.md)

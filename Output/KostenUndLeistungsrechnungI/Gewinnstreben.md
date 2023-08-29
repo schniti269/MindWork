@@ -1,4 +1,7 @@
-# ## #Gewinnstreben 
+### Gewinnstreben
 
- - #Tatsächlich #Werte 
- - Vorhergesagte #Werte 
+- Tatsächlich Werte
+- Vorhergesagte Werte
+
+   Tags & Topics:
+   #Gewinnstreben

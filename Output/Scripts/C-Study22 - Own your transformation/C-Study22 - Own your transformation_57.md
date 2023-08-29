@@ -6,3 +6,7 @@ will be more relevant to their
 
    Tags & Topics:
    
+
+[Previous: #C-Study22 - Own your transformation_58](C-Study22 - Own your transformation_58.md)
+
+[Next: #C-Study22 - Own your transformation_58](C-Study22 - Own your transformation_58.md)

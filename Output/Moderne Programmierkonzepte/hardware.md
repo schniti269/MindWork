@@ -1,63 +1,93 @@
-# ## #hardware 
+### hardware
 
- - #Hardware #für #Interaktion 
+- Hardware für Interaktion
 
-	 - #Eingabe 
+	- Eingabe
 
-		 - #Arten 
+		- Arten
 
-			 - Tastaturen #
+			- Tastaturen
 
-				 - #Klassische #Tastatur 
+				- Klassische Tastatur
 
-			 - #Wertgeber 
+			- Wertgeber
 
-				 - #Z.b . #Drehknöpfe 
+				- Z.b. Drehknöpfe
 
-			 - #Zeigegeräte 
+			- Zeigegeräte
 
-				 - #Maus #, 
+				- Maus,
 
-			 - #Optische eingabe 
+			- Optische eingabe
 
-				 - #Laut prof auch #touch 
-				 - #
+				- Laut prof auch touch
+				- 
 
-			 - #Akustische #Eingabe 
+			- Akustische Eingabe
 
-				 - #Mikrofone 
+				- Mikrofone
 
-		 - #Gestaltungsanforderungen 
+		- Gestaltungsanforderungen
 
-			 - #Gebrauchstauglichkeit 
+			- Gebrauchstauglichkeit
 
-				 - #Nutzer 
-				 - #Aufgabe 
-				 - #Einbindung in #das System #
+				- Nutzer
+				- Aufgabe
+				- Einbindung in das System
 
-			 - #Eigenschaften geräte #
+			- Eigenschaften geräte
 
-				 - #Funktionale Merkemale #
-				 - #Elektrische Eigenschaften #
-				 - #Mechanische #Eigenschaften 
+				- Funktionale Merkemale
+				- Elektrische Eigenschaften
+				- Mechanische Eigenschaften
 
-			 - #Normen 
+			- Normen
 
-				 - MCI #
-				 - #Elektrische #sicherheit #
-				 - #Din #En #ISO 9241 #Teil 410 #
+				- MCI
+				- Elektrische sicherheit
+				- Din En ISO 9241 Teil 410
 
-			 - #Eindeutige #nutzung 
+			- Eindeutige nutzung
 
-				 - #Offensichtlich 
-				 - #Vorhersebar 
+				- Offensichtlich
+				- Vorhersebar
 
-	 - #Ausgabe 
+	- Ausgabe
 
-		 - #Arten #
-		 - #Visuelle ausgabe 
+		- Arten
+		- Visuelle ausgabe
 
-			 - #Zweidimensionale 
-			 - #Dreidimensionale 
+			- Zweidimensionale
+			- Dreidimensionale
 
-		 - #Akustuissch #
+		- Akustuissch
+
+   Tags & Topics:
+   #Mikrofon
+   #Mikrofone
+   #Dreidimensional
+   #Merkemale
+   #Z.b
+   #Akustuissch
+   #Gebrauchstauglichkeit
+   #Merkemal
+   #Art
+   #Wertgeber
+   #Arten
+   #Zweidimensionale
+   #Tastature
+   #Aufgabe
+   #Tastaturen
+   #Eingabe
+   #Norm
+   #Zweidimensional
+   #Tastatur
+   #Gestaltungsanforderung
+   #Einbindung
+   #Ausgabe
+   #Normen
+   #Optische
+   #Interaktion
+   #Gestaltungsanforderungen
+   #Dreidimensionale
+   #Maus

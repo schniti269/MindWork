@@ -5,12 +5,16 @@ eherEntweder-Oder oderExklusiv-Oder genannt.
 Damit werden auch natürliche Zahlen mit Null odernatürliche Zahlen nach DIN N0undganze
 
    Tags & Topics:
-   #Operatoren
-   #Oder
    #Operator
-   #eherEntweder
-   #oderExklusiv
-   #Seite
-   #Oderkorrekt
-   #Seiten
    #Oderwird
+   #oderExklusiv
+   #Oderkorrekt
+   #Oder
+   #Operatoren
+   #eherEntweder
+   #Seite
+   #Seiten
+
+[Previous: #Analysis-Lineare_Algebra-230308_150](Analysis-Lineare_Algebra-230308_150.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_150](Analysis-Lineare_Algebra-230308_150.md)

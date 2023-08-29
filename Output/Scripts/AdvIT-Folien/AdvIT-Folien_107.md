@@ -6,10 +6,14 @@ Alternativ lassen sich pessimistische Verfahren einsetze n, die Zyklen gar nicht
 
    Tags & Topics:
    #Wartegraphen
-   #Deadlock
-   #Wartende
-   #Zyklen
-   #Zykl
-   #Beenden
    #Zyklus
+   #Wartende
    #Beend
+   #Beenden
+   #Zykl
+   #Deadlock
+   #Zyklen
+
+[Previous: #AdvIT-Folien_108](AdvIT-Folien_108.md)
+
+[Next: #AdvIT-Folien_108](AdvIT-Folien_108.md)

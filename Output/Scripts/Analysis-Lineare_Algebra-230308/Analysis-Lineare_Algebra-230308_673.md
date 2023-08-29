@@ -5,7 +5,11 @@ sucht x(i)fürA·x(i)=e(i)gilt. Das ist ein lineares Gleichungssystem, das man s
 Standardbasisvektoren gleichzeitig lösen kann.
 
    Tags & Topics:
+   #Aφ·x
+   #x(i)fürA·x(i)=e(i)gilt
    #FürA·x
    #Urbilder
-   #x(i)fürA·x(i)=e(i)gilt
-   #Aφ·x
+
+[Previous: #Analysis-Lineare_Algebra-230308_674](Analysis-Lineare_Algebra-230308_674.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_674](Analysis-Lineare_Algebra-230308_674.md)

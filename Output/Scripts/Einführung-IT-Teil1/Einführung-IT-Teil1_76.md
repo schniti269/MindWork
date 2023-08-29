@@ -5,21 +5,25 @@ durch Internetdienstanbieter errichtet oder erweitert, um einen Zugang zum Inter
 Zwischensysteme sind Switches, Paketvermittler, Bridges und Router.Moore’s Law
 
    Tags & Topics:
+   #Organisation
+   #Datenpakete
+   #datenpaketer
+   #Zwischensystem
+   #Switches
+   #Switche
+   #Paketvermittler
+   #Kontinente
+   #Zugang
+   #Bridg
+   #Organisationen
+   #wan
+   #Zwischensysteme
+   #Bridges
+   #Law
    #Kontinent
    #WAN
    #WANs
-   #Datenpakete
-   #Paketvermittler
-   #Zwischensysteme
-   #Law
-   #Organisationen
-   #datenpaketer
-   #Kontinente
-   #Zwischensystem
-   #Organisation
-   #Switche
-   #Bridg
-   #Bridges
-   #wan
-   #Switches
-   #Zugang
+
+[Previous: #Einführung-IT-Teil1_77](Einführung-IT-Teil1_77.md)
+
+[Next: #Einführung-IT-Teil1_77](Einführung-IT-Teil1_77.md)

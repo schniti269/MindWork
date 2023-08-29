@@ -5,6 +5,10 @@ MS-DOS Dateisystem
 •¨Uberblick:
 
    Tags & Topics:
-   #Dateigr
-   #DOS
    #Beide
+   #DOS
+   #Dateigr
+
+[Previous: #BS-Folien_465](BS-Folien_465.md)
+
+[Next: #BS-Folien_465](BS-Folien_465.md)

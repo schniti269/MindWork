@@ -6,3 +6,7 @@ Ein Monitor ist dabei eine programmiersprachliche Einheit aus
 
    Tags & Topics:
    #Monitor
+
+[Previous: #AdvIT-Folien_279](AdvIT-Folien_279.md)
+
+[Next: #AdvIT-Folien_279](AdvIT-Folien_279.md)

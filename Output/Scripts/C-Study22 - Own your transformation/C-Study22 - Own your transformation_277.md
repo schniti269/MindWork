@@ -5,7 +5,11 @@ coffee industry.” Business Insider. November 14, 2011.
 https://www.businessinsider.com/facts-about-the-
 
    Tags & Topics:
-   #Farmers
-   #Goldschein
-   #Insider
    #November
+   #Goldschein
+   #Farmers
+   #Insider
+
+[Previous: #C-Study22 - Own your transformation_278](C-Study22 - Own your transformation_278.md)
+
+[Next: #C-Study22 - Own your transformation_278](C-Study22 - Own your transformation_278.md)

@@ -6,9 +6,13 @@ lange warten m ¨ussen, sind sehr gute Kandidaten zum Auslagern.
 
    Tags & Topics:
    #L¨osungsansatz
-   #Warten
-   #Suspend
-   #warten
-   #⊲Seiten
    #Kandidaten
+   #Suspend
+   #⊲Seiten
+   #warten
+   #Warten
    #Kandidat
+
+[Previous: #BS-Folien_358](BS-Folien_358.md)
+
+[Next: #BS-Folien_358](BS-Folien_358.md)

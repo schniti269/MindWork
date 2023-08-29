@@ -5,9 +5,13 @@ Betriebssysteme DHBW Mannheim ©Henning Pagnia Version 4.23 Fr¨uhjahr 2023 BS�
 Betriebszust ¨ande des Prozessors
 
    Tags & Topics:
-   #Register
-   #Pointer
    #Registers
    #⋄kellerregister
    #⋄Kellerregister
    #Hardware
+   #Pointer
+   #Register
+
+[Previous: #BS-Folien_61](BS-Folien_61.md)
+
+[Next: #BS-Folien_61](BS-Folien_61.md)

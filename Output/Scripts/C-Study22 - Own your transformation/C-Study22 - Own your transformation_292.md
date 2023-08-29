@@ -7,3 +7,7 @@ com/2021/11/10/chief-supply-chain-officer-c-suite-jobs/
    Tags & Topics:
    #Wahba
    #November
+
+[Previous: #C-Study22 - Own your transformation_293](C-Study22 - Own your transformation_293.md)
+
+[Next: #C-Study22 - Own your transformation_293](C-Study22 - Own your transformation_293.md)

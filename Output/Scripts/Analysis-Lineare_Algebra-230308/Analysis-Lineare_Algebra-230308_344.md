@@ -6,3 +6,7 @@ x→x0f′(x)
 
    Tags & Topics:
    
+
+[Previous: #Analysis-Lineare_Algebra-230308_345](Analysis-Lineare_Algebra-230308_345.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_345](Analysis-Lineare_Algebra-230308_345.md)

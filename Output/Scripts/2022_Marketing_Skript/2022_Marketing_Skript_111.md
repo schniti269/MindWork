@@ -5,52 +5,56 @@ Absatzmittlerrechtlich selbständige Personen und Institutionen, die außerhalb 
 ►Ausgangssituation-Hoher Wettbewerb unter Staubsaugerherstellern-Wettbewerber: Miele, Bosch-Siemens, AEG charakterisiert durch:§Vertrieb über Handel §Größere Produktpalette im Haushaltsgerätebereich§Niedrigere Preise§Geringere Produktkomplexität-Kunde ist überfordert mit großer Zahl an Angeboten-Vorwerk-Staubsauger sind wegen ihrer hohen Komplexität erklärungsbedürftig►Ansatz des Unternehmens-Direktvertrieb über selbständige Vertreter auf Provisionsbasis-Ziel: Hohe Marktdurchdringung und Bindung der Kunden an das Unternehmen►Umsetzung-Team von Vertretern geht im jeweiligen Bezirk von Tür zu Tür-Daten über Bedürfnisse von Kunden und Einstellung von Nichtkunden sind vorhanden-Vertreter sind geschult in Verkaufstechniken§Gesprächseröffnung durch kleine Geschenke oder Fragen§Sofort nach Betreten des Haushaltes wird die Wohnung analysiert und das Gespräch auf Kundentyp zugeschnitten§Im Rahmen der Demonstration werden latente Bedürfnisse geweckt§Der Kunde wird direkt zum Kaufabschluss bewegt►Ergebnisse►Vorwerk ist Marktführer in Deutschland►Jeder dritte Haushalt besitzt einen Vorwerk-Staubsauger trotz der deutlich höheren Preise
 
    Tags & Topics:
-   #Bosch
-   #Eigentuman
-   #Institution
-   #Staubsaugerherstellern
-   #4.4.
-   #Wohnung
-   #Unternehmens
    #Kontakt
-   #Fragen§Sofort
    #Zugriff
-   #Unternehmens-Direktvertrieb
-   #durch:§Vertrieb
-   #Vorwerk
-   #Informationsaustausch
-   #Staubsauger
-   #vorhanden-Vertreter
-   #Direktvertrieb
-   #Marktdurchdringung
-   #Produktkomplexität
-   #Aufwand§keine
-   #Ergebnis
-   #Ergebnisse
-   #Bedeutung4.4.
-   #Institutionen
-   #Großhandel
-   #Team
-   #Haushaltes
-   #Ware
+   #Fragen§Sofort
+   #Institution
    #Produktkomplexität-Kunde
-   #Marktführer
-   #Haushalt
-   #Miele
+   #vorhanden-Vertreter
+   #Kontrolle
+   #Absatzfunktion
+   #Umsetzung-Team
+   #durch:§Vertrieb
+   #Staubsauger
    #Siemens
    #Umsetzung
-   #Kunde
-   #Gespräch
-   #Ausgangssituation
-   #Provisionsbasis
-   #Absatzfunktion
-   #Demonstration
-   #Vorwerk-Staubsauger
-   #Einzel
-   #Ziel
-   #Angeboten
-   #Vertriebswegeentscheidung
-   #Kontrolle
-   #Absatzgeschehens§unmittelbare
-   #Umsetzung-Team
+   #Produktkomplexität
+   #Unternehmens-Direktvertrieb
+   #Haushalt
    #Bindung
+   #Ziel
+   #Einzel
+   #Kunde
+   #Marktdurchdringung
+   #Haushaltes
+   #Informationsaustausch
+   #Großhandel
+   #Ware
+   #Vorwerk
+   #Ergebnisse
+   #Gespräch
+   #Ergebnis
+   #Vertriebswegeentscheidung
+   #Bosch
+   #Marktführer
+   #4.4.
+   #Aufwand§keine
+   #Wohnung
+   #Absatzgeschehens§unmittelbare
+   #Eigentuman
+   #Miele
+   #Institutionen
+   #Demonstration
+   #Ausgangssituation
+   #Staubsaugerherstellern
+   #Bedeutung4.4.
+   #Vorwerk-Staubsauger
+   #Unternehmens
+   #Team
+   #Angeboten
+   #Direktvertrieb
+   #Provisionsbasis
+
+[Previous: #2022_Marketing_Skript_112](2022_Marketing_Skript_112.md)
+
+[Next: #2022_Marketing_Skript_112](2022_Marketing_Skript_112.md)

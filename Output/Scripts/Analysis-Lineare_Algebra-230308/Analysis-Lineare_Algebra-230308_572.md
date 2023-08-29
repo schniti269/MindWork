@@ -6,6 +6,10 @@ Diese sehr allgemeine Art der Darstellung von Geraden wird Parameterdarstellung 
 
    Tags & Topics:
    #Gerade
-   #λ∈R}beschriebe
-   #λ∈R}beschrieben
    #Parameterdarstellung
+   #λ∈R}beschrieben
+   #λ∈R}beschriebe
+
+[Previous: #Analysis-Lineare_Algebra-230308_573](Analysis-Lineare_Algebra-230308_573.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_573](Analysis-Lineare_Algebra-230308_573.md)

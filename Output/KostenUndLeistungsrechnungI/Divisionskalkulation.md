@@ -1,34 +1,46 @@
-# ## #Divisionskalkulation 
+### Divisionskalkulation
 
- - #Mehrstufig 
+- Mehrstufig
 
-	 - #Hk #der #stufe / #Einheiten #der #Stufe 
+	- Hk der stufe / Einheiten der Stufe
 
- - Äquivalenzzffern 
+- Äquivalenzzffern
 
-	 - #gleichartig #aber #keine #identische Einheit #mehr 
-	 - #beziehug #auf hauptptodukt #
-	 - #berechnen 
+	- gleichartig aber keine identische Einheit mehr
+	- beziehug auf hauptptodukt
+	- berechnen
 
-		 - #einheitsprodukt * #faktor 
-		 - #Einheitsproduktziffer #immer 1.0 
-		 - 
-		 - #Mehrdimensio #
+		- einheitsprodukt * faktor
+		- Einheitsproduktziffer immer 1.0
+		- 
+		- Mehrdimensio
 
- - vorgehen 
+- vorgehen
 
-	 - 1 . äquivalenzziffer #* #ME = #Recheneinheiten 
+	- 1. äquivalenzziffer * ME = Recheneinheiten
 
-		 - stellt #vergleichabrkeit bei anderen mengeneinheiten her 
+		- stellt vergleichabrkeit bei anderen mengeneinheiten her
 
-	 - 2 #. Kosten pro #recheneinheit gesamtheit bilden 
+	- 2. Kosten pro recheneinheit gesamtheit bilden
 
-		 - #sind #dann basis #auf äqui #ziffer 1.0 
+		- sind dann basis auf äqui ziffer 1.0
 
-	 - 3 . #runterbrechen #auf #mengeneinheit #
+	- 3. runterbrechen auf mengeneinheit
 
-		 - #� � * #kosten pro #RE 
+		- Ä * kosten pro RE
 
-	 - 4 #. #selbstkosten pro #sorte 
+	- 4. selbstkosten pro sorte 
 
-		 - RE*€/RE #
+		- RE*€/RE
+
+   Tags & Topics:
+   #divisionskalkulation
+   #Divisionskalkulation
+   #Einheit
+   #Einheitsproduktziffer
+   #Recheneinheiten
+   #Recheneinheit
+   #Stufe
+   #Kosten
+   #Mehrdimensio
+   #Einheiten

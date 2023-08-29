@@ -5,7 +5,11 @@ Interessen-vertretungen
 Akteure auf einem Markt
 
    Tags & Topics:
-   #Akteur
    #Interessen
-   #Akteure
    #Anbieter
+   #Akteure
+   #Akteur
+
+[Previous: #2022_Marketing_Skript_40](2022_Marketing_Skript_40.md)
+
+[Next: #2022_Marketing_Skript_40](2022_Marketing_Skript_40.md)

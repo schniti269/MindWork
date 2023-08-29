@@ -5,6 +5,10 @@ Die Allgemeinheit (=Schmidt) erh ¨alt dasr-Recht.
 ⇒Schmidt kann p2ausf¨uhren.
 
    Tags & Topics:
-   #W-Recht
    #⇒Er
+   #W-Recht
    #dasr-Recht
+
+[Previous: #BS-Loesungen_47](BS-Loesungen_47.md)
+
+[Next: #BS-Loesungen_47](BS-Loesungen_47.md)

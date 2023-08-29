@@ -5,10 +5,14 @@ Prozesskontrollbl ¨ocke
 Analog zum blocked-Zustand kann der ready-Zustand dann in Unterzust ¨ande zerlegt
 
    Tags & Topics:
-   #Multiprozessor
-   #Analog
-   #blocked-Zustand
    #Strategien
-   #Warteschlangen
+   #Multiprozessor
    #Multiprozessor-System
+   #Analog
+   #Warteschlangen
+   #blocked-Zustand
    #•Es
+
+[Previous: #BS-Folien_113](BS-Folien_113.md)
+
+[Next: #BS-Folien_113](BS-Folien_113.md)

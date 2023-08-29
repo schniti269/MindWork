@@ -5,5 +5,9 @@ en-us/role/coo-operations-and-supply-chain
 7  “Anticipation.” Merriam-webster.com. Accessed June 28, 2022. 
 
    Tags & Topics:
-   #Anticipation
    #insight
+   #Anticipation
+
+[Previous: #C-Study22 - Own your transformation_291](C-Study22 - Own your transformation_291.md)
+
+[Next: #C-Study22 - Own your transformation_291](C-Study22 - Own your transformation_291.md)

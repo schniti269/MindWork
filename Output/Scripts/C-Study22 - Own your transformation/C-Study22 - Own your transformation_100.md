@@ -6,3 +6,7 @@ and making decisions
 
    Tags & Topics:
    
+
+[Previous: #C-Study22 - Own your transformation_101](C-Study22 - Own your transformation_101.md)
+
+[Next: #C-Study22 - Own your transformation_101](C-Study22 - Own your transformation_101.md)

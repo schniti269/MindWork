@@ -5,7 +5,11 @@ d)Second-Chance -Algorithmus
 Z¨ahlen Sie jeweils die Anzahl der Seitenfehler und vergleiche n Sie die Ergebnisse.
 
    Tags & Topics:
-   #b)First
    #LRU-Algorithmus
    #-Verdr¨angung
+   #b)First
    #d)Second
+
+[Previous: #BS-Uebungen_64](BS-Uebungen_64.md)
+
+[Next: #BS-Uebungen_64](BS-Uebungen_64.md)

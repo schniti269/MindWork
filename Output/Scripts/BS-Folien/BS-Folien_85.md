@@ -6,3 +6,7 @@ Sequenzieller Prozess
 
    Tags & Topics:
    
+
+[Previous: #BS-Folien_86](BS-Folien_86.md)
+
+[Next: #BS-Folien_86](BS-Folien_86.md)

@@ -5,9 +5,13 @@ Rollenbasiert
 •Benutzern werden unterschiedliche Rollen zugeordnet
 
    Tags & Topics:
+   #Objekt
+   #Rollen
+   #Klassiﬁkation
+   #Subjekts
    #Subjekt
    #Rolle
-   #Klassiﬁkation
-   #Objekt
-   #Subjekts
-   #Rollen
+
+[Previous: #BS-Folien_425](BS-Folien_425.md)
+
+[Next: #BS-Folien_425](BS-Folien_425.md)

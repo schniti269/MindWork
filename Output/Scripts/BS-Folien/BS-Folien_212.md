@@ -5,7 +5,11 @@ Sequenzialisierte Abarbeitung der E/A-Auftr ¨age.
 Aus Optimierungsgr ¨unden muss die Bearbeitungsreihenfolge nicht der Anforderu ngsreihenfolge
 
    Tags & Topics:
+   #•Realisierungsstruktur
    #A-Auftr
    #Abarbeitung
    #Bearbeitungsreihenfolge
-   #•Realisierungsstruktur
+
+[Previous: #BS-Folien_213](BS-Folien_213.md)
+
+[Next: #BS-Folien_213](BS-Folien_213.md)

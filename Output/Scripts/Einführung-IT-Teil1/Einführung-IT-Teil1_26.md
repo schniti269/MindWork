@@ -5,11 +5,15 @@ Daraus ging 1924 IBM hervor.
 •Enigma, 1923, Erfindung durch Arthur Scherbius , Zweiten Weltkrieg zur Verschlüsselung 
 
    Tags & Topics:
+   #Passagiere
    #Lochkartenmaschine
+   #Volkszählung
    #•Enigma
    #Weltkrieg
-   #Passagier
    #Eisenbahn
-   #Passagiere
-   #Volkszählung
+   #Passagier
    #Erfindung
+
+[Previous: #Einführung-IT-Teil1_27](Einführung-IT-Teil1_27.md)
+
+[Next: #Einführung-IT-Teil1_27](Einführung-IT-Teil1_27.md)

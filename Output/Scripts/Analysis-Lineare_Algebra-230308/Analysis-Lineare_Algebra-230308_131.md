@@ -5,7 +5,11 @@ Abbildung 1.5.9. Tangens und Umkehrfunktion Arcustangens1.5. POLYNOME UND STANDA
 Eine Wertetabelle einiger exakter Werte der trigonometrischen Funktionen:
 
    Tags & Topics:
-   #Arcustangens1.5
-   #Tangen
-   #Tangens
    #Wertetabelle
+   #Tangen
+   #Arcustangens1.5
+   #Tangens
+
+[Previous: #Analysis-Lineare_Algebra-230308_132](Analysis-Lineare_Algebra-230308_132.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_132](Analysis-Lineare_Algebra-230308_132.md)

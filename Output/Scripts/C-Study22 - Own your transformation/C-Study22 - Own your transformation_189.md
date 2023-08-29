@@ -6,3 +6,7 @@ demand management. With demand volatility and associated supplier, operations,
 
    Tags & Topics:
    
+
+[Previous: #C-Study22 - Own your transformation_19](C-Study22 - Own your transformation_19.md)
+
+[Next: #C-Study22 - Own your transformation_19](C-Study22 - Own your transformation_19.md)

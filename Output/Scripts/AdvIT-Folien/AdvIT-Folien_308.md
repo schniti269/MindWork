@@ -6,3 +6,7 @@ geweckt, d.h. in den ready-Zustand versetzt
 
    Tags & Topics:
    #Wartebedingung
+
+[Previous: #AdvIT-Folien_309](AdvIT-Folien_309.md)
+
+[Next: #AdvIT-Folien_309](AdvIT-Folien_309.md)

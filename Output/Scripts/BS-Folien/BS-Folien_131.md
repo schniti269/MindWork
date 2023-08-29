@@ -7,3 +7,7 @@ need[myProcessID] = false;
    Tags & Topics:
    #need[myProcessID
    #need[otherPID
+
+[Previous: #BS-Folien_132](BS-Folien_132.md)
+
+[Next: #BS-Folien_132](BS-Folien_132.md)

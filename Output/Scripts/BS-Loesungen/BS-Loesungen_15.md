@@ -5,6 +5,10 @@ Es ergeben sich die nachfolgenden Endbelegungen:
 (a) First Fit: (b) Best Fit:
 
    Tags & Topics:
-   #Speicherzuteilung
    #Endbelegung
+   #Speicherzuteilung
    #AUF-5
+
+[Previous: #BS-Loesungen_16](BS-Loesungen_16.md)
+
+[Next: #BS-Loesungen_16](BS-Loesungen_16.md)

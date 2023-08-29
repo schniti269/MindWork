@@ -5,6 +5,10 @@ new Thread( new Prod(bb) ).start();
 Prof. Dr. Henning Pagnia (DHBW Mannheim) Advanced IT Herbst 2023 67/132Speicherbasierte Synchronisation Semaphore
 
    Tags & Topics:
-   #Prod
    #prod(bb
+   #Prod
    #cons(bb
+
+[Previous: #AdvIT-Folien_201](AdvIT-Folien_201.md)
+
+[Next: #AdvIT-Folien_201](AdvIT-Folien_201.md)

@@ -6,3 +6,7 @@ Was ist ein Monitor?
 
    Tags & Topics:
    #Monitor
+
+[Previous: #AdvIT-Folien_278](AdvIT-Folien_278.md)
+
+[Next: #AdvIT-Folien_278](AdvIT-Folien_278.md)

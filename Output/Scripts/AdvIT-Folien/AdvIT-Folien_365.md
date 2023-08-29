@@ -5,15 +5,19 @@ Die Aufgabe: Es ist ein Java-Programm zu entwerfen, das sich mit dem
 Echo-Socket des Server-Rechners verbindet, von der Tastat ur immer wieder
 
    Tags & Topics:
-   #Echo-Client
-   #Dienst
-   #Programm
-   #Netzwerk
    #Netzwerks
-   #Byte
+   #Server-Rechner
+   #Netzwerk
    #Echo
+   #Bytes
+   #Programm
+   #Dienst
    #Rechners
+   #Byte
+   #Echo-Client
    #Java-Programm
    #TCP-Port
-   #Server-Rechner
-   #Bytes
+
+[Previous: #AdvIT-Folien_366](AdvIT-Folien_366.md)
+
+[Next: #AdvIT-Folien_366](AdvIT-Folien_366.md)

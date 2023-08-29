@@ -6,3 +6,7 @@ impact and move toward comprehensive circularity
 
    Tags & Topics:
    
+
+[Previous: #C-Study22 - Own your transformation_145](C-Study22 - Own your transformation_145.md)
+
+[Next: #C-Study22 - Own your transformation_145](C-Study22 - Own your transformation_145.md)

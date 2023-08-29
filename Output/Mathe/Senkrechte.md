@@ -1,7 +1,15 @@
-# ## #Senkrechte #
+### Senkrechte
 
- - 1 #Bruch #Nenner #0 #Stellen 
- 2 #einsetzen #Z채hler ! #= 0 
- - #Ergebnis #= #nullstelle 
- - #Wenn #Z채hler #auch #0- > 
- #Bruch #ist #k체rzbar #
+- 1 Bruch Nenner 0 Stellen
+2 einsetzen Z채hler != 0
+- Ergebnis =nullstelle
+- Wenn Z채hler auch 0->
+Bruch ist k체rzbar
+
+   Tags & Topics:
+   #z蝨hler
+   #Stellen
+   #Senkrechte
+   #Stelle
+   #Z채hler
+   #Ergebnis

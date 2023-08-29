@@ -6,3 +6,7 @@ Der Prozess beteiligt sich am Wettbewerb um einen Prozessor .
 
    Tags & Topics:
    
+
+[Previous: #BS-Folien_91](BS-Folien_91.md)
+
+[Next: #BS-Folien_91](BS-Folien_91.md)

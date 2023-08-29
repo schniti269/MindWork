@@ -1,16 +1,23 @@
-# ## Auflösen 
+### Auflösen
 
- - #Grafik 
- - #KV 
+- Grafik
+- KV
 
-	 - #k2 - #k1 / #x2 - #x1 
+	- k2-k1/x2-x1
 
- - #Kfix 
+- Kfix
 
-	 - #k1 - #x1*KV 
+	- k1-x1*KV
 
- - #Nutzkosten 
+- Nutzkosten
 
-	 - #Gesamtkostenfunktion- #Leerfunktion 
+	- Gesamtkostenfunktion- Leerfunktion
 
- - #
+- 
+
+   Tags & Topics:
+   #Nutzkoste
+   #Grafik
+   #Leerfunktion
+   #Nutzkosten
+   #Kfix

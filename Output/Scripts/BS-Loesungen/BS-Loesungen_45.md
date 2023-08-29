@@ -6,3 +6,7 @@ x-Recht an die Allgemeinheit (=Meier und M ¨uller) vergeben werden.
 
    Tags & Topics:
    #x-Recht
+
+[Previous: #BS-Loesungen_46](BS-Loesungen_46.md)
+
+[Next: #BS-Loesungen_46](BS-Loesungen_46.md)

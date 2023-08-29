@@ -5,5 +5,9 @@ ben¨otigte Datenstrukturen:
 ◮ein Zeiger auf des n ¨achste volle Puﬀerelement ⇒nextfull
 
    Tags & Topics:
-   #Zeiger
    #Array
+   #Zeiger
+
+[Previous: #AdvIT-Folien_187](AdvIT-Folien_187.md)
+
+[Next: #AdvIT-Folien_187](AdvIT-Folien_187.md)

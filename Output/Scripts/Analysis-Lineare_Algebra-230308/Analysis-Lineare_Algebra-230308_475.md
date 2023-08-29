@@ -6,3 +6,7 @@ x2ln(2x)dx.
 
    Tags & Topics:
    
+
+[Previous: #Analysis-Lineare_Algebra-230308_476](Analysis-Lineare_Algebra-230308_476.md)
+
+[Next: #Analysis-Lineare_Algebra-230308_476](Analysis-Lineare_Algebra-230308_476.md)

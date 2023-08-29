@@ -5,9 +5,13 @@ Invertierte Seitentabellen ( inverted page tables )
 ⋄Vorteil: nur eine einzige Tabelle ausreichender Gr ¨oße f¨ur den tats ¨achlich vorhandenen Speicher n ¨otig.
 
    Tags & Topics:
-   #Eintrag
-   #Seitennr
-   #Invertiert
-   #⋄Vorteil
-   #Invertierte
    #⋄Idee
+   #Eintrag
+   #Invertiert
+   #Invertierte
+   #⋄Vorteil
+   #Seitennr
+
+[Previous: #BS-Folien_325](BS-Folien_325.md)
+
+[Next: #BS-Folien_325](BS-Folien_325.md)

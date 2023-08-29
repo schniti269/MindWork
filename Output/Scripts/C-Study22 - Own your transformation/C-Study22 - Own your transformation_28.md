@@ -6,3 +6,7 @@ be positive, true, but CSCOs are using this attention as a catalyst for action
 
    Tags & Topics:
    
+
+[Previous: #C-Study22 - Own your transformation_280](C-Study22 - Own your transformation_280.md)
+
+[Next: #C-Study22 - Own your transformation_280](C-Study22 - Own your transformation_280.md)

@@ -6,3 +6,7 @@ Betriebssysteme DHBW Mannheim ©Henning Pagnia Version 4.23 Fr¨uhjahr 2023 BS�
 
    Tags & Topics:
    #¨Uberf¨uhrung
+
+[Previous: #BS-Folien_98](BS-Folien_98.md)
+
+[Next: #BS-Folien_98](BS-Folien_98.md)

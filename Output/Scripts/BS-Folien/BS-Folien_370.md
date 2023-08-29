@@ -5,8 +5,12 @@
 ⊲Bei Schreibzugriﬀ →Schutzverletzung →Interrupt !
 
    Tags & Topics:
-   #⋄eﬃzienter
-   #⊲AlleSeit
+   #⊲Bei
    #Kindprozess
    #⋄Eﬃzienter
-   #⊲Bei
+   #⋄eﬃzienter
+   #⊲AlleSeit
+
+[Previous: #BS-Folien_371](BS-Folien_371.md)
+
+[Next: #BS-Folien_371](BS-Folien_371.md)

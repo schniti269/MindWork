@@ -1,3 +1,6 @@
-# ## #spiegelungen #
+### spiegelungen
 
- - #p(x ) = -x 
+- p(x) = -x
+
+   Tags & Topics:
+   

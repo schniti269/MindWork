@@ -1,11 +1,23 @@
-# ## #Handlsgewinn #
+### Handlsgewinn
 
- - #Konsumenten #Rente 
+- Konsumenten Rente
 
-	 - #Alle #käufer #
+	- Alle käufer
 
- - #Produzenten #Rente 
+- Produzenten Rente
 
-	 - #Alle #Verkäufer 
+	- Alle Verkäufer
 
- - Subjektiver #Gewinn #zur
+- Subjektiver Gewinn zur Transaktion
+
+
+   Tags & Topics:
+   #Produzent
+   #k�ufer
+   #verk�ufer
+   #Gewinn
+   #Konsument
+   #käufer
+   #Produzenten
+   #Konsumenten
+   #Verkäufer

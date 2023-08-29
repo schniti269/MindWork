@@ -5,9 +5,13 @@ symbolischer Dateiname (benutzerdeﬁniert) →systemweit eindeutiger Bezeichner
 ⇒Verwaltung von Benutzerdateiverzeichnissen
 
    Tags & Topics:
-   #Dateiname
-   #Bezeichner
    #Basisdateisystem
+   #Dateinam
    #Basisdateisystems
    #⇒Verwaltung
-   #Dateinam
+   #Dateiname
+   #Bezeichner
+
+[Previous: #BS-Folien_408](BS-Folien_408.md)
+
+[Next: #BS-Folien_408](BS-Folien_408.md)
