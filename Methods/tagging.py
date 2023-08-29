@@ -6,10 +6,12 @@ nlp_de = spacy.load("de_core_news_sm")
 confidence_threshold = 0.2
 
 forbidden_token = set()
-tags = ["NNP", "NN", "NNS","NP"]
+tags = ["NNP", "NN", "NNS","NP","NNPS"]
+posis=["NOUN","PROPN"]
 
-forbidden_dep = ["aux", "prep", "pcomp", "dobj", "pobj", "punct", "pnc", "nk"]
-forbidden_tag = ["KO", "ART", "NE", "ADJA", "XY", "ADJ", "AUX", "CONJ", "PRON", "ADP", "ADV", "DET", "INTJ", "NUM", "PART"]
+forbidden_dep = ["case","nk","c","mo","aux", "prep", "pcomp", "dobj", "pobj", "punct", "pnc", "nk"]
+forbidden_tag = ["VAFIN","APPR","KON","ADJD","VVFIN","KO", "ART", "NE", "ADJA", "XY", "ADJ", "AUX", "CONJ", "PRON", "ADP", "ADV", "DET", "INTJ", "NUM", "PART","PRP"]
+forbidden_pos =["NUM"]
 
 def add_hashtags(text):
     current_topics = set()
@@ -19,16 +21,18 @@ def add_hashtags(text):
 
     for doc in [doc_de, doc_en]:
         for token in doc:
-            if token.text in forbidden_token:
+            if token.text in forbidden_token or token.text.islower():
                 continue
-            if token.tag_ in forbidden_tag or token.dep_ in forbidden_dep:
-                print(f"detected {token.text} as {token.tag_} {token.dep_}")
+
+            if token.tag_ in forbidden_tag or token.dep_ in forbidden_dep or token.pos_ in forbidden_pos:
+                #print(f"detected {token.text} as {token.tag_} {token.dep_} {token.pos_}")
                 forbidden_token.add(token.text)
                 continue
-            if token.tag_ in tags:
+
+            if token.tag_ in tags and token.pos_ in posis and 2<len(token.text):
                 current_topics.add(f"#{token.lemma_}")
     current_topics -= forbidden_token  # Remove forbidden tokens from current_topics
-    return text + "\n" + "\n   ".join(current_topics)
+    return text + "\n   Tags & Topics:"+"\n   " + "\n   ".join(current_topics)
 
 def create_table(sentence):
     # Note: The following two lines of code overwrite the same variable 'doc'

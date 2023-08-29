@@ -43,7 +43,6 @@ def process_pdf(pdf_path, output_folder):
             output_file = os.path.join(pdf_folder, f"{base_name_without_extension}_{idx + 1}.md")
             with open(output_file, "w", encoding="utf-8") as f:
                 f.write(tagged_segment)
-                print(f"Saved {output_file}")
     except Exception as e:
         print(f"Error processing {pdf_path}: {e}")
 
