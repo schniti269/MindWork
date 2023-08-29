@@ -1,0 +1,54 @@
+12•„Rationalitätenfalle“: Was von jedem einzelnen ausindividuellerRationalitätangestrebtwird,kanninderGesamtheitzugegenläufigenEffektenführen.EinzelwirtschaftlicheundgesamtwirtschaftlicheRationalitätfallenauseinander:-Theateraufführung-EinzelwirtschaftlicheRationalität:Ichsteheaufundsehebesser-GesamtwirtschaftlicheRationalität:AllestehenaufundsehennichtmehralsvorherAnderesBeispielfürRationalitätenfallen
+20•Sparparadoxon:–EinzelwirtschaftlicheRationalität:Wennichwenigerausgebe,kannichmehrsparen–GesamtwirtschaftlichRationalität:Wennallewenigerausgeben,kommteszurRezessionunddasSpareninderVolkswirtschaftsteigtnichtKapitel2Die „unsichtbare Hand“ des Marktes:Wie kommtderAktienkursderHyperTecAGzustande?MärktebringenAnbieterundNachfragerinoptimalerWeisezusammen
+15•EsgibtvieleOrganisationsformenvonMärkten:Wochenmarkt,eBay,Auktionshäuser,Innenstadt/Einkaufszentren•IndiesemKapitelerfolgtdieDarstellungdesMarktmechanismusanhanddesAktienmarktes:ØBesondersanschaulicheFormeinesMarktesØGrundprinzipienlassensichaufalleanderenMärkteineinerVolkswirtschaftübertragenFallstudieamBeispieldesAktienmarktes
+16ØAktienkursewerdenanderFrankfurterBörseu.a.imAuktionsverfahrendesXetra-HandelssystemsermitteltØAusgangspunkt:ZusammenstellungallerzueinemZeitpunktvorliegendenKauf-undVerkaufsaufträge („Orders“) in einem „Orderbuch“ØVerkaufsorders:ØBestens,d.h.derVerkaufwirdzujedemKursausgeübtØLimitiert:Verkaufwirdausgeführt,sobaldderKursdasLimiterreichtØKauforders:ØBilligst,d.h.derKaufwirdzujedemKursausgeübtØLimitiert:Kaufwirdausgeführt,sobaldderKursdasLimiterreichtKauf-undVerkaufsordersfürdieAktienderHyperTecAG
+17KurseKaufordersVerkaufsordersBestens2612015212156122316123164124671253101264Billigst25WelcherKurswirdgewählt?
+
+   Tags & Topics:
+   #ØBesten
+   #EinzelwirtschaftlicheundgesamtwirtschaftlicheRationalitätfallenauseinander:-Theateraufführung
+   #EinzelwirtschaftlicheRationalität
+   #ØVerkaufsorder
+   #Wennallewenigerausgebe
+   #undVerkaufsaufträge
+   #sobaldderKursdasLimiterreichtØKauforders
+   #GesamtwirtschaftlicheRationalität
+   #Wennallewenigerausgeben
+   #Hand
+   #GesamtwirtschaftlichRationalität
+   #Kaufwirdausgeführt
+   #ZusammenstellungallerzueinemZeitpunktvorliegendenKauf
+   #kommtderAktienkursderHyperTecAGzustande?MärktebringenAnbieterundNachfragerinoptimalerWeisezusammen
+   #d.h.derKaufwirdzujedemKursausgeübtØLimitiert
+   #Auktionshaus
+   #einkaufszentren•indiesemkapitelerfolgtdiedarstellungdesmarktmechanismusanhanddesaktienmarkte
+   #kannichmehrsparen–GesamtwirtschaftlichRationalität
+   #Wochenmarkt
+   #Markt
+   #Ichsteheaufundsehebesser-GesamtwirtschaftlicheRationalität
+   #sobaldderKursdasLimiterreichtKauf-undVerkaufsordersfürdieAktienderHyperTecAG
+   #sobaldderKursdasLimiterreichtKauf
+   #markte
+   #16ØAktienkursewerdenanderFrankfurterBörseu.a.imAuktionsverfahrendesXetra
+   #order
+   #Innenstadt
+   #Ichsteheaufundsehebesser
+   #ØBestens
+   #Auktionshäuser
+   #kanninderGesamtheitzugegenläufigenEffektenführ
+   #ZusammenstellungallerzueinemZeitpunktvorliegendenKauf-undVerkaufsauftrag
+   #Einkaufszentren•IndiesemKapitelerfolgtdieDarstellungdesMarktmechanismusanhanddesAktienmarktes
+   #MärktebringenAnbieterundNachfragerinoptimalerWeisezusammen
+   #EinzelwirtschaftlicheundgesamtwirtschaftlicheRationalitätfallenauseinander:-Theateraufführung-EinzelwirtschaftlicheRationalität
+   #AllestehenaufundsehennichtmehralsvorherAnderesBeispielfürRationalitätenfalle
+   #17KurseKaufordersVerkaufsordersBestens2612015212156122316123164124671253101264Billigst25WelcherKurswirdgewählt
+   #kanninderGesamtheitzugegenläufigenEffektenführen
+   #Verkaufwirdausgeführt
+   #d.h.derVerkaufwirdzujedemKursausgeübtØLimitiert
+   #Order
+   #sobaldderkursdaslimiterreichtøkauforder
+   #Wennichwenigerausgebe
+
+[Previous: #Mikro+Makro Kapitel 1_4](Mikro+Makro Kapitel 1_4.md)
+
+[Next: #Mikro+Makro Kapitel 1_4](Mikro+Makro Kapitel 1_4.md)

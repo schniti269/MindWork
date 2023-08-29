@@ -1,0 +1,29 @@
+6WichtigeAspektederNachfragekurve
+10•Die„nachgefragte Menge“ steigt (sinkt), wenn der Preis sinkt (steigt):ØEinkommensindbegrenztØZusätzlicheEinheiteneinesGutessindfüreinenKonsumentenimmerwenigerwert–(AnnahmedesabnehmendenGrenznutzens,1.Gossen‘schesGesetz)•Prohibitivpreis:DerPreisistsohoch,dassniemanddasGutmehrnachfragt•Sättigungsmenge:AuchbeiFreibier(Preis=0)gibtesKonsumgrenzenDasOrderbuchfürBieranbieter:WievieleGläserwerdenvoneinemAnbieterbeiunterschiedlichenPreisenangeboten?
+8PreisproGlas(Euro)Angebots-menge0010PreisentsprichtgeradedenKosten,diefürdasBierandieBrauereigezahltwerden2400BierkneipeerzieltDeckungsbeitrag3800Eslohntsich,eineAushilfskrafteinzustellen41200Eslohntsich,einezweiteAushilfskrafteinzustellen51600Eslohntsich,einefesteKrafteinzustellen62000Eslohntsich,zweifesteKräfteeinzustellenDieAngebotskurvefürdenBiermarktbeizehnrepräsentativenLokalen
+9WichtigeAspektederAngebotskurve
+10•Die „angebotene Menge“ steigt mit dem Bierpreis:ØKostenfüreinezusätzlicheEinheitnehmenzu(AnnahmedersteigendenGrenzkosten)ØAngebotskurvebildetdamitdieGrenzkostenderAnbieterabØGrenzkostensinddieKosten,diebeiderProduktioneinerzusätzlichenEinheiteinesGutesentstehen•DieAnbietersinderstabeinemMindestpreis,derdievariablenGrenzkostendeckt,bereitüberhauptBieranzubieten(hier:1Euro)GleichgewichtspreisfürBierimSchnittpunktvonAngebots-undNachfragekurvePreis(Euro)
+
+   Tags & Topics:
+   #ØKostenfüreinezusätzlicheEinheitnehmenzu
+   #GleichgewichtspreisfürBierimSchnittpunktvonAngebots-undNachfragekurvePreis
+   #steigt):ØEinkommensindbegrenztØZusätzlicheEinheiteneinesGutessindfüreinenKonsumentenimmerwenigerwert–(AnnahmedesabnehmendenGrenznutzens,1.Gossen‘schesGesetz)•Prohibitivpreis
+   #diebeiderProduktioneinerzusätzlichenEinheiteinesGutesentstehen•DieAnbietersinderstabeinemMindestpreis
+   #8PreisproGlas
+   #bereitüberhauptBieranzubiet
+   #auchbeifreibier(preis=0)gibteskonsumgrenzendasorderbuchfürbieranbieter
+   #dassniemanddasGutmehrnachfragt•Sättigungsmenge
+   #WievieleGläserwerdenvoneinemAnbieterbeiunterschiedlichenPreisenangeboten
+   #undNachfragekurvePreis(Euro
+   #derdievariablenGrenzkostendeckt
+   #AnnahmedersteigendenGrenzkosten
+   #menge0010PreisentsprichtgeradedenKosten
+   #Preis=0)gibtesKonsumgrenzenDasOrderbuchfürBieranbieter
+   #9WichtigeAspektederAngebotskurve
+   #bereitüberhauptbieranzubieten(hier:1euro)gleichgewichtspreisfürbierimschnittpunktvonangebot
+   #AuchbeiFreibier
+   #8PreisproGlas(Euro)Angebots
+
+[Previous: #Mikro+Makro Kapitel 3_3](Mikro+Makro Kapitel 3_3.md)
+
+[Next: #Mikro+Makro Kapitel 3_3](Mikro+Makro Kapitel 3_3.md)

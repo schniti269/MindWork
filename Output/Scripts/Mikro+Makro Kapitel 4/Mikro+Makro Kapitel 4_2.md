@@ -1,0 +1,37 @@
+10KennethBoulding
+7„NiemandimVollbesitzseinergeistigenKräftemöchteseineTochtermiteinem„homooeconomicus“verheiratetsehen,mitjemandemdersämtlicheKostennachrechnetundstetsnachdemGegenwertfragt,dernievonverrückterGroßzügigkeitodernichtberechnenderLiebeheimgesuchtist,dernieauseinemGefühlinnererIdentitäthandeltundderinderTatkeinebesitzt,auchwennergelegentlichvonsorgfältigkalkuliertenErwägungenüberWohlwollenundMissgunstbewegtist“.KennethBoulding(1973),ÖkonomiealseineMoralwissenschaft,in:SeminarüberpolitischeÖkonomie,Hrsg:WinfriedVogt,Frankfurt1973,S.122.Modellder „behavioraleconomics"stellt AnnahmederperfektenInformationsverarbeitunginFrage
+8•RichardThaler(1982)"Thinkofthehumanbrainasapersonalcomputerwithaveryslowprocessorandamemorysystemthatisbothsmallandunpredictable. I dontknowaboutyou, but thePCIcarrybetweenmyearshasmorediskfailuresthanIcaretothinkabout.“•Lösungsansatz:MenschenentscheidenanhandvonHeuristiken(= „Daumenregeln“)•Problem:EntscheidungenweisensystematischeVerzerrungen(„biases“) auf (KahnemanundTversky)BeispieleinerUrteilsverzerrungdurchAnker-Heuristik
+9ExperimentelleVWL:UltimatumspielMenschensindkeinevollständigenEgoisten
+10•EinAkteur(A)kanneinenbestimmtenTeileinesihmzurVerfügunggestelltenBetragsvonz.B.1EuroeinemanderenAkteur(B)anbieten.•LehntdieserdenihmangebotenenTeilab,somussauchAaufseinenTeilverzichten.Beidegehenleeraus.•NimmtBan,erhälterdasAngebot(s)undAerhältdenRest.•DiespieltheoretischeLösungfürrationaleSpielerbestehtdarin,dassAnurdengeringstmöglichenBetrag,d.h.1Centanbietet,weilerweiß,dasseinimSinnederindividuellenNutzenmaximierungrationalerBdiesesAngeboteinerAuszahlungvonNullvorziehenwird.•InExperimentenverhieltensichjedochvieleSpielernichtindiesemSinnerational,sondernlehntenliebereinenkleinenGewinnab,alseineunfairempfundeneAufteilungzuakzeptieren.•VerschiedeneStudienzeigen,dassimDurchschnittderGesamtbetragetwa60:40aufgeteiltwird.Diktatorspiel
+
+   Tags & Topics:
+   #dassimDurchschnittderGesamtbetragetwa60:40aufgeteiltwird
+   #mitjemandemdersämtlicheKostennachrechnetundstetsnachdemGegenwertfragt
+   #erhälterdasAngebot
+   #KahnemanundTversky)BeispieleinerUrteilsverzerrungdurchAnker
+   #Frankfurt1973,S.122.Modelld
+   #Diktatorspiel
+   #entscheidungenweisensystematischeverzerrungen(„biase
+   #B.1EuroeinemanderenAkteur(B)anbieten.•LehntdieserdenihmangebotenenTeilab
+   #7„NiemandimVollbesitzseinergeistigenKräftemöchteseineTochtermiteinem„homooeconomicus“verheiratetsehen
+   #frankfurt1973,s.122.modellder
+   #KennethBoulding(1973),ÖkonomiealseineMoralwissenschaft
+   #B.1EuroeinemanderenAkteur
+   #UltimatumspielMenschensindkeinevollständigenEgoisten
+   #SeminarüberpolitischeÖkonomie
+   #auchwennergelegentlichvonsorgfältigkalkuliertenErwägungenüberWohlwollenundMissgunstbewegtist“.KennethBoulding(1973),ÖkonomiealseineMoralwissenschaft
+   #mitjemandemdersämtlichekostennachrechnetundstetsnachdemgegenwertfragt
+   #“•lösungsansatz
+   #erhälterdasAngebot(s)undAerhältdenRest.•DiespieltheoretischeLösungfürrationaleSpielerbestehtdarin
+   #d.h.1Centanbietet
+   #dassAnurdengeringstmöglichenBetrag
+   #KanneinenbestimmtenTeileinesihmzurVerfügunggestelltenBetragsvonz
+   #alseineunfairempfundeneAufteilungzuakzeptieren.•VerschiedeneStudienzeigen
+   #somussauchAaufseinenTeilverzichten
+   #10•EinAkteur(A)kanneinenbestimmtenTeileinesihmzurVerfügunggestelltenBetragsvonz
+   #Daumenregeln“)•Problem
+   #Heuristik
+
+[Previous: #Mikro+Makro Kapitel 4_3](Mikro+Makro Kapitel 4_3.md)
+
+[Next: #Mikro+Makro Kapitel 4_3](Mikro+Makro Kapitel 4_3.md)

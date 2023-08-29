@@ -1,0 +1,27 @@
+Dr. Johannes Reeg (M.Sc.)Mikroökonomik und MakroökonomikBasisliteratur•PeterBofinger:GrundzügederVolkswirtschaftslehre,4.,aktualisierteAuflage(2015)•ÜbungsbuchPeterBofinger,EricMayer3.,aktualisierteAuflage(2015)
+2Kapitel1Volkswirtschaftslehrezeigt,wieMärktefunktionierenundwarumsieauchimmerwiedernichtfunktionieren.SpannendeFragestellungenderVWL
+11•WarumsinddieZinsensohochundwannsinkensiewieder?•Warum „druckt“ die Notenbank Geld?•Wie erkennt man Probleme im Finanzsystem?•Weshalb steigen/fallen Börsenkurse?•Was passiert bei einem „Zurückfahren“ derGlobalisierungim Hinblick aufdieEinkommenunddieEinkommensverteilung?•WasbedeutetdieDigitalisierungfürdieArbeitsplätzeinDeutschland?VWLalsMarktwirtschaftslehre
+5•VWLbefasstsichvorallemdamit,wieMärktefunktionieren:ØSiezeigt,wieeffizientderMarktalsKoordinations-mechanismusineinerarbeitsteiligenWirtschaftist.ØSieverdeutlichtaberauch,welcheSchwächenderMarktaufweistundwodanngegebenenfallsderStaataktivwerdenmuss.MärktesindimVergleichzurPlanwirtschafteineffizienterMechanismuszurSteuerungeiner
+6arbeitsteiligenWirtschaft•HoheVerfügbarkeitvonGütern,keineWarteschlangen•StarkeLeistungs-undInnovationsanreizefürdieAnbieterführenzuneuenundbesserenProdukten•SparsamerUmgangmitRessourcendurchAnbieterundVerbraucher•GüterwerdenvondenMenschenerworben,dieihnendenhöchstenWertbeimessen•Inder Regelfreundliche Verkäufer(„Käufermarkt“)DieethischeRechtfertigungderMarktwirtschaftdurchAdamSmith(1776)
+
+   Tags & Topics:
+   #ØSieverdeutlichtaberauch
+   #GrundzügederVolkswirtschaftslehre,4.,aktualisierteAuflage(2015)•ÜbungsbuchPeterBofinger
+   #MärktesindimVergleichzurPlanwirtschafteineffizienterMechanismuszurSteuerungeiner
+   #VWLalsMarktwirtschaftslehre
+   #Notenbank
+   #mechanismusineinerarbeitsteiligenwirtschaftist
+   #ØSiezeigt
+   #wieMärktefunktionierenundwarumsieauchimmerwiedernichtfunktionieren
+   #GrundzügederVolkswirtschaftslehre,4.,aktualisierteAuflage(2015)•ÜbungsbuchPeterBofing
+   #MakroökonomikBasisliteratur•PeterBofinger
+   #keineWarteschlangen•StarkeLeistungs-undInnovationsanreizefürdieAnbieterführenzuneuenundbesserenProdukten•SparsamerUmgangmitRessourcendurchAnbieterundVerbraucher•GüterwerdenvondenMenschenerworbe
+   #wieMärktefunktionieren
+   #wieeffizientdermarktalskoordination
+   #keinewarteschlangen•starkeleistung
+   #undInnovationsanreizefürdieAnbieterführenzuneuenundbesserenProdukten•SparsamerUmgangmitRessourcendurchAnbieterundVerbraucher•GüterwerdenvondenMenschenerworben
+   #EricMayer3.,aktualisierteAuflage(2015
+
+[Previous: #Mikro+Makro Kapitel 1_2](Mikro+Makro Kapitel 1_2.md)
+
+[Next: #Mikro+Makro Kapitel 1_2](Mikro+Makro Kapitel 1_2.md)

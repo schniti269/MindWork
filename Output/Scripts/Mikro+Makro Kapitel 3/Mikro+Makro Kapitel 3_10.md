@@ -1,0 +1,14 @@
+Wein0*P1*P0*RentederWinzerWeinPreisRentederSchoppentrinkerSchlechteWeinernte:Weinangebot1
+Wein1*33SchlechteWeinernteverknappt/verschiebtdasAngebotWichtigeAspekte
+34•KonsumentenrenteundProduzentenrenteverdeutlichendieVorteile,diesichfürAnbieterundNachfragerausderTeilnahmeaneinemMarktergeben.•InderSummesinddiehierdargestelltenRentenmaximal,dawederBeeinträchtigungdesWettbewerbsnochstaatlicheEingriffevorliegen.
+
+   Tags & Topics:
+   #34•KonsumentenrenteundProduzentenrenteverdeutlichendieVorteil
+   #dawederBeeinträchtigungdesWettbewerbsnochstaatlicheEingriffevorliegen
+   #diesichfüranbieterundnachfragerausderteilnahmeaneinemmarktergeben.•indersummesinddiehierdargestelltenrentenmaximal
+   #diesichfürAnbieterundNachfragerausderTeilnahmeaneinemMarktergeben.•InderSummesinddiehierdargestelltenRentenmaximal
+   #Wein1
+
+[Previous: #Mikro+Makro Kapitel 3_2](Mikro+Makro Kapitel 3_2.md)
+
+[Next: #Mikro+Makro Kapitel 3_2](Mikro+Makro Kapitel 3_2.md)
