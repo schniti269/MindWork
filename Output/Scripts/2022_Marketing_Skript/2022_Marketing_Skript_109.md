@@ -1,0 +1,8 @@
+KundendienstAdministrativerInnendienstAkquisitorischerInnendienstAufgabenbezogeneAbgrenzungMedienbezogeneAbgrenzung
+Homburg 2016, S. 2574.4. PlaceVertriebsorgane
+152www.dhbw.deMarketing
+direkterAbsatzweg
+indirekterAbsatzweg
+
+   Tags & Topics:
+   #KundendienstAdministrativerInnendienstAkquisitorischerInnendienstAufgabenbezogeneAbgrenzungMedienbezogeneAbgrenzung
