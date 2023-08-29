@@ -1,0 +1,3 @@
+# ## linear #
+
+ - #Abschreibungssummer/ # Perioden #

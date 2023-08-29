@@ -1,0 +1,7 @@
+# ## #Ansatzweise 
+
+ - #Nutzung #Marktchancen 
+
+	 - 
+
+ - 

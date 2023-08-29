@@ -1,0 +1,3 @@
+# ## #spiegelungen #
+
+ - #p(x ) = -x 
