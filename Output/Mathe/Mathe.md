@@ -1,4 +1,0 @@
-# Mathe
-
-   Tags & Topics:
-   

@@ -1,4 +1,0 @@
-## Verhandlung
-
-   Tags & Topics:
-   #Verhandlung

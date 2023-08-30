@@ -1,4 +1,0 @@
-## Exkurse
-
-   Tags & Topics:
-   #Exkurse

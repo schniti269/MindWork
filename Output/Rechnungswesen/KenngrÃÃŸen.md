@@ -1,4 +1,0 @@
-## Kenngrößen
-
-   Tags & Topics:
-   

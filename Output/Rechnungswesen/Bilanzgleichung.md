@@ -1,4 +1,0 @@
-### Bilanzgleichung
-
-   Tags & Topics:
-   #Bilanzgleichung

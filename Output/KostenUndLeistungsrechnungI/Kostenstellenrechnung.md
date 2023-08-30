@@ -1,4 +1,0 @@
-## Kostenstellenrechnung
-
-   Tags & Topics:
-   #Kostenstellenrechnung

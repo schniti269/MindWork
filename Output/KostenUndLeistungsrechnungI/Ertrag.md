@@ -1,4 +1,0 @@
-### Ertrag
-
-   Tags & Topics:
-   #Ertrag

@@ -1,4 +1,0 @@
-## Datenstrukturen
-
-   Tags & Topics:
-   #Datenstrukturen

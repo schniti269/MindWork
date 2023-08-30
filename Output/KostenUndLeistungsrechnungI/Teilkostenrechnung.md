@@ -1,4 +1,0 @@
-## Teilkostenrechnung
-
-   Tags & Topics:
-   #Teilkostenrechnung

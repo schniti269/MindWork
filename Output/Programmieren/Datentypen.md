@@ -1,4 +1,0 @@
-## Datentypen
-
-   Tags & Topics:
-   #Datentype

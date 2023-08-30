@@ -1,4 +1,0 @@
-## Asymphtote
-
-   Tags & Topics:
-   #Asymphtote

@@ -1,4 +1,0 @@
-## Joins
-
-   Tags & Topics:
-   

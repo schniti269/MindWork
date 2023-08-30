@@ -1,4 +1,0 @@
-### Produktregel
-
-   Tags & Topics:
-   #Produktregel

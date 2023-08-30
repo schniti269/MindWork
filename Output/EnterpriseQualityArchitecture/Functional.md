@@ -1,5 +1,0 @@
-### Functional
-
-
-   Tags & Topics:
-   

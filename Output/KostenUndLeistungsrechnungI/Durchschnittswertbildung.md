@@ -1,4 +1,0 @@
-### Durchschnittswertbildung
-
-   Tags & Topics:
-   #Durchschnittswertbildung

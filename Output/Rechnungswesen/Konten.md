@@ -1,4 +1,0 @@
-## Konten
-
-   Tags & Topics:
-   #Konto

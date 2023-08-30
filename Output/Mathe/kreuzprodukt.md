@@ -1,4 +1,0 @@
-### kreuzprodukt
-
-   Tags & Topics:
-   

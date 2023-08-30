@@ -1,4 +1,0 @@
-## Hardware Grundlagen
-
-   Tags & Topics:
-   

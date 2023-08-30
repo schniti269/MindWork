@@ -1,4 +1,0 @@
-## Rechengrößen
-
-   Tags & Topics:
-   

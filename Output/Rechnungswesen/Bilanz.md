@@ -1,4 +1,0 @@
-## Bilanz
-
-   Tags & Topics:
-   #Bilanz

@@ -1,4 +1,0 @@
-### Digitalisierung
-
-   Tags & Topics:
-   #Digitalisierung

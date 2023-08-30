@@ -1,4 +1,0 @@
-## Aufgaben
-
-   Tags & Topics:
-   #Aufgabe

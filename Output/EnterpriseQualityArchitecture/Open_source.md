@@ -1,4 +1,0 @@
-### Open source
-
-   Tags & Topics:
-   

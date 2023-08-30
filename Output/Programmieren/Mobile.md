@@ -1,4 +1,0 @@
-### Mobile
-
-   Tags & Topics:
-   #Mobil

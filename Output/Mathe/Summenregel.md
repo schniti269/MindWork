@@ -1,4 +1,0 @@
-### Summenregel
-
-   Tags & Topics:
-   

@@ -1,4 +1,0 @@
-## Kostenartenrechnung
-
-   Tags & Topics:
-   #Kostenartenrechnung

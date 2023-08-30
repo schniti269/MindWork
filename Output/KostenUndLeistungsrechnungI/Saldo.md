@@ -1,4 +1,0 @@
-### Saldo
-
-   Tags & Topics:
-   #saldo

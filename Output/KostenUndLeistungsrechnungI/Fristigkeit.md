@@ -1,4 +1,0 @@
-### Fristigkeit
-
-   Tags & Topics:
-   

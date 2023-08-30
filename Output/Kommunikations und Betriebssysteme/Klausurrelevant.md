@@ -1,4 +1,0 @@
-## Klausurrelevant 
-
-   Tags & Topics:
-   #Klausurrelevant

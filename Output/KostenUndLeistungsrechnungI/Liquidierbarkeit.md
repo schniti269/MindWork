@@ -1,4 +1,0 @@
-### Liquidierbarkeit
-
-   Tags & Topics:
-   #Liquidierbarkeit

@@ -1,4 +1,0 @@
-## Swing
-
-   Tags & Topics:
-   #swing

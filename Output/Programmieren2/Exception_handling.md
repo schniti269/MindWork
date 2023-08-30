@@ -1,4 +1,0 @@
-## Exception handling
-
-   Tags & Topics:
-   

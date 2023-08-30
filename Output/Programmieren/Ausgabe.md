@@ -1,4 +1,0 @@
-## Ausgabe
-
-   Tags & Topics:
-   #Ausgabe

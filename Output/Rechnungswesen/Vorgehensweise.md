@@ -1,4 +1,0 @@
-## Vorgehensweise
-
-   Tags & Topics:
-   #Vorgehensweise

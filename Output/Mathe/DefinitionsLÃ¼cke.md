@@ -1,4 +1,0 @@
-## DefinitionsLücke
-
-   Tags & Topics:
-   

@@ -1,4 +1,0 @@
-### VWL anschauung
-
-   Tags & Topics:
-   

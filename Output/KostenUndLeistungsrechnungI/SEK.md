@@ -1,4 +1,0 @@
-### SEK
-
-   Tags & Topics:
-   

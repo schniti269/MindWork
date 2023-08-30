@@ -1,4 +1,0 @@
-### Gk
-
-   Tags & Topics:
-   

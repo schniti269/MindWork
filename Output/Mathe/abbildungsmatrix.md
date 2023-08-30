@@ -1,8 +1,0 @@
-### abbildungsmatrix
-
-- aussrechenen
-
-	- 
-
-   Tags & Topics:
-   

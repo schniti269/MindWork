@@ -1,5 +1,0 @@
-## Grundlagen 
-Datenbank
-
-   Tags & Topics:
-   

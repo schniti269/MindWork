@@ -1,4 +1,0 @@
-## VEKTOREN
-
-   Tags & Topics:
-   

@@ -1,4 +1,0 @@
-# Rechnungswesen
-
-   Tags & Topics:
-   #Rechnungswesen

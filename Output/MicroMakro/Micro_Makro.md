@@ -1,4 +1,0 @@
-# Micro Makro 
-
-   Tags & Topics:
-   

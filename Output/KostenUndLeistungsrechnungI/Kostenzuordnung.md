@@ -1,4 +1,0 @@
-## Kostenzuordnung
-
-   Tags & Topics:
-   #Kostenzuordnung

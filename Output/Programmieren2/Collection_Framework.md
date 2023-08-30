@@ -1,4 +1,0 @@
-## Collection Framework
-
-   Tags & Topics:
-   

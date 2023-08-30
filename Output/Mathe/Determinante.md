@@ -1,4 +1,0 @@
-## Determinante
-
-   Tags & Topics:
-   #Determinante

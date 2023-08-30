@@ -1,4 +1,0 @@
-## Sprachen
-
-   Tags & Topics:
-   #Sprache

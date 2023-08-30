@@ -1,4 +1,0 @@
-# Programmieren
-
-   Tags & Topics:
-   #Programmieren

@@ -1,6 +1,0 @@
-### Zusammenhang
-
-- 
-
-   Tags & Topics:
-   #Zusammenhang
