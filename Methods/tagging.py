@@ -29,10 +29,20 @@ def add_hashtags(text):
                 forbidden_token.add(token.text)
                 continue
 
-            if token.tag_ in tags and token.pos_ in posis and len(token.text)<3:
-                current_topics.add(f"#{token.lemma_}")
-    current_topics -= forbidden_token  # Remove forbidden tokens from current_topics
-    return text + "\n   Tags & Topics:"+"\n   " + "\n   ".join(current_topics)
+            if token.tag_ in tags and token.pos_ in posis and len(token.text)>3:
+                current_topics.add(f"{token.lemma_}")
+    #topic validation
+    current_topics -= forbidden_token # Remove forbidden tokens from current_topics
+    validated_topics= set()
+    for tokenizer in [nlp_de, nlp_en]:
+        for topic in current_topics:
+            for token in tokenizer(topic):
+                print(f"token {token.text} tag {token.tag_}")
+                if token.tag_ in tags:
+                    validated_topics.add(f"#{token.lemma_}")
+
+      
+    return text + "\n   Tags & Topics:"+"\n   " + "\n   ".join(validated_topics)
 
 def create_table(sentence):
     # Note: The following two lines of code overwrite the same variable 'doc'
