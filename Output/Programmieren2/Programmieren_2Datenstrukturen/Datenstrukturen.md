@@ -37,19 +37,19 @@
       - "Aufrücken" ist atomatisch
 
    Tags & Topics:
-   #Next
-   #Objekt
-   #Objekte
+   #Aufrücken
    #Hinzufügen
    #Operationen
-   #Komplex
-   #Node
-   #Deque
-   #hinzufügen
-   #Aufrücken
-   #Push
-   #Peek
-   #push
-   #Last
+   #Next
    #Stack
+   #Objekt
+   #Objekte
+   #hinzufügen
    #Operation
+   #Peek
+   #Deque
+   #Node
+   #push
+   #Push
+   #Komplex
+   #Last

@@ -33,39 +33,39 @@
     - Umsatzsteuer etc.
 
    Tags & Topics:
+   #Lizenz
+   #Wirtschaftlichkeit
+   #Wagniskost
+   #Materialkoste
+   #Steuer
+   #Einheitlichkeit
+   #Arbeitskosten
    #Löhne
-   #Prinzipien
-   #Sachkosten
+   #Wagniskosten
    #Fremdleistung
+   #Gruppen
+   #Hausmeister
+   #Prinzipien
+   #Enstehen
+   #Ensteh
+   #Reinheit
    #Gruppe
    #Personal
-   #Steuer
-   #Arbeitskosten
+   #Sachkosten
    #Fremdleistungen
-   #Wagniskosten
-   #Fremdrechte
    #Prinzip
-   #Lizenzen
-   #Hausmeister
-   #Reinheit
-   #Gehälter
-   #Lizenz
-   #Einstellen
-   #Wagniskost
-   #Umsatzsteuer
-   #Fremdrecht
    #Grundsätze
-   #Einheitlichkeit
-   #Verursachungsprinzip
-   #Kapitalkost
-   #Ensteh
-   #angemessen
-   #Durchschnittsprinzip
-   #Zinsen
-   #Zins
-   #Benaspruchungsprinzip
-   #Wirtschaftlichkeit
    #Kapitalkosten
-   #Gruppen
-   #Materialkoste
-   #Enstehen
+   #angemessen
+   #Fremdrecht
+   #Kapitalkost
+   #Lizenzen
+   #Benaspruchungsprinzip
+   #Zins
+   #Umsatzsteuer
+   #Gehälter
+   #Einstellen
+   #Verursachungsprinzip
+   #Fremdrechte
+   #Zinsen
+   #Durchschnittsprinzip

@@ -1,0 +1,29 @@
+
+![[Logik-Algebra.pdf#page=16]]Tags & Topics:
+   #Axiom1.32.DerAllquantor
+   #Gegenrichtung
+   #P₁(x
+   #B(t)AI
+   #y)Für
+   #Allquantoren
+   #PRÄDIKATENLOGIK
+   #y)Es
+   #6∧a∧p(c₄
+   #A∧P(x
+   #Jede(r
+   #Prädikat
+   #Übersetzung
+   #Quantor
+   #VorbedingungderAllquantor-InduktionfüreinenbeliebigenParametervielSorgfaltinderBeweisführung
+   #Existenzaussagen
+   #Rückrichtung
+   #Existenzaussag
+   #Jemand
+   #allquantor
+   #VorbedingungderAllquantor
+   #Allquantors
+   #P₁(c₁
+   #Allquantor
+   #1.31.Wie
+   #Prädikats
+   #Induktion

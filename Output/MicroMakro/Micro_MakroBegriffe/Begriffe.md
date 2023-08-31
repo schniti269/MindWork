@@ -9,14 +9,14 @@
   - Subjektiver Gewinn zur Transaktion
 
    Tags & Topics:
-   #Verk√§ufer
-   #Gewinn
-   #Spread
+   #Konsument
    #k„§ufer
    #Konsumenten
-   #Preis
-   #Produzenten
+   #verk„§ufer
    #Produzent
    #k√§ufer
-   #Konsument
-   #verk„§ufer
+   #Gewinn
+   #Produzenten
+   #Spread
+   #Preis
+   #Verk√§ufer

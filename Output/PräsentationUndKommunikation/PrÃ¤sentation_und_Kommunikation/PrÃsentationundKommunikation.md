@@ -7,9 +7,9 @@
    Kompromissbereitschaft besteht
 
    Tags & Topics:
-   #Konflikt
-   #Verhandlung
+   #Auftritt
    #Verhandlungen
    #Einigungsmöglichkeit
-   #Auftritt
    #Kompromissbereitschaft
+   #Konflikt
+   #Verhandlung

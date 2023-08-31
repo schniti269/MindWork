@@ -1,0 +1,4 @@
+
+![[Geld und Währung Kapitel 2.pdf#page=31]]Tags & Topics:
+   #ØAggregiertesEinkommenØKreditausfallrisikoAggregationüberalleindividuellenBankenergibtKreditangebotdesgesamtenBankensystem
+   #32øzinsmarge(spread)øaggregierteseinkommenøkreditausfallrisikoaggregationüberalleindividuellenbankenergibtkreditangebotdesgesamtenbankensystem

@@ -26,16 +26,16 @@ sendet dann den eigenen Puffer dann wieder an TCP puffer
     - Erkläten
 
    Tags & Topics:
-   #Übertragungsmedium
-   #Puffer
-   #Nyquist
-   #Einpacke
-   #Fehler
-   #Versenden
-   #Ende
-   #Frame
-   #auspacken
-   #versenden
-   #ende
-   #Auspacken
    #Prinzip
+   #Einpacke
+   #Puffer
+   #Ende
+   #Nyquist
+   #versenden
+   #Frame
+   #Auspacken
+   #Fehler
+   #auspacken
+   #Übertragungsmedium
+   #ende
+   #Versenden

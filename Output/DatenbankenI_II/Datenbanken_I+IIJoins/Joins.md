@@ -22,16 +22,16 @@
   - Vergleich
 
    Tags & Topics:
+   #Outer
    #Attribute
-   #Kurse
-   #Vergleich
+   #Selbes
+   #Selbe
+   #Attribut
    #Filter
    #Kurs
-   #Selbes
+   #Left
+   #Produkt
+   #Kurse
    #Beides
    #ausgefüllt
-   #Left
-   #Attribut
-   #Produkt
-   #Outer
-   #Selbe
+   #Vergleich

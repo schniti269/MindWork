@@ -11,8 +11,8 @@
         - Test and set befehl
 
    Tags & Topics:
-   #Syncro
-   #Eigener
-   #atomar
-   #Dekker
    #Atomare
+   #Dekker
+   #atomar
+   #Eigener
+   #Syncro

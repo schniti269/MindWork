@@ -56,26 +56,26 @@
     - Struktogramm
 
    Tags & Topics:
-   #Fachungen
-   #Faktor
-   #Laufzeit
-   #Invertier
-   #Notation
-   #Bubblesort
-   #Teilbaum
-   #X*X*Etwas
-   #Struktogramm
-   #exponential
-   #Fachung
-   #Invertieren
    #O-Notation
    #Bäume
+   #Laufzeit
    #Faktoren
-   #O(n**2
-   #Average
    #löschen/
-   #Sortierung
+   #Teilbaum
+   #Struktogramm
+   #O(n**2
+   #Notation
    #höher
    #O(n/2
+   #Average
+   #Fachungen
+   #Sortierung
+   #Faktor
+   #Invertier
    #Exponential
+   #Fachung
+   #Bubblesort
+   #X*X*Etwas
+   #Invertieren
    #Worst
+   #exponential

@@ -42,26 +42,26 @@
     - Wirtschaftlichkeit
 
    Tags & Topics:
-   #Scrum
-   #Final
-   #Marketing
-   #Unit
+   #Wirtschaftlichkeit
    #Prototyp
+   #Debugging
+   #Final
+   #Branch
+   #Autocompleter
+   #Push
+   #Deployment
    #Repository
    #Pilot
-   #Sprints
-   #Stage
    #Unterknot
-   #Debugging
+   #Marketing
    #Maven
-   #Deployment
-   #Lebenszyklus
    #Mav
-   #Push
+   #Scrum
    #Dynamische
-   #Autocompleter
-   #Commit
    #Fehler
-   #Wirtschaftlichkeit
-   #Branch
+   #Unit
+   #Stage
+   #Commit
    #Unterknoten
+   #Sprints
+   #Lebenszyklus

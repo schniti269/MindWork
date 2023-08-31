@@ -23,24 +23,24 @@
   - Taktisch vorgehen
 
    Tags & Topics:
-   #Taktisch
-   #Erwartung
-   #Einsteigen
-   #Haltungen
+   #Realistisch
    #Ziele
-   #Machtstrukturen
+   #Ziel
+   #Haltungen
+   #BegrÃ¼ÃŸung
+   #KlÃ¤rung
+   #Gewinn
+   #Auftreten
+   #begrã¼ãÿung
+   #Einsteigen
    #Planung
    #auftreten
-   #Sachverhalt
-   #BegrÃ¼ÃŸung
+   #Erwartung
    #Stellung
-   #Ziel
-   #Haltung
-   #begrã¼ãÿung
-   #Gewinn
-   #Gewinne
-   #Auftreten
+   #Sachverhalt
    #Machtstruktur
+   #Machtstrukturen
+   #Gewinne
    #Kontakt
-   #KlÃ¤rung
-   #Realistisch
+   #Taktisch
+   #Haltung

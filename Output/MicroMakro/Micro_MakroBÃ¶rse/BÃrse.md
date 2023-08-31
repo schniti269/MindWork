@@ -14,8 +14,8 @@
       - Erst wenn gefallen zu x
 
    Tags & Topics:
+   #Absatzvolumen
+   #Sofort
+   #Aktienkurs
    #aktienkur
    #Nachfrage
-   #Aktienkurs
-   #Sofort
-   #Absatzvolumen

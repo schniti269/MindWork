@@ -41,17 +41,17 @@
     - ist interface mit welchen moethoden verabeitet wird
 
    Tags & Topics:
-   #Gemeinsamkeit
-   #Fenster
-   #Gemeinsamkeiten
-   #Action
-   #Swing
-   #SWING
    #Event
+   #Gemeinsamkeit
+   #Gemeinsamkeiten
    #Focus
-   #Unterschied
-   #plattformunabh„§ngigkeit
-   #Plattformunabh√§ngigkeit
+   #Swing
+   #Fenster
    #Unterschiede
    #Rendering
+   #Unterschied
    #Implementierung
+   #Action
+   #SWING
+   #plattformunabh„§ngigkeit
+   #Plattformunabh√§ngigkeit

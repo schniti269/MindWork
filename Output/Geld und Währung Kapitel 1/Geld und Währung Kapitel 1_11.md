@@ -1,0 +1,6 @@
+
+![[Geld und Währung Kapitel 1.pdf#page=10]]Tags & Topics:
+   #ZielinflationsratenandererZentralbanken
+   #targets.htmlaustraliareservebankofaustralia2.00%-3.00%newzealandreservebankofnewzealand2.00%+/-1.0%brazilcentralbankofbrazil4.5%+/-1.5%norwaynorgesbank2.50%canadabankofcanada2.0%+/-1.0%pakistanstatebankofpakistan6.00%chilecentralbankofchile3.00%+/-1.0%polandnationalbankofpoland2.5%+/-1.0%chinapeople'sbankofchina3.00%southkoreabankofkorea2.00%czechrepublicczechnationalbank2.00%+/-1.0%swedentheriksbank2.00%hungarycentralbankofhungary3.0%+/-1.0%switzerlandswissnationalbank<2.00%israelbankofisrael1.00%-3.00%unitedkingdombankofengland2.00%japanbankofjapan2.00
+   #ZielinflationsratenandererZentralbank
+   #inflation-targets.htmlAUSTRALIAReserveBankofAustralia2.00%-3.00%NEWZEALANDReserveBankofNewZealand2.00%+/-1.0%BRAZILCentralBankofBrazil4.5%+/-1.5%NORWAYNorgesBank2.50%CANADABankofCanada2.0%+/-1.0%PAKISTANStateBankofPakistan6.00%CHILECentralBankofChile3.00%+/-1.0%POLANDNationalBankofPoland2.5%+/-1.0%CHINAPeople'sBankofChina3.00%SOUTHKOREABankofKorea2.00%CZECHREPUBLICCzechNationalBank2.00%+/-1.0%SWEDENTheRiksbank2.00%HUNGARYCentralBankofHungary3.0%+/-1.0%SWITZERLANDSwissNationalBank<2.00%ISRAELBankofIsrael1.00%-3.00%UNITEDKINGDOMBankofEngland2.00%JAPANBankofJapan2.00

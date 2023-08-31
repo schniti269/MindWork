@@ -18,18 +18,18 @@
   anteilig vorsteuer
 
    Tags & Topics:
-   #-Anschaffungspreisminderung
-   #Anschaffungsnebenkosten
-   #Grundlage
-   #Verpackung
-   #Skonti
-   #Gutschrift
-   #Anschafffungspreis
-   #anschaffungskosten
-   #Rabatt
-   #Nachlässe
-   #Gutschriften
-   #Verscicherung
-   #vorgehen
-   #Skonot
    #Nachläs
+   #vorgehen
+   #-Anschaffungspreisminderung
+   #Gutschriften
+   #Anschafffungspreis
+   #Nachlässe
+   #Rabatt
+   #Skonti
+   #Skonot
+   #Anschaffungsnebenkosten
+   #Gutschrift
+   #Grundlage
+   #anschaffungskosten
+   #Verpackung
+   #Verscicherung

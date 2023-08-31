@@ -7,8 +7,8 @@
     - Jahresüberschuss
 
    Tags & Topics:
-   #Gewinn
-   #Konto
    #Verlust
    #Soll
+   #Gewinn
+   #Konto
    #T-Konto

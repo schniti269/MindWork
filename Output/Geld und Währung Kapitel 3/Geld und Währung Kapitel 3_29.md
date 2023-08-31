@@ -1,0 +1,17 @@
+
+![[Geld und Währung Kapitel 3.pdf#page=28]]Tags & Topics:
+   #qualitativeeasing"iiiømai2010bisseptember2012
+   #ØSMPProgrammwurdezuBeginnsterilisiert
+   #2014.“ønachbeschlussdesezb
+   #d.h.zusätzlichgeschaffeneLiquiditätwurdeanandererStellewiederabsorbiert
+   #Programmzustart
+   #theEurosystemre-absorbedtheliquidityprovidedthroughtheSMPbymeansofweeklyliquidity-absorbingoperationsuntilJune2014.On5June2014,theECBsuspendedtheweeklyfine-tuningoperationssterilisingtheliquidityinjectedbytheprogrammeandthe
+   #wurdedassmpbeendet
+   #theeurosystemre
+   #iIIØMai2010bisSeptember2012:SecuritiesMarketsProgramme-“Purchaseofsecuritieswithaviewtoaddressseveretensionsincertainmarketsegmentswhichhadbeenhamperingthemonetarypolicytransmissionmechanism."-KaufvonprivatenundöffentlichenAnleiheneinzelnerLänder
+   #absorbedtheliquidityprovidedthroughthesmpbymeansofweeklyliquidity
+   #wurdedasSMPbeendet
+   #absorbingoperationsuntiljune2014.on5june2014,theecbsuspendedtheweeklyfine
+   #ratesam6.september2012einsogenanntesoutrightmonetarytransactions(omt)programmzustarten
+   #"-KaufvonprivatenundöffentlichenAnleiheneinzelnerLänder
+   #securitiesmarketsprogramme-“purchaseofsecuritieswithaviewtoaddressseveretensionsincertainmarketsegmentswhichhadbeenhamperingthemonetarypolicytransmissionmechanism

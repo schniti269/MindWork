@@ -72,39 +72,39 @@
     - Sequenznummern 
 
    Tags & Topics:
-   #internet
-   #Transportschicht
+   #socket
+   #Vorlesung
+   #Transport
+   #Nicht
+   #verzögert
+   #Sequenznummer
+   #Empfangsfenser
    #vorgänge
    #Bestätigt
+   #Abholen
+   #Puffer
+   #Abhole
+   #Schnittstelle
+   #System
+   #Unterknot
+   #Weitergeben
+   #Selective
+   #Datenstruktur
+   #höchtse
+   #Darstellung
    #Nummer
    #session
-   #Kommunikation
-   #Nicht
-   #Modelle
-   #Socket
-   #Session
-   #Empfangsfenser
-   #Unterknot
-   #Abholen
-   #Transport
-   #Puffer
    #Versuch
-   #Internet
-   #Netz
-   #höchtse
-   #Modell
-   #System
-   #Weitergeben
-   #socket
-   #verzögert
-   #Datenstruktur
-   #Selective
-   #Abhole
-   #Sequenznummer
-   #Anforderung
-   #Application
-   #Darstellung
-   #Unterknoten
    #unnötige
-   #Vorlesung
-   #Schnittstelle
+   #Socket
+   #Kommunikation
+   #Unterknoten
+   #Modelle
+   #Modell
+   #Session
+   #Application
+   #Internet
+   #Anforderung
+   #internet
+   #Netz
+   #Transportschicht

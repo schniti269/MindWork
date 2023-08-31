@@ -21,7 +21,7 @@
   - %verschuldung zum GDP ( BIP)
 
    Tags & Topics:
-   #Staatsverschuldung
+   #Inflation
    #Zins
    #Zinsen
-   #Inflation
+   #Staatsverschuldung

@@ -34,19 +34,19 @@
    Functional
 
    Tags & Topics:
-   #Cloud
-   #Where
-   #Frameworks
-   #Frontent
-   #Freiheit
-   #Versioning
-   #Spiral
-   #Barierre
-   #Deployment
-   #Software
    #Waterfall
-   #Framework
    #Attributes
-   #Agil
+   #Spiral
    #Stack
+   #Where
+   #Agil
+   #Frameworks
+   #Freiheit
+   #Barierre
+   #Cloud
+   #Framework
    #Significant
+   #Frontent
+   #Versioning
+   #Software
+   #Deployment

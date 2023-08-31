@@ -25,8 +25,8 @@ sein um eine reihenfolge möglich zu machen
     - (geht auch mit Listen etc)
 
    Tags & Topics:
-   #Sortieren
-   #Comparator
-   #Compare
-   #Logik
    #Vergleichsoperation
+   #Logik
+   #Compare
+   #Comparator
+   #Sortieren

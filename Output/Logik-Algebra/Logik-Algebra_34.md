@@ -1,0 +1,29 @@
+
+![[Logik-Algebra.pdf#page=33]]Tags & Topics:
+   #auchZusammenhangskomponent
+   #oderfaktormenge
+   #Umrechnung
+   #alsQuotientenmenge
+   #Umrechnungen
+   #Äquivalenzklassen
+   #Partitionierung
+   #Äquivalenzklasse
+   #Binärbrüche
+   #Repräsentant
+   #Quotientenmenge
+   #Computergrafik
+   #DieKonzepteWochentag
+   #DieVektoren
+   #Wochentage
+   #Quotientenmeng
+   #alsquotientenmenge
+   #Repräsentanten
+   #Affine
+   #oderFaktormenge
+   #Affin
+   #ausBeispiel2.27(3)undAbbildung2.2.2hatdreiinderAbbildungeingefärbtenÄquivalenzklasse
+   #Ax+b
+   #x]R|x∈M
+   #b)R(c
+   #Montag
+   #Äquivalenzklas

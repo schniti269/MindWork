@@ -1,0 +1,37 @@
+
+![[Bedürfnis Bedarf Nachfrage Kaufakt 2022.pdf#page=0]]Tags & Topics:
+   #Schaffenskraft
+   #Wunsch
+   #Bedarf
+   #Antrieb
+   #Drang
+   #hoffen
+   #Erreichung
+   #effektivität
+   #Resilienz
+   #Text
+   #Durchhaltevermögen
+   #begehren
+   #Texte
+   #Auswahl
+   #Träumen
+   #Effektivität
+   #Träum
+   #Geldzahlungen
+   #Limit
+   #Realität
+   #Ausdauer
+   #Entscheidung
+   #Hoffen
+   #Kraft
+   #träuman
+   #Durchhaltevermöge
+   #Frustrationstoleranz
+   #Fähigkeit
+   #Entschlossenheit
+   #Ziel
+   #Wenn
+   #Geldzahlung
+   #Begeisterung
+   #Energie
+   #Effizienz

@@ -14,12 +14,12 @@
     - Subtopic 2
 
    Tags & Topics:
-   #Probleme
    #Problem
-   #Geld
-   #Drucken
-   #Fragestellungen
-   #Sektor
    #Volkswirtschaft
+   #Fragestellungen
+   #Probleme
    #Fragestellung
+   #Drucken
+   #Geld
    #Sektoren
+   #Sektor

@@ -16,17 +16,17 @@
     - Aktivierbare eigenleistung
 
    Tags & Topics:
-   #Gegebe
-   #Menge
+   #Nutzung
+   #Wirtschaftlichkeit
+   #Produktionsseite
+   #Leistungserstellung
+   #Aktivierbare
+   #Marktchance
    #Produktionsfaktor
    #Output
-   #Marktchancen
-   #Aktivierbare
-   #Leistungserstellung
-   #Nutzung
-   #Produktionsfaktoren
-   #Marktchance
-   #Wirtschaftlichkeit
    #Gegeben
+   #Produktionsfaktoren
    #Gewinnstreben
-   #Produktionsseite
+   #Menge
+   #Marktchancen
+   #Gegebe

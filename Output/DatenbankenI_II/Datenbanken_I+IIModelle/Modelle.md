@@ -40,34 +40,34 @@
     - Werte
 
    Tags & Topics:
-   #Attribute
-   #Surogat
-   #Funktion
-   #entit�ten
-   #Entity
-   #Kandidat
-   #Relation
-   #Surogate
-   #Begriff
-   #Relationen
-   #Ausgesuchter
-   #Art
-   #Wertebereiche
-   #Regel
-   #Kopfkomponente
-   #Regeln
-   #Kandidaten
-   #Primärschlüssel
-   #Kundennummer
-   #Integer
-   #Domäne
    #Reihenfolge
+   #Art
    #Begriffe
-   #Körperkomponente
+   #Surogat
+   #Begriff
+   #Integer
+   #Attribute
+   #Kopfkomponente
+   #Ausgesuchter
+   #Funktion
+   #Kandidaten
+   #Kundennummer
+   #Tupel
+   #künstlich
+   #Arten
    #String
+   #Domäne
+   #Relation
+   #Wertebereiche
+   #Primärschlüssel
+   #Körperkomponente
    #Attribut
    #Namen
-   #Arten
+   #Entity
    #Name
-   #künstlich
-   #Tupel
+   #Regeln
+   #Regel
+   #entit�ten
+   #Kandidat
+   #Relationen
+   #Surogate

@@ -16,14 +16,14 @@
         - Was zusammen gehört soll nah zusammen
 
    Tags & Topics:
-   #Farbe
-   #Form
-   #Anordnung
-   #Gestalttheorie
-   #gehört
-   #Gesetz
-   #Über
-   #Zeitlich
    #form
-   #Zusammengehöreig
+   #Über
+   #Gestalttheorie
+   #Anordnung
+   #Gesetz
+   #Form
+   #gehört
    #Kognition
+   #Zusammengehöreig
+   #Farbe
+   #Zeitlich

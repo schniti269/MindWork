@@ -1,0 +1,36 @@
+
+![[Grundlagen des wissenschaftlichen Arbeitens_Groß_111122.pdf#page=9]]Tags & Topics:
+   #Reizbegriff
+   #Reizbegriffe
+   #Foto
+   #Absätzen
+   #Anmerkungsbereiche
+   #Fotos
+   #Anhänge
+   #aufzählungen
+   #Wichtiges
+   #Sekundäres
+   #Grafik
+   #Wahrnehmungs
+   #Anhang
+   #Aufzählungen
+   #Anmerkungsbereich
+   #Wichtig
+   #Verarbeitungshilfen
+   #Sekundäre
+   #Grafiken
+   #Prägnanz
+   #Abkürzung
+   #Stimulanz
+   #Satz
+   #Sätze
+   #Tabell
+   #Schaubilder
+   #Absätz
+   #Diagramme
+   #Verarbeitungshilf
+   #Nummerierung
+   #einfachheit
+   #Schreibstil
+   #Einfachheit
+   #Tabellen

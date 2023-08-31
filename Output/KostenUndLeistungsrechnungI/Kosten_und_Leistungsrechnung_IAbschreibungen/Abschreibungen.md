@@ -20,14 +20,14 @@
   - -restwert
 
    Tags & Topics:
-   #Geometrisch
-   #Wert
-   #Gleiches
-   #Degressionssatz
-   #abschreibungssummer/
-   #Abschreibungssummer
-   #Abschreibungssumm
    #Periode
-   #gleiche
-   #Abschreibungsbetrag/
+   #Abschreibungssumm
+   #Wert
    #Abschreibungssumme
+   #Geometrisch
+   #Gleiches
+   #gleiche
+   #Abschreibungssummer
+   #abschreibungssummer/
+   #Degressionssatz
+   #Abschreibungsbetrag/

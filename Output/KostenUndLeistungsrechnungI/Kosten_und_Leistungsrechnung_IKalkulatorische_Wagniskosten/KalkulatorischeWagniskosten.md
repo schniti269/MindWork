@@ -38,29 +38,29 @@
     - Schiffs verluste etc
 
    Tags & Topics:
-   #Veralterung
-   #Krankheit
-   #BESTÄNDE
-   #Wagniskosten*bezugsgröße
-   #Wagnisse
-   #sonstige
-   #Gefährleistung
-   #Bezugsgröße
-   #Risiko
-   #Wagniskostensatz
-   #Sonstige
-   #Einzel
-   #Vertriebs
    #Fehleinschätzung
+   #Wagniskostensatz
    #Bestimmung
    #Streik
-   #Verderb
-   #Wagnis
-   #Währungsverluste
-   #Risiken
-   #Forschung
    #Forschungs
-   #Komensation
+   #Krankheit
+   #Sonstige
    #Verarbeitungsfehler
-   #Wagnishöhe
+   #Bezugsgröße
+   #Wagniskosten*bezugsgröße
+   #Veralterung
+   #Risiken
+   #Wagnisse
+   #Komensation
+   #Gefährleistung
+   #Einzel
+   #Währungsverluste
+   #Verderb
+   #sonstige
+   #Forschung
    #Kompensation
+   #Vertriebs
+   #Wagnis
+   #Wagnishöhe
+   #BESTÄNDE
+   #Risiko

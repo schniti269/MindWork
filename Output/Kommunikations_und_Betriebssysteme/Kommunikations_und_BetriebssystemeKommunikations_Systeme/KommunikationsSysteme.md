@@ -22,16 +22,16 @@
   - Anwendungen versenden kurzer nachrichten
 
    Tags & Topics:
-   #Wahl
-   #abschätzung
+   #Anwendungsmöglichkeiten
    #Berechnen
    #Zuordnung
-   #Anwendung
-   #Standardabweichung
-   #Anwendungsmöglichkeiten
-   #Nutzen
-   #Dateitransfer
-   #Übertragung
-   #Berechne
+   #Wahl
    #VoIP
+   #Standardabweichung
+   #Dateitransfer
+   #Berechne
+   #Übertragung
+   #Anwendung
    #voip
+   #abschätzung
+   #Nutzen

@@ -1,0 +1,6 @@
+
+![[Geld und Währung Kapitel 3.pdf#page=20]]Tags & Topics:
+   #FEDAktivseitederBilanz
+   #qualitativeeasingMilliardenDollar500045004000350030002500200015001000500020042006Staatsanleihen2008Mortgage-BackedSecurities2010Refinanzierung20122014Gold+Währungsreserven2016SonstigeAktivaQuelle
+   #BackedSecurities2010Refinanzierung20122014Gold+Währungsreserven2016SonstigeAktivaQuelle
+   #qualitativeeasingmilliardendollar500045004000350030002500200015001000500020042006staatsanleihen2008mortgage

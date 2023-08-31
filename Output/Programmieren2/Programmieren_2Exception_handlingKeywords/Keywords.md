@@ -28,20 +28,20 @@ so spezifisch wie möglich abfangen
     - Abarbeiten, kaskadierend nach oben
 
    Tags & Topics:
-   #Inspektion
    #Code
-   #Abarbeit
-   #Werfen
+   #E.getMessage
+   #ausgeführt
+   #Abarbeiten
+   #Ziel
    #Ausnahmen
+   #Inspektion
+   #Exceptionklas
    #Aufruf
+   #Werfe
    #Semantik
    #Ausnahme
-   #Ziel
-   #Werfe
-   #Abarbeiten
-   #Exceptionklas
-   #Methode
-   #E.getMessage
-   #Catchblöcke
+   #Werfen
    #Besonderheit
-   #ausgeführt
+   #Catchblöcke
+   #Abarbeit
+   #Methode

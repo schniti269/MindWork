@@ -1,0 +1,5 @@
+
+![[Mikro+Makro Kapitel 5.pdf#page=14]]Tags & Topics:
+   #Fazit
+   #undnachfrageplänen•konkretesergebnisbeifallstudie
+   #15•imprinzipsorgtdermarktmechanismusauchaufdemarbeitsmarktfüreingleichgewichtvonangebot

@@ -18,16 +18,16 @@
   - 
 
    Tags & Topics:
-   #auflösen
-   #Kosten
-   #k1-x1*KV
-   #Grafik
-   #Art
-   #Leerfunktion
    #TREPPE
-   #Nutzkoste
-   #Arten
    #Auflösen
+   #Kosten
+   #auflösen
    #Kfix
-   #Zusammenhang
    #Nutzkosten
+   #Leerfunktion
+   #Art
+   #Arten
+   #Grafik
+   #k1-x1*KV
+   #Zusammenhang
+   #Nutzkoste

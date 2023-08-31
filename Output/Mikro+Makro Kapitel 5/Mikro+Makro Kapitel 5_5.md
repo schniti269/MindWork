@@ -1,0 +1,5 @@
+
+![[Mikro+Makro Kapitel 5.pdf#page=4]]Tags & Topics:
+   #DeutschesReich
+   #WährungundWirtschaftDeutschland1976–1979sowieZeitreihendatenbankundStatistischesBundesamt20461210814162018192119241927193019331936193919421945194819511954195719601963196619691972197519781981198419871990199319961999200220052008201120142019bis1940
+   #deutschlanddeutschlandwirtschaftswunderdt

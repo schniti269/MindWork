@@ -63,19 +63,19 @@
     - persistentens nicht gefährdet
 
    Tags & Topics:
-   #Labmda
-   #Objekt
    #Doe
-   #Reihe
-   #Beispiel
    #Sichbarkeit
+   #Statisch
+   #Reihe
+   #Bäume
+   #Objekts
+   #Objekt
+   #Serialisieren
    #Personen
+   #Annotation
+   #Labmda
+   #Person
    #Graphen
    #Default
-   #Statisch
-   #Objekts
-   #Person
    #Serialisier
-   #Bäume
-   #Annotation
-   #Serialisieren
+   #Beispiel

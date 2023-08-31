@@ -10,10 +10,10 @@
  Finanz und Finanzierungsrechnung
 
    Tags & Topics:
-   #Finanzierungsrechnung
    #Leistungsrechnung
-   #Controlling
    #Bilanzierungsrechnung
    #Statisch
-   #Investitionsrechnung
+   #Finanzierungsrechnung
+   #Controlling
    #Bilanz
+   #Investitionsrechnung

@@ -51,37 +51,37 @@
    Rest ist egal
 
    Tags & Topics:
+   #umsortieren
+   #Nenner
+   #Zahlen
+   #Umsortieren
    #einf�gen
-   #nullösung
-   #Aufgaben
-   #Ableitung
-   #können
-   #Karthesisch
-   #Zahl
-   #Argument
+   #Gaus
+   #Ableitungen
+   #Polynomdivision
    #Abbildungsmatrix
+   #Argument
+   #können
+   #nullösung
+   #Schreibweise
+   #Ableitung
    #Rest
+   #Zahl
+   #Betrag
+   #Konjugiertes
+   #Eigenwert
+   #Stellung
+   #Strich
+   #Karthesisch
+   #Eigenwerte
+   #Drehelement
+   #Zähler
+   #Abräumen
+   #Aufgabe
+   #Aufgaben
    #Produktregel
    #Element
-   #Betrag
-   #Gaus
-   #Aufgabe
-   #Stellungen
-   #Eigenwert
-   #Konjugiertes
    #Hospitaal
-   #Zahlen
-   #Abräumen
-   #Polynomdivision
-   #Eigenwerte
-   #Nenner
-   #Drehelement
-   #Winkel
-   #Schreibweise
-   #Stellung
    #Teil
-   #Strich
-   #Ableitungen
-   #Zähler
-   #umsortieren
-   #Umsortieren
+   #Stellungen
+   #Winkel

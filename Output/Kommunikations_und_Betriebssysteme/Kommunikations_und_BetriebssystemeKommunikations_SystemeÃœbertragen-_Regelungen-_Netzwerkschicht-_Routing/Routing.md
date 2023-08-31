@@ -37,28 +37,28 @@
     - Simplifizieren der Struktur 
 
    Tags & Topics:
+   #Routing
+   #Paket
+   #Broadcastinfos
+   #Speicher
+   #Route
+   #Unterteilen
+   #spannbaum
+   #Minimaler
+   #Konten
+   #Simplifizier
+   #Simplifizieren
+   #Unterteile
+   #Routen
+   #Verfahren
+   #Lösen
    #Wenn
    #Gegenseitige
-   #Konten
-   #Gegenseitiges
-   #Verfahren
-   #gelöscht
-   #Kosten
-   #Minimaler
-   #Simplifizier
-   #Speichern
-   #Routen
-   #Konto
-   #Unterteile
-   #veröffentlicht
-   #Unterteilen
-   #Speicher
-   #Paket
-   #spannbaum
-   #Simplifizieren
-   #Broadcastinfos
-   #Route
-   #Routing
-   #Lösen
-   #Konvergenz
    #Spannbaum
+   #Konvergenz
+   #veröffentlicht
+   #Konto
+   #Kosten
+   #Gegenseitiges
+   #gelöscht
+   #Speichern

@@ -11,13 +11,13 @@
   - Makroökonomische Zielgrößen
 
    Tags & Topics:
-   #Produktion
-   #Wirtschftliche-Ziele
-   #Zentralbank
    #Preisstab
    #Ziele
-   #Wirtschftliche
-   #Wirtschaft
    #Ziel
+   #Produktion
+   #Wirtschaft
+   #Wirtschftliche
    #Zentralbanken
    #makro�konomische
+   #Zentralbank
+   #Wirtschftliche-Ziele

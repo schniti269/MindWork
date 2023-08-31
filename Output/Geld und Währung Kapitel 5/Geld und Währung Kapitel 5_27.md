@@ -1,0 +1,13 @@
+
+![[Geld und Währung Kapitel 5.pdf#page=26]]Tags & Topics:
+   #ØLangfristigerZeithorizontderEntscheidungsträgerØDiversifikationderEntscheidungsträgerundihrerNominierungsinstanzen•EZB-Rathat25Mitglieder(6Direktorium,19nationaleNotenbanken
+   #ØDirektoriumsmitglieder
+   #keineWiederwahl
+   #Rathat25Mitglieder(6Direktorium,19nationaleNotenbanken)ØDirektoriumsmitglieder
+   #PersönlicheUnabhängigkeit
+   #ølangfristigerzeithorizontderentscheidungsträgerødiversifikationderentscheidungsträgerundihrernominierungsinstanzen•ezb
+   #seitEintrittLitauenszumEuro
+   #ØGouverneurederNNBfürmindestens5JahredurchnationaleOrganegewählt•One
+   #WährungsgebietimJahr2015verletztwegenRotationsprinzip
+   #SeitEintrittLitauenszumEuro-WährungsgebietimJahr2015verletztwegenRotationsprinzip
+   #für8JahrevomEuropäischenRatmitüberlappendenAmtszeitengewählt(keineWiederwahl)ØGouverneurederNNBfürmindestens5JahredurchnationaleOrganegewählt•One(wo)man

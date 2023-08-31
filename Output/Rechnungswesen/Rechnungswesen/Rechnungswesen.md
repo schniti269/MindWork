@@ -29,20 +29,20 @@
     - 4Stellige Nummern
 
    Tags & Topics:
-   #Vorsteuer
-   #Bilanzgleichung
-   #Bestandskonten
-   #Bestandskont
-   #Fremdkapital
-   #Erfolgskont
-   #Passiva
-   #Summe
-   #Erfolgskonten
-   #Vorgehensweise
    #Saldo
+   #Summe
+   #Fremdkapital
    #Qoute
+   #Bestandskonten
+   #Nummer
+   #Bilanzgleichung
+   #Vorsteuer
+   #Bestandskont
+   #Konto
+   #Erfolgskonten
    #Aktiva
    #Aktivum
-   #Nummer
-   #Konto
+   #Passiva
+   #Vorgehensweise
    #Bilanz
+   #Erfolgskont

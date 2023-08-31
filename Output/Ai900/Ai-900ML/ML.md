@@ -17,7 +17,7 @@
     - features are most important
 
    Tags & Topics:
-   #Trends
-   #Supervised
    #Trend
+   #Supervised
+   #Trends
    #Predict

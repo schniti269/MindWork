@@ -34,20 +34,20 @@
       - Exit mutex
 
    Tags & Topics:
-   #Block
-   #Counter
    #市bergabewert
-   #Definition
-   #Enter
    #Prozess
    #Mutex.p
    #Assign
-   #Verf체gbaren
-   #Mutex
-   #Z채hler
    #Buchf체hrung
-   #Gegenseitiger
-   #체bergabewert
+   #Verf체gbaren
+   #Counter
    #Implementierung
+   #Gegenseitiger
    #Konstruktor
+   #Enter
+   #체bergabewert
+   #Block
    #Prozesswarteschlange
+   #Z채hler
+   #Definition
+   #Mutex

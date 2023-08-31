@@ -34,24 +34,24 @@
   - Bereits aufgesetzte pläne ändern müssen weil ausfall
 
    Tags & Topics:
-   #Einzelkosten
-   #Systematiosierungsmöglichkeit
+   #annehmen
    #pläne
+   #Betriebsergebnis
+   #Kurzfirstige
+   #Überlauf
+   #Einzelkost
    #Annehmen
    #Beeinflussung
-   #Überlauf
-   #Variabler
-   #Einzelkost
+   #Einzelkosten
+   #Nutzen
+   #Indifferenz
+   #Fixkosten
+   #Deckungsbeiträge
    #Marktgewinnung
    #Fixkost
-   #Deckungsbeitrag
-   #Kurzfirstig
-   #Fixkosten
-   #Nutzen
-   #Deckungsbeiträge
    #Ablehne
-   #Betriebsergebnis
+   #Systematiosierungsmöglichkeit
+   #Kurzfirstig
+   #Deckungsbeitrag
+   #Variabler
    #Summe
-   #annehmen
-   #Indifferenz
-   #Kurzfirstige

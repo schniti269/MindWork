@@ -1,0 +1,30 @@
+
+![[Grundlagen des wissenschaftlichen Arbeitens_Groß_111122.pdf#page=1]]Tags & Topics:
+   #Objektivität
+   #Gliederung
+   #Bachelorarbeit
+   #Arbeitens
+   #Unbenoteter
+   #Front
+   #Belege
+   #Inhalt
+   #Kennzeichen
+   #zitieren
+   #objektivität
+   #Neutralität
+   #Arbeiten
+   #Darstellung
+   #Nachprüfbarkeit
+   #Tabell
+   #Seminararbeit
+   #Strukturierung
+   #Distanz
+   #Tabellen
+   #Belegen
+   #Anspruch
+   #Zitierweise
+   #Front-End
+   #TextsatzsystemLaTeX
+   #Material
+   #Thematik
+   #Zitieren

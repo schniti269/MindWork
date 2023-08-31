@@ -1,0 +1,30 @@
+
+![[Einführung-IT-Teil1.pdf#page=18]]Tags & Topics:
+   #-kerne
+   #Wirt
+   #Forschungsinstituten
+   #-Kerne
+   #Abkehr
+   #•Virtualisierung
+   #Hypervisor
+   #Packungsdicht
+   #Forschungsinstitut
+   #Datenbanken
+   #Netzwerkvirtualisierung
+   #software
+   #Senkung
+   #•Verarbeitung
+   #Schicht
+   #Intelligenz
+   #Rechenleistung
+   #Industrie
+   #Merkmal
+   #Software
+   #Expertensystem
+   #Mikroprozessoren
+   #Steigerung
+   #Mikroprozessor
+   #Host
+   #Mitte
+   #Expertensysteme
+   #Textverarbeitung

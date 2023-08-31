@@ -24,21 +24,21 @@
   - Call by reference 
 
    Tags & Topics:
-   #Referenzdatentype
-   #Array
-   #Objekt
-   #Objekte
-   #Klasse
-   #Referenzdatentypen
-   #Decimal
-   #„char“
-   #Unterknoten
-   #Listen
    #Klassen
-   #Liste
-   #String
-   #Pointer
+   #Unterknoten
+   #Klasse
+   #Objekt
    #Ganzzahl
-   #float
+   #Pointer
+   #Objekte
    #Unterknot
+   #Listen
+   #Array
+   #String
+   #Referenzdatentype
+   #Decimal
+   #float
+   #„char“
+   #Liste
    #Komplex
+   #Referenzdatentypen

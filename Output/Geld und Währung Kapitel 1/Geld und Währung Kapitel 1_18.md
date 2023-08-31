@@ -1,0 +1,13 @@
+
+![[Geld und Währung Kapitel 1.pdf#page=17]]Tags & Topics:
+   #BankkreditoderKapitalmarktfinanzierung).InvestitionwirdunabhängigvomeigentlichenSparplan§LängerfristigeBereitschaftfürFinanzierungbedarfstabilerInflationsrate
+   #GeldalsWertspeicher
+   #FinanzierenundInvestierensindvonfundamentalerBedeutungineinerMarktwirtschaft§OhneGeld
+   #InvestitionwirdfinanziertdurchZuteilungvonGeld(BankkreditoderKapitalmarktfinanzierung).InvestitionwirdunabhängigvomeigentlichenSparplan§LängerfristigeBereitschaftfürFinanzierungbedarfstabilerInflationsrate(Risikoprämien)§UnerwarteteVeränderungenderInflationsrateführenzuVermögenstransfersvonGläubigernzuSchuldnernundumgekehrt§FluchtinSachwerte(Gold
+   #20§Sparen
+   #Gold
+   #verursachtFehlallokatione
+   #Risikoprämien)§UnerwarteteVeränderungenderInflationsrateführenzuVermögenstransfersvonGläubigernzuSchuldnernundumgekehrt§FluchtinSachwerte
+   #Immobilien)verursachtFehlallokationen
+   #InvestitionwirdfinanziertdurchZuteilungvonGeld
+   #Immobilie

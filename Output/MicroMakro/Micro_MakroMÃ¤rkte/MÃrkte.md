@@ -23,26 +23,26 @@
   - Balace Staat und Markt
 
    Tags & Topics:
-   #Mitglied
+   #Staat
+   #Subvention
+   #Geldpolitik
+   #Parlament
+   #Ordnungspolitik
    #Subventionen
    #Einfluss
-   #vorsitzend
-   #Markt
-   #INDIREKT
-   #Vorsitzenden
-   #Subvention
-   #Staates
-   #staate
-   #Parlament
-   #Dollar
    #Mitglieder
-   #Geldpolitik
-   #Ausgaben
-   #Zinsen
-   #Staat
-   #Ordnungspolitik
-   #Zins
    #Geldmenge
+   #staate
+   #Mitglied
+   #INDIREKT
+   #Dollar
+   #vorsitzend
+   #Staates
    #Ausgabe
+   #Zins
+   #Vorsitzenden
+   #Ausgaben
+   #Markt
    #Prozesspolitik
+   #Zinsen
    #Steuervorteil

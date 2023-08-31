@@ -4,7 +4,7 @@
    s&p500
 
    Tags & Topics:
-   #Indiz
-   #Indizes
    #Ziel
+   #Indizes
+   #Indiz
    #Ziele

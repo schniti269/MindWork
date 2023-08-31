@@ -1,0 +1,35 @@
+
+![[Logik-Algebra.pdf#page=15]]Tags & Topics:
+   #Ent
+   #Schreibweisen
+   #P(x)oderP(x1
+   #Subjekt
+   #xmitA(x
+   #Quantoren
+   #Enten
+   #a(x)⇔a(1)∧a(2)∧a(3
+   #B(x)gilt
+   #∀x:¬a(x)∨b(x
+   #Quantor
+   #B(x)verwendet
+   #E(x):xliegt
+   #Vögel
+   #P(x)geschrieben
+   #undQuantoren
+   #b(x)oder
+   #∀A(x
+   #Schreibweis
+   #a(x)⇔a(1)∨a(2)∨a(3
+   #y),P(x
+   #Vogel
+   #∃A(x
+   #A(x)∧B(x
+   #Wenn
+   #undQuantor
+   #∀d(x
+   #B(x)⇔
+   #B(x):xist
+   #¬E(Deutschland
+   #x)⇔A(1)∨A(2)∨A(3
+   #Nicht
+   #¬G(x)∧P(x

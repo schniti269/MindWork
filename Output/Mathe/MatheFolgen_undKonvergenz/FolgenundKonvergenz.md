@@ -22,11 +22,11 @@
 
    Tags & Topics:
    #Majorante
-   #Kriterium
-   #Minorante
    #Monotonie
-   #Wurzel
+   #Minorante
+   #Kriterium
    #Thema
-   #Kriterien
    #Konvergenz
+   #Kriterien
+   #Wurzel
    #Majorant

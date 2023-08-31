@@ -48,13 +48,13 @@
     - primzahl die den hash start multipliziert
 
    Tags & Topics:
+   #Gelichhetit
+   #Feld
+   #Subklasse
+   #Smmlung
+   #Feldvergleich
+   #bitverknüpung
+   #Datentype
    #this.getClass
    #Datentypen
-   #Datentype
-   #Feldvergleich
-   #Smmlung
-   #Feld
-   #Gelichhetit
-   #Subklasse
    #Nutzen
-   #bitverknüpung

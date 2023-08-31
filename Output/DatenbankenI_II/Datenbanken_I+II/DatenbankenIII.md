@@ -20,14 +20,14 @@
     - in verknüpfung mit selektion -> Join= auflösen einer Fremdschlüsselbeziehung
 
    Tags & Topics:
-   #Tabelle
-   #Schnitt
-   #Fremdschlüsselbeziehung
-   #Verlink
-   #Vereinigen
-   #Aggregation
-   #Verlinke
-   #Relationsoperatione
-   #Relationsoperationen
-   #Vereinig
    #aufl�sen
+   #Schnitt
+   #Vereinig
+   #Verlinke
+   #Aggregation
+   #Vereinigen
+   #Relationsoperatione
+   #Verlink
+   #Relationsoperationen
+   #Tabelle
+   #Fremdschlüsselbeziehung

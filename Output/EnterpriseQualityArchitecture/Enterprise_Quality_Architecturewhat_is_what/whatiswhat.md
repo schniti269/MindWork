@@ -11,10 +11,10 @@
       - WTF/(minute)
 
    Tags & Topics:
-   #Architecture
-   #Architectur
-   #Technical
-   #WTF/(minute
-   #Workarounds
    #FunctionalRequirement
+   #Architecture
    #functionalrequirement
+   #WTF/(minute
+   #Technical
+   #Workarounds
+   #Architectur

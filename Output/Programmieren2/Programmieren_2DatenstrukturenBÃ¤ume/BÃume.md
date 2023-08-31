@@ -30,24 +30,24 @@
       - Rekursiv so tief runtergehen, dass man irgendwo die Differenz weg null Node hat
 
    Tags & Topics:
-   #Ursprung
-   #Node
-   #Kant
-   #Kinder
-   #Vorraussetzung
-   #Binärbaum
    #Art
-   #Suche
-   #Left
-   #Wurzel
-   #Rechtsrotation
-   #Adelson
-   #Höhe
-   #balancieren
-   #Linksrotation
-   #Kanten
-   #Knoten
-   #Balancieren
    #Kind
+   #Kinder
+   #Node
+   #balancieren
+   #Höhe
+   #Rechtsrotation
+   #Vorraussetzung
+   #Adelson
+   #Suche
    #O(log(n
    #Arten
+   #Linksrotation
+   #Balancieren
+   #Knoten
+   #Wurzel
+   #Ursprung
+   #Kant
+   #Left
+   #Kanten
+   #Binärbaum

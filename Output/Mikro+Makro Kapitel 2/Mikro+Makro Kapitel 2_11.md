@@ -1,0 +1,7 @@
+
+![[Mikro+Makro Kapitel 2.pdf#page=10]]Tags & Topics:
+   #ProduzentvonTuch
+   #ProduzentvonWein)•ZentralepolitischeAussage
+   #RegionenundLändern
+   #AußenhandelistimmerbesseralsAutarkieunderistgeradefürLändermitunterschiedlichemEntwicklungsstandvorteilhaft•ModellistanwendbaraufArbeitsteilungzwischenMenschen
+   #außenhandelistimmerbesseralsAutarkieunderistgeradefürLändermitunterschiedlichemEntwicklungsstandvorteilhaft•ModellistanwendbaraufArbeitsteilungzwischenMenschen

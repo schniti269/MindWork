@@ -41,35 +41,35 @@
       - Jetzt integrierbar
 
    Tags & Topics:
-   #Zerlegung
-   #stammmfunktion
-   #Integration
-   #Partialbruchzerlegung
-   #Nullmeng
-   #Transformationen
-   #Ableitung
-   #Int(f'x
-   #Partialbruch
-   #Integrationsrichtung
-   #Nullmengen
-   #zähler
-   #Stammmfunktion
-   #Partielle
-   #Dierektintegrier
-   #Ergebnis
-   #Anteil
-   #Fouriertransformation
-   #Unterknot
-   #Transformatione
-   #Polynomdivision
-   #Einsetzen
-   #lösen
-   #Finde
    #Einsetze
-   #Satz
+   #Anteil
+   #zähler
+   #stammmfunktion
+   #Fouriertransformation
+   #Finde
+   #Stammmfunktion
+   #Transformationen
+   #lösen
+   #Ergebnis
+   #Partialbruchzerlegung
+   #Polynomdivision
    #Dierektintegrieren
    #Finden
+   #Zerlegung
+   #Partielle
+   #Unterknot
+   #Partialbruch
+   #Nullmengen
+   #Ableitung
+   #Transformatione
+   #Dierektintegrier
    #Monotonie
-   #Unterknoten
-   #f(ü
    #Anteile
+   #Integrationsrichtung
+   #Int(f'x
+   #Einsetzen
+   #Integration
+   #Unterknoten
+   #Nullmeng
+   #Satz
+   #f(ü

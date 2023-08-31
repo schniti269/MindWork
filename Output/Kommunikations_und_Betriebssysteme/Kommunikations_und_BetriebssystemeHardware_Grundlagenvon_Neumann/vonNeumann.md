@@ -84,53 +84,53 @@
   - (Linux Kommandos)
 
    Tags & Topics:
+   #Unterbrechung
    #Kellerregister
-   #Wechsel
-   #Fork
-   #Kaskadierend
-   #Erzeug
-   #Write
-   #Wort
-   #Welcher
-   #Usermode
-   #Privilegien
-   #Steuer
-   #Kindprozess
-   #Ursachen
-   #Vektor
-   #Ursache
+   #Koherenz
    #Prozessorkerne
-   #Programmbezog
-   #Auslesen
-   #Wirkung
-   #Steuerbus
-   #Funktionszustand
-   #Warten
-   #Writ
+   #Welcher
+   #Steuer
    #Controller
-   #Mehrzweckhalle
-   #Gleitpunkt
-   #Erzeugen
-   #Register
+   #Speicher
+   #Wechsel
    #Privileged
+   #Programmbezog
+   #Warten
+   #Zugriffs
+   #Usermode
+   #Ursachen
+   #Zugriff
+   #Hauptspeicher
+   #Privilegien
+   #Befehl
+   #Kaskadierend
+   #Writ
+   #Wirkung
+   #Adressbus
    #warten
-   #auslesen
+   #Auslesen
+   #Wort
+   #Programmbezogen
    #Steuerwerk
    #Maschienenzustand
-   #Fehler
-   #Speicher
-   #Unterbrechung
-   #Programmbezogen
-   #Hauptspeicher
-   #Dopplung
-   #Anforderung
-   #Privileg
+   #Vektor
+   #Mehrzweckhalle
    #Systembezogeb
-   #Zugriff
-   #Adressbus
-   #Koherenz
-   #Befehl
-   #Zugriffs
-   #Interruption
+   #Register
    #Erlaubnis
+   #Erzeug
+   #Privileg
+   #Dopplung
+   #Fehler
+   #Gleitpunkt
    #Rausgehen
+   #Interruption
+   #Kindprozess
+   #Write
+   #Fork
+   #Steuerbus
+   #Erzeugen
+   #Funktionszustand
+   #Anforderung
+   #Ursache
+   #auslesen

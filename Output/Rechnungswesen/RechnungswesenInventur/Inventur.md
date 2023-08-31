@@ -14,14 +14,14 @@
     - Vermögen - Schulden
 
    Tags & Topics:
-   #Anlage
-   #Hypothek
-   #Vermög
-   #Schulden
-   #Darlen
-   #Verbindlichkeit
-   #Vermögen
-   #Umlauf
-   #Ermittlung
-   #Verbindlichkeiten
    #Schuld
+   #Verbindlichkeit
+   #Ermittlung
+   #Vermög
+   #Darlen
+   #Anlage
+   #Schulden
+   #Vermögen
+   #Verbindlichkeiten
+   #Umlauf
+   #Hypothek

@@ -69,37 +69,37 @@
 
    Tags & Topics:
    #padding
-   #Zufallszeit
-   #hört
-   #Durchsatz
-   #Kanal
-   #Konkurenzphase
-   #Konkurenzphas
-   #„Connection
-   #hör
-   #Wahrscheinlichkeit
-   #Carrier
-   #Station
-   #Begin
-   #Kollision
-   #E^-2
+   #Frame
    #hören
-   #Reservierde
+   #Kanal
    #während
+   #Freitext
    #Warten
    #Lausch
-   #Kanalbeslastung
-   #warten
-   #Beginen
-   #übereinstimmt
-   #übertragung
-   #Freitext
-   #Parameter
-   #Gigabit
-   #Frame
-   #Lausche
-   #Frames
-   #gigabit
    #Kollisionen
-   #Zufallsvariable
+   #Zufallszeit
+   #übertragung
+   #Parameter
+   #warten
+   #Kanalbeslastung
    #Padding
+   #übereinstimmt
+   #Konkurenzphas
+   #Reservierde
+   #Frames
+   #Kollision
+   #Begin
+   #E^-2
+   #hört
+   #„Connection
+   #hör
+   #gigabit
+   #Konkurenzphase
+   #Station
+   #Beginen
+   #Carrier
+   #Wahrscheinlichkeit
+   #Zufallsvariable
+   #Gigabit
+   #Durchsatz
+   #Lausche

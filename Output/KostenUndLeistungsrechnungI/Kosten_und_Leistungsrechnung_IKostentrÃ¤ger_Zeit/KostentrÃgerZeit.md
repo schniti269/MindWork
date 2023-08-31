@@ -20,15 +20,15 @@
     - ehere deutsche variante
 
    Tags & Topics:
-   #Abgrenzung
-   #Gesamtkosten
    #Gesamtkoste
-   #Gesamt
-   #erlã¶s
+   #Zuordnung
+   #Abgrenzung
    #ErlÃ¶s
-   #Umsatzkost
-   #Ausdifferenzieren
+   #Gesamt
+   #Umsatzkosten
+   #erlã¶s
+   #Gesamtkosten
    #ausdifferenzieren
    #Verfahren
-   #Zuordnung
-   #Umsatzkosten
+   #Umsatzkost
+   #Ausdifferenzieren

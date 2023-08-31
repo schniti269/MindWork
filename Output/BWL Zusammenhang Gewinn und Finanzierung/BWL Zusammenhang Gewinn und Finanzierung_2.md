@@ -1,0 +1,34 @@
+
+![[BWL Zusammenhang Gewinn und Finanzierung.pdf#page=1]]Tags & Topics:
+   #Kreditnehmers
+   #Kreditnehmer
+   #Kreditwürdigkeit
+   #Teilbetrag
+   #Fremdkapitalgeber
+   #Beteiligten
+   #Überle
+   #Kreditbetrag
+   #Unternehmensw
+   #Gewährung
+   #Bilanzen
+   #Eigenkapitalgeber
+   #Kreditzeitraums
+   #Fremdkapitalaufnahme
+   #Kreditgeschäft
+   #BWL-Einführung
+   #beteiligter
+   #Kredit
+   #Gewinn
+   #Kreditgeschäfte
+   #Eigenk
+   #Kreditzeitraum
+   #Können
+   #Kann
+   #Teilbeträge
+   #Wenn
+   #Bilanz
+   #Solvenz
+   #Leihe
+   #Kredite
+   #Gewinne
+   #Kriterium

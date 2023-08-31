@@ -1,0 +1,32 @@
+
+![[Logik-Algebra.pdf#page=55]]Tags & Topics:
+   #Rückschluß
+   #Hellman
+   #Berechne
+   #Angreifer
+   #aufZp
+   #Schlüsselaustausch
+   #Zufgriff
+   #Attacke
+   #Zufallszahlen
+   #Verwende
+   #Sende-
+   #3.48.DieKommunikationspartnerAliceundBobeinigensichaufdasDiffie
+   #Kommunikationspartner
+   #Rückschlüsse
+   #Angriff
+   #Sicherheitsmechanismus
+   #Empfangsseite
+   #Zufallszahle
+   #Send
+   #Einer
+   #verwende
+   #berechn
+   #Sitzungsschlüssel
+   #αb)ainZp
+   #AufZ233undα=
+   #Logjam
+   #Entschlüsselung
+   #Mitschnitt
+   #Sende
+   #Logjam-Attacke

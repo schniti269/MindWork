@@ -1,0 +1,31 @@
+
+![[2022_Marketing_Skript.pdf#page=4]]Tags & Topics:
+   #Rahmenbedingungenfür
+   #Bezugsobjekte
+   #Zusammentreffens
+   #Zielobjekt
+   #Preise
+   #Kunde
+   #marketing
+   #Märkte
+   #MARKETehen
+   #Unternehmens
+   #Angebots
+   #Zusammentreffen
+   #Bezugsobjekt
+   #Unternehmen
+   #1.1.
+   #Zielobjekte
+   #Verhalten
+   #2Märkte(Markt
+   #Angebot
+   #Marketing
+   #Ziel
+   #Akteur
+   #MarketingUnternehmen
+   #Preis
+   #Akteure
+   #Wettbewerber
+   #Handlungsspielraum
+   #verhalten
+   #Markt

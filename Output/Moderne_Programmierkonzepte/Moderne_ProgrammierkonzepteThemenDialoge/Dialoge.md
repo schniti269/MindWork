@@ -37,9 +37,9 @@
   - shortcuts nebendran anzeigen
 
    Tags & Topics:
-   #Steuerbarkeit
    #selbstbeschreibungsf�higkeit
-   #MENÜS
-   #selbstbeschreibungsfähigkeit
+   #Steuerbarkeit
    #Lernförderlichkeit
+   #selbstbeschreibungsfähigkeit
+   #MENÜS
    #gültigkeit

@@ -41,30 +41,30 @@
         - Auf geschwindigkeit ausgelegt hat aber hohen speicherbedarf
 
    Tags & Topics:
-   #Hälfte
-   #/Basisregister
-   #ablehnen
-   #Array
-   #Swapspace
-   #Fragmanetierung
-   #Element
-   #Strategie
-   #Verschmelz
-   #Vergibt
-   #Elemente
    #Verschmelzen
-   #Kopf
-   #Austauschen
-   #Bereich
    #Ablehnen
-   #Strategien
-   #Teil
-   #Massenspeicher
-   #l�nge
-   #länge
-   #kopf
-   #Teile
-   #Liste
-   #Variable
    #Arrays
+   #kopf
+   #Swapspace
+   #Liste
+   #Austauschen
+   #Strategien
+   #Variable
+   #ablehnen
+   #Vergibt
+   #Massenspeicher
+   #Elemente
+   #Array
+   #Fragmanetierung
+   #Verschmelz
+   #Teile
+   #länge
+   #Bereich
+   #Kopf
+   #/Basisregister
+   #Element
+   #l�nge
+   #Teil
    #Verwaltung
+   #Strategie
+   #Hälfte

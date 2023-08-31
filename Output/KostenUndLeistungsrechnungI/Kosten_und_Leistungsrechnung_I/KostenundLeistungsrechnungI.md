@@ -30,15 +30,15 @@
    Durchschnittswertbildung
 
    Tags & Topics:
-   #Anlage
    #Umlaufvermögen
+   #Saldo
+   #Erfolg
+   #-Verbindlichkeit
+   #Gemeinkost
    #Schnitt
    #Begriffe
-   #Gemeinkost
+   #Anlage
    #Gemeinkosten
-   #Begriff
-   #Erfolg
-   #Saldo
-   #-Verbindlichkeit
    #Sicht
+   #Begriff
    #Kostenbrgriff

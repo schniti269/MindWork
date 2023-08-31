@@ -67,35 +67,35 @@
     - wenn datei zu groß,
 
    Tags & Topics:
-   #Position
-   #Langsame
-   #I-Node
-   #Einteilung
+   #Organisieren
    #Festplatte
-   #Dateideskriptor
-   #Dateisystems
-   #Block
-   #Index
-   #Schichtenmodell
-   #Dateityp
-   #Organisier
-   #zusammengehörigen
-   #Aufgabe
-   #Strategie
-   #Solid
-   #Plattendateiverzeichnis
+   #Position
    #Controller
-   #löschen
-   #Schutzmechanismen
+   #Speicher
+   #Index
+   #Dateideskriptor
+   #Block
+   #Problem
    #Strategien
    #Probleme
+   #Dateisystems
+   #zusammengehörigen
+   #Dateityp
+   #löschen
+   #Schichtenmodell
    #Datei
-   #l�nge
-   #Speicher
-   #länge
-   #Nodes
-   #Problem
-   #Dateien
+   #Organisier
+   #Langsame
    #Dateisystem
+   #Solid
+   #Schutzmechanismen
+   #Dateien
+   #Einteilung
+   #länge
+   #Aufgabe
+   #Plattendateiverzeichnis
+   #Nodes
    #Logische
-   #Organisieren
+   #l�nge
+   #Strategie
+   #I-Node

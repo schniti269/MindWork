@@ -1,0 +1,34 @@
+
+![[Trends.pdf#page=1]]Tags & Topics:
+   #Branchennetzwerke
+   #Datenmanagementstrategie
+   #schnellere
+   #Technologie
+   #Partnernetz
+   #Umwandlung/
+   #Einnahmequellen
+   #Einnahmequelle
+   #Erzielen
+   #Geschäftsmodell
+   #Rechenzentrum
+   #Agilität
+   #Technologien
+   #Wertschöpfungskett
+   #Produktivität
+   #Innovationsrat
+   #Vertrauenswürdigkeit
+   #Vernetzte
+   #Erschließung
+   #Bedrohungen
+   #Kundenbindung
+   #Erziele
+   #Innovationsrate
+   #Branchennetzwerk
+   #Wertschöpfungsketten
+   #Rechenzentren
+   #produktivität
+   #Geschäftsmodells
+   #Schnellere
+   #Bedrohung
+   #Managementsystem
+   #Mitarbeiterproduktivität
