@@ -1,16 +1,14 @@
 
 ![[Foliensatz II Rechtsformen.pdf#page=16]]Tags & Topics:
    #Sollte
-   #dasUnternehme
-   #Drohen
-   #Handelnde
    #Abkrzung
    #RechtsformenGeschftsfhrung
+   #dasUnternehme
+   #Drohen
    #Wirkung
-   #Konsequenzen
-   #Rechtsverbindlichkeit
-   #Was
-   #Gefahr
-   #EMail
-   #Schadensersatz
    #Krzel
+   #Gefahr
+   #Schadensersatz
+   #Handelnde
+   #Rechtsverbindlichkeit
+   #Konsequenzen

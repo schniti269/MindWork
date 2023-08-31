@@ -1,14 +1,14 @@
 
 ![[Foliensatz II Rechtsformen.pdf#page=11]]Tags & Topics:
-   #Versto
-   #NameEinzelprokura
-   #GeschfteUnterzeichnung
-   #Schadensersatzpflicht
    #Rechtsgeschfte
    #VertretungsmachtProkurist
-   #dieUnternehmensleitung
-   #BilanzErteilung
-   #Prokurist
    #RechtsformenGeschftsfhrung
-   #Handelsregistereintrag
+   #Versto
+   #dieUnternehmensleitung
    #ProkuraFormen
+   #BilanzErteilung
+   #Schadensersatzpflicht
+   #NameEinzelprokura
+   #Handelsregistereintrag
+   #Prokurist
+   #GeschfteUnterzeichnung

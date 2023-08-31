@@ -1,29 +1,26 @@
 
 ![[Bedürfnis Bedarf Nachfrage Kaufakt 2022.pdf#page=2]]Tags & Topics:
-   #Nutzung
-   #imRahmen
-   #Wirtschaftswissenschaft
-   #Ziels
-   #Zielerreichung
-   #Gutes
-   #Wenn
-   #Wirtschaftsgut
-   #Zielesetzen
    #Zahlungsfhigkeit
-   #denWirtschaftssubjekten
+   #Gter
+   #Zielesetzen
+   #imRahmen
+   #Nutzung
+   #Erfolg
+   #undDienstleistungen
+   #Bereitschaft
+   #Innovationen
+   #Dienstleistung
+   #Mittel
+   #Leisten
+   #Zielerreichung
+   #Dankbarkeit
    #Chance
    #wirtschaftlichenGut
    #Angebot
-   #Bereitschaft
-   #undDienstleistungen
-   #Mittel
-   #Erfolg
-   #Bedrfnisse
-   #Zustzlich
+   #denWirtschaftssubjekten
+   #Gutes
    #Texte
-   #Dienstleistung
-   #Innovationen
-   #Dankbarkeit
-   #Gter
+   #Wirtschaftswissenschaft
+   #Ziels
+   #Wirtschaftsgut
    #Freundschaft
-   #Leisten

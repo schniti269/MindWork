@@ -1,6 +1,6 @@
 
 ![[Geld und Währung Kapitel 2.pdf#page=25]]Tags & Topics:
-   #Einflussnahme
+   #undBargeldhaltung
    #Geldbasisnachfrage
    #Kreditvergabe
-   #undBargeldhaltung
+   #Einflussnahme

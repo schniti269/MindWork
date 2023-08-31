@@ -1,10 +1,10 @@
 
 ![[Foliensatz II Rechtsformen.pdf#page=7]]Tags & Topics:
+   #Personengruppen
    #Marktwertes
-   #Eigenkapitals
-   #inZukunft
    #ValueKonzept
+   #inZukunft
    #Unternehmensstrategie
    #KapitalismusStakeholder
+   #Eigenkapitals
    #Interessen
-   #Personengruppen

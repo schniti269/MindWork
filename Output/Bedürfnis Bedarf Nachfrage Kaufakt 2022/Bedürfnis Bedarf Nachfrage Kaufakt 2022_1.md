@@ -1,30 +1,25 @@
 
 ![[Bedürfnis Bedarf Nachfrage Kaufakt 2022.pdf#page=0]]Tags & Topics:
+   #Antrieb
    #SchaffenskraftAusdauer
-   #Trumen
-   #Wahrnehmung
-   #Fhigkeit
    #Zeitraum
-   #NachfrageMenschen
+   #eineAuswahl
+   #Kraft
    #undBegeisterung
+   #Begehren
+   #begehren
+   #hoffen
+   #Fhigkeit
+   #Entschlossenheit
+   #Entscheidung
+   #Geldzahlungen
    #Wnsch
+   #Texte
+   #Hoffen
+   #Trumen
+   #Drang
+   #NachfrageMenschen
    #Umfang
    #Effizienzoder
-   #Drang
-   #Ziele
-   #Erreichung
-   #Ressourcen
-   #Entschlossenheit
-   #Zustand
-   #Wirklichkeit
-   #begehren
-   #Kraft
-   #Hoffen
-   #Geldzahlungen
-   #hoffen
-   #Entscheidung
-   #Begehren
-   #Texte
    #Bedarf
-   #eineAuswahl
-   #Antrieb
+   #Erreichung

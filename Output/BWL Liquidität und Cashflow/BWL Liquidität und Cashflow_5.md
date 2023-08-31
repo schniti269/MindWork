@@ -1,28 +1,22 @@
 
 ![[BWL Liquidität und Cashflow.pdf#page=4]]Tags & Topics:
-   #Jahr
-   #Mglichkeiten
    #undGewinnkrise
-   #Aufgabe
-   #berlegungenWarum
-   #Vertrieb
-   #Preiserhhung
+   #LeistungStellen
+   #Liquiditts
+   #Marketingserfordern
+   #Qualitt
+   #Mglichkeiten
+   #hherePreise
+   #Fehlleistung
+   #Schlechtleistung
+   #dieTransformation
+   #Konsequenzen
    #Marketingbereichs
    #Verkaufsabteilungvorliegt
-   #Qualitt
-   #Konsequenzen
-   #LeistungStellen
-   #verschrftWelcher
-   #dieUnternehma
    #dieKunden
-   #hherePreise
    #Vorleistung
-   #Schlechtleistung
-   #Liquiditts
-   #Fehlleistung
-   #dieUnternehmen
+   #verschrftWelcher
    #Markeaufzubauen
-   #dieTransformation
-   #Absatz
-   #Marketingserfordern
-   #Wahrscheinlichkeit
+   #dieUnternehmen
+   #dieUnternehma
+   #berlegungenWarum

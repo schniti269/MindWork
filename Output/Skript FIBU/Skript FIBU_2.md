@@ -1,0 +1,31 @@
+
+![[Skript FIBU.pdf#page=1]]Tags & Topics:
+   #Vorkontierung
+   #Entstehung
+   #aktive
+   #Besonderheiten
+   #Wirkung
+   #Erfolgsermittlung
+   #Periodengerechte
+   #Buchungen
+   #LohnGehaltsabrechnung
+   #Verbindlichkeit
+   #Ausscheiden
+   #Kontenklassen
+   #Preisnachlß
+   #Gutschrift
+   #Erluterung
+   #Rechnungsbetrag
+   #Kontenplan
+   #Anschaffungskosten
+   #Vorsteuer
+   #Beleggeschftsgang
+   #Rechnungswesen
+   #Erfassung
+   #Belegorganisation
+   #ERExkurs
+   #Zahllast
+   #Eingangsrechnung
+   #Umsatzsteuer
+   #ausscheiden
+   #Preisnachlsse

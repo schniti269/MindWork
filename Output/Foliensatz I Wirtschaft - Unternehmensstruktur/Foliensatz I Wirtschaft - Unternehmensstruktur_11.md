@@ -1,15 +1,13 @@
 
 ![[Foliensatz I Wirtschaft - Unternehmensstruktur.pdf#page=10]]Tags & Topics:
-   #Input
-   #Umsatzes
-   #Produktivittskennziffer
-   #ZusammenwirkenKennziffernRentabilitt
-   #GewinnUmsatzrentabilitt
-   #faktor
-   #EigenkapitalrentabilittOutput
-   #Faktoreinsatzes
+   #Einfhrung
    #Gewinns
    #KapitalsRentabilitt
+   #GewinnUmsatzrentabilitt
    #UmsatzrentabilittOutput
-   #Verhltnis
-   #Einfhrung
+   #EigenkapitalrentabilittOutput
+   #faktor
+   #ZusammenwirkenKennziffernRentabilitt
+   #Produktivittskennziffer
+   #Faktoreinsatzes
+   #Umsatzes

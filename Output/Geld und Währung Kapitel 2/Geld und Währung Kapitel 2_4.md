@@ -1,12 +1,12 @@
 
 ![[Geld und Währung Kapitel 2.pdf#page=3]]Tags & Topics:
-   #Realtausch
    #werdenBank
-   #Intermedire
-   #Investitioneingesetzt
-   #Investoren
-   #kannBanken
-   #Sichtguthaben
+   #Realtausch
    #Originatoren
-   #Modelle
+   #Sichtguthaben
    #realtausch
+   #Investoren
+   #Investitioneingesetzt
+   #Modelle
+   #kannBanken
+   #Intermedire

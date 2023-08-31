@@ -1,25 +1,24 @@
 
 ![[Bedürfnis Bedarf Nachfrage Kaufakt 2022.pdf#page=5]]Tags & Topics:
-   #Man
+   #Konsumentin
+   #Wirtschaftssubjekt
+   #Verwirklichung
+   #Gutesaufzuwenden
+   #TauschfhigkeitKaufkraft
    #nurWirtschaftsgter
+   #gewordenentscheidung
+   #Clubbesuch
    #Artikelkaufen
-   #Mittel
+   #Bedarfist
+   #Man
+   #weitestgehendeBedrfnisbefriedigung
+   #Texte
    #Bedrfnisziel
    #Bedrfnissesdenn
-   #Nicht
-   #gewordenEntscheidung
-   #aufKleinigkeiten
-   #Verwirklichung
-   #Texte
    #Dienstleistung
-   #Turnschuhe
-   #weitestgehendeBedrfnisbefriedigung
-   #gewordenentscheidung
    #Nutzenvorstellungen
-   #Bedarfist
-   #Konsumentin
-   #Clubbesuch
-   #Wirtschaftssubjekt
-   #Gutesaufzuwenden
-   #Preis
-   #TauschfhigkeitKaufkraft
+   #Nicht
+   #Mittel
+   #gewordenEntscheidung
+   #Turnschuhe
+   #aufKleinigkeiten

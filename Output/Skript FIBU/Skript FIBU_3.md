@@ -1,0 +1,30 @@
+
+![[Skript FIBU.pdf#page=2]]Tags & Topics:
+   #Kontrollsystem
+   #Rechnungswesens
+   #Wirtschaftlichkeit
+   #Erfolgslage
+   #Informationsaufgabe
+   #Finanzbehrde
+   #Werteverbrauchund
+   #Vermgenswerte
+   #fhrenErfassung
+   #Unternehmensleitungjederzeit
+   #Zahlenmaterials
+   #Planungen
+   #Geschftsflle
+   #Unternehmenseigner
+   #betrieblichenprozesse
+   #Ertrgen
+   #fhrenerfassung
+   #Fremdkapitals
+   #aufSie
+   #Geschftsbuchhaltung
+   #Bereitstellung
+   #Jahreserfolg
+   #bestimmteRechnungsperiode
+   #Geschftsjahr
+   #Quartal
+   #betrieblichenProzesse
+   #Ausgestaltung
+   #Rechenschaftslegung

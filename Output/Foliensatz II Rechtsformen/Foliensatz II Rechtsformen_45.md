@@ -1,8 +1,7 @@
 
 ![[Foliensatz II Rechtsformen.pdf#page=44]]Tags & Topics:
-   #einlage
-   #Einlage
+   #MinimalverzinsungGmbH
    #Innengesellschaft
    #eineMitunternehmerschaft
-   #Beteiligung
-   #MinimalverzinsungGmbH
+   #Einlage
+   #einlage

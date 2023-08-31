@@ -1,19 +1,18 @@
 
 ![[Geld und Währung Kapitel 5.pdf#page=6]]Tags & Topics:
-   #Zeitinkonsistenzproblems
-   #Kern
-   #Strategie
-   #Professors
-   #Aktion
-   #Disnutzen
    #Klausur
-   #Prfungsordnung
-   #vorRegelbindung
-   #Lernerfolg
-   #studierend
-   #Schein
-   #Semesters
-   #Korrekturaufwand
-   #Studierende
-   #Absage
    #ndertEntscheidungssituation
+   #Korrekturaufwand
+   #Strategie
+   #vorRegelbindung
+   #Semesters
+   #Aktion
+   #Professors
+   #Lernerfolg
+   #Prfungsordnung
+   #Disnutzen
+   #Studierende
+   #Schein
+   #Zeitinkonsistenzproblems
+   #Absage
+   #studierend

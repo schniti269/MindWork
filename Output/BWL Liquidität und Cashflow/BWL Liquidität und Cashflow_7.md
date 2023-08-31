@@ -1,23 +1,19 @@
 
 ![[BWL Liquidität und Cashflow.pdf#page=6]]Tags & Topics:
-   #Neupositionierung
+   #InvestitionWoher
+   #Transformation
+   #Methoden
    #Wir
-   #Steuerung
+   #Digitalisierung
+   #Qualitt
+   #ReengineeringWarum
+   #Mglichkeit
    #Investitionen
    #Strukturen
    #Wettbewerberam
-   #InvestitionWoher
-   #ReengineeringWarum
-   #Digitalisierung
-   #Prozeß
-   #Qualitt
+   #Steuerung
+   #Produktionsfaktor
+   #Personalabbau
+   #Neupositionierung
    #Umstellung
    #neuerFertigungsprozesse
-   #Aufbau
-   #Produktionsfaktor
-   #Methoden
-   #Mglichkeit
-   #Transformation
-   #Prozesse
-   #Personalabbau
-   #Faktor

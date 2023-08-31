@@ -1,30 +1,25 @@
 
 ![[Bedürfnis Bedarf Nachfrage Kaufakt 2022.pdf#page=1]]Tags & Topics:
-   #Vermgensmehrung
-   #Mangelempfindung
-   #Ziels
-   #Klarheit
-   #ntigenRessource
-   #unsereRessourc
    #Zahlungsfhigkeit
-   #Bedrfnisfunktion
-   #Suchen
-   #Ressourceneinsatz
-   #Ziele
-   #Wirtschaftswissenschaften
-   #Zustandesund
    #Hoffnungen
-   #oderHoffnungen
    #Mglichkeitfr
-   #Dienstleistungen
-   #Bedrfnisse
+   #unsereRessourc
+   #ntigenressourcen
+   #Suchen
    #imUngewissen
    #Verkauf
-   #Texte
-   #dieBefriedigung
-   #Kombination
+   #Mangelempfindung
    #Absicht
-   #ntigenressourcen
-   #Ressourcenzuteilung
    #Menschenentschieden
+   #dieBefriedigung
+   #Wirtschaftswissenschaften
+   #Vermgensmehrung
+   #Texte
+   #Ressourceneinsatz
+   #oderHoffnungen
+   #Zustandesund
+   #ntigenRessource
+   #Ziels
    #momentaneNichterreichen
+   #Bedrfnisfunktion
+   #Klarheit

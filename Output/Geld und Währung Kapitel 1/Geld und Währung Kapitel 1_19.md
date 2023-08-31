@@ -1,11 +1,11 @@
 
 ![[Geld und Währung Kapitel 1.pdf#page=18]]Tags & Topics:
-   #Zunahme
-   #Bick
    #Wirtschaftswachstum
-   #wirtschaftlicheAktivitt
-   #derInflation
+   #Bick
    #Befunde
-   #Inflation
-   #Entwicklungslnder
+   #Zunahme
+   #wirtschaftlicheAktivitt
    #Effekt
+   #derInflation
+   #Entwicklungslnder
+   #Inflation

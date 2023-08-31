@@ -2,15 +2,13 @@
 ![[Foliensatz II Rechtsformen.pdf#page=29]]Tags & Topics:
    #RechtsformenKriterien
    #GesellschaftsformAufwendungen
-   #werdenLeitungsbefugnisse
-   #Beteiligung
+   #Soll
+   #mglichRechnungslegungPublizittspflicht
+   #Steuererleichterungen
+   #Testat
    #Wer
    #RechtsformentscheidungHaftung
    #Transparenz
-   #Testat
-   #Steuererleichterungen
-   #Soll
-   #Formen
    #ManagementWie
-   #mglichRechnungslegungPublizittspflicht
+   #werdenLeitungsbefugnisse
    #Haftung

@@ -1,16 +1,13 @@
 
 ![[Foliensatz II Rechtsformen.pdf#page=1]]Tags & Topics:
-   #Umwelt
-   #Welt
-   #derMglichkeiten
    #RechtsformenSystemtheorie
-   #verarbeitenkannUnter
    #DienstleistungenWirtschaftssystem
-   #Auswahl
-   #Systeme
+   #Umwelt
+   #verarbeitenkannUnter
    #Ordnungsverfahren
-   #werdenMit
+   #Welt
    #LuhmannSysteme
+   #werdenMit
    #verarbeitenkannunter
+   #derMglichkeiten
    #Mgliche
-   #Komplexitt

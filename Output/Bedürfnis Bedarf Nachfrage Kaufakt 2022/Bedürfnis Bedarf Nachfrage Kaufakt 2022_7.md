@@ -1,26 +1,22 @@
 
 ![[Bedürfnis Bedarf Nachfrage Kaufakt 2022.pdf#page=6]]Tags & Topics:
    #Absageeines
-   #Bedarfs
-   #Manipulation
-   #Nachfrage
-   #Gutes
-   #Wenn
-   #Marktpreises
-   #jederBedarf
-   #Verkufers
-   #Marketing
-   #Nicht
-   #Entscheidungsprozesses
-   #eineFehleinschtzung
-   #desWirtschaftssubjektes
-   #zurVerfgung
-   #Kaufs
-   #Texte
-   #Wirtschaftssubjektes
    #sollEs
+   #jederBedarf
    #Ansatzpunkte
+   #Bedarfs
+   #Verkufers
+   #zurVerfgung
+   #Entscheidungsprozesses
+   #Kaufs
+   #Marktpreises
+   #Gutes
+   #Wirtschaftssubjektes
    #Grundsatz
-   #Produktes
-   #PrferenzordnungEntscheidung
+   #Texte
+   #eineFehleinschtzung
+   #Nicht
+   #desWirtschaftssubjektes
    #KaufBedeutet
+   #PrferenzordnungEntscheidung
+   #Manipulation

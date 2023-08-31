@@ -1,31 +1,30 @@
 
 ![[BWL Zusammenhang Gewinn und Finanzierung.pdf#page=3]]Tags & Topics:
-   #Blankodarlehen
-   #Kreditgebern
-   #berlegungenkleine
-   #Vermgens
-   #Risiko
-   #Eigenkapitalgeber
    #inUnternehmensgrndunga
-   #Mischform
-   #Investieren
-   #Kapitals
-   #Zielgruppemit
-   #Venture
-   #Geschftsmodell
-   #einFremdkapitalgeber
+   #Vermgens
    #Unternehmens
-   #inUnternehmensgrndungen
-   #solcherUnternehmensgrndung
-   #Blankokreditnoch
-   #Spezialanbieter
-   #dieseZahlung
-   #Situation
-   #Blankokredite
-   #berlegungenKleine
-   #Finanzierungsarten
-   #Sammelbegriff
-   #Quote
    #Gewinne
+   #Finanzierungsarten
+   #Venture
+   #Eigenkapitalgeber
+   #Blankokreditnoch
+   #Kapitals
+   #einFremdkapitalgeber
+   #inUnternehmensgrndungen
+   #Investieren
+   #solcherUnternehmensgrndung
    #darstellenBedenken
+   #Blankodarlehen
+   #berlegungenKleine
+   #Spezialanbieter
+   #Quote
+   #Geschftsmodell
+   #berlegungenkleine
+   #Kreditgebern
+   #Sammelbegriff
+   #dieseZahlung
+   #Mischform
+   #Blankokredite
+   #Risiko
+   #Zielgruppemit
    #dieUnternehmen

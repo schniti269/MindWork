@@ -1,27 +1,24 @@
 
 ![[BWL Gewinn - Verlust - Cashflow - Preise auf Märkten.pdf#page=5]]Tags & Topics:
-   #Eigenkapitals
-   #Wir
-   #wirdWas
-   #Arbeitnehmer
-   #Wohlstand
-   #aufgewendetenProduktionsfaktoren
    #GeschftsjahresVermgen
-   #Wertsteigerung
-   #Gesellschaft
-   #GeschftsjahresWerden
-   #Dienstleitungen
-   #Verluste
-   #Versorgung
-   #Produktionsfaktor
-   #berlegungenErklren
-   #Kosten
-   #Vergtung
-   #Gewinnerzielung
-   #Schwelle
    #Vermgenswerte
+   #Schwelle
+   #Verluste
+   #GeschftsjahresWerden
+   #aufgewendetenProduktionsfaktoren
+   #berlegungenErklren
    #Unternehmensdenn
+   #wirdWas
+   #Versorgung
    #Marktpreis
-   #MittelGewinn
-   #Wettbewerber
+   #Arbeitnehmer
+   #Wir
+   #Gesellschaft
    #Unternehmensumfnglich
+   #Wertsteigerung
+   #Produktionsfaktor
+   #MittelGewinn
+   #Dienstleitungen
+   #Gewinnerzielung
+   #Eigenkapitals
+   #Vergtung

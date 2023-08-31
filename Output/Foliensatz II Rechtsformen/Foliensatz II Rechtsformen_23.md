@@ -1,14 +1,12 @@
 
 ![[Foliensatz II Rechtsformen.pdf#page=22]]Tags & Topics:
    #Eigenkapitalanteil
-   #Verteilung
-   #Grndungsinvestitionen
-   #RechtsformenFunktionen
-   #Grundlage
-   #Anteile
+   #Kriteriumfr
+   #beiGewinnverteilung
    #EinflussHerrschaftsfunktionauf
    #Unternehmensgrndung
-   #UnternehmenFinanzierungsfunktion
+   #Grndungsinvestitionen
+   #Anteile
    #UnternehmenBezugsgre
-   #beiGewinnverteilung
-   #Kriteriumfr
+   #UnternehmenFinanzierungsfunktion
+   #RechtsformenFunktionen

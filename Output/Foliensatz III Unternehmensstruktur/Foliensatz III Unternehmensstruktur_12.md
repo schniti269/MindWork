@@ -1,9 +1,7 @@
 
 ![[Foliensatz III Unternehmensstruktur.pdf#page=11]]Tags & Topics:
+   #Zentralisierung
    #zentralisation
-   #Ebene
+   #Leitungsebenen
    #imEntscheidungen
    #Zentralisation
-   #Einheiten
-   #Leitungsebenen
-   #Zentralisierung

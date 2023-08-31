@@ -1,20 +1,18 @@
 
 ![[Foliensatz II Rechtsformen.pdf#page=23]]Tags & Topics:
-   #Eigenkapitals
+   #FremdkapitalgebernEigenkapital
+   #Kapitalerhhung
+   #OHG
+   #VernderungDurch
    #Gewinnverlustvortrge
-   #Summe
-   #Prozess
+   #BerechnungDifferenz
    #FremdkapitalquoteVernderung
+   #Kapitals
+   #RechtsformenKapitalgesellschaften
    #fixIndikatorfunktion
    #IndikatorfunktionVermgensmehrung
-   #VernderungDurch
-   #Kapitalerhhung
-   #Kapitals
-   #KapitalherabsetzungInsolvenz
-   #FremdkapitalgebernEigenkapital
    #geregeltemEigenkapital
    #geregeltemeigenkapital
    #Verlustaufnahmepotenzial
-   #BerechnungDifferenz
-   #OHG
-   #RechtsformenKapitalgesellschaften
+   #KapitalherabsetzungInsolvenz
+   #Eigenkapitals

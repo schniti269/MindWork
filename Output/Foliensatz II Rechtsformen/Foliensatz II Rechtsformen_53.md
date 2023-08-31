@@ -1,11 +1,11 @@
 
 ![[Foliensatz II Rechtsformen.pdf#page=52]]Tags & Topics:
-   #Vorstandberwachende
    #Kndigung
+   #AktienGewinnbeteiligung
+   #Aktienan
+   #Vorstandberwachende
    #HauptversammlungKndigung
+   #PersonHandelsregistereintrag
    #DividendeGeschftsfhrung
    #BrseGesetze
    #VorstandVertretungsmacht
-   #AktienGewinnbeteiligung
-   #PersonHandelsregistereintrag
-   #Aktienan

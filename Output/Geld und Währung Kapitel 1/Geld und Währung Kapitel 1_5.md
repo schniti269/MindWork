@@ -1,11 +1,11 @@
 
 ![[Geld und Währung Kapitel 1.pdf#page=4]]Tags & Topics:
-   #Zieles
-   #Mandat
+   #Wirtschaftspolitik
    #ohneBeeintrchtigung
+   #Vertrags
    #Arbeitsweise
+   #Zieles
+   #Zentralbanken
    #UnionbeizutragenQuellehttpwwweuroparleuropaeubrusselswebsitemediaBasisVertragsartikelPdfArtbisAEUVpdf
    #unionbeizutragenquellehttpwwweuroparleuropaeubrusselswebsitemediabasisvertragsartikelpdfartbisaeuvpdf
-   #Wirtschaftspolitik
-   #Vertrags
-   #Zentralbanken
+   #Mandat

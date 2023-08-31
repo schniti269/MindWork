@@ -1,0 +1,30 @@
+
+![[2022_Marketing_Skript.pdf#page=92]]Tags & Topics:
+   #Foto
+   #Umsetzung
+   #Fahrzeugs
+   #Interessenten
+   #Vertrautheit
+   #Zentren
+   #Erlebniswelt
+   #Versand
+   #Einladung
+   #Markteinfhrung
+   #Weltpremiere
+   #Dialogprogramm
+   #Zentrum
+   #Markennamen
+   #Blockieren
+   #Ankunft
+   #Ausweiten
+   #ProductMarkteinfhrung
+   #Qualifizierung
+   #Verwurzelung
+   #Verffentlichung
+   #Erhhung
+   #ZielgruppenOffRoadBereich
+   #Bekanntheit
+   #Etablieren
+   #bekanntFahrzeug
+   #Etablierung
+   #Umwandlung

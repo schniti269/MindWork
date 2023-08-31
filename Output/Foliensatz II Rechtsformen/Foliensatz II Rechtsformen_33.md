@@ -1,11 +1,11 @@
 
 ![[Foliensatz II Rechtsformen.pdf#page=32]]Tags & Topics:
-   #Betriebsverfassungsgesetzin
-   #dreiarbeitnehmer
-   #Arbeitnehmern
-   #dreiArbeitnehmer
+   #RechtsformenUnternehmensformenUnternehmensmitbestimmung
    #Rechte
    #Betriebsrat
    #Vorschlagsrechte
-   #RechtsformenUnternehmensformenUnternehmensmitbestimmung
+   #Arbeitnehmern
+   #dreiArbeitnehmer
+   #dreiarbeitnehmer
+   #Betriebsverfassungsgesetzin
    #Montanunternehmen

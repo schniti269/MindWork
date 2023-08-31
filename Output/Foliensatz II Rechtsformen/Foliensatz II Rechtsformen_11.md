@@ -1,15 +1,15 @@
 
 ![[Foliensatz II Rechtsformen.pdf#page=10]]Tags & Topics:
+   #Prokura
+   #dritter
+   #zurVornahme
+   #Beschrnkungen
    #Befugnis
    #VertretungsmachtHandelsgesetzbuch
-   #Handelsgewerbes
-   #Prokura
-   #RechtsformenGeschftsfhrung
-   #Dritter
-   #derhandlungsbevollmchtigte
-   #derHandlungsbevollmchtigter
-   #vonWechselverbindlichkeiten
-   #dritter
    #Belastung
-   #Beschrnkungen
-   #zurVornahme
+   #Dritter
+   #RechtsformenGeschftsfhrung
+   #derhandlungsbevollmchtigte
+   #Handelsgewerbes
+   #vonWechselverbindlichkeiten
+   #derHandlungsbevollmchtigter

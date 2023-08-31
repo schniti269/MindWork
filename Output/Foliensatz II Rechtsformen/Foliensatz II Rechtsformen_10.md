@@ -1,12 +1,11 @@
 
 ![[Foliensatz II Rechtsformen.pdf#page=9]]Tags & Topics:
-   #abschlieenInnenverhltni
-   #Firma
    #Vertretung
+   #Firma
    #Kaufleute
-   #Direktionsrecht
-   #Personengesellschaft
-   #Mitarbeitern
-   #BevollmchtigtenAktiengesellschaft
-   #Firmen
    #Unternehmens
+   #BevollmchtigtenAktiengesellschaft
+   #abschlieenInnenverhltni
+   #Personengesellschaft
+   #Firmen
+   #Direktionsrecht

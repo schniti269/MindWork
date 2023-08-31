@@ -1,21 +1,21 @@
 
 ![[Geld und Währung Kapitel 5.pdf#page=25]]Tags & Topics:
-   #allgemeineOrientierung
-   #Krperschaft
-   #recht
-   #derMitgliedstaater
-   #Kreditfazilitten
-   #Arbeitsweise
-   #WechselkursArtikel
    #InstrumentenUnabhngigkeit
-   #oderEinrichtung
-   #NotenbankKredit
-   #Gemeinschaft
-   #sonstigeeinrichtungen
-   #Recht
-   #Zentralregierung
-   #Mitgliedstaaten
-   #sonstigeEinrichtung
-   #Mglichkeit
-   #odereinrichtungen
    #lokaleGebietskrperschaft
+   #allgemeineOrientierung
+   #Arbeitsweise
+   #sonstigeEinrichtung
+   #Zentralregierung
+   #Krperschaft
+   #Recht
+   #Mglichkeit
+   #oderEinrichtung
+   #WechselkursArtikel
+   #odereinrichtungen
+   #Mitgliedstaaten
+   #NotenbankKredit
+   #sonstigeeinrichtungen
+   #Gemeinschaft
+   #Kreditfazilitten
+   #derMitgliedstaater
+   #recht

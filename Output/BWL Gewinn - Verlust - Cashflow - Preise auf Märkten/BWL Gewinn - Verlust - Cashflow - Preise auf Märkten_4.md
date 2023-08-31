@@ -3,7 +3,6 @@
    #zielfunktion
    #Gewinnermittlung
    #Ertrge
-   #Gewinnschwelle
    #Unternehmens
+   #Gewinnschwelle
    #Zielfunktion
-   #Formel

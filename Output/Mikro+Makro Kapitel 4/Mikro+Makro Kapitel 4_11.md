@@ -1,0 +1,7 @@
+
+![[Mikro+Makro Kapitel 4.pdf#page=10]]Tags & Topics:
+   #Diktatorspiels
+   #dieZustimmung
+   #aachenquellefairnessundreziprozittimdiktatorspielaxelfranzenundsonjapointnerhttpwwwsozunibechunibewisosozcontenteeeeefilesessaydgskasselfranzenpointnerpdf
+   #Egoisten
+   #AachenQuelleFairnessundReziprozittimDiktatorspielAxelFranzenundSonjaPointnerhttpwwwsozunibechunibewisosozcontenteeeeefilesEssayDGSKasselFranzenPointnerpdf

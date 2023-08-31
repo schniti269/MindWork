@@ -1,42 +1,39 @@
 
 ![[BWL Zusammenhang Gewinn und Finanzierung.pdf#page=2]]Tags & Topics:
-   #Somit
-   #Kreditsicherheit
-   #Bonittsstufen
-   #Einstufung
    #Vermgenszuwachses
+   #Kreditbetrag
+   #Unternehmens
+   #Bestandteil
+   #Gewinne
+   #zeigendabei
+   #Einstufung
+   #berlegungenDes
+   #Abstufungen
+   #Bonittsstufen
+   #Weiteren
+   #Kreditgeschfte
+   #Somit
+   #Sicherungsgebersvon
+   #Kreditnehmer
+   #Plne
+   #Zahlungsausfall
    #Insolvenzmasse
+   #Ratings
+   #Kreditleiheanhand
+   #Kreditsicherheit
+   #zeigenDabei
+   #imGegenzug
+   #somit
+   #Verpflichtungen
+   #Risiko
+   #Kreditschuld
    #eintreibenBlankokredite
    #Planbilanzen
-   #Risiko
-   #Schuldendes
-   #Zahlungsausfall
-   #Kreditleiheanhand
-   #Sicherungsgebersvon
    #kreditgewhrendesKreditinstitut
-   #Kreditgeschfte
-   #Kreditleldleihe
-   #Zumanderen
-   #Weiteren
-   #Unternehmens
-   #berlegungenDes
-   #Blankokredit
-   #Verpflichtungen
-   #Kreditbetrag
-   #imGegenzug
-   #Situation
-   #somit
-   #Ratings
-   #zeigenDabei
-   #Abstufungen
-   #Plne
-   #Bestandteil
-   #Ergebnis
-   #Bonittskriterien
-   #Gewinne
    #Insolvenztabelle
+   #Bonittskriterien
    #nachzukommenVergibt
-   #Person
-   #Kreditnehmer
-   #Kreditschuld
-   #zeigendabei
+   #Kreditleldleihe
+   #Blankokredit
+   #Schuldendes
+   #Zumanderen

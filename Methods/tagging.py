@@ -19,7 +19,9 @@ def keep_alphabet_characters(text):
     alphabet_characters = list(string.ascii_lowercase+ string.ascii_uppercase)
     alphabet_characters.append(' ')
     alphabet_characters.append("\t")
-    alphabet_characters.append(" ")
+    alphabet_characters.append("ü")
+    alphabet_characters.append("ä")
+    alphabet_characters.append("ö")
     filtered_text = ''.join([char for char in text if char in alphabet_characters])
     return filtered_text
 
@@ -65,31 +67,6 @@ def add_hashtags(text,onlytags=False):
         return("Tags & Topics:"+"\n   " + "\n   ".join(list(current_topics)))
     return (text + "\n   Tags & Topics:"+"\n   " + "\n   ".join(list(current_topics)))
 
-def create_table(sentence):
-    # Note: The following two lines of code overwrite the same variable 'doc'
-    doc = nlp_en(sentence)  # Default to English for token information
-    doc = nlp_de(sentence)
-
-    data = {
-        "TEXT": [],
-        "LEMMA": [],
-        "POS": [],
-        "TAG": [],
-        "DEP": [],
-    }
-
-    for token in doc:
-        data["TEXT"].append(token.text)
-        data["LEMMA"].append(token.lemma_)
-        data["POS"].append(token.pos_)
-        data["TAG"].append(token.tag_)
-        data["DEP"].append(token.dep_)
-
-    df = pd.DataFrame(data)
-    return df
-
 if __name__ == "__main__":
     sentence = "### Produktionsseite- Wirtschaftlichkeit- einsatzsteuerung der Produktionsfaktoren -  Gegeben = Input Menge- Maximaler Output- gegeben= Output Menge- Ininmaler Input."
     print(add_hashtags(sentence))
-    table = create_table(sentence)
-    print(table)
