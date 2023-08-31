@@ -1,4 +1,4 @@
- #Kosten_und_Leistungsrechnung_I #Kostenzuordnung Grundsätze und Prinzipien
+ #KostenundLeistungsrechnungI #Kostenzuordnung Grundsätze und Prinzipien
   - Grundsätze
     - Vollständigkeit
     - Reinheit
@@ -33,39 +33,39 @@
     - Umsatzsteuer etc.
 
    Tags & Topics:
-   #Zinsen
-   #Wagniskost
-   #Reinheit
-   #Fremdleistungen
-   #Benaspruchungsprinzip
-   #Grundsätze
-   #Materialkoste
-   #Ensteh
-   #Fremdrechte
-   #Durchschnittsprinzip
-   #Steuer
-   #Kapitalkosten
-   #Gruppe
-   #Gehälter
    #Löhne
-   #Fremdleistung
-   #Prinzip
-   #Sachkosten
-   #Verursachungsprinzip
    #Prinzipien
-   #Gruppen
-   #Lizenz
-   #Hausmeister
-   #Kapitalkost
-   #Zins
-   #angemessen
-   #Einstellen
-   #Arbeitskosten
+   #Sachkosten
+   #Fremdleistung
+   #Gruppe
    #Personal
-   #Fremdrecht
-   #Umsatzsteuer
+   #Steuer
+   #Arbeitskosten
+   #Fremdleistungen
    #Wagniskosten
-   #Wirtschaftlichkeit
-   #Enstehen
-   #Einheitlichkeit
+   #Fremdrechte
+   #Prinzip
    #Lizenzen
+   #Hausmeister
+   #Reinheit
+   #Gehälter
+   #Lizenz
+   #Einstellen
+   #Wagniskost
+   #Umsatzsteuer
+   #Fremdrecht
+   #Grundsätze
+   #Einheitlichkeit
+   #Verursachungsprinzip
+   #Kapitalkost
+   #Ensteh
+   #angemessen
+   #Durchschnittsprinzip
+   #Zinsen
+   #Zins
+   #Benaspruchungsprinzip
+   #Wirtschaftlichkeit
+   #Kapitalkosten
+   #Gruppen
+   #Materialkoste
+   #Enstehen

@@ -1,4 +1,4 @@
- #Ai-900 #ML Supervised
+ #Ai900 #ML Supervised
   (labeled by human)
   - regression
     - Trends
@@ -17,7 +17,7 @@
     - features are most important
 
    Tags & Topics:
+   #Trends
+   #Supervised
    #Trend
    #Predict
-   #Supervised
-   #Trends

@@ -1,4 +1,4 @@
- #Programmieren_2 #Datenstrukturen #B√ume- Knoten
+ #Programmieren2 #Datenstrukturen #B√ume- Knoten
   - Wurzel
     - Ursprung
   - Wenn knoten keine unterknoten mehr hat-> BLATT
@@ -30,24 +30,24 @@
       - Rekursiv so tief runtergehen, dass man irgendwo die Differenz weg null Node hat
 
    Tags & Topics:
-   #Knoten
-   #Rechtsrotation
-   #Linksrotation
-   #Kanten
    #Ursprung
-   #Kinder
-   #Kind
+   #Node
    #Kant
+   #Kinder
+   #Vorraussetzung
+   #Bin√§rbaum
    #Art
+   #Suche
+   #Left
+   #Wurzel
+   #Rechtsrotation
+   #Adelson
    #H√∂he
    #balancieren
+   #Linksrotation
+   #Kanten
+   #Knoten
    #Balancieren
-   #Wurzel
-   #Vorraussetzung
-   #Left
-   #Suche
-   #Bin√§rbaum
+   #Kind
    #O(log(n
-   #Node
    #Arten
-   #Adelson

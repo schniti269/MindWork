@@ -1,4 +1,4 @@
- #Kommunikations_und_Betriebssysteme #Kommunikations_Systeme #Netzwerke- Topologie
+ #KommunikationsundBetriebssysteme #KommunikationsSysteme #Netzwerke- Topologie
   - Bus
     - Akteure an einem Gemeinsamen Bus
     - Kollision möglich
@@ -31,23 +31,23 @@
 
    Tags & Topics:
    #Verbund
-   #Internetzugang
+   #Netzwerkkart
+   #Ring
    #Akteure
-   #Firma
-   #Extranet
-   #Routing
+   #Intranet
+   #Netzwerklokal
+   #Akteur
    #Kollision
-   #verbund
-   #Firmen
+   #Extranet
+   #Netzwerklokale
    #Netzwerkkarte
    #Router
-   #topologie
-   #Intranet
-   #Ring
+   #verbund
    #Verbundsystem
-   #Netzwerkkart
+   #topologie
+   #Internetzugang
+   #Firmen
+   #Firma
+   #Routing
    #Adresse
    #Topologie
-   #Netzwerklokale
-   #Akteur
-   #Netzwerklokal

@@ -15,6 +15,6 @@
 
    Tags & Topics:
    #Satz
-   #S(b/(-2a);c-(b**2/4a
-   #Ergänzung
    #Thermunformung
+   #Ergänzung
+   #S(b/(-2a);c-(b**2/4a

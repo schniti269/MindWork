@@ -75,9 +75,9 @@ def tree_toStr(node, depth=0):
 
 def split_tree(node, output_root, path="", max_indent_level=4,toplevelname=""):
     path += node.content.strip().replace(' ', '_')
-    filename = re.sub(r'[^\w\s-]', '', node.content.split('\n')[0]).strip("- ")
+    filename = re.sub(r'[^\w\s-]', '', node.content.split('\n')[0]).replace("-","").strip(" ").replace(" ","")
     toplevelname+=f" #{filename}"
-    filename=filename+ ".md"
+    filename=filename+".md"
     depths=[]
     for child in node.children:
         depths.append([distance_to_closest_leaf(child),child])

@@ -36,27 +36,27 @@
     - Bash
 
    Tags & Topics:
-   #powershell
+   #Flags
+   #Operationen
+   #Bestandteile
    #Literale
+   #Rechen
+   #Operation
+   #Token
    #Anweisung
    #Flag
-   #Typisiert
-   #Zuweisung
+   #Typisierung
+   #Python
+   #Console
+   #Interpreter
+   #Reche
    #Powershell
    #Zuweisungen
-   #Flags
-   #Toke
-   #Interpreter
-   #Rechen
-   #Typisierung
-   #Reche
-   #Operation
-   #Operationen
-   #Anweisungen
    #Acessmodifier
+   #Toke
+   #Zuweisung
    #Scipt
-   #Bestandteile
-   #Console
+   #Typisiert
+   #powershell
    #Bestandteil
-   #Python
-   #Token
+   #Anweisungen

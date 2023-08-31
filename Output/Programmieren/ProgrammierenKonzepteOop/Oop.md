@@ -38,29 +38,29 @@
     - Extends
 
    Tags & Topics:
-   #gefühlt
-   #Implementier
-   #Extend
-   #Upcast
-   #Abstrahieren
-   #Geregelter
-   #Aufnahme
-   #Assoziation
-   #Instanz
-   #Implementieren
-   #Assoziationen
-   #Ziel
-   #Hierarchie
-   #Aggregation
    #Komposition
-   #Implement
-   #Existenzieller
-   #extend
-   #Kapselung
-   #Klassen
-   #attribut
-   #Abstrahier
-   #Statisch
    #Attribute
-   #Klasse
+   #Hierarchie
+   #Instanz
+   #Assoziationen
+   #Aufnahme
+   #Kapselung
+   #Abstrahieren
+   #Upcast
+   #Aggregation
+   #Assoziation
+   #extend
+   #Extend
+   #attribut
    #Anreicherung
+   #Abstrahier
+   #Geregelter
+   #Existenzieller
+   #Klasse
+   #gefühlt
+   #Ziel
+   #Implementieren
+   #Klassen
+   #Statisch
+   #Implementier
+   #Implement

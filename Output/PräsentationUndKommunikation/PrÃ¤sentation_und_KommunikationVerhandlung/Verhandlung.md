@@ -1,4 +1,4 @@
- #Pr√sentation_und_Kommunikation #Verhandlung Planung
+ #Pr√sentationundKommunikation #Verhandlung Planung
   - Sachverhalt
   - Ziele
  Kl√§rung von Fragen
@@ -23,24 +23,24 @@
   - Taktisch vorgehen
 
    Tags & Topics:
-   #Haltung
-   #begr„º„ˇung
-   #auftreten
-   #Kl√§rung
+   #Taktisch
+   #Erwartung
+   #Einsteigen
    #Haltungen
    #Ziele
-   #Erwartung
-   #Gewinn
-   #Taktisch
-   #Ziel
-   #Machtstruktur
-   #Gewinne
-   #Sachverhalt
-   #Kontakt
-   #Planung
-   #Einsteigen
-   #Auftreten
-   #Begr√º√üung
-   #Realistisch
-   #Stellung
    #Machtstrukturen
+   #Planung
+   #auftreten
+   #Sachverhalt
+   #Begr√º√üung
+   #Stellung
+   #Ziel
+   #Haltung
+   #begr„º„ˇung
+   #Gewinn
+   #Gewinne
+   #Auftreten
+   #Machtstruktur
+   #Kontakt
+   #Kl√§rung
+   #Realistisch

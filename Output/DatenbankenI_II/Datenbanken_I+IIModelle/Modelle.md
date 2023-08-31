@@ -1,4 +1,4 @@
- #Datenbanken_III #Modelle Entity Relationship Model
+ #DatenbankenIII #Modelle Entity Relationship Model
   (ERM)
   - kardinalitäten
   - Entitäten
@@ -40,34 +40,34 @@
     - Werte
 
    Tags & Topics:
-   #Tupel
-   #Kundennummer
-   #Kandidaten
+   #Attribute
+   #Surogat
+   #Funktion
+   #entit�ten
+   #Entity
+   #Kandidat
+   #Relation
    #Surogate
+   #Begriff
+   #Relationen
+   #Ausgesuchter
+   #Art
+   #Wertebereiche
+   #Regel
+   #Kopfkomponente
+   #Regeln
+   #Kandidaten
+   #Primärschlüssel
+   #Kundennummer
+   #Integer
+   #Domäne
+   #Reihenfolge
    #Begriffe
+   #Körperkomponente
+   #String
    #Attribut
    #Namen
-   #Funktion
-   #Art
-   #Ausgesuchter
-   #Domäne
-   #künstlich
-   #entit�ten
-   #Name
-   #Regeln
-   #Primärschlüssel
-   #String
-   #Regel
-   #Kandidat
-   #Kopfkomponente
-   #Reihenfolge
-   #Entity
-   #Wertebereiche
-   #Integer
    #Arten
-   #Relation
-   #Begriff
-   #Attribute
-   #Relationen
-   #Körperkomponente
-   #Surogat
+   #Name
+   #künstlich
+   #Tupel

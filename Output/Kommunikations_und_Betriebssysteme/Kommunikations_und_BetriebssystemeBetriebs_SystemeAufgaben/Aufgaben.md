@@ -1,4 +1,4 @@
- #Kommunikations_und_Betriebssysteme #Betriebs_Systeme #Aufgaben- Prozesse
+ #KommunikationsundBetriebssysteme #BetriebsSysteme #Aufgaben- Prozesse
 weiteren deskriptor nutzen
   - Schutz
     - Discretionary Access Control
@@ -14,10 +14,10 @@ weiteren deskriptor nutzen
 wer von wem
 
    Tags & Topics:
-   #Zugriffsrechte
+   #Benutzerkategorien
    #Prozeﬂ
-   #Prozesse
    #Zugriffsrecht
    #Schutz
-   #Benutzerkategorien
+   #Zugriffsrechte
    #Benutzerkategorie
+   #Prozesse

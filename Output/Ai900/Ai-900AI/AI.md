@@ -1,4 +1,4 @@
- #Ai-900 #AI general
+ #Ai900 #AI general
   - Imitaing human capabilities
     - predictions
     - Recognition and decision making
@@ -41,9 +41,9 @@
   - Cognitive Search
 
    Tags & Topics:
-   #structure
-   #Authorization
    #Structur
-   #Authentification
    #Metadata
+   #structure
+   #Authentification
+   #Authorization
    #Interpereting

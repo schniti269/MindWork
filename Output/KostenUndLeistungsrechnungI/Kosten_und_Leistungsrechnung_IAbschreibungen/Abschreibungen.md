@@ -1,4 +1,4 @@
- #Kosten_und_Leistungsrechnung_I #Abschreibungen linear
+ #KostenundLeistungsrechnungI #Abschreibungen linear
   - Abschreibungssummer/ #Perioden
  Geometrisch
   - Progressiv
@@ -21,13 +21,13 @@
 
    Tags & Topics:
    #Geometrisch
-   #Abschreibungssumme
-   #Abschreibungssumm
-   #Abschreibungsbetrag/
    #Wert
-   #Abschreibungssummer
    #Gleiches
-   #Periode
-   #abschreibungssummer/
-   #gleiche
    #Degressionssatz
+   #abschreibungssummer/
+   #Abschreibungssummer
+   #Abschreibungssumm
+   #Periode
+   #gleiche
+   #Abschreibungsbetrag/
+   #Abschreibungssumme

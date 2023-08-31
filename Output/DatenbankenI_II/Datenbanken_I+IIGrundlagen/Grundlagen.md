@@ -1,4 +1,4 @@
- #Datenbanken_III #GrundlagenDatenbank
+ #DatenbankenIII #GrundlagenDatenbank
  Struktur
   - Aufbau
   - Begriffe
@@ -24,26 +24,26 @@
 
    Tags & Topics:
    #Tools
-   #Backup-
-   #Begriffe
-   #Bereitstellen
-   #Hardware
-   #Create
    #Funktion
-   #Managementsystem
-   #Regeln
-   #Aufbau
-   #Gesamtsystem
-   #Modell
-   #Datenbanken
-   #Regel
-   #ausgeführt
-   #Organisation
-   #Operation
    #Operationen
-   #Speicherung
-   #bereitstellen
-   #Read
-   #Auswirkung
+   #Bereitstellen
    #Begriff
    #Funktionen
+   #Auswirkung
+   #Hardware
+   #Create
+   #Operation
+   #Read
+   #Regel
+   #Backup-
+   #Regeln
+   #Organisation
+   #Modell
+   #Aufbau
+   #ausgeführt
+   #Speicherung
+   #Managementsystem
+   #Gesamtsystem
+   #Begriffe
+   #bereitstellen
+   #Datenbanken

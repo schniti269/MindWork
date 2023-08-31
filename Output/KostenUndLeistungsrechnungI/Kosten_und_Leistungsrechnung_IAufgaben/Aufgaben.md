@@ -1,4 +1,4 @@
- #Kosten_und_Leistungsrechnung_I #Aufgaben Gewinnstreben
+ #KostenundLeistungsrechnungI #Aufgaben Gewinnstreben
   - Tatsächlich Werte
   - Vorhergesagte Werte
  Ansatzweise
@@ -16,17 +16,17 @@
     - Aktivierbare eigenleistung
 
    Tags & Topics:
-   #Marktchance
    #Gegebe
-   #Output
    #Menge
    #Produktionsfaktor
+   #Output
+   #Marktchancen
+   #Aktivierbare
    #Leistungserstellung
-   #Gegeben
    #Nutzung
+   #Produktionsfaktoren
+   #Marktchance
    #Wirtschaftlichkeit
+   #Gegeben
    #Gewinnstreben
    #Produktionsseite
-   #Aktivierbare
-   #Marktchancen
-   #Produktionsfaktoren

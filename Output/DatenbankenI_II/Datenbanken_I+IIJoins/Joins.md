@@ -1,4 +1,4 @@
- #Datenbanken_III #Joins inner
+ #DatenbankenIII #Joins inner
   - Cross
     - Karthesisches Produkt
   - Theta
@@ -22,16 +22,16 @@
   - Vergleich
 
    Tags & Topics:
-   #Left
-   #Selbe
-   #Beides
-   #Kurs
-   #Filter
-   #Produkt
-   #Attribut
-   #Selbes
    #Attribute
-   #Outer
    #Kurse
-   #ausgefüllt
    #Vergleich
+   #Filter
+   #Kurs
+   #Selbes
+   #Beides
+   #ausgefüllt
+   #Left
+   #Attribut
+   #Produkt
+   #Outer
+   #Selbe

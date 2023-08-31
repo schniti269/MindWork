@@ -14,11 +14,11 @@
  Zählergrad > nennergrad+1
 
    Tags & Topics:
-   #Stellen
-   #Senkrechte
-   #Stelle
-   #Asymtote
    #Senkrecht
+   #Senkrechte
+   #Ergebnis
+   #Stelle
+   #Stellen
    #Vorfaktor
    #Nennergrad
-   #Ergebnis
+   #Asymtote

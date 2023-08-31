@@ -1,4 +1,4 @@
- #Kosten_und_Leistungsrechnung_I #Kostenartenrechnung Kosten Arten
+ #KostenundLeistungsrechnungI #Kostenartenrechnung Kosten Arten
   - Linear
     - **linie**
   - Fix
@@ -18,16 +18,16 @@
   - 
 
    Tags & Topics:
-   #TREPPE
-   #Kfix
-   #Auflösen
-   #Zusammenhang
-   #Arten
-   #k1-x1*KV
-   #Nutzkoste
-   #Nutzkosten
-   #Kosten
    #auflösen
+   #Kosten
+   #k1-x1*KV
    #Grafik
    #Art
    #Leerfunktion
+   #TREPPE
+   #Nutzkoste
+   #Arten
+   #Auflösen
+   #Kfix
+   #Zusammenhang
+   #Nutzkosten

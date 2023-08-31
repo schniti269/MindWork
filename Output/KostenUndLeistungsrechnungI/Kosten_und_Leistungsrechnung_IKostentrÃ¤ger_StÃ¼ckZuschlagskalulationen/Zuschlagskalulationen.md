@@ -1,4 +1,4 @@
- #Kosten_und_Leistungsrechnung_I #Kostentr√ger_St√ºck #Zuschlagskalulationen- summarische zuschlags
+ #KostenundLeistungsrechnungI #Kostentr√gerSt√ºck #Zuschlagskalulationen- summarische zuschlags
   - probleme 
     - ungenau
     - keine unterscheidung
@@ -72,46 +72,46 @@ Nicht vollst√§nding rel
     - Gesamtkosten durch die menge
 
    Tags & Topics:
+   #Sidenot
    #Branche
-   #Summe
-   #Kuppel
-   #Vorgehen
-   #Unterschiedliche
-   #Kunde
-   #Maschienenkosten
-   #Netto-Maschienenlaufzeit
-   #Mischkalkulation
-   #unterschiedlich
-   #vorgehen
-   #Sidenotes
-   #Produkt
-   #Vorsicht
-   #Gewinn
-   #Kann
-   #ziel
-   #Nettomaschlaufzeit
-   #Ziel
-   #Maschienenkost
-   #Statistik
-   #Belastet
-   #Entlastet
-   #Maschienenlaufzeit
-   #r„ºckw„§rtskalkulation
-   #Reihenfolge
-   #Maschienenstundensatz
+   #Sondereinzekosten
    #Rabatt
+   #vorgehen
+   #Produkte
+   #Statistik
+   #Vereilungsrechnung
+   #Mischkalkulation
+   #M√ºll
+   #Kunde
+   #Netto-Maschienenlaufzeit
+   #Belastet
+   #r„ºckw„§rtskalkulation
+   #Unterknot
+   #Nettomaschlaufzeit
+   #Maschienenstundensatz
+   #Durchschnittliche
+   #Vorgehen
+   #ziel
+   #Ziel
+   #mischkalkulation
+   #Maschienenkost
+   #Reihenfolge
+   #Durchschnittlich
+   #Kuppelkalkulation
    #Sondereinzekost
    #Schritt
-   #Gesamtkoste
-   #Produkte
-   #mischkalkulation
-   #Sidenot
-   #Durchschnittlich
-   #Vereilungsrechnung
-   #Sondereinzekosten
    #Restwertmethode
-   #Durchschnittliche
-   #M√ºll
-   #Kuppelkalkulation
+   #Gewinn
+   #Gesamtkoste
+   #Kann
+   #unterschiedlich
+   #Sidenotes
+   #Vorsicht
+   #Summe
+   #Maschienenkosten
+   #Unterschiedliche
+   #Produkt
+   #Kuppel
+   #Entlastet
    #Unterknoten
-   #Unterknot
+   #Maschienenlaufzeit

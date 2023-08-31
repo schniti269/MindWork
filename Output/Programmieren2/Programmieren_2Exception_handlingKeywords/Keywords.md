@@ -1,4 +1,4 @@
- #Programmieren_2 #Exception_handling #Keywords- Try und Catch
+ #Programmieren2 #Exceptionhandling #Keywords- Try und Catch
   - Try
     - Code under Inspektion
     - Code that might Throw exception
@@ -28,20 +28,20 @@ so spezifisch wie möglich abfangen
     - Abarbeiten, kaskadierend nach oben
 
    Tags & Topics:
+   #Inspektion
+   #Code
    #Abarbeit
-   #Ausnahmen
-   #ausgeführt
-   #Methode
-   #Exceptionklas
-   #Abarbeiten
-   #E.getMessage
-   #Besonderheit
-   #Semantik
-   #Catchblöcke
-   #Aufruf
    #Werfen
+   #Ausnahmen
+   #Aufruf
+   #Semantik
+   #Ausnahme
    #Ziel
    #Werfe
-   #Code
-   #Inspektion
-   #Ausnahme
+   #Abarbeiten
+   #Exceptionklas
+   #Methode
+   #E.getMessage
+   #Catchblöcke
+   #Besonderheit
+   #ausgeführt

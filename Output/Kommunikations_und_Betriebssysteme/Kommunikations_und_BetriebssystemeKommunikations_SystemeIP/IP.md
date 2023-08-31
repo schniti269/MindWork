@@ -1,4 +1,4 @@
- #Kommunikations_und_Betriebssysteme #Kommunikations_Systeme #IP- Ip Adressen
+ #KommunikationsundBetriebssysteme #KommunikationsSysteme #IP- Ip Adressen
   - besondere Adressen
     - 0.0.0.0
       - dieser Host
@@ -24,11 +24,11 @@
 
    Tags & Topics:
    #Router
-   #Adresse
+   #Host
+   #Unterknoten
+   #gültig
    #Broadcast
    #verknüpft
-   #Notation
-   #gültig
-   #Unterknoten
-   #Host
    #Unterknot
+   #Notation
+   #Adresse
