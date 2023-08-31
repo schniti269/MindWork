@@ -22,7 +22,7 @@ def split_PDF_into_pages(pdf_path, output_folder):
             markdown_content += hashtags
 
             # Save markdown file with tags and PDF link
-            markdown_filename = os.path.join(output_folder, f"{title}_{page_num + 1}.md")
+            markdown_filename = os.path.join(output_folder, f"{title}_{page_num + 2}.md")
             with open(markdown_filename, "w", encoding="utf-8") as markdown_file:
                 markdown_file.write(markdown_content)
 
