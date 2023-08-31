@@ -1,31 +1,30 @@
 
 ![[BWL Thesaurieren.pdf#page=0]]Tags & Topics:
-   #Darlehen
-   #Verlustvortrag
+   #Insolvenzverwalter
+   #Ausgeschttetwerden
+   #Ausschttungen
+   #Verzicht
+   #Rcklagenbildung
+   #Rechtshandlungen
+   #Gewinns
+   #Insolvenzglubiger
    #Forderungen
-   #ausschüttungen
-   #Rücklagenbildung
-   #Zahlungsunfähigkeit
-   #Vorgabe
-   #Überle
-   #handelnd
-   #Gewinnausschüttung
-   #Ausgeschüttet
-   #Thesaurier
+   #Nennen
+   #denGesellschafter
+   #Ganz
+   #Gewinnverteilung
    #Vorgang
-   #Forderung
-   #BWL-Einführung
+   #Jahres
+   #Unternehmens
    #Sollte
    #Auszahlungsanspruch
-   #Gewinn
-   #Ausschüttung
-   #Verzicht
-   #Insolven
-   #Vorgaben
-   #Fachbegriff
-   #Thesaurieren
-   #Insol
-   #Jahresabschluss
-   #Insolve
+   #Eigentmerinn
+   #Reserven
+   #grereVermgensmehrung
+   #Teil
+   #einenVerlustvortrag
+   #Darlehen
+   #vonZahlungsfhigkeit
    #Gewinne
-   #Jahr
+   #Gesellschafterdarlehens
+   #FachbegriffThesaurieren

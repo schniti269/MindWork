@@ -1,14 +1,11 @@
 
 ![[Foliensatz II Rechtsformen.pdf#page=12]]Tags & Topics:
-   #Bank
-   #Vertretungsrecht
-   #Vertretungsechte
-   #Vertretungsecht
-   #Vertretungsrechte
-   #Vertretung
-   #Leitung
    #Befugnis
-   #Gebrauch
-   #Geschäftsleitung
+   #vorgeschriebenUnternehmensBefugnis
+   #desBefugnis
+   #desVertretungsrecht
+   #UnternehmenLieferanten
+   #VertretungsmachtAuenverhltnisInnenverhltnisVertretungsechte
    #Banken
-   #Geschäftsführung
+   #RechtsformenGeschftsfhrung
+   #Unternehmens

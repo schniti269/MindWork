@@ -1,8 +1,7 @@
 
 ![[BWL Zusammenhang Gewinn und Finanzierung.pdf#page=4]]Tags & Topics:
-   #BWL-Einführung
+   #einemUnternehmen
+   #Gewinn
+   #Folgenden
    #Unternehmensfinanzierung
-   #Übersicht
-   #Fremdkapitalgeber
-   #
-   #Überle
+   #folgend

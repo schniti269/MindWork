@@ -1,20 +1,24 @@
 
 ![[Bedürfnis Bedarf Nachfrage Kaufakt 2022.pdf#page=4]]Tags & Topics:
-   #Wirtschaftssubjekt
-   #Texte
-   #Dienstleitung
-   #Bedarf
-   #Gutes
-   #Konsument
-   #hoffen
-   #Weil
-   #Gut
-   #Geld
-   #Entscheidung
-   #Dienstleitungen
+   #kommtEntscheidung
    #Bedarfs
-   #Traum
-   #Reihung
+   #Bedrfnisse
+   #eigenenBedrfnisse
+   #Zielerreichung
+   #Gutes
+   #beimbedarf
+   #Ressource
    #Hoffen
-   #Präferenzreihung
-   #Text
+   #einemTraum
+   #verwertbareRessourcen
+   #Dienstleitungen
+   #hoffen
+   #beimBedarf
+   #Texte
+   #Prferenzreihung
+   #Konsument
+   #Reihung
+   #Entscheidungen
+   #Wirtschaftssubjekt
+   #Geld
+   #Bereitschaft

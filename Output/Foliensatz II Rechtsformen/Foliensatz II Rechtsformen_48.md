@@ -1,6 +1,6 @@
 
 ![[Foliensatz II Rechtsformen.pdf#page=47]]Tags & Topics:
-   #Sonderformen
+   #derMedienkonzern
    #KGaA
-   #Medienkonzern
-   #Medienkonzer
+   #KommanditgesellschaftKommanditgesellschaft
+   #RechtsformenSonderformen

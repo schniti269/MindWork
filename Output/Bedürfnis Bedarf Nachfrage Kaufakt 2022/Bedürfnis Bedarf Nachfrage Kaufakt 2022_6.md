@@ -1,23 +1,25 @@
 
 ![[Bedürfnis Bedarf Nachfrage Kaufakt 2022.pdf#page=5]]Tags & Topics:
-   #Bedürfnis(ziel
-   #Gut
-   #Kaufkraft
-   #Wirtschaftsgüter
-   #Text
-   #No-Name
-   #Wirtschaftssubjekt
-   #Texte
-   #Nutzenvorstellungen
-   #Clubbesuch
-   #Nutzenvorstellung
-   #Bedürfniss
-   #Markenartikel
+   #Man
+   #nurWirtschaftsgter
+   #Artikelkaufen
    #Mittel
-   #Bedürfnisses
-   #markenartikel
-   #Wirtschaftsgut
-   #Turnschuhe
-   #Energie
-   #Tauschfähigkeit
+   #Bedrfnisziel
+   #Bedrfnissesdenn
    #Nicht
+   #gewordenEntscheidung
+   #aufKleinigkeiten
+   #Verwirklichung
+   #Texte
+   #Dienstleistung
+   #Turnschuhe
+   #weitestgehendeBedrfnisbefriedigung
+   #gewordenentscheidung
+   #Nutzenvorstellungen
+   #Bedarfist
+   #Konsumentin
+   #Clubbesuch
+   #Wirtschaftssubjekt
+   #Gutesaufzuwenden
+   #Preis
+   #TauschfhigkeitKaufkraft

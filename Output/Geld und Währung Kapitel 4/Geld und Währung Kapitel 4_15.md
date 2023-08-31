@@ -1,4 +1,6 @@
 
 ![[Geld und Währung Kapitel 4.pdf#page=14]]Tags & Topics:
-   #PCMP0MP1
-   #StabilisierenderInflationsratedurchAnhebungdesRealzinses
+   #Anhebung
+   #Realzinsesrr
+   #Alternative
+   #Stabilisieren

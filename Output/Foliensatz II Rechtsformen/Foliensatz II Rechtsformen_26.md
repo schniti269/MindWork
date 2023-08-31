@@ -1,10 +1,14 @@
 
 ![[Foliensatz II Rechtsformen.pdf#page=25]]Tags & Topics:
-   #Jahresgewinn
+   #seinBeispiel
    #Investment
    #Begriffe
+   #bzwUnternehmen
+   #RechtsformenBedeutung
    #Branche
-   #Value-Investment
-   #Investments
-   #Begriff
-   #Eigenkapitalrendite
+   #Eigenkapitalrenditedurchgesetzt
+   #Berechnen
+   #Grundlage
+   #Unternehmenssonder
+   #dasselbeValueInvestmentsAnlagestrategie
+   #einenJahresgewinn

@@ -1,10 +1,11 @@
 
 ![[Bedürfnis Bedarf Nachfrage Kaufakt 2022.pdf#page=7]]Tags & Topics:
    #Texte
-   #Dienstleitung
-   #Verbrauch
-   #Gütererwerb
+   #Dienstleistung
+   #DerEigentumsbergang
    #Dienstleitungen
-   #Geld
-   #Übergabe
-   #Text
+   #konkretenUmsetzung
+   #Gutes
+   #Anbieter
+   #Gtererwerb
+   #Nachfrager

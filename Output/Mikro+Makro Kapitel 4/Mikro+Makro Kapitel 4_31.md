@@ -1,4 +1,0 @@
-
-![[Mikro+Makro Kapitel 4.pdf#page=30]]Tags & Topics:
-   #beiderdiegrenzkostengleichdempreissind4.bietetimmereinegeringeremengeanalsdiegleichgewichtsmengebeiwettbewerb
-   #beiderdieGrenzkostengleichdemPreissind4.bietetimmereinegeringereMengeanalsdieGleichgewichtsmengebeiWettbewerb

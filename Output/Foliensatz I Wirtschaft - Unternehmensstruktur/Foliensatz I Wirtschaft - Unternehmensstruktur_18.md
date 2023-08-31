@@ -1,10 +1,12 @@
 
 ![[Foliensatz I Wirtschaft - Unternehmensstruktur.pdf#page=17]]Tags & Topics:
-   #Kausalität
-   #Gesamtverhalt
+   #Eigenschaft
+   #Vorhersehbarkeit
+   #undWirkung
+   #Informationen
+   #ihreWechselwirkung
+   #Kausalitt
    #Arbeitswelt
-   #Wechselwirkung
-   #Dann-
-   #Wechselwirkungen
-   #Wirkung
-   #Gesamtverhalten
+   #Systemen
+   #Einzelkomponenten
+   #Systems

@@ -1,6 +1,8 @@
 
 ![[Geld und Währung Kapitel 2.pdf#page=20]]Tags & Topics:
-   #berechnet•Reservesatzliegtaktuellbei1%•MindestreservenbeiZentralbankwerdenmitdemZinssatzdesHauptrefinanzierungsgeschäftsverzinst
-   #DepositenbeidenBanken
-   #relevantfürFallC)•KreditinstitutemüssengesetzlicheEinlagezeitlichverzögert1)beiihrernationalenZentralbankhalten•DieReserveverpflichtungjederindividuellenInstitutionwirdalsProduktausReservesatzundMengereservepflichtigerVerbindlichkeiten
    #Mindestreserve
+   #Institution
+   #Reservesatz
+   #Verbindlichkeiten
+   #Reserveverpflichtung
+   #Menge

@@ -1,11 +1,9 @@
 
 ![[Foliensatz III Unternehmensstruktur.pdf#page=10]]Tags & Topics:
-   #Leitungseben
-   #Direktionsr
-   #Stabstelle
+   #InformationsflussMeister
+   #LeitungsebenenInstanz
+   #StellenHierarchiehinsichtlich
    #Unterordnung
-   #Leitungsebenen
-   #Arbeitsplaner
-   #Leitungsspann
-   #Leitungsspanne
-   #Hierarchie
+   #Anzahl
+   #Direktionsrecht
+   #Linie

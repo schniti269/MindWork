@@ -1,5 +1,6 @@
 
 ![[Geld und Währung Kapitel 2.pdf#page=25]]Tags & Topics:
-   #nichtperfektsteuern).•InderPraxis
-   #26•ZusätzlichesKreditangebotvonBankenerhöhtGeldbasisnachfragedesBankensystems.•ZusätzlicheNachfragebestimmtvonØMindestreserveanforderungenderEZBundØBargeldhaltung•WeilZentralbankmonoplistischerAnbietervonZentralbankgeldistkannsieKreditvergabevonBankenbeeinflussen
-   #EinflussnahmeaufRefinanzierungszinsenderBanken
+   #Einflussnahme
+   #Geldbasisnachfrage
+   #Kreditvergabe
+   #undBargeldhaltung

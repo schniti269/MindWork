@@ -1,5 +1,9 @@
 
 ![[Geld und Währung Kapitel 1.pdf#page=14]]Tags & Topics:
-   #wennwertstabilist
-   #wennWertstabilist
-   #15InMarktwirtschaftenberuhtPrinzipderArbeitsteilungauffreiwilligemAustauschvonGüternundDienstleistungenaufMärktenØBedarfeinesfunktionierendenGeldsystems§FunktionenvonGeld•RechnungseinheitfürPreise(„numéraire“)•ZahlungsmittelfürdenAustauschvonGütern•Wertspeicherfunktion§GeldkannAufgabennurdannwahrnehmenunderfüllen
+   #Aufgaben
+   #Rechnungseinheit
+   #Arbeitsteilung
+   #Geldsystems
+   #Austausch
+   #Marktwirtschaften
+   #Prinzip

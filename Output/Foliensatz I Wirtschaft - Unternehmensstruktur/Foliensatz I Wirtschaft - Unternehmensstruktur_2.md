@@ -1,7 +1,12 @@
 
 ![[Foliensatz I Wirtschaft - Unternehmensstruktur.pdf#page=1]]Tags & Topics:
-   #Teilbereich
-   #Gehältern
-   #Ökonomie
-   #Gehälter
-   #Sektor
+   #Gehltern
+   #belohntunternehman
+   #dieMenschen
+   #nachgefragtenGtern
+   #TINFWirtschaft
+   #Einfhrung
+   #System
+   #Funktionsweise
+   #belohntUnternehme
+   #konomieWirtschaft

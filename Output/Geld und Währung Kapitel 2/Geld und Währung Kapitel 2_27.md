@@ -1,7 +1,8 @@
 
 ![[Geld und Währung Kapitel 2.pdf#page=26]]Tags & Topics:
-   #d.h.fürEZBKrediteanGeschäftsbankenØNachfragederBankennachZentralbankgeldØEZBalsmonopolistischerAnbietervonZentralbankgeld•MultiplikatoralsBindegliedzwischenGeldbasisundGeldmenge•Zinsstrukturkurve
-   #geldmengeindirektüberleitzinsensteuernkannøesbestehtaus4bausteinen:•marktfürbankkrediteannichtbankenøgeld-/kreditnachfragevonnicht
-   #GeldmengeindirektüberLeitzinsensteuernkannØEsbestehtaus4Bausteinen:•MarktfürBankkrediteanNichtbankenØGeld-/KreditnachfragevonNicht-BankenØGeld-/KreditnachfragevonBanken•MarktfürGeldbasis
-   #bankenøgeld-/kreditnachfragevonbanken•marktfürgeldbasis
-   #d.h.fürezbkrediteangeschäftsbankenønachfragederbankennachzentralbankgeldøezbalsmonopolistischeranbietervonzentralbankgeld•multiplikatoralsbindegliedzwischengeldbasisundgeldmenge•zinsstrukturkurve
+   #Modell
+   #Zusammenhang
+   #KreditmengeGeldmengeindirekt
+   #undKreditzins
+   #Zinsstrukturkurve
+   #Notenbank

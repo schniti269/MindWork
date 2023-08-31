@@ -1,7 +1,0 @@
-
-![[Mikro+Makro Kapitel 1.pdf#page=5]]Tags & Topics:
-   #keineWarteschlangen•StarkeLeistungs-undInnovationsanreizefürdieAnbieterführenzuneuenundbesserenProdukten•SparsamerUmgangmitRessourcendurchAnbieterundVerbraucher•GüterwerdenvondenMenschenerworbe
-   #undInnovationsanreizefürdieAnbieterführenzuneuenundbesserenProdukten•SparsamerUmgangmitRessourcendurchAnbieterundVerbraucher•GüterwerdenvondenMenschenerworben
-   #keinewarteschlangen•starkeleistung
-   #MärktesindimVergleichzurPlanwirtschafteineffizienterMechanismuszurSteuerungeiner
-   #Verkäufer(„Käufermarkt

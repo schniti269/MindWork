@@ -1,13 +1,16 @@
 
 ![[Foliensatz II Rechtsformen.pdf#page=1]]Tags & Topics:
+   #Umwelt
    #Welt
-   #Steuerungsmedien
-   #Sinngrenz
-   #Vielfalt
-   #Verringerung
+   #derMglichkeiten
+   #RechtsformenSystemtheorie
+   #verarbeitenkannUnter
+   #DienstleistungenWirtschaftssystem
+   #Auswahl
+   #Systeme
    #Ordnungsverfahren
-   #Komplexitätsreduktion
-   #Systemtheorie
-   #Auswahl-
-   #komplexitätsreduktion
-   #Sinngrenzen
+   #werdenMit
+   #LuhmannSysteme
+   #verarbeitenkannunter
+   #Mgliche
+   #Komplexitt

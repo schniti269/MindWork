@@ -1,10 +1,8 @@
 
 ![[Foliensatz III Unternehmensstruktur.pdf#page=6]]Tags & Topics:
-   #Strukturierung
-   #Stellenbeschreibung
    #Stellenplanung
+   #konomischenPrinzipsKleinste
+   #Mitarbeitersin
+   #Aufbauorganisation
    #Aufgabenbereich
-   #Prinzip
-   #Mitarbeiters/-in
-   #Arbeitsteilung
-   #Organisationseinheit
+   #Strukturierung

@@ -1,18 +1,28 @@
 
 ![[BWL Liquidität und Cashflow.pdf#page=4]]Tags & Topics:
-   #Marketin
-   #Vorleistung
-   #BWL-Einführung
-   #Absa
-   #Marketings
-   #Liquiditäts-
-   #Nutz
-   #Fehlleistung
-   #Verkaufsabteilung
+   #Jahr
+   #Mglichkeiten
+   #undGewinnkrise
+   #Aufgabe
+   #berlegungenWarum
+   #Vertrieb
+   #Preiserhhung
+   #Marketingbereichs
+   #Verkaufsabteilungvorliegt
+   #Qualitt
    #Konsequenzen
-   #Marketing
-   #Überle
+   #LeistungStellen
+   #verschrftWelcher
+   #dieUnternehma
+   #dieKunden
+   #hherePreise
+   #Vorleistung
    #Schlechtleistung
-   #Konsequenz
-   #Gewinnkrise
-   #Gewinnkris
+   #Liquiditts
+   #Fehlleistung
+   #dieUnternehmen
+   #Markeaufzubauen
+   #dieTransformation
+   #Absatz
+   #Marketingserfordern
+   #Wahrscheinlichkeit

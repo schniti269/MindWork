@@ -1,5 +1,4 @@
 
 ![[Foliensatz III Unternehmensstruktur.pdf#page=14]]Tags & Topics:
-   #Vorgesetzte
+   #Fachlichen
    #Matrixorganisation
-   #vorgesetzter

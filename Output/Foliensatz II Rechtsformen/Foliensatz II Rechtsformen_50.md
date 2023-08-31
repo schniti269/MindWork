@@ -1,6 +1,7 @@
 
 ![[Foliensatz II Rechtsformen.pdf#page=49]]Tags & Topics:
-   #Anteil
-   #Aktionäre
-   #Aktionär
-   #Handelsgesellschaft
+   #Aktionrebernommen
+   #Grundkapital
+   #AGHandelsgesellschaft
+   #Aktiengesellschaft
+   #Anteils

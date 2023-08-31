@@ -1,6 +1,6 @@
 
 ![[Geld und Währung Kapitel 2.pdf#page=7]]Tags & Topics:
-   #AngebotanGeldGeldmarktzinssatzDirektdurchZentralbankkontrolliertmithilfeihrerInstrumente
-   #dierollederzentralbankindermonetärenökonomiefirman
-   #AngebotanGeldGeldmarktzinssatzDirektdurchZentralbankkontrolliertmithilfeihrerInstrumente(Monopolposition)8
-   #daabhängigvonRefinanzierungszinsderZentralbankAngebotanZentralbankgeldNachfragenachKrediten
+   #GeldmarktzinssatzIndirekt
+   #Rolle
+   #ihrerRefinanzierungszins
+   #Monopolposition

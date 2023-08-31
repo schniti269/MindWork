@@ -1,13 +1,10 @@
 
 ![[Foliensatz II Rechtsformen.pdf#page=7]]Tags & Topics:
-   #Anspruchsgruppen
    #Marktwertes
-   #Interesse
-   #Interessen
+   #Eigenkapitals
+   #inZukunft
+   #ValueKonzept
    #Unternehmensstrategie
-   #Personengruppe
-   #Marktwert
-   #Unternehmenswert
-   #Maßnahmen
-   #Anspruchsgruppe
-   #Maßnahme
+   #KapitalismusStakeholder
+   #Interessen
+   #Personengruppen

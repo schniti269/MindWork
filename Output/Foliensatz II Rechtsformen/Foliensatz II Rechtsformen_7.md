@@ -1,12 +1,19 @@
 
 ![[Foliensatz II Rechtsformen.pdf#page=6]]Tags & Topics:
+   #AnalyseVorwurf
    #Geltungsanspruch
-   #Kommunikationstheorie
-   #Komme
-   #Anspruch
-   #Deskription
-   #Überlebe
-   #Erfolgskriterien
-   #Kommen
    #Wahrheit
-   #Vorwurf
+   #Deskription
+   #Aussagen
+   #AnspruchGesellschaftliche
+   #uswKommen
+   #HandelnVorwurf
+   #Jrgen
+   #Fragen
+   #RechtsformenKommunikationstheorie
+   #Erfolgskriterienhngen
+   #ausFragen
+   #Diskurs
+   #ihresinngrenzen
+   #Funktionmethodisch
+   #ihreSinngrenze

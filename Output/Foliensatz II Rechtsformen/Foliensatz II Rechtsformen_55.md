@@ -1,9 +1,10 @@
 
 ![[Foliensatz II Rechtsformen.pdf#page=54]]Tags & Topics:
-   #Unternehmenstätigkeit
-   #Geschäftstätigkeiten
-   #Tochterunternehme
+   #Geschfteunter
+   #Geschftsttigkeiten
    #Firmensitz
-   #Gründung
    #Tochterunternehmen
-   #Geschäftstätigkeit
+   #Mobilitt
+   #Handelsnamen
+   #Rahmen
+   #IhrerUnternehmensttigkeit

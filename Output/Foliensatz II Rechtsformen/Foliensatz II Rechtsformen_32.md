@@ -1,16 +1,13 @@
 
 ![[Foliensatz II Rechtsformen.pdf#page=31]]Tags & Topics:
-   #Kapitalgesellschaft
-   #Körperschafssteuer
-   #Unterschied
+   #derPrivatvermgen
+   #PersonVermgen
+   #Krperschaftssteuer
+   #KapitalgesellschaftRechtspersnlichkeit
    #Einkommenssteuer
-   #Netto-Vermögensmehrung
+   #PersonVollhafterGeschftsfhrung
+   #NettoVermgensmehrungVermeidung
+   #GesellschafterbestandUnternehmerische
    #Doppelbesteuerung
-   #Vollhafter
-   #Körperschaftssteuer
-   #Gesellschaftsvermög
-   #Steue
-   #Unterschiede
-   #Gesellschaftsvermögen
-   #Privatpersonen
-   #Privatperson
+   #Personengesellschaft
+   #derGesellschafter

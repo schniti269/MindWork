@@ -1,4 +1,0 @@
-
-![[Mikro+Makro Kapitel 5 (1).pdf#page=39]]Tags & Topics:
-   #0102030405060708090100ITATURCHLGRCUSAHUNLTUPRTESPKORISRSVKESTLVAPOLOECDCANEUAUSFRANZLCZEBELSVNDEUSWEGBRJPNNORCHEDNKISLNLDLUXAUTFINIRLnach60Monaten20142009Average(2014
-   #wiehochistdieunterstützungfürarbeitslose?arbeitslosengeldin%desnettoeinkommen

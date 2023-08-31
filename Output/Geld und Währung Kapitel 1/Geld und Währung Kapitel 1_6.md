@@ -1,4 +1,6 @@
 
 ![[Geld und Währung Kapitel 1.pdf#page=5]]Tags & Topics:
-   #6MandatdesUSFederalReserveSystemsdefiniertinSection2AdesFederalReserveActZielederGeldpolitik:"TheBoardofGovernorsoftheFederalReserveSystemandtheFederalOpenMarketCommitteeshallmaintainlongrungrowthofthemonetaryandcreditaggregatescommensuratewiththeeconomy'slongrunpotentialtoincreaseproduction
-   #"Quelle
+   #Ziele
+   #ratesQuelle
+   #OpenMarket
+   #ZentralbankenMandat

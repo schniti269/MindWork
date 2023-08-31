@@ -1,7 +1,7 @@
 
 ![[Foliensatz II Rechtsformen.pdf#page=60]]Tags & Topics:
-   #Sachve
-   #Teilhafter
-   #Kapit
-   #Teilh
-   #Personen-
+   #KGMischform
+   #Sachverhalt
+   #Personen
+   #Voll
+   #GmbHUnterschied

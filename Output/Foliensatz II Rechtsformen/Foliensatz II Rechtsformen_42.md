@@ -1,4 +1,7 @@
 
 ![[Foliensatz II Rechtsformen.pdf#page=41]]Tags & Topics:
-   #Gewinnausschüttung
    #Verpflichtung
+   #JahresJahresberschuss
+   #VerwendungKapitalrcklagenGewinnausschttungWann
+   #UGkann
+   #GmbHGewinnverwendung

@@ -1,13 +1,16 @@
 
 ![[Foliensatz II Rechtsformen.pdf#page=16]]Tags & Topics:
-   #Kürzel
-   #Abkürzung
-   #Mail
    #Sollte
-   #Mails
-   #Rechtsverbindlichkeit
-   #Wirkung
+   #dasUnternehme
+   #Drohen
    #Handelnde
-   #Konsequenz
+   #Abkrzung
+   #RechtsformenGeschftsfhrung
+   #Wirkung
+   #Konsequenzen
+   #Rechtsverbindlichkeit
+   #Was
+   #Gefahr
+   #EMail
    #Schadensersatz
-   #Geschäftsführung
+   #Krzel

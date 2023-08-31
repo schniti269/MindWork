@@ -1,14 +1,23 @@
 
 ![[Foliensatz II Rechtsformen.pdf#page=5]]Tags & Topics:
-   #Teilbereich
+   #AnerkennungDitmar
+   #voneinanderjede
+   #Umwelt
+   #Gegensatz
    #Kunst
    #Sinnsysteme
+   #auseinanderJedes
    #Politik
-   #Teilsysteme
-   #Systemtheorie
-   #Zuwachs
-   #Evolution
-   #Teilsystem
    #Religion
+   #RechtWirtschaft
+   #voneinanderJed
+   #werdenDieser
+   #Informationen
+   #Zuwachs
+   #TeilbereicheIm
+   #Code
+   #Teilsysteme
+   #EvolutionGesellschaftsentwicklung
+   #Systeme
    #Erfolgskriterium
-   #Gesellschaftsentwicklung
+   #Komplexitt

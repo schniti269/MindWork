@@ -1,13 +1,11 @@
 
 ![[BWL Liquidität und Cashflow.pdf#page=8]]Tags & Topics:
-   #BWL-Einführung
-   #Zahlungsmittezuflüs
-   #Einzahlung
-   #Geschäftsjahr
+   #Geschftsjahr
+   #Man
+   #Monat
+   #Zeitraums
+   #Zahlungsmittelabflsse
    #Saldo
-   #Kass
-   #Zahlungsmittelbestsand
-   #Kunde
-   #Zahlungsmi
-   #Überle
-   #Zahlungsmittezuflüsse
+   #smtlicheEinzahlung
+   #derKunde
+   #Zahlungfaktisch

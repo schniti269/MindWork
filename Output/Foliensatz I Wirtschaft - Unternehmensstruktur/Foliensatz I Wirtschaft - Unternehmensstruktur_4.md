@@ -1,10 +1,8 @@
 
 ![[Foliensatz I Wirtschaft - Unternehmensstruktur.pdf#page=3]]Tags & Topics:
-   #Sachziel
-   #Plan
-   #Pläne
-   #Budgets
-   #Vermögens
+   #Einfhrung
+   #UnternehmenErwartung
+   #Plne
+   #Formalziel
    #Sachziele
-   #Budget
-   #Vermögen
+   #Zielerreichung

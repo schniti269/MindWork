@@ -1,5 +1,8 @@
 
 ![[Geld und Währung Kapitel 2.pdf#page=1]]Tags & Topics:
-   #AngeboteinerindividuellenBankunddieNachfragenachZentralbankgeld3.DieNachfragenachZentralbankgelddesgesamtenBankensystem
-   #21.zweiunterschiedlichemodelledesbankensystems2.daskredit(=geld)angeboteinerindividuellenbankunddienachfragenachzentralbankgeld3.dienachfragenachzentralbankgelddesgesamtenbankensystem
-   #geldmengenmultiplikator“)4.preistheoretischesgeldangebotsmodell
+   #dieNachfrage
+   #gesamtenBankensystems
+   #Rolle
+   #dienachfrage
+   #Modelle
+   #Bankensystems

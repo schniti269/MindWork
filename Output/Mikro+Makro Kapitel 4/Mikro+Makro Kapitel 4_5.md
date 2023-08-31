@@ -1,3 +1,0 @@
-
-![[Mikro+Makro Kapitel 4.pdf#page=4]]Tags & Topics:
-   #d.h.keineKostenderInformationsbeschaffung•NuranseinemeigenenNutzeninteressiert•KeineSchwierigkeitenmitderVerarbeitungkomplexerEntscheidungsprozesse•KannbeiverschiedenenHandlungsalternativenimmereinekonsistenteRangfolgeinBezugaufdenNutzenermittelnExkurs

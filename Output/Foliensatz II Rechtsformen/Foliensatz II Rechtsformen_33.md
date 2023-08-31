@@ -1,16 +1,11 @@
 
 ![[Foliensatz II Rechtsformen.pdf#page=32]]Tags & Topics:
+   #Betriebsverfassungsgesetzin
+   #dreiarbeitnehmer
+   #Arbeitnehmern
+   #dreiArbeitnehmer
    #Rechte
    #Betriebsrat
-   #Kapitalgesellschaft
-   #Informationsrechte
-   #Recht
-   #Zustimmungsverweigerungsrechte
-   #Mitbestimmungsrechte
-   #Arbeitnehmern
-   #Arbeitn
-   #Arbeitnehmer
-   #Mitbestimmungsrecht
-   #Zustimmungsverweigerungsrecht
-   #Arbei
-   #Kapitalgesellschaften
+   #Vorschlagsrechte
+   #RechtsformenUnternehmensformenUnternehmensmitbestimmung
+   #Montanunternehmen

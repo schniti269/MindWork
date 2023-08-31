@@ -1,28 +1,28 @@
 
 ![[Bedürfnis Bedarf Nachfrage Kaufakt 2022.pdf#page=3]]Tags & Topics:
-   #Anschaffungskosten
-   #gute
-   #Finanzmärkten
-   #Bedürfnisträger
-   #Gut
-   #Verkaufspreis
-   #Sinn
+   #Gutes
+   #undoderfinanzmrkten
+   #Produktes
+   #einProdukt
+   #Kapital
+   #InvestitionAnschaffungskosten
+   #tatschlicheProduktionsentscheidung
    #Investoren
-   #Text
-   #Vermögensmehrung
-   #Verkauf
-   #Texte
-   #Anschaffungskost
-   #Möglichkeit
-   #Kapital-
-   #Bedürfniss
-   #Angebot
-   #Investor
-   #Finanzmarkt
-   #Investition
-   #Bedürfnisses
-   #Wenn
-   #Wirtschaftsgut
-   #Kaufbereitschaft
-   #Innovation
+   #Vermgensmehrungdurch
+   #Bedrfnistrger
+   #Augen
+   #Bedrfnisse
+   #undoderFinanzmrkt
+   #Wirtschaftsunternehmenmacht
    #Voraussetzung
+   #Texte
+   #Produktioneines
+   #kalkuliertenVerkaufspreis
+   #Idee
+   #Angebotin
+   #Mglichkeit
+   #Innovation
+   #idR
+   #Freundschaft
+   #Kaufbereitschaft
+   #Sinn

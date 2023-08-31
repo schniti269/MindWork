@@ -1,18 +1,20 @@
 
 ![[Foliensatz II Rechtsformen.pdf#page=23]]Tags & Topics:
-   #Kapitalgesellschaft
-   #Eigenkapital
-   #Gewinn(Verlust)vortrag
-   #Bestandteile
-   #indikatorfunktion
-   #Indikatorfunktion
-   #Fremdkapitalgeber
-   #Fremdkapitalgläubiger
-   #Rücklagen
    #Eigenkapitals
-   #Fremdkapitalgebern
-   #Kapitalerhöhung
-   #Rücklage
-   #Kapitalherabsetzung
-   #Bestandteil
-   #Kapitalgesellschaften
+   #Gewinnverlustvortrge
+   #Summe
+   #Prozess
+   #FremdkapitalquoteVernderung
+   #fixIndikatorfunktion
+   #IndikatorfunktionVermgensmehrung
+   #VernderungDurch
+   #Kapitalerhhung
+   #Kapitals
+   #KapitalherabsetzungInsolvenz
+   #FremdkapitalgebernEigenkapital
+   #geregeltemEigenkapital
+   #geregeltemeigenkapital
+   #Verlustaufnahmepotenzial
+   #BerechnungDifferenz
+   #OHG
+   #RechtsformenKapitalgesellschaften

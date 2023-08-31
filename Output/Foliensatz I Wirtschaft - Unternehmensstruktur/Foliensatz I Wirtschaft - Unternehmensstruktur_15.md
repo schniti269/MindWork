@@ -1,9 +1,10 @@
 
 ![[Foliensatz I Wirtschaft - Unternehmensstruktur.pdf#page=14]]Tags & Topics:
-   #Nutzenmaximierer
-   #Nutzenmaximierung
-   #Vollkommene
+   #verhalten
+   #Modell
    #Akteuren
-   #Vollkommen
-   #Akteur
+   #Soziologie
+   #WirtschaftswissenschaftenVollkommeneentscheidet
+   #Verhalten
    #Agent
+   #Einfhrung

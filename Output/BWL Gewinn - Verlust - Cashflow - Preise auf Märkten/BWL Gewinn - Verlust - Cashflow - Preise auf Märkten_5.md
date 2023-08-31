@@ -1,18 +1,15 @@
 
 ![[BWL Gewinn - Verlust - Cashflow - Preise auf Märkten.pdf#page=4]]Tags & Topics:
-   #BWL-Einführung
    #zusammenwirken
-   #Gewinnschwelle
-   #Marktpreis
+   #Produkt
+   #dieGewinnschwelle
+   #gesamtenAufwand
+   #entscheidendeKunde
    #Zusammenwirken
-   #Untern
-   #Nachfr
-   #Nachfragefunktion
-   #Klausel
-   #Kunde
-   #Angebots-
-   #Überle
-   #Reifen
-   #Wenn
+   #Marktpreis
    #Verlust
-   #Unter
+   #entscheidendekunde
+   #Anbieterund
+   #NachfragemengeAngebot
+   #Unternehmens
+   #berlegungenWas

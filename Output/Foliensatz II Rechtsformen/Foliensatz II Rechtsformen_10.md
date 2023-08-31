@@ -1,15 +1,12 @@
 
 ![[Foliensatz II Rechtsformen.pdf#page=9]]Tags & Topics:
-   #Kapitalgesellschaft
-   #Inhaber
-   #Vertretungsmacht
-   #Handelsgewerb
-   #Geschäft
+   #abschlieenInnenverhltni
+   #Firma
    #Vertretung
-   #bevollmächtigter
+   #Kaufleute
    #Direktionsrecht
-   #Handelsregister
-   #Außenverhältnis
    #Personengesellschaft
-   #Geschäftsleitung
-   #Kapitalgesellschaften
+   #Mitarbeitern
+   #BevollmchtigtenAktiengesellschaft
+   #Firmen
+   #Unternehmens

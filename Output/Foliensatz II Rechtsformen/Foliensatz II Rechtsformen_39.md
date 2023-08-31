@@ -1,13 +1,12 @@
 
 ![[Foliensatz II Rechtsformen.pdf#page=38]]Tags & Topics:
+   #KomplementrVertretungsmacht
+   #VerhltnisGeschftsfhrung
+   #KGGesellschaftsform
+   #EinlageHaftung
+   #Grundlage
+   #AnteileKommanditist
+   #angemessenVerlustbeteiligung
+   #PersonHandelsregistereintrag
    #Kapitalbeteiligung
-   #Handelsregistereintrag
-   #beschließend
-   #Mindestanzahl
-   #Anteile
-   #Kommanditist
-   #Verhältni
    #Jederzeit
-   #Geschäftsführer
-   #Beschließende
-   #Anteil

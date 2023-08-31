@@ -1,12 +1,14 @@
 
 ![[Foliensatz II Rechtsformen.pdf#page=11]]Tags & Topics:
-   #Handelsregistereintrag
+   #Versto
+   #NameEinzelprokura
+   #GeschfteUnterzeichnung
+   #Schadensersatzpflicht
+   #Rechtsgeschfte
+   #VertretungsmachtProkurist
+   #dieUnternehmensleitung
+   #BilanzErteilung
    #Prokurist
-   #Prokura
-   #Rechtsgeschäft
-   #Unterschrift
-   #Unterzeichnung
-   #Rechtsgeschäfte
-   #Nicht
-   #Insolvenzantrag
-   #Geschäftsführung
+   #RechtsformenGeschftsfhrung
+   #Handelsregistereintrag
+   #ProkuraFormen
