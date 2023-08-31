@@ -1,4 +1,4 @@
-- I-Node
+ #Kommunikations_und_Betriebssysteme #Klausurrelevant #BS #-_Speicher #-_Persistent- I-Node
   - Beschreibung attribute
   - Zeitstempel
   - Zugriffsrechte
@@ -17,4 +17,10 @@
       - vorteil viel größere Dateien möglich
 
    Tags & Topics:
-   #I
+   #Index
+   #I-Node
+   #Zugriffsrechte
+   #Zeitstempel
+   #Zugriffsrecht
+   #Beschreibung
+   #Node

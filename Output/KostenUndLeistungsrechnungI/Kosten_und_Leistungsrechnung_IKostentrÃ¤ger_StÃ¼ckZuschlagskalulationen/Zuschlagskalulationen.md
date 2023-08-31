@@ -1,4 +1,4 @@
-- summarische zuschlags
+ #Kosten_und_Leistungsrechnung_I #Kostentr√ger_St√ºck #Zuschlagskalulationen- summarische zuschlags
   - probleme 
     - ungenau
     - keine unterscheidung
@@ -72,4 +72,46 @@ Nicht vollst√§nding rel
     - Gesamtkosten durch die menge
 
    Tags & Topics:
-   
+   #Branche
+   #Summe
+   #Kuppel
+   #Vorgehen
+   #Unterschiedliche
+   #Kunde
+   #Maschienenkosten
+   #Netto-Maschienenlaufzeit
+   #Mischkalkulation
+   #unterschiedlich
+   #vorgehen
+   #Sidenotes
+   #Produkt
+   #Vorsicht
+   #Gewinn
+   #Kann
+   #ziel
+   #Nettomaschlaufzeit
+   #Ziel
+   #Maschienenkost
+   #Statistik
+   #Belastet
+   #Entlastet
+   #Maschienenlaufzeit
+   #r„ºckw„§rtskalkulation
+   #Reihenfolge
+   #Maschienenstundensatz
+   #Rabatt
+   #Sondereinzekost
+   #Schritt
+   #Gesamtkoste
+   #Produkte
+   #mischkalkulation
+   #Sidenot
+   #Durchschnittlich
+   #Vereilungsrechnung
+   #Sondereinzekosten
+   #Restwertmethode
+   #Durchschnittliche
+   #M√ºll
+   #Kuppelkalkulation
+   #Unterknoten
+   #Unterknot

@@ -1,4 +1,4 @@
- §240 HGB
+ #Rechnungswesen #Inventur §240 HGB
  Art
  Menge
  Wert
@@ -14,4 +14,14 @@
     - Vermögen - Schulden
 
    Tags & Topics:
-   
+   #Umlauf
+   #Vermög
+   #Ermittlung
+   #Vermögen
+   #Schulden
+   #Hypothek
+   #Darlen
+   #Anlage
+   #Schuld
+   #Verbindlichkeit
+   #Verbindlichkeiten

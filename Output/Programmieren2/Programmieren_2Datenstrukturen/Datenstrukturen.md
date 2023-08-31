@@ -1,4 +1,4 @@
- Elemenare Datentypen
+ #Programmieren_2 #Datenstrukturen Elemenare Datentypen
  Objekte
  Listen
   - Que
@@ -37,4 +37,19 @@
       - "Aufrücken" ist atomatisch
 
    Tags & Topics:
-   
+   #Hinzufügen
+   #Objekt
+   #push
+   #hinzufügen
+   #Peek
+   #Operation
+   #Node
+   #Deque
+   #Komplex
+   #Aufrücken
+   #Operationen
+   #Last
+   #Objekte
+   #Next
+   #Stack
+   #Push

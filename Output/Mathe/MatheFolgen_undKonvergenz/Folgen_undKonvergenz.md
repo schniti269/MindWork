@@ -1,4 +1,4 @@
- Beschränktheit
+ #Mathe #Folgen_undKonvergenz Beschränktheit
   - in einem Bestimmten Bereich
   LÜCKE
   - Bei Bruch 
@@ -21,4 +21,12 @@
   - Wurzel
 
    Tags & Topics:
-   
+   #Majorante
+   #Majorant
+   #Kriterium
+   #Konvergenz
+   #Kriterien
+   #Thema
+   #Wurzel
+   #Monotonie
+   #Minorante

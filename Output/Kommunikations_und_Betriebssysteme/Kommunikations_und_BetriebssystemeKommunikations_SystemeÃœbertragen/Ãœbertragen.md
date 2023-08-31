@@ -1,4 +1,4 @@
-- pysical Layer
+ #Kommunikations_und_Betriebssysteme #Kommunikations_Systeme #Übertragen- pysical Layer
   - Nyquist
   - Übertragungsmedium
     - Kabel
@@ -26,4 +26,16 @@ sendet dann den eigenen Puffer dann wieder an TCP puffer
     - Erkläten
 
    Tags & Topics:
-   
+   #Auspacken
+   #Ende
+   #Einpacke
+   #Puffer
+   #versenden
+   #ende
+   #Prinzip
+   #Frame
+   #auspacken
+   #Übertragungsmedium
+   #Fehler
+   #Versenden
+   #Nyquist

@@ -1,4 +1,4 @@
-- Dateiarten
+ #Kommunikations_und_Betriebssysteme #Betriebs_Systeme #Aufgaben #-_Dateisystem #-_Datei- Dateiarten
   - Programme
   - Makros
   - Objektprogramme
@@ -30,4 +30,22 @@
       - verweis auf pfad
 
    Tags & Topics:
-   
+   #Dateiverzeichnis
+   #Objektprogramme
+   #bin�rprogramme
+   #Dateiverzeichniseintrag
+   #Dateibaum
+   #Objektprogramm
+   #Verzeichnisoperation
+   #Zykl
+   #Makros
+   #Makro
+   #zähler
+   #Verzeichnisoperationen
+   #Verzeichnisse
+   #Zyklen
+   #binärprogramme
+   #Dateiart
+   #Namensverwaltung
+   #Programm
+   #Programme

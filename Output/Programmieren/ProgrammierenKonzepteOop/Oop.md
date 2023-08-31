@@ -1,4 +1,4 @@
-- Kapselung
+ #Programmieren #Konzepte #Oop- Kapselung
   - Geregelter Zugriff 
     - Get
     - Set
@@ -38,4 +38,29 @@
     - Extends
 
    Tags & Topics:
-   
+   #gefühlt
+   #Implementier
+   #Extend
+   #Upcast
+   #Abstrahieren
+   #Geregelter
+   #Aufnahme
+   #Assoziation
+   #Instanz
+   #Implementieren
+   #Assoziationen
+   #Ziel
+   #Hierarchie
+   #Aggregation
+   #Komposition
+   #Implement
+   #Existenzieller
+   #extend
+   #Kapselung
+   #Klassen
+   #attribut
+   #Abstrahier
+   #Statisch
+   #Attribute
+   #Klasse
+   #Anreicherung

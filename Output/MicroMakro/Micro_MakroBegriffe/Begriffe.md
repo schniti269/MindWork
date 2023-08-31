@@ -1,4 +1,4 @@
- Kursniveau
+ #Micro_Makro #Begriffe Kursniveau
  Spread
  Marktr√§umender Preis
  Handlsgewinn
@@ -9,4 +9,14 @@
   - Subjektiver Gewinn zur Transaktion
 
    Tags & Topics:
-   
+   #Spread
+   #verk„§ufer
+   #k√§ufer
+   #Konsument
+   #Verk√§ufer
+   #k„§ufer
+   #Produzenten
+   #Gewinn
+   #Konsumenten
+   #Preis
+   #Produzent

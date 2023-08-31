@@ -1,4 +1,4 @@
-- Ergonomie
+ #Moderne_Programmierkonzepte #Themen #Sotware_ergonomie- Ergonomie
   - Definition
     - Disziplin, die eine Wecheslewirkung zwischen systemen verscuht aufzuklären
     - Systeme so gestalten, dass das wohlbefinden der Menschen gesteigert, die Leistung des gesamt systems optimal ist.
@@ -82,4 +82,78 @@ Gestaltung
       - bei Neugestaltungen
 
    Tags & Topics:
-   #Io
+   #Wecheslewirkung
+   #Ding
+   #Unterstützung
+   #Haltung
+   #Erwaetung
+   #Prioritätsstufen
+   #Nutzungskontext
+   #aufzuklären
+   #Folgen
+   #Verständnisschwierigkeiten(popups
+   #Behinderten
+   #Verkehrsmittel
+   #Maschienen
+   #Anforderungen
+   #Emotion
+   #Ingenieure
+   #Orte
+   #behinderter
+   #Kontrolle
+   #Daueraufmerksamkeit
+   #Anforderung
+   #Tätigkeit
+   #Ergonomie
+   #Sichtbarkeit
+   #Wissen
+   #Merkmal
+   #Arbeitsmittel
+   #Spezifizieren
+   #Informationstechnik
+   #Physisch
+   #Benutzerbetreuung
+   #Gebrauch
+   #Umgebung
+   #Gesamtheit
+   #Effizienz
+   #Dinge
+   #Beanspruchung
+   #Ort
+   #Emotionen
+   #Erwaetungen
+   #Mensch
+   #Verantwortlichkeit
+   #Wahrnehmung
+   #Dialog
+   #Arbeitsplätze
+   #Organisation
+   #Ingenieur
+   #Spezifizier
+   #Disziplin
+   #Aufgabe
+   #Beurteilung
+   #Systemleistungen
+   #Systeme
+   #Aufgaben
+   #Definition
+   #Gestaltung
+   #Bildschirmarbeitsverordnung
+   #Gebrachstauglichkeit
+   #Rechtliches
+   #Menschen
+   #Forderung
+   #Gesundheitsschutz
+   #Wahrnemung
+   #landesbehörden
+   #Leistung
+   #Publikum
+   #Folge
+   #System
+   #Bildschirmrichtlinie
+   #Belastung
+   #Länder
+   #überwachung
+   #Benutzererlebnis
+   #Verein
+   #Gestaltungsebenen

@@ -1,4 +1,4 @@
- VWL Fragestellungen
+ #Micro_Makro VWL Fragestellungen
    hohe zinsen warum?
    Geld Drucken ?
    Probleme im Finanzsystem
@@ -14,4 +14,12 @@
     - Subtopic 2
 
    Tags & Topics:
-   
+   #Problem
+   #Fragestellung
+   #Sektoren
+   #Drucken
+   #Volkswirtschaft
+   #Fragestellungen
+   #Geld
+   #Sektor
+   #Probleme

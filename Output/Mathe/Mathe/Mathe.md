@@ -1,4 +1,4 @@
- Komplexe Zahlen
+ #Mathe Komplexe Zahlen
    i**2 = 1
     - "sqrt(-1) = 1" (aber nicht wirklich)
    Betrag
@@ -51,4 +51,37 @@
    Rest ist egal
 
    Tags & Topics:
-   
+   #Element
+   #Abbildungsmatrix
+   #Stellungen
+   #Zahlen
+   #Eigenwert
+   #Hospitaal
+   #Winkel
+   #Eigenwerte
+   #können
+   #Nenner
+   #Schreibweise
+   #Argument
+   #umsortieren
+   #einf�gen
+   #Strich
+   #Produktregel
+   #Ableitung
+   #Abräumen
+   #nullösung
+   #Aufgabe
+   #Rest
+   #Aufgaben
+   #Teil
+   #Drehelement
+   #Karthesisch
+   #Konjugiertes
+   #Gaus
+   #Betrag
+   #Ableitungen
+   #Stellung
+   #Zähler
+   #Polynomdivision
+   #Zahl
+   #Umsortieren

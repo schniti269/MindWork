@@ -1,4 +1,4 @@
- Begriffe
+ #Kosten_und_Leistungsrechnung_I Begriffe
    Liquidität
    Liquidierbarkeit
    Kostenträger
@@ -30,4 +30,15 @@
    Durchschnittswertbildung
 
    Tags & Topics:
-   
+   #Sicht
+   #Kostenbrgriff
+   #-Verbindlichkeit
+   #Umlaufvermögen
+   #Gemeinkost
+   #Gemeinkosten
+   #Begriffe
+   #Begriff
+   #Schnitt
+   #Anlage
+   #Saldo
+   #Erfolg

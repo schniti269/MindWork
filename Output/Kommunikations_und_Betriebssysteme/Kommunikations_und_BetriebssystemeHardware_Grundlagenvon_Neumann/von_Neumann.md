@@ -1,4 +1,4 @@
-- Bus
+ #Kommunikations_und_Betriebssysteme #Hardware_Grundlagen #von_Neumann- Bus
   - Datenbus
   - Adressbus
   - Steuerbus
@@ -84,4 +84,53 @@
   - (Linux Kommandos)
 
    Tags & Topics:
-   
+   #Systembezogeb
+   #Unterbrechung
+   #Erzeug
+   #Privileged
+   #Wort
+   #Prozessorkerne
+   #Warten
+   #Zugriffs
+   #Kaskadierend
+   #auslesen
+   #Kindprozess
+   #Rausgehen
+   #Koherenz
+   #Anforderung
+   #Auslesen
+   #Erlaubnis
+   #Privileg
+   #Programmbezogen
+   #warten
+   #Register
+   #Speicher
+   #Steuerwerk
+   #Maschienenzustand
+   #Erzeugen
+   #Steuer
+   #Kellerregister
+   #Controller
+   #Writ
+   #Zugriff
+   #Welcher
+   #Funktionszustand
+   #Usermode
+   #Steuerbus
+   #Dopplung
+   #Fehler
+   #Fork
+   #Vektor
+   #Adressbus
+   #Interruption
+   #Gleitpunkt
+   #Wechsel
+   #Privilegien
+   #Ursache
+   #Wirkung
+   #Programmbezog
+   #Hauptspeicher
+   #Mehrzweckhalle
+   #Write
+   #Ursachen
+   #Befehl

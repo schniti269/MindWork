@@ -9,7 +9,6 @@ class TreeNode:
         self.content = content
         self.children = []
 
-
 def count_char_until_stop(line, char_to_count,offset=0):
     count = 0
     stop_found = False
@@ -74,9 +73,11 @@ def tree_toStr(node, depth=0):
         tree_str += tree_toStr(child, depth + 1)
     return tree_str
 
-def split_tree(node, output_root, path="", max_indent_level=4):
+def split_tree(node, output_root, path="", max_indent_level=4,toplevelname=""):
     path += node.content.strip().replace(' ', '_')
-    
+    filename = re.sub(r'[^\w\s-]', '', node.content.split('\n')[0]).strip().replace(' ', '_')
+    toplevelname+=f" #{filename}"
+    filename=filename+ ".md"
     depths=[]
     for child in node.children:
         depths.append([distance_to_closest_leaf(child),child])
@@ -92,17 +93,19 @@ def split_tree(node, output_root, path="", max_indent_level=4):
             
         tagged = add_hashtags(thisTx)
 
-        filename = re.sub(r'[^\w\s-]', '', node.content.split('\n')[0]).strip().replace(' ', '_') + ".md"
         output_root=output_root.strip().replace(' ', '_')
         full_output_path = os.path.join(output_root, path)
         os.makedirs(full_output_path, exist_ok=True)  # Create the necessary folders along the path
         output_path = os.path.join(full_output_path, filename)
+
+        
         with open(output_path, 'w') as f:
+            f.write(toplevelname)
             f.write(tagged)
 
     if above_depths != []:
         for element in above_depths:
-            split_tree(element[1],output_root,path=path)
+            split_tree(element[1],output_root,path=path,toplevelname=toplevelname)
 
 
 def split_text(text, output_root, max_indent_level=2):
@@ -134,6 +137,6 @@ def process_folder(input_folder, output_folder):
 
 if __name__ == "__main__":
 
-    input_folder_path = r"C:\Users\ian-s\Repos\MindWork\Xmind"
-    output_folder_path = r"C:\Users\ian-s\Repos\MindWork\Output"
+    input_folder_path = r"C:\Users\ian-s\Desktop\MindWork\Xmind"
+    output_folder_path = r"C:\Users\ian-s\Desktop\MindWork\Output"
     process_folder(input_folder_path, output_folder_path)

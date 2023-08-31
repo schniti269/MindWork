@@ -1,4 +1,4 @@
- Ide
+ #Programmieren #Tools Ide
   - Uml Diagramm 
   - Autocomplete 
   - Co pilot
@@ -42,7 +42,26 @@
     - Wirtschaftlichkeit
 
    Tags & Topics:
-   #co
-   #Co
-   #vs
-   #Vs
+   #Lebenszyklus
+   #Autocompleter
+   #Unit
+   #Marketing
+   #Maven
+   #Push
+   #Dynamische
+   #Debugging
+   #Pilot
+   #Commit
+   #Repository
+   #Prototyp
+   #Stage
+   #Mav
+   #Sprints
+   #Final
+   #Fehler
+   #Scrum
+   #Branch
+   #Wirtschaftlichkeit
+   #Deployment
+   #Unterknoten
+   #Unterknot

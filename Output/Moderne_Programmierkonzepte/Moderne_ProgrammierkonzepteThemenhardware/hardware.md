@@ -1,4 +1,4 @@
-- Hardware für Interaktion
+ #Moderne_Programmierkonzepte #Themen #hardware- Hardware für Interaktion
   - Eingabe
     - Arten
       - Tastaturen
@@ -36,4 +36,27 @@
     - Akustuissch
 
    Tags & Topics:
-   
+   #Zweidimensional
+   #Tastatur
+   #Einbindung
+   #Art
+   #Mikrofone
+   #Dreidimensional
+   #Normen
+   #Dreidimensionale
+   #Tastaturen
+   #Zweidimensionale
+   #Gestaltungsanforderung
+   #Aufgabe
+   #Wertgeber
+   #Norm
+   #Teil
+   #Gestaltungsanforderungen
+   #Tastature
+   #Akustuissch
+   #Arten
+   #Gebrauchstauglichkeit
+   #Maus
+   #Eingabe
+   #Mikrofon
+   #Optische

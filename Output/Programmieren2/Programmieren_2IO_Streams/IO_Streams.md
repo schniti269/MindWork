@@ -1,4 +1,4 @@
-(nr)
+ #Programmieren_2 #IO_Streams(nr)
  != Util Streams
   - Stream= übertragung von daten von quelle in zeil
   - unterschied
@@ -39,4 +39,14 @@
       - Schleife zum lesen
 
    Tags & Topics:
-   
+   #Datei
+   #Schreiben
+   #File
+   #Fil
+   #Reader
+   #Read
+   #schreiben
+   #Datenquellen
+   #Schleife
+   #Datenquelle
+   #Writer

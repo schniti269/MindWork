@@ -1,4 +1,4 @@
- Senkrechte
+ #Mathe #Asymphtote Senkrechte
   - 1 Bruch Nenner 0 Stellen
   2 einsetzen Zähler != 0
   - Ergebnis =nullstelle
@@ -14,4 +14,11 @@
  Zählergrad > nennergrad+1
 
    Tags & Topics:
-   
+   #Stellen
+   #Senkrechte
+   #Stelle
+   #Asymtote
+   #Senkrecht
+   #Vorfaktor
+   #Nennergrad
+   #Ergebnis

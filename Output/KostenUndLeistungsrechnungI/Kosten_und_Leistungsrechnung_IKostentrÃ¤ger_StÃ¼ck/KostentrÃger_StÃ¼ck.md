@@ -1,4 +1,4 @@
- abgenzung
+ #Kosten_und_Leistungsrechnung_I #Kostentr√ger_St√ºck abgenzung
   - 
  Divisionskalkulation
   - Mehrstufig
@@ -29,5 +29,18 @@
   - Vorbereitung der Kostentr√§gerZeitrechnung
 
    Tags & Topics:
-   #Hk
-   #√
+   #Kostentr√§gerZeitrechnung
+   #Grundlage
+   #Einheiten
+   #Vorbereitung
+   #Recheneinheit
+   #Stufe
+   #Kosten
+   #Divisionskalkulation
+   #Alternative
+   #Einheitsproduktziffer
+   #Alternativen
+   #Recheneinheiten
+   #Mehrdimensio
+   #Ermittlung
+   #Einheit

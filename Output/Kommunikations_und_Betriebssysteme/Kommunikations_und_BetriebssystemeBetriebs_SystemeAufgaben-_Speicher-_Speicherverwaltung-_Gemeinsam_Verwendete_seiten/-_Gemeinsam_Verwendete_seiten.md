@@ -1,4 +1,4 @@
-- Copy on write
+ #Kommunikations_und_Betriebssysteme #Betriebs_Systeme #Aufgaben #-_Speicher #-_Speicherverwaltung #-_Gemeinsam_Verwendete_seiten- Copy on write
   - Fork kopiert den elternprozess
   - Effizienter
     - Nur seitentabelle kopieren
@@ -10,4 +10,8 @@
     - Seite wird erst bei schreiboperationen wirklich kopiert 
 
    Tags & Topics:
-   
+   #Schutzverletzung
+   #Seite
+   #Eltern
+   #Effizienter
+   #Fork

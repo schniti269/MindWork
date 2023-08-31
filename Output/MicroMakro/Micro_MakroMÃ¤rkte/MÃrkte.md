@@ -1,4 +1,4 @@
- Geldpolitik
+ #Micro_Makro #M√rkte Geldpolitik
   - euro & EZB
     - EZB Rat
       - w√§hlt EZB Vorsitzenden
@@ -23,4 +23,26 @@
   - Balace Staat und Markt
 
    Tags & Topics:
-   
+   #Zinsen
+   #Geldmenge
+   #Dollar
+   #Steuervorteil
+   #vorsitzend
+   #Markt
+   #INDIREKT
+   #Ordnungspolitik
+   #Mitglied
+   #Mitglieder
+   #Staates
+   #Vorsitzenden
+   #Ausgabe
+   #Staat
+   #Geldpolitik
+   #Subventionen
+   #Zins
+   #Prozesspolitik
+   #staate
+   #Subvention
+   #Einfluss
+   #Parlament
+   #Ausgaben

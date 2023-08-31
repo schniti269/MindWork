@@ -1,4 +1,4 @@
-- Aufgaben
+ #Kommunikations_und_Betriebssysteme #Betriebs_Systeme #Aufgaben #-_Dateisystem- Aufgaben
   - einheitlicher zugriff egal wie oder wo gespeichert
   - Organisieren vom Speicherplatz
   - Logische zugriffsoperationen
@@ -67,4 +67,35 @@
     - wenn datei zu groß,
 
    Tags & Topics:
-   #I
+   #Index
+   #Organisier
+   #Festplatte
+   #Solid
+   #Dateideskriptor
+   #Langsame
+   #Logische
+   #Block
+   #Dateisystems
+   #Organisieren
+   #Speicher
+   #Einteilung
+   #Dateien
+   #Dateityp
+   #länge
+   #Nodes
+   #Plattendateiverzeichnis
+   #Controller
+   #Dateisystem
+   #l�nge
+   #Problem
+   #I-Node
+   #Strategie
+   #Aufgabe
+   #Strategien
+   #Position
+   #löschen
+   #Schutzmechanismen
+   #Schichtenmodell
+   #Probleme
+   #zusammengehörigen
+   #Datei

@@ -1,4 +1,4 @@
-- Working set
+ #Kommunikations_und_Betriebssysteme #Betriebs_Systeme #Aufgaben #-_Speicher #-_Speicherverwaltung- Working set
   - Von einem programm wird working set erstellt
   - Einzelne teile des programms werden ausgelagert
   - Quasi: Ungenutzte routinen bleiben ungeladen
@@ -7,4 +7,8 @@
   - Kacheln sind schon frei, dass nichts extra ausgelaget wird wenn es was zu tun gibt
 
    Tags & Topics:
-   
+   #Freiräumen
+   #Quasi
+   #Paging
+   #Kacheln
+   #Kachel

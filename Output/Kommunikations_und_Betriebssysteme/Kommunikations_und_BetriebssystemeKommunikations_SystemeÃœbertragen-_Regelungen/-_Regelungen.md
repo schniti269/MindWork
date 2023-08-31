@@ -1,4 +1,4 @@
-- Protokolle
+ #Kommunikations_und_Betriebssysteme #Kommunikations_Systeme #Übertragen #-_Regelungen- Protokolle
   - Header
   - Trailer
   - Modelle
@@ -72,4 +72,39 @@
     - Sequenznummern 
 
    Tags & Topics:
-   #CR
+   #Puffer
+   #Sequenznummer
+   #Nicht
+   #Versuch
+   #Selective
+   #Abhole
+   #Kommunikation
+   #Application
+   #verzögert
+   #Empfangsfenser
+   #Nummer
+   #Transportschicht
+   #Anforderung
+   #Socket
+   #Modell
+   #Schnittstelle
+   #Netz
+   #internet
+   #socket
+   #Session
+   #Bestätigt
+   #Modelle
+   #Internet
+   #Transport
+   #Vorlesung
+   #Datenstruktur
+   #höchtse
+   #Darstellung
+   #System
+   #unnötige
+   #Abholen
+   #Unterknot
+   #session
+   #Unterknoten
+   #vorgänge
+   #Weitergeben

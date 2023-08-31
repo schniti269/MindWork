@@ -1,4 +1,4 @@
-- E/A  Operationen
+ #Kommunikations_und_Betriebssysteme #Klausurrelevant #BS #-_Prozessverwaltung #-_Interrupts- E/A  Operationen
   - Rahmen bedingungen:
     - Geschwindigkeitsunterschiede
     - Parallelarbeit von CPU und E/A
@@ -30,5 +30,22 @@
     - nebenläufige Abläufe
 
    Tags & Topics:
-   #A
-   #Io
+   #Warten
+   #Iostart
+   #Blockieren
+   #Synchrone
+   #Geschwindigkeitsunterschiede
+   #Notieren
+   #warten
+   #Schnittstelle
+   #Abläufe
+   #Notier
+   #Timer
+   #recap
+   #Operation
+   #Operationen
+   #Assign
+   #Parallelarbeit
+   #Recap
+   #Rahmen
+   #blockieren

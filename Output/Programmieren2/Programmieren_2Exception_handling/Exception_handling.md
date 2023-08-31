@@ -1,4 +1,4 @@
- Throwable
+ #Programmieren_2 #Exception_handling Throwable
   interface
   - Exeption
     - Unchecked
@@ -44,4 +44,22 @@
       - Aber andere reinholte
 
    Tags & Topics:
-   
+   #Behandlung
+   #exeption
+   #Exeption
+   #Aufruf
+   #Error
+   #Superkonstruktor
+   #Fehlertext
+   #Exception
+   #Kann
+   #Throwable
+   #Weitergabe
+   #benötight
+   #Runtime
+   #Aufrufen
+   #Laufzeitfehler
+   #Fehlerbehandlung
+   #Grundprinzip
+   #Stack
+   #Klasse

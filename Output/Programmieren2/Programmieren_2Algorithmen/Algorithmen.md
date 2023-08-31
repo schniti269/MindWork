@@ -1,4 +1,4 @@
- Komplexität
+ #Programmieren_2 #Algorithmen Komplexität
   - Laufzeit des alogrythmus
   - "Eingabe von werten beeinflusst sich wiederholenden code"
   - Wird relevant bei Dynamischen strukturen
@@ -56,4 +56,26 @@
     - Struktogramm
 
    Tags & Topics:
-   
+   #Exponential
+   #Laufzeit
+   #X*X*Etwas
+   #O(n/2
+   #höher
+   #Bäume
+   #Invertieren
+   #Faktor
+   #Struktogramm
+   #O-Notation
+   #Average
+   #Notation
+   #exponential
+   #Invertier
+   #O(n**2
+   #Sortierung
+   #Worst
+   #löschen/
+   #Fachung
+   #Fachungen
+   #Teilbaum
+   #Faktoren
+   #Bubblesort

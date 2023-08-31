@@ -1,4 +1,4 @@
-- Virtueller Speicher
+ #Kommunikations_und_Betriebssysteme #Klausurrelevant #BS #-_Speicher #-_nicht_persistent #-_Subtopic_2- Virtueller Speicher
   - Speicher wird durch swap space ergänzt
   - Programm hat eigene tabelle
   - Nutzbare adressen eines programms sind virtuell
@@ -21,4 +21,16 @@
         - Seitenfehler interrupt
 
    Tags & Topics:
-   
+   #Kachelnummer
+   #speicherröße
+   #seitengröße
+   #Seitenfehler
+   #wortgröße
+   #Wort
+   #Präsenz
+   #Seitentabelle
+   #Verweis
+   #Seitentabelleneintrag
+   #Programm
+   #seitengr���e
+   #Umrechnung

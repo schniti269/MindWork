@@ -1,4 +1,4 @@
-- Topologie
+ #Kommunikations_und_Betriebssysteme #Kommunikations_Systeme #Netzwerke- Topologie
   - Bus
     - Akteure an einem Gemeinsamen Bus
     - Kollision möglich
@@ -30,4 +30,24 @@
       - Internet
 
    Tags & Topics:
-   
+   #Verbund
+   #Internetzugang
+   #Akteure
+   #Firma
+   #Extranet
+   #Routing
+   #Kollision
+   #verbund
+   #Firmen
+   #Netzwerkkarte
+   #Router
+   #topologie
+   #Intranet
+   #Ring
+   #Verbundsystem
+   #Netzwerkkart
+   #Adresse
+   #Topologie
+   #Netzwerklokale
+   #Akteur
+   #Netzwerklokal

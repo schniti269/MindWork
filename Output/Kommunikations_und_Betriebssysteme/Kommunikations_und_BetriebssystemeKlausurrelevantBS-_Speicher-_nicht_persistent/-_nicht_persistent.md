@@ -1,4 +1,4 @@
-- Speicher zuteilung zu Programmen
+ #Kommunikations_und_Betriebssysteme #Klausurrelevant #BS #-_Speicher #-_nicht_persistent- Speicher zuteilung zu Programmen
   - Einteilung in Bereiche
     - Hauptspeicher Kacheln
     - Pro programm in einem stück belegen
@@ -41,4 +41,30 @@
         - Auf geschwindigkeit ausgelegt hat aber hohen speicherbedarf
 
    Tags & Topics:
-   
+   #Arrays
+   #Fragmanetierung
+   #Element
+   #ablehnen
+   #Teile
+   #Kopf
+   #kopf
+   #/Basisregister
+   #Liste
+   #Vergibt
+   #Bereich
+   #Verschmelzen
+   #länge
+   #Swapspace
+   #l�nge
+   #Variable
+   #Massenspeicher
+   #Verwaltung
+   #Elemente
+   #Strategie
+   #Austauschen
+   #Strategien
+   #Teil
+   #Ablehnen
+   #Verschmelz
+   #Hälfte
+   #Array

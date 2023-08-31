@@ -1,4 +1,4 @@
- Erster Rechner 1941
+ #Moderne_Programmierkonzepte #Rechner_Nutzung Erster Rechner 1941
   - Zuse Z3
     - Hardwarebauer
   programmierer und Nutzer zugleich
@@ -49,6 +49,42 @@
     - multiuser
 
    Tags & Topics:
-   #VR
-   #pc
-   #Pc
+   #Arbeiten
+   #Möglichkeit
+   #Arbeitslauf
+   #Interaktion
+   #Brillen
+   #Stapelsystem
+   #Videoverarbeitung
+   #client
+   #Funktion
+   #Brille
+   #Terminal
+   #Programmierer
+   #Anwender
+   #Grafiken
+   #Audio
+   #Rechner
+   #Entwicklung
+   #Formen
+   #Nutzung
+   #Oberflächen
+   #sprechen
+   #Arbeit
+   #Überlagerung
+   #Benutzer
+   #Prozessleitung
+   #Trennunge
+   #terminal
+   #Immersion
+   #Nutzer
+   #Auswahl
+   #Grafik
+   #Bildung
+   #Trennungen
+   #Form
+   #Sprechen
+   #Bildschirm
+   #Eingabe
+   #Funktionen
+   #Bildschirme

@@ -1,4 +1,4 @@
-- ALOHA
+ #Kommunikations_und_Betriebssysteme #Kommunikations_Systeme #Übertragen #-_Mac_Sublayer- ALOHA
   - Timeout wird genutzt
   - Kollisionen
     - Poisson verteilung
@@ -68,6 +68,38 @@
     - Nur noch switches
 
    Tags & Topics:
-   #P0
-   #I
-   #ID
+   #Kollisionen
+   #Frames
+   #Konkurenzphas
+   #padding
+   #während
+   #Station
+   #Warten
+   #übereinstimmt
+   #Durchsatz
+   #hör
+   #gigabit
+   #Kanalbeslastung
+   #warten
+   #Padding
+   #Kollision
+   #Kanal
+   #Wahrscheinlichkeit
+   #hören
+   #Reservierde
+   #E^-2
+   #Gigabit
+   #Lausch
+   #Zufallszeit
+   #Lausche
+   #Konkurenzphase
+   #Parameter
+   #Begin
+   #„Connection
+   #Carrier
+   #Frame
+   #Beginen
+   #Zufallsvariable
+   #übertragung
+   #Freitext
+   #hört

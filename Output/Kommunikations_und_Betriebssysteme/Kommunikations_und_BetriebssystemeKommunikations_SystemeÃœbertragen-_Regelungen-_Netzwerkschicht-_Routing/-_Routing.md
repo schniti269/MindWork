@@ -1,4 +1,4 @@
-- Welche route ist im MOMENT die beste
+ #Kommunikations_und_Betriebssysteme #Kommunikations_Systeme #Übertragen #-_Regelungen #-_Netzwerkschicht #-_Routing- Welche route ist im MOMENT die beste
 - Flooding
   - An Alle schicken
   - Alle leiten an alle weiter
@@ -37,4 +37,28 @@
     - Simplifizieren der Struktur 
 
    Tags & Topics:
-   
+   #Routen
+   #Speichern
+   #Paket
+   #Konvergenz
+   #Kosten
+   #Lösen
+   #Minimaler
+   #Unterteilen
+   #Routing
+   #Unterteile
+   #Wenn
+   #Speicher
+   #Konten
+   #Simplifizieren
+   #Simplifizier
+   #Spannbaum
+   #Broadcastinfos
+   #Konto
+   #Gegenseitiges
+   #Verfahren
+   #spannbaum
+   #veröffentlicht
+   #Gegenseitige
+   #Route
+   #gelöscht

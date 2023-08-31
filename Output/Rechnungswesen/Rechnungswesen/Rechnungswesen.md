@@ -1,4 +1,4 @@
- Bilanz
+ #Rechnungswesen Bilanz
    Aktiva
     - Summe Anlagevermögen
     - Summe Umlaufvermögen
@@ -29,4 +29,20 @@
     - 4Stellige Nummern
 
    Tags & Topics:
-   
+   #Nummer
+   #Bestandskonten
+   #Summe
+   #Fremdkapital
+   #Bilanzgleichung
+   #Vorgehensweise
+   #Aktiva
+   #Konto
+   #Erfolgskonten
+   #Qoute
+   #Aktivum
+   #Erfolgskont
+   #Bilanz
+   #Bestandskont
+   #Saldo
+   #Vorsteuer
+   #Passiva

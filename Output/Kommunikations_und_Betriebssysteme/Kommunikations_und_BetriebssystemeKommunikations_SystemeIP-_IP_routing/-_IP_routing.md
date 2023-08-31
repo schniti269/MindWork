@@ -1,4 +1,4 @@
-- Open Shortest path first
+ #Kommunikations_und_Betriebssysteme #Kommunikations_Systeme #IP #-_IP_routing- Open Shortest path first
   - Benefits
     - Schnelle konvergenz
     - Loop frei
@@ -79,4 +79,41 @@
       - Anschließend des generieren einer (global unicast)
 
    Tags & Topics:
-   
+   #gro��e
+   #Schicht
+   #kürzung
+   #Paket
+   #Gruppenkonzept
+   #Paketen
+   #IPv6
+   #Erkenn
+   #Anycast
+   #request
+   #Antwort
+   #Netzlast
+   #Frage
+   #Aufbau
+   #Request
+   #Routing
+   #Netz
+   #Gruppe
+   #Nutzen
+   #VLSM
+   #Border
+   #Status
+   #Angriff
+   #Eigenschaften
+   #Netze
+   #Gruppen
+   #Eigenschaft
+   #Fehler
+   #Multicast
+   #Aufschlüsseln
+   #möglichkeit
+   #Erkennen
+   #Besitzer
+   #Adresse
+   #Manuelle
+   #Sender
+   #Protokoll
+   #benefit

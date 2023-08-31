@@ -1,4 +1,4 @@
- regeln
+ #Mathe #Determinante regeln
   - vertauschung ändert das vorzeichen
   - addition einer zeile  oder spalte ändert den wert nicht
   - n
@@ -15,4 +15,4 @@
   - p(x) = a*x
 
    Tags & Topics:
-   #A=
+   

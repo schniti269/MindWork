@@ -1,4 +1,4 @@
- Software Architektur
+ #Enterprise_Quality_Architecture Software Architektur
    Significant design decisions
    hard or impossible to change later on
     - TCO
@@ -34,5 +34,19 @@
    Functional
 
    Tags & Topics:
-   #CD
-   #CI
+   #Spiral
+   #Frontent
+   #Versioning
+   #Significant
+   #Barierre
+   #Attributes
+   #Freiheit
+   #Agil
+   #Deployment
+   #Software
+   #Where
+   #Cloud
+   #Frameworks
+   #Waterfall
+   #Stack
+   #Framework

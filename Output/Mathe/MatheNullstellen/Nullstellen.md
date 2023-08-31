@@ -1,4 +1,4 @@
- Satz von vieta
+ #Mathe #Nullstellen Satz von vieta
   - X**2 +Px+q
   - X1+x2=-p
   - X1*x2 =q
@@ -14,4 +14,7 @@
   - Äquivalenz und Thermunformung
 
    Tags & Topics:
-   
+   #Satz
+   #S(b/(-2a);c-(b**2/4a
+   #Ergänzung
+   #Thermunformung

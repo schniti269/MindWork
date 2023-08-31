@@ -1,4 +1,4 @@
-- was 
+ #Kommunikations_und_Betriebssysteme #Kommunikations_Systeme #Übertragen #-_Anwendungsschicht- was 
   - verarbeitungsschicht
   - Dienste
 - DNS
@@ -64,4 +64,26 @@
     - Sitzung
 
    Tags & Topics:
-   
+   #übertrag
+   #Codes
+   #Datenschutz
+   #aufgelöst
+   #Name
+   #Ziele
+   #Sitzung
+   #Domain
+   #Color
+   #Ziel
+   #Datensicherheit
+   #übertragen
+   #laufl�ngen
+   #Dienste
+   #Fourier
+   #Dienst
+   #Entropie
+   #Code
+   #Sichere
+   #Verfahren
+   #Domains
+   #Schutz
+   #Komprimierung

@@ -1,4 +1,4 @@
-- Täuschungen
+ #Moderne_Programmierkonzepte #Themen #psychologisch #-_Visuelle_wahrnehmung- Täuschungen
 - Bewegungseindruck
 - Gestaltungs „gesetze“
   - Gestalttheorie
@@ -16,4 +16,14 @@
         - Was zusammen gehört soll nah zusammen
 
    Tags & Topics:
-   
+   #Form
+   #Zeitlich
+   #form
+   #Anordnung
+   #Gesetz
+   #Zusammengehöreig
+   #Farbe
+   #Über
+   #gehört
+   #Kognition
+   #Gestalttheorie

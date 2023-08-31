@@ -1,4 +1,4 @@
- FunctionalRequirements
+ #Enterprise_Quality_Architecture #what_is_what FunctionalRequirements
   - Bugs
   - Features
  Non functional Requirements
@@ -11,4 +11,10 @@
       - WTF/(minute)
 
    Tags & Topics:
-   
+   #Technical
+   #Architecture
+   #WTF/(minute
+   #functionalrequirement
+   #FunctionalRequirement
+   #Workarounds
+   #Architectur

@@ -1,4 +1,4 @@
- linear
+ #Kosten_und_Leistungsrechnung_I #Abschreibungen linear
   - Abschreibungssummer/ #Perioden
  Geometrisch
   - Progressiv
@@ -20,4 +20,14 @@
   - -restwert
 
    Tags & Topics:
-   
+   #Geometrisch
+   #Abschreibungssumme
+   #Abschreibungssumm
+   #Abschreibungsbetrag/
+   #Wert
+   #Abschreibungssummer
+   #Gleiches
+   #Periode
+   #abschreibungssummer/
+   #gleiche
+   #Degressionssatz

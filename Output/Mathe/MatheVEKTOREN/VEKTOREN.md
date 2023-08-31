@@ -1,4 +1,4 @@
- Formen
+ #Mathe #VEKTOREN Formen
   - stehend
   - Liegend
  operationen
@@ -23,5 +23,13 @@
   - genau das was die gleichun g dasrestellt
 
    Tags & Topics:
-   #^2
-   #^1
+   #längen
+   #Form
+   #läng
+   #Formen
+   #Gleichungssystem
+   #Liegend
+   #hülle
+   #Untervektorraum
+   #Hüll
+   #gleichungssysteme

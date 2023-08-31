@@ -1,4 +1,4 @@
-- Race cnditions vermeiden
+ #Kommunikations_und_Betriebssysteme #Klausurrelevant #BS #-_Semaphore #-_Semaphor_Konzept #-_Synchronisierung #-_Syncro #-_multithreading- Race cnditions vermeiden
   - Syncro 
     - schlecht
       - Busywaiting
@@ -11,4 +11,8 @@
         - Test and set befehl
 
    Tags & Topics:
-   
+   #Dekker
+   #Syncro
+   #Eigener
+   #Atomare
+   #atomar

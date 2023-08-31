@@ -1,4 +1,4 @@
-- Ip Adressen
+ #Kommunikations_und_Betriebssysteme #Kommunikations_Systeme #IP- Ip Adressen
   - besondere Adressen
     - 0.0.0.0
       - dieser Host
@@ -23,4 +23,12 @@
         - ergibt netzadresse
 
    Tags & Topics:
-   
+   #Router
+   #Adresse
+   #Broadcast
+   #verknüpft
+   #Notation
+   #gültig
+   #Unterknoten
+   #Host
+   #Unterknot

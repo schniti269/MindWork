@@ -1,4 +1,4 @@
-- 32 Bits
+ #Kommunikations_und_Betriebssysteme #Kommunikations_Systeme #IP_paket_header- 32 Bits
   - Version
     - IHL
       - Type of Service
@@ -23,4 +23,10 @@
       - Timestamp
 
    Tags & Topics:
-   
+   #Fragment
+   #Record
+   #Totallenght
+   #Optionen
+   #Liste
+   #Headerchecksum
+   #Option

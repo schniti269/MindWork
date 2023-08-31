@@ -1,4 +1,4 @@
- Primitiv
+ #Programmieren #Datentypen Primitiv
   - Numerisch 
     - Fließkomma
       - Float
@@ -24,4 +24,21 @@
   - Call by reference 
 
    Tags & Topics:
-   
+   #Array
+   #Objekt
+   #Referenzdatentypen
+   #String
+   #Liste
+   #Unterknoten
+   #Decimal
+   #Listen
+   #Pointer
+   #„char“
+   #float
+   #Klassen
+   #Objekte
+   #Klasse
+   #Referenzdatentype
+   #Unterknot
+   #Ganzzahl
+   #Komplex

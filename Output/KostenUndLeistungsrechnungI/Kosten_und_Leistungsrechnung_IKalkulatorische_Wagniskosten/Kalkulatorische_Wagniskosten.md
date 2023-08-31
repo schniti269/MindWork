@@ -1,4 +1,4 @@
- Risiken
+ #Kosten_und_Leistungsrechnung_I #Kalkulatorische_Wagniskosten Risiken
   - Global
     - Kompensation ist Unternehmenserfolg
   - Einzel
@@ -38,4 +38,29 @@
     - Schiffs verluste etc
 
    Tags & Topics:
-   
+   #Währungsverluste
+   #sonstige
+   #Gefährleistung
+   #Krankheit
+   #Forschung
+   #Veralterung
+   #Wagniskostensatz
+   #Forschungs
+   #Streik
+   #Fehleinschätzung
+   #Vertriebs
+   #Bestimmung
+   #Verarbeitungsfehler
+   #Wagnishöhe
+   #Komensation
+   #Kompensation
+   #Bezugsgröße
+   #Wagnisse
+   #Risiken
+   #BESTÄNDE
+   #Wagnis
+   #Einzel
+   #Verderb
+   #Wagniskosten*bezugsgröße
+   #Sonstige
+   #Risiko

@@ -1,4 +1,4 @@
- 255 HGB
+ #Rechnungswesen #Besonderheiten_beim_Einkauf 255 HGB
   - Anschafffungspreis ( netto)
   -Anschaffungspreisminderung
   (Rabatt, Skonot)
@@ -18,4 +18,18 @@
   anteilig vorsteuer
 
    Tags & Topics:
-   
+   #Gutschriften
+   #vorgehen
+   #Anschafffungspreis
+   #Skonot
+   #Nachläs
+   #Gutschrift
+   #Verscicherung
+   #Nachlässe
+   #Rabatt
+   #anschaffungskosten
+   #Grundlage
+   #Anschaffungsnebenkosten
+   #Verpackung
+   #Skonti
+   #-Anschaffungspreisminderung

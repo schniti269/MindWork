@@ -1,4 +1,4 @@
- T-Konto
+ #Rechnungswesen #Doppelte_Buchführung T-Konto
   - Gewinn und Verlust (GuV)
     - Soll
       - Summe Aufwendungen
@@ -7,4 +7,8 @@
     - Jahresüberschuss
 
    Tags & Topics:
-   
+   #Soll
+   #Konto
+   #Gewinn
+   #Verlust
+   #T-Konto

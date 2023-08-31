@@ -1,4 +1,4 @@
- basically funktionen
+ #Mathe #lineare_abbildungen basically funktionen
   - definiert auf vektorräumen
   - Spiegelungen
     - s((x,y))=(x,-y)
@@ -18,4 +18,7 @@
   - Subtopic 3
 
    Tags & Topics:
-   
+   #Vektor
+   #Spiegelungen
+   #Vektoren
+   #Spiegelung

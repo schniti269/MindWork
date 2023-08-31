@@ -1,4 +1,4 @@
- Zuständig für
+ #Programmieren_2 #Collection_Framework Zuständig für
   - Dynamisches Speichern von Objekten
   - import java.util.x
   - Smmlung von Klassen
@@ -48,4 +48,13 @@
     - primzahl die den hash start multipliziert
 
    Tags & Topics:
-   
+   #Datentypen
+   #Smmlung
+   #Feld
+   #this.getClass
+   #bitverknüpung
+   #Datentype
+   #Gelichhetit
+   #Feldvergleich
+   #Subklasse
+   #Nutzen

@@ -1,4 +1,4 @@
-Datenbank
+ #Datenbanken_III #GrundlagenDatenbank
  Struktur
   - Aufbau
   - Begriffe
@@ -23,4 +23,27 @@ Datenbank
       - Änderungen an einer Ebene keine Auswirkung auf die nächste
 
    Tags & Topics:
-   #�
+   #Tools
+   #Backup-
+   #Begriffe
+   #Bereitstellen
+   #Hardware
+   #Create
+   #Funktion
+   #Managementsystem
+   #Regeln
+   #Aufbau
+   #Gesamtsystem
+   #Modell
+   #Datenbanken
+   #Regel
+   #ausgeführt
+   #Organisation
+   #Operation
+   #Operationen
+   #Speicherung
+   #bereitstellen
+   #Read
+   #Auswirkung
+   #Begriff
+   #Funktionen

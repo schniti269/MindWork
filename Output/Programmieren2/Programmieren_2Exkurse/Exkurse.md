@@ -1,4 +1,4 @@
- J Unit Tests
+ #Programmieren_2 #Exkurse J Unit Tests
   - Assert
     - Does throw
     - Does Not throw
@@ -63,4 +63,19 @@
     - persistentens nicht gefährdet
 
    Tags & Topics:
-   
+   #Sichbarkeit
+   #Personen
+   #Doe
+   #Objekt
+   #Beispiel
+   #Serialisieren
+   #Labmda
+   #Statisch
+   #Graphen
+   #Default
+   #Serialisier
+   #Person
+   #Objekts
+   #Bäume
+   #Annotation
+   #Reihe

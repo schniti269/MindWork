@@ -1,4 +1,4 @@
- Deflation
+ #Geld_und_WÃhrung #Begriffe Deflation
  Inflation
   - Wird verzogen durch
     - outlet bias
@@ -21,4 +21,7 @@
   - %verschuldung zum GDP ( BIP)
 
    Tags & Topics:
-   
+   #Zinsen
+   #Zins
+   #Staatsverschuldung
+   #Inflation

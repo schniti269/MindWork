@@ -1,4 +1,4 @@
-- Die Klasse File
+ #Programmieren_2 #IO_Streams #Dateisystem- Die Klasse File
   - räpräsentiert
     - Laufwerke
     - Verzeichnisse
@@ -38,4 +38,14 @@
     - Gucken ob noch da
 
    Tags & Topics:
-   #[
+   #ListRoot
+   #Laufwerke
+   #Dateine
+   #Datein
+   #Verzeichnisse
+   #Umgebung
+   #Laufwerk
+   #Anzeigen
+   #Anzeige
+   #löschen
+   #Username

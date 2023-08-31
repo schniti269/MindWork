@@ -1,4 +1,4 @@
-- Prozessorganisiation
+ #Kommunikations_und_Betriebssysteme #Klausurrelevant #BS #-_Prozessverwaltung #-_Scheduling- Prozessorganisiation
   - Dialog
     - Interaktiv
     - Ziel ist interaktives arbeiten
@@ -113,4 +113,69 @@
       - Spinlock waiting
 
    Tags & Topics:
-   
+   #mehrstufen
+   #Dispatcher
+   #Autragsverwaltung
+   #verdr�ngung
+   #Aging
+   #Abgelöst
+   #Aktuellerburst
+   #Prozesses
+   #Echtzeit
+   #Aufruf
+   #Wartezeit
+   #Durchsatz
+   #Geschätzter
+   #Schleife
+   #Ressource
+   #Ready
+   #Duchschnitt
+   #Leistungsfähigkeit
+   #Mehrstufen
+   #Zeit
+   #Register
+   #Kriterium
+   #Klassifikation
+   #Terminate
+   #Kann
+   #Zeitgarantie
+   #Schnittstelle
+   #schleife
+   #Ziel
+   #verdrängung
+   #ge�ndert
+   #Konstruktor
+   #Geschätzer
+   #Swapspace
+   #Leere
+   #Verdrängung
+   #abgelöst
+   #Proze�
+   #zurückstellung
+   #Dialog
+   #Langzeit
+   #Prozessorganisiation
+   #Antwortzeit
+   #Inactiv
+   #höer
+   #Implementierung
+   #Thread
+   #Auftragswarteschlange
+   #Groß
+   #Kombination
+   #Ressourcen
+   #Burst
+   #Array
+   #leere
+   #Prozesse
+   #Leistung
+   #verdrängt
+   #Starvaation
+   #Aktueller
+   #Statisch
+   #Kriterien
+   #Auftrag
+   #Auslastung
+   #Stack
+   #Kurzzeit
+   #Sofort

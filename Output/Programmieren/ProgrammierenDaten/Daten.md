@@ -1,4 +1,4 @@
- Übertragung 
+ #Programmieren #Daten Übertragung 
   - Netzwerk 
     - Protokolle
       - Osi
@@ -87,4 +87,45 @@
   - Tuple
 
    Tags & Topics:
-   
+   #Learning
+   #Solid
+   #Übertragung
+   #Netzwerk
+   #Nnfts
+   #Verschlüsselung
+   #Seriealisier
+   #Format
+   #Seriealisieren
+   #Bilblotheken
+   #training
+   #Target
+   #Datenbanken
+   #Fehlerkorrektur
+   #Numpy
+   #Nnft
+   #bandbreite
+   #Formate
+   #Gradient
+   #Speichermedien
+   #Verarbeitung
+   #Speichermedie
+   #Weight
+   #Medien
+   #Manuelle
+   #Baum
+   #Unterknoten
+   #Regressor
+   #Filter
+   #Ausreißer
+   #Sprache
+   #Evolution
+   #Random
+   #baum
+   #Medium
+   #datenbanken
+   #Beschaffung
+   #Python
+   #Bibliothek
+   #Aufbereitung
+   #Lightgbm
+   #Unterknot

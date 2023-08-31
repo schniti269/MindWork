@@ -1,4 +1,4 @@
- Systematiosierungsmöglichkeit
+ #Kosten_und_Leistungsrechnung_I #Teilkostenrechnung Systematiosierungsmöglichkeit
   - Auf basis
     - Variabler kosten
       - Deckungsbeitrag
@@ -34,4 +34,24 @@
   - Bereits aufgesetzte pläne ändern müssen weil ausfall
 
    Tags & Topics:
-   
+   #Kurzfirstige
+   #Annehmen
+   #Betriebsergebnis
+   #Summe
+   #Fixkost
+   #Indifferenz
+   #Deckungsbeiträge
+   #Fixkosten
+   #Variabler
+   #Kurzfirstig
+   #Systematiosierungsmöglichkeit
+   #Nutzen
+   #Überlauf
+   #pläne
+   #Einzelkost
+   #Beeinflussung
+   #annehmen
+   #Marktgewinnung
+   #Ablehne
+   #Einzelkosten
+   #Deckungsbeitrag

@@ -1,4 +1,4 @@
-- Usability und UX
+ #Moderne_Programmierkonzepte #Themen #Begriffe_und_Modelle- Usability und UX
   - Ziel
     - Ausmaß indem ein System genutzt werden kann
     - Nutzer soll Anwendung zufrieden verlassen, soll wiederkehren wollen
@@ -52,4 +52,38 @@
     - Computer
 
    Tags & Topics:
-   
+   #HTML
+   #Personen
+   #Interaktionsschritte
+   #repräsentierung
+   #Computer
+   #Dialogschritt
+   #Programmierer
+   #Anwender
+   #benutzerschnittstelle
+   #Ausmaß
+   #Modell
+   #Softwareentwickler
+   #Arbeitsschritte
+   #Ziel
+   #softwareentwickler
+   #Organisation
+   #Nutzer
+   #Aufgabe
+   #Person
+   #Aufgaben
+   #Definition
+   #Computersystem
+   #Benutzerschnittstelle
+   #Hypertext
+   #Perzeption
+   #Modelle
+   #Medien
+   #interaktionsschritte
+   #Jemand
+   #arbeitsschritte
+   #Steurerung
+   #Medium
+   #Dialogschritte
+   #Unterknoten
+   #Unterknot

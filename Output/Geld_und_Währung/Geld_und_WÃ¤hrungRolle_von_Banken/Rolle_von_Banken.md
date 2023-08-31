@@ -1,4 +1,4 @@
- Zentralbanken
+ #Geld_und_W�hrung #Rolle_von_Banken Zentralbanken
   - EZB
     - Ziel
       - Preisstabilität
@@ -11,4 +11,13 @@
   - Makroökonomische Zielgrößen
 
    Tags & Topics:
-   
+   #Preisstab
+   #Wirtschftliche
+   #Ziele
+   #Zentralbanken
+   #Zentralbank
+   #Produktion
+   #Wirtschftliche-Ziele
+   #Ziel
+   #Wirtschaft
+   #makro�konomische

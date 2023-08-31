@@ -1,4 +1,4 @@
- Web 
+ #Programmieren #Ausgabe Web 
   - HTML 
     - CSS 
     - Php
@@ -22,4 +22,12 @@
   - Relay
 
    Tags & Topics:
-   #PI
+   #HTML
+   #Feldbus
+   #Regelung
+   #Mobile
+   #Mobil
+   #Pyplot
+   #Python
+   #Relay
+   #Steuerung

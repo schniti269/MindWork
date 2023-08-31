@@ -1,4 +1,4 @@
- UI Implementierung
+ #Programmieren_2 #Swing UI Implementierung
  Unterschiede und Gemeinsamkeiten zu AWT
   - Awt
     - Heavyweight
@@ -41,4 +41,17 @@
     - ist interface mit welchen moethoden verabeitet wird
 
    Tags & Topics:
-   
+   #Action
+   #Gemeinsamkeit
+   #Swing
+   #Rendering
+   #plattformunabh„§ngigkeit
+   #SWING
+   #Unterschiede
+   #Plattformunabh√§ngigkeit
+   #Event
+   #Focus
+   #Fenster
+   #Gemeinsamkeiten
+   #Implementierung
+   #Unterschied

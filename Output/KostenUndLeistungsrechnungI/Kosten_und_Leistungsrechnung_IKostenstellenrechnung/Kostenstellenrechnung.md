@@ -1,4 +1,4 @@
- Betriebsabrechnungsbogen
+ #Kosten_und_Leistungsrechnung_I #Kostenstellenrechnung Betriebsabrechnungsbogen
   - Unterknoten 1
  Generell nur gemeinkosten
  Kostenstellen
@@ -38,4 +38,40 @@
     - Vergleich nicht sinnvoll
 
    Tags & Topics:
-   
+   #Herstellkostrn
+   #Vorgehen
+   #Tiefe
+   #Umlagesatz
+   #Anbauverfahren
+   #Material
+   #Gleichung
+   #Anforderungen
+   #Stufenleiterverfahren
+   #vorgehen
+   #Anforderung
+   #Sukzessive
+   #Fertigung
+   #Betriebsabrechnungsbog
+   #Simultatverfahr
+   #Anbauverfahre
+   #Hilfskostensetllen
+   #Stufenleiterverfahr
+   #anbauverfahren
+   #Kostenumlage
+   #Energie
+   #Selbstskosten
+   #Verwaltung
+   #Gleichungsverfahren
+   #hilfskostensetllen
+   #Selbstskoste
+   #Betriebsabrechnungsbogen
+   #Weiterleitung
+   #Leistungsverrechnung
+   #Gleichungen
+   #Verursachungsgerecht
+   #Simultatverfahren
+   #Vertrieb
+   #Umgang
+   #übertragung
+   #Unterknoten
+   #Unterknot

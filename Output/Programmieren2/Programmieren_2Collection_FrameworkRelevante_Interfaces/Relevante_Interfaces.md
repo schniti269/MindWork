@@ -1,4 +1,4 @@
-- Comparable Interface
+ #Programmieren_2 #Collection_Framework #Relevante_Interfaces- Comparable Interface
   - Methode
     - CompareTo();
     - vergleich
@@ -25,4 +25,8 @@ sein um eine reihenfolge möglich zu machen
     - (geht auch mit Listen etc)
 
    Tags & Topics:
-   
+   #Compare
+   #Vergleichsoperation
+   #Comparator
+   #Logik
+   #Sortieren

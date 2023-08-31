@@ -1,4 +1,4 @@
- Compiler
+ #Programmieren #Sprachen Compiler
   - Interpreter
  Syntax
   - Bestandteile
@@ -36,4 +36,27 @@
     - Bash
 
    Tags & Topics:
-   
+   #powershell
+   #Literale
+   #Anweisung
+   #Flag
+   #Typisiert
+   #Zuweisung
+   #Powershell
+   #Zuweisungen
+   #Flags
+   #Toke
+   #Interpreter
+   #Rechen
+   #Typisierung
+   #Reche
+   #Operation
+   #Operationen
+   #Anweisungen
+   #Acessmodifier
+   #Scipt
+   #Bestandteile
+   #Console
+   #Bestandteil
+   #Python
+   #Token

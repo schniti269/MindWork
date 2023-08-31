@@ -30,7 +30,7 @@ def add_hashtags(text):
                 continue
 
             if token.tag_ in tags and token.pos_ in posis and len(token.text)>3:
-                current_topics.add(f"{token.lemma_}")
+                current_topics.add(f"#{token.lemma_}")
     #topic validation
     current_topics -= forbidden_token # Remove forbidden tokens from current_topics
 

@@ -1,4 +1,4 @@
-- Definition
+ #Kommunikations_und_Betriebssysteme #Klausurrelevant #BS #-_Semaphore #-_Semaphor_Konzept- Definition
   - Up and down
     - Atomar durch mutex
   - Z채hler 
@@ -34,4 +34,20 @@
       - Exit mutex
 
    Tags & Topics:
-   
+   #Enter
+   #Mutex
+   #Counter
+   #Assign
+   #Verf체gbaren
+   #Buchf체hrung
+   #Prozess
+   #Gegenseitiger
+   #체bergabewert
+   #Mutex.p
+   #Z채hler
+   #Definition
+   #Implementierung
+   #Konstruktor
+   #市bergabewert
+   #Prozesswarteschlange
+   #Block

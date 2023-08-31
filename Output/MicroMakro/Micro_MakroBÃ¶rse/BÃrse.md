@@ -1,4 +1,4 @@
- wie kommt ein Aktienkurs zustande
+ #Micro_Makro #BÃrse wie kommt ein Aktienkurs zustande
   - Angebot und Nachfrage
     - nachfrage anzahl <= anzahl des angebts
     - es wird ein Absatzvolumen maximum verfolgt
@@ -14,4 +14,8 @@
       - Erst wenn gefallen zu x
 
    Tags & Topics:
-   
+   #Absatzvolumen
+   #aktienkur
+   #Nachfrage
+   #Sofort
+   #Aktienkurs

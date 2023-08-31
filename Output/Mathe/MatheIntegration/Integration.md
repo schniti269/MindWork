@@ -1,4 +1,4 @@
- Nullmengen
+ #Mathe #Integration Nullmengen
  Lim f(ü)
   - Lebesgue integral
  Regeln
@@ -41,4 +41,35 @@
       - Jetzt integrierbar
 
    Tags & Topics:
-   
+   #Transformatione
+   #Einsetzen
+   #Int(f'x
+   #Integration
+   #Partialbruch
+   #Nullmengen
+   #Zerlegung
+   #Satz
+   #Anteil
+   #Stammmfunktion
+   #Integrationsrichtung
+   #Einsetze
+   #Transformationen
+   #lösen
+   #zähler
+   #f(ü
+   #Dierektintegrier
+   #Ableitung
+   #Anteile
+   #Finden
+   #Fouriertransformation
+   #Monotonie
+   #Ergebnis
+   #Dierektintegrieren
+   #Unterknoten
+   #Partielle
+   #Nullmeng
+   #Partialbruchzerlegung
+   #stammmfunktion
+   #Polynomdivision
+   #Unterknot
+   #Finde

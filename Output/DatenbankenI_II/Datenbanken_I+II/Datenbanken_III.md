@@ -1,4 +1,4 @@
- Relationsoperationen
+ #Datenbanken_III Relationsoperationen
    Vereinigung
     - Tabellen Vereinigen alles was doppelt wäre ist dennoch nur einzeln
     - U
@@ -20,4 +20,14 @@
     - in verknüpfung mit selektion -> Join= auflösen einer Fremdschlüsselbeziehung
 
    Tags & Topics:
-   
+   #Fremdschlüsselbeziehung
+   #aufl�sen
+   #Verlink
+   #Relationsoperatione
+   #Verlinke
+   #Relationsoperationen
+   #Tabelle
+   #Schnitt
+   #Vereinig
+   #Aggregation
+   #Vereinigen

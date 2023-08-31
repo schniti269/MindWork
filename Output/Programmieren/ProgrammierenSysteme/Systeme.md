@@ -1,4 +1,4 @@
- Os
+ #Programmieren #Systeme Os
   - Kernel
   - Arten
     - Linux 
@@ -16,4 +16,9 @@
  ERP
 
    Tags & Topics:
-   
+   #Peripherie
+   #Firmware
+   #Programm
+   #Software
+   #Art
+   #Programme

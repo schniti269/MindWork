@@ -1,4 +1,4 @@
- Anwendungsmöglichkeiten
+ #Kommunikations_und_Betriebssysteme #Kommunikations_Systeme Anwendungsmöglichkeiten
   - VoIP
   - Streaming
   - E Mail
@@ -22,4 +22,16 @@
   - Anwendungen versenden kurzer nachrichten
 
    Tags & Topics:
-   #e
+   #abschätzung
+   #Dateitransfer
+   #voip
+   #Zuordnung
+   #Anwendung
+   #Anwendungsmöglichkeiten
+   #Wahl
+   #Übertragung
+   #VoIP
+   #Berechne
+   #Standardabweichung
+   #Nutzen
+   #Berechnen
