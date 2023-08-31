@@ -13,7 +13,7 @@ forbidden_dep = ["case","nk","c","mo","aux", "prep", "pcomp", "dobj", "pobj", "p
 forbidden_tag = ["VAFIN","APPR","KON","ADJD","VVFIN","KO", "ART", "NE", "ADJA", "XY", "ADJ", "AUX", "CONJ", "PRON", "ADP", "ADV", "DET", "INTJ", "NUM", "PART","PRP"]
 forbidden_pos =["NUM"]
 
-def add_hashtags(text):
+def add_hashtags(text,onlytags=False):
     current_topics = set()
 
     doc_en = nlp_en(text)
@@ -34,8 +34,8 @@ def add_hashtags(text):
     #topic validation
     current_topics -= forbidden_token # Remove forbidden tokens from current_topics
 
-
-      
+    if onlytags:
+        return("Tags & Topics:"+"\n   " + "\n   ".join(current_topics))
     return text + "\n   Tags & Topics:"+"\n   " + "\n   ".join(current_topics)
 
 def create_table(sentence):
