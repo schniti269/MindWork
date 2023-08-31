@@ -1,8 +1,0 @@
-
-PyPDF2==3.0.1
-spacy==3.1.2
-# Install English model
-https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.1.0/en_core_web_sm-3.1.0.tar.gz
-
-# Install German model
-https://github.com/explosion/spacy-models/releases/download/de_core_news_sm-3.1.0/de_core_news_sm-3.1.0.tar.gz
