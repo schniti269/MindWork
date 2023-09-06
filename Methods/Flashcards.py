@@ -37,7 +37,7 @@ def extract_flashcards_from_pdf(pdf_path: str) -> List[Dict[str, str]]:
 
 def export_to_csv(flashcards: List[Dict[str, str]], output_folder: str) -> None:
     """Export flashcards to a CSV file."""
-    csv_filename = os.path.splitext(pdf_file)[0] + ".csv"
+    csv_filename ="cards.csv"
     csv_path = os.path.join(output_folder, csv_filename)
 
     with open(csv_path, mode='w', newline='', encoding='utf-8') as csv_file:
