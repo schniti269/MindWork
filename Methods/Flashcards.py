@@ -22,13 +22,14 @@ def extract_flashcards_from_pdf(pdf_path: str) -> List[Dict[str, str]]:
     """Extract flashcards from a PDF file."""
     with pdfplumber.open(pdf_path) as pdf:
         flashcards = []
+        print(pdf_path)
 
         # Iterate through pages
         for page in pdf.pages:
             # Iterate through text boxes on the page
             for textbox in page.extract_textboxes():
                 text = textbox.extract_text()
-
+                print(text)
                 # Generate a flashcard for each text box
                 flashcard = generate_flashcard(text)
                 flashcards.append(flashcard)
@@ -65,7 +66,8 @@ def main(input_folder: str, output_folder: str) -> None:
         export_to_csv(flashcards, output_folder)
 
 if __name__ == "__main__":
-    input_folder = r"C:\Users\ian-s\Desktop\MindWork\Anki"
-    output_folder = r"C:\Users\ian-s\Desktop\MindWork\Anki"
+    print("SDASD")
+    input_folder = r"C:\Users\ian-s\Repos\MindWork\Anki"
+    output_folder = r"C:\Users\ian-s\Repos\MindWork\Anki"
     types_of_cards = [gap_text]  # Define your card types here
     main(input_folder, output_folder)
