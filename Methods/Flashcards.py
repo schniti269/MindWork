@@ -27,61 +27,71 @@ def gpt_flashcards(pages):
         response = make_api_request(segment)
 
         # Verarbeiten Sie die API-Antwort, um Flashcards zu extrahieren
-        flashcards = extract_flashcards(response)
+        flashcard = extract_flashcard(response)
         # Fügen Sie die Flashcards der Liste hinzu
-        flashcard_list.extend(flashcards)
+        flashcard_list.append(flashcard)
 
     return flashcard_list
 
 
 def make_api_request(text):
     print(text)
-
-    prompt = '''Erstelle eine Lernkarte im Markdown-Format mit einer Vorder- und Rückseite. Verwende HTML-Tags, um die Karten zu definieren: `<vorn></vorn>` für die Vorderseite und `<hinten></hinten>` für die Rückseite. Geben Sie nur den grundlegenden Karten-Strukturcode zurück.
+    prompt = '''Erstelle eine Lernkarte für Anki mit einer Vorder- und Rückseite. Verwende HTML-Tags, um die Karten zu definieren: `<vorn></vorn>` für die Vorderseite und `<hinten></hinten>` für die Rückseite. Geben Sie nur den grundlegenden Karten-Strukturcode zurück.
 
 Für die Frage auf der Vorderseite und die Musterantwort auf der Rückseite könnten folgende Beispiele dienen:
 <vorn>Was ist die Hauptstadt von Frankreich?</vorn>
 <hinten>Die Hauptstadt von Frankreich ist Paris.</hinten>
 
-Fügen Sie gerne zusätzliches Wissen zum Thema hinzu, aber halten Sie die Karten kurz und prägnant. Wenn Sie denken, dass eine Karte nicht ausreichend ist, können Sie auch mehrere Karten erstellen, um das Thema umfassender abzudecken.
+Fügen Sie gerne zusätzliches Wissen zum Thema hinzu, aber halten Sie die Karten kurz und prägnant. bitte MAXIMAL eine Karte pro text erstellen! das ist enorm wichtig!
+Solltest du denken dass der Text etwas wenig sinn ergibt, dann handelt es sich vermutlich un den text einer Folie mit Bildern oder einer Vorstelldung des Dozenten.
+Lass diese Folien bitte aus und gibt -keine inhalte- zurück
+die Frage sollte die Zentralen inhalte des textes bestmöglich abdecken.
+die Rückseite sollte die Frage beantworten und zusätzliche Informationen enthalten, die Sie sich merken möchten.
+solltest du denken, dass der text keine fachlichen bezug hat wie zb vorstellungsrunden oder nur ein name  bitte einfach überspringen und -keine inhalte- zurückgeben
 hier ist der text:'''
 
-    apikey = "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"  # Replace with your OpenAI API key
+    apikey = "ä"  # Replace with your OpenAI API key
     openai.api_key = apikey
-    response = openai.ChatCompletion.create(
-        model="gpt-3.5-turbo",
-        messages=[
-            {"role": "system", "content": prompt+text},
-        ]
-    )
+
+    response = openai.Completion.create(
+        engine="text-davinci-003",
+        temperature = 0,
+        max_tokens=1000,
+        prompt = prompt+ text
+        )
+    api_response = response.choices[0].text.strip()
 
     # Extract the generated text from the OpenAI response
-    api_response = response['choices'][0]['message']['content']
+    print("---------------------------")
     print(api_response)
     return api_response
 
 
-def extract_flashcards(api_response):
-    flashcards = []
+def extract_flashcard(api_response):
 
-    # Annahme: Die API-Antwort enthält Flashcards in einem benutzerdefinierten Format
-    # Sie müssen den Code hier anpassen, um das genaue Format zu analysieren
+    flashcard = {}
     start_tag = "<vorn>"
-    end_tag = "<hinten>"
+    end_tag = "</vorn>"
+    back_start_tag = "<hinten>"
+    back_end_tag = "</hinten>"
 
-    while start_tag in api_response and end_tag in api_response:
+    while start_tag in api_response and end_tag in api_response and back_start_tag in api_response and back_end_tag in api_response:
         start_index = api_response.index(start_tag)
         end_index = api_response.index(end_tag)
+        back_start_index = api_response.index(back_start_tag)
+        back_end_index = api_response.index(back_end_tag)
 
         front = api_response[start_index + len(start_tag):end_index]
-        back = api_response[end_index + len(end_tag):]
+        back = api_response[back_start_index + len(back_start_tag):back_end_index]
 
-        flashcards.append({"front": front, "back": back})
+        flashcard={"front": front.strip(), "back": back.strip()}
+        print(flashcard)
 
-        # Entfernen Sie die extrahierte Flashcard aus der API-Antwort
+        # Remove the extracted flashcard from the API response
         api_response = api_response[end_index + len(end_tag):]
 
-    return flashcards
+    return flashcard
+
 
 
 def export_to_csv(flashcards: List[Dict[str, str]], output_folder: str) -> None:
