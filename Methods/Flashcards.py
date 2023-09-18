@@ -35,15 +35,16 @@ def gpt_flashcards(pages):
 
 
 def make_api_request(text):
-    print(text)
     prompt = '''Erstelle eine Lernkarte für Anki mit einer Vorder- und Rückseite. Verwende HTML-Tags, um die Karten zu definieren: `<vorn></vorn>` für die Vorderseite und `<hinten></hinten>` für die Rückseite. Geben Sie nur den grundlegenden Karten-Strukturcode zurück.
 
 Für die Frage auf der Vorderseite und die Musterantwort auf der Rückseite könnten folgende Beispiele dienen:
 <vorn>Was ist die Hauptstadt von Frankreich?</vorn>
 <hinten>Die Hauptstadt von Frankreich ist Paris.</hinten>
 
+Frage auch nach definitionen mit: Erkläre den Begriff, was ist, was ist der Unterschied
 Fügen Sie gerne zusätzliches Wissen zum Thema hinzu, aber halten Sie die Karten kurz und prägnant. bitte MAXIMAL eine Karte pro text erstellen! das ist enorm wichtig!
-Solltest du denken dass der Text etwas wenig sinn ergibt, dann handelt es sich vermutlich un den text einer Folie mit Bildern oder einer Vorstelldung des Dozenten.
+mach lieber eine karte mit zwei ähnlichen fragen ( zum beispiel ein A und B teil)
+Solltest du denken dass der Text wenig sinn zu einem konkreten Thema ergibt, dann handelt es sich vermutlich um den text einer Folie mit Bildern oder einer Vorstelldung des Dozenten.
 Lass diese Folien bitte aus und gibt -keine inhalte- zurück
 die Frage sollte die Zentralen inhalte des textes bestmöglich abdecken.
 die Rückseite sollte die Frage beantworten und zusätzliche Informationen enthalten, die Sie sich merken möchten.
@@ -64,6 +65,7 @@ hier ist der text:'''
     # Extract the generated text from the OpenAI response
     print("---------------------------")
     print(api_response)
+    print("---------------------------")
     return api_response
 
 
